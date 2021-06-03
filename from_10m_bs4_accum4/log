@@ -1,0 +1,1442 @@
+[
+    {
+        "main/loss_ctc": 1670.2086804199218,
+        "main/cer_ctc": 4.684864045269091,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 1670.2086804199218,
+        "epoch": 5,
+        "iteration": 100,
+        "elapsed_time": 150.74902789504267
+    },
+    {
+        "main/loss_ctc": 1657.1896057128906,
+        "main/cer_ctc": 4.801623529035736,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 1657.1896057128906,
+        "epoch": 11,
+        "iteration": 200,
+        "elapsed_time": 298.74769676697906
+    },
+    {
+        "main/loss_ctc": 1606.1154455566407,
+        "main/cer_ctc": 4.146157610413911,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 1606.1154455566407,
+        "epoch": 16,
+        "iteration": 300,
+        "elapsed_time": 445.6137092070421
+    },
+    {
+        "main/loss_ctc": 1591.2610620117186,
+        "main/cer_ctc": 3.313290237954842,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 1591.2610620117186,
+        "epoch": 22,
+        "iteration": 400,
+        "elapsed_time": 593.0885346550494
+    },
+    {
+        "main/loss_ctc": 1510.3950634765624,
+        "main/cer_ctc": 2.550066448084824,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 1510.3950634765624,
+        "epoch": 27,
+        "iteration": 500,
+        "elapsed_time": 736.8266746720765
+    },
+    {
+        "main/loss_ctc": 1443.4954010009765,
+        "main/cer_ctc": 1.6681947892934892,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 1443.4954010009765,
+        "epoch": 33,
+        "iteration": 600,
+        "elapsed_time": 881.7182177420473
+    },
+    {
+        "main/loss_ctc": 1318.020458984375,
+        "main/cer_ctc": 1.135227535160517,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 1318.020458984375,
+        "epoch": 38,
+        "iteration": 700,
+        "elapsed_time": 1024.040645724046
+    },
+    {
+        "main/loss_ctc": 1192.7923742675782,
+        "main/cer_ctc": 0.7826228437168616,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 1192.7923742675782,
+        "epoch": 44,
+        "iteration": 800,
+        "elapsed_time": 1163.7499971929938
+    },
+    {
+        "main/loss_ctc": 1068.8570458984375,
+        "main/cer_ctc": 0.7097548928813308,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 1068.8570458984375,
+        "epoch": 50,
+        "iteration": 900,
+        "elapsed_time": 1302.3993988509756
+    },
+    {
+        "main/loss_ctc": 884.2851165771484,
+        "main/cer_ctc": 0.6404835499755518,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 884.2851165771484,
+        "epoch": 55,
+        "iteration": 1000,
+        "elapsed_time": 1438.3929168890463
+    },
+    {
+        "main/loss_ctc": 741.8514343261719,
+        "main/cer_ctc": 0.6676540421323977,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 741.8514343261719,
+        "epoch": 61,
+        "iteration": 1100,
+        "elapsed_time": 1575.0150879180292
+    },
+    {
+        "main/loss_ctc": 605.0923556518554,
+        "main/cer_ctc": 0.5018825949780541,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 605.0923556518554,
+        "epoch": 66,
+        "iteration": 1200,
+        "elapsed_time": 1710.1305287450086
+    },
+    {
+        "main/loss_ctc": 505.542919921875,
+        "main/cer_ctc": 0.46812307559179905,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 505.542919921875,
+        "epoch": 72,
+        "iteration": 1300,
+        "elapsed_time": 1848.2642144330312
+    },
+    {
+        "main/loss_ctc": 412.56535186767576,
+        "main/cer_ctc": 0.42571314395357307,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 412.56535186767576,
+        "epoch": 77,
+        "iteration": 1400,
+        "elapsed_time": 1983.1301093290094
+    },
+    {
+        "main/loss_ctc": 344.8027528381348,
+        "main/cer_ctc": 0.40454235127062677,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 344.8027528381348,
+        "epoch": 83,
+        "iteration": 1500,
+        "elapsed_time": 2120.198048572056
+    },
+    {
+        "main/loss_ctc": 294.3980986022949,
+        "main/cer_ctc": 0.3697088007952096,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 294.3980986022949,
+        "epoch": 88,
+        "iteration": 1600,
+        "elapsed_time": 2255.7830630760873
+    },
+    {
+        "main/loss_ctc": 249.38540954589843,
+        "main/cer_ctc": 0.34393655151201274,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 249.38540954589843,
+        "epoch": 94,
+        "iteration": 1700,
+        "elapsed_time": 2392.832527011051
+    },
+    {
+        "main/loss_ctc": 227.41254859924317,
+        "main/cer_ctc": 0.3179066145793375,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 227.41254859924317,
+        "epoch": 100,
+        "iteration": 1800,
+        "elapsed_time": 2531.9882234870456
+    },
+    {
+        "main/loss_ctc": 210.17989013671874,
+        "main/cer_ctc": 0.3151893286463727,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 210.17989013671874,
+        "epoch": 105,
+        "iteration": 1900,
+        "elapsed_time": 2668.180541209993
+    },
+    {
+        "main/loss_ctc": 184.0607116699219,
+        "main/cer_ctc": 0.29871559514670154,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 184.0607116699219,
+        "epoch": 111,
+        "iteration": 2000,
+        "elapsed_time": 2805.520301711047
+    },
+    {
+        "main/loss_ctc": 171.75991104125976,
+        "main/cer_ctc": 0.2929046312897311,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 171.75991104125976,
+        "epoch": 116,
+        "iteration": 2100,
+        "elapsed_time": 2941.9216951640556
+    },
+    {
+        "main/loss_ctc": 167.58759941101073,
+        "main/cer_ctc": 0.2845421506167823,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 167.58759941101073,
+        "epoch": 122,
+        "iteration": 2200,
+        "elapsed_time": 3079.7805864199763
+    },
+    {
+        "main/loss_ctc": 158.46249320983887,
+        "main/cer_ctc": 0.2702985432110488,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 158.46249320983887,
+        "epoch": 127,
+        "iteration": 2300,
+        "elapsed_time": 3215.585702207056
+    },
+    {
+        "main/loss_ctc": 148.78126430511475,
+        "main/cer_ctc": 0.2722336397982711,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 148.78126430511475,
+        "epoch": 133,
+        "iteration": 2400,
+        "elapsed_time": 3353.77000320307
+    },
+    {
+        "main/loss_ctc": 147.18310298919678,
+        "main/cer_ctc": 0.26136021204189225,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 147.18310298919678,
+        "epoch": 138,
+        "iteration": 2500,
+        "elapsed_time": 3490.136540282052
+    },
+    {
+        "main/loss_ctc": 149.73429069519042,
+        "main/cer_ctc": 0.2675949056603167,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 149.73429069519042,
+        "epoch": 144,
+        "iteration": 2600,
+        "elapsed_time": 3627.849707996007
+    },
+    {
+        "main/loss_ctc": 154.3036629486084,
+        "main/cer_ctc": 0.264622759200533,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 154.3036629486084,
+        "epoch": 150,
+        "iteration": 2700,
+        "elapsed_time": 3764.917550540995
+    },
+    {
+        "main/loss_ctc": 143.08887954711915,
+        "main/cer_ctc": 0.2596009270685195,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 143.08887954711915,
+        "epoch": 155,
+        "iteration": 2800,
+        "elapsed_time": 3901.6193670120556
+    },
+    {
+        "main/loss_ctc": 143.60693660736084,
+        "main/cer_ctc": 0.2628941410430459,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 143.60693660736084,
+        "epoch": 161,
+        "iteration": 2900,
+        "elapsed_time": 4039.523559160065
+    },
+    {
+        "main/loss_ctc": 134.82242687225343,
+        "main/cer_ctc": 0.25650529546666195,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 134.82242687225343,
+        "epoch": 166,
+        "iteration": 3000,
+        "elapsed_time": 4176.680243408075
+    },
+    {
+        "main/loss_ctc": 138.6302906036377,
+        "main/cer_ctc": 0.24892115043683286,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 138.6302906036377,
+        "epoch": 172,
+        "iteration": 3100,
+        "elapsed_time": 4314.812301304075
+    },
+    {
+        "main/loss_ctc": 145.36709434509277,
+        "main/cer_ctc": 0.2497600296077477,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 145.36709434509277,
+        "epoch": 177,
+        "iteration": 3200,
+        "elapsed_time": 4450.611947200028
+    },
+    {
+        "main/loss_ctc": 130.15025817871094,
+        "main/cer_ctc": 0.2429563828969702,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 130.15025817871094,
+        "epoch": 183,
+        "iteration": 3300,
+        "elapsed_time": 4588.220936416066
+    },
+    {
+        "main/loss_ctc": 134.3523748779297,
+        "main/cer_ctc": 0.24518904733110378,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 134.3523748779297,
+        "epoch": 188,
+        "iteration": 3400,
+        "elapsed_time": 4725.421912408085
+    },
+    {
+        "main/loss_ctc": 127.59607456207276,
+        "main/cer_ctc": 0.2493938669008701,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 127.59607456207276,
+        "epoch": 194,
+        "iteration": 3500,
+        "elapsed_time": 4869.944308425067
+    },
+    {
+        "main/loss_ctc": 127.97008068084716,
+        "main/cer_ctc": 0.23298405662762334,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 127.97008068084716,
+        "epoch": 200,
+        "iteration": 3600,
+        "elapsed_time": 5007.347632909077
+    },
+    {
+        "main/loss_ctc": 135.98885982513428,
+        "main/cer_ctc": 0.24993465310733481,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 135.98885982513428,
+        "epoch": 205,
+        "iteration": 3700,
+        "elapsed_time": 5144.208519511041
+    },
+    {
+        "main/loss_ctc": 122.5368871307373,
+        "main/cer_ctc": 0.24300001037168026,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 122.5368871307373,
+        "epoch": 211,
+        "iteration": 3800,
+        "elapsed_time": 5282.684989762027
+    },
+    {
+        "main/loss_ctc": 129.97303302764894,
+        "main/cer_ctc": 0.2412431603583996,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 129.97303302764894,
+        "epoch": 216,
+        "iteration": 3900,
+        "elapsed_time": 5419.378426157986
+    },
+    {
+        "main/loss_ctc": 126.48337635040284,
+        "main/cer_ctc": 0.23257927042476656,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 126.48337635040284,
+        "epoch": 222,
+        "iteration": 4000,
+        "elapsed_time": 5557.5343029050855
+    },
+    {
+        "main/loss_ctc": 119.70237720489501,
+        "main/cer_ctc": 0.22994409128231483,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 119.70237720489501,
+        "epoch": 227,
+        "iteration": 4100,
+        "elapsed_time": 5693.038108512992
+    },
+    {
+        "main/loss_ctc": 125.1164737701416,
+        "main/cer_ctc": 0.23443472794860937,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 125.1164737701416,
+        "epoch": 233,
+        "iteration": 4200,
+        "elapsed_time": 5831.434959897073
+    },
+    {
+        "main/loss_ctc": 127.35049324035644,
+        "main/cer_ctc": 0.24601384995344497,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 127.35049324035644,
+        "epoch": 238,
+        "iteration": 4300,
+        "elapsed_time": 5968.143480331055
+    },
+    {
+        "main/loss_ctc": 127.46819248199463,
+        "main/cer_ctc": 0.24157738405896917,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 127.46819248199463,
+        "epoch": 244,
+        "iteration": 4400,
+        "elapsed_time": 6106.378133102087
+    },
+    {
+        "main/loss_ctc": 127.20103397369385,
+        "main/cer_ctc": 0.23722390280200262,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 127.20103397369385,
+        "epoch": 250,
+        "iteration": 4500,
+        "elapsed_time": 6243.731350501999
+    },
+    {
+        "main/loss_ctc": 125.88735385894775,
+        "main/cer_ctc": 0.24736469035981112,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 125.88735385894775,
+        "epoch": 255,
+        "iteration": 4600,
+        "elapsed_time": 6379.970401133993
+    },
+    {
+        "main/loss_ctc": 127.54756912231446,
+        "main/cer_ctc": 0.23704071856728207,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 127.54756912231446,
+        "epoch": 261,
+        "iteration": 4700,
+        "elapsed_time": 6518.3486924560275
+    },
+    {
+        "main/loss_ctc": 126.36041095733643,
+        "main/cer_ctc": 0.24059185238287992,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 126.36041095733643,
+        "epoch": 266,
+        "iteration": 4800,
+        "elapsed_time": 6655.303815662046
+    },
+    {
+        "main/loss_ctc": 127.86983657836915,
+        "main/cer_ctc": 0.2417746938946749,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 127.86983657836915,
+        "epoch": 272,
+        "iteration": 4900,
+        "elapsed_time": 6794.12873947504
+    },
+    {
+        "main/loss_ctc": 122.6980751800537,
+        "main/cer_ctc": 0.23077429058325938,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 122.6980751800537,
+        "epoch": 277,
+        "iteration": 5000,
+        "elapsed_time": 6930.034506614087
+    },
+    {
+        "main/loss_ctc": 120.45702930450439,
+        "main/cer_ctc": 0.22190056548038062,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 120.45702930450439,
+        "epoch": 283,
+        "iteration": 5100,
+        "elapsed_time": 7068.633740641992
+    },
+    {
+        "main/loss_ctc": 123.48387210845948,
+        "main/cer_ctc": 0.234771430460077,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 123.48387210845948,
+        "epoch": 288,
+        "iteration": 5200,
+        "elapsed_time": 7205.522403949988
+    },
+    {
+        "main/loss_ctc": 120.467969455719,
+        "main/cer_ctc": 0.23413160989664683,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 120.467969455719,
+        "epoch": 294,
+        "iteration": 5300,
+        "elapsed_time": 7343.359220923041
+    },
+    {
+        "main/loss_ctc": 123.51326442718506,
+        "main/cer_ctc": 0.23453455355794753,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 123.51326442718506,
+        "epoch": 300,
+        "iteration": 5400,
+        "elapsed_time": 7481.053986755083
+    },
+    {
+        "main/loss_ctc": 120.4444008255005,
+        "main/cer_ctc": 0.22272048412251327,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 120.4444008255005,
+        "epoch": 305,
+        "iteration": 5500,
+        "elapsed_time": 7617.313776655006
+    },
+    {
+        "main/loss_ctc": 115.09476749420166,
+        "main/cer_ctc": 0.2208608147743056,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 115.09476749420166,
+        "epoch": 311,
+        "iteration": 5600,
+        "elapsed_time": 7755.425174992997
+    },
+    {
+        "main/loss_ctc": 112.58027725219726,
+        "main/cer_ctc": 0.23843908256367577,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 112.58027725219726,
+        "epoch": 316,
+        "iteration": 5700,
+        "elapsed_time": 7892.666982728057
+    },
+    {
+        "main/loss_ctc": 120.1172435760498,
+        "main/cer_ctc": 0.22824754928583713,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 120.1172435760498,
+        "epoch": 322,
+        "iteration": 5800,
+        "elapsed_time": 8030.846410494996
+    },
+    {
+        "main/loss_ctc": 123.06299402236938,
+        "main/cer_ctc": 0.238198835482482,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 123.06299402236938,
+        "epoch": 327,
+        "iteration": 5900,
+        "elapsed_time": 8166.967427041032
+    },
+    {
+        "main/loss_ctc": 122.20809295654297,
+        "main/cer_ctc": 0.22249383998670477,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 122.20809295654297,
+        "epoch": 333,
+        "iteration": 6000,
+        "elapsed_time": 8305.099969890085
+    },
+    {
+        "main/loss_ctc": 120.11933256149293,
+        "main/cer_ctc": 0.22993217287851814,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 120.11933256149293,
+        "epoch": 338,
+        "iteration": 6100,
+        "elapsed_time": 8441.704708239064
+    },
+    {
+        "main/loss_ctc": 118.02924659729004,
+        "main/cer_ctc": 0.22935334166697263,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 118.02924659729004,
+        "epoch": 344,
+        "iteration": 6200,
+        "elapsed_time": 8579.743455836084
+    },
+    {
+        "main/loss_ctc": 121.03576631546021,
+        "main/cer_ctc": 0.21604524903193442,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 121.03576631546021,
+        "epoch": 350,
+        "iteration": 6300,
+        "elapsed_time": 8717.333956030081
+    },
+    {
+        "main/loss_ctc": 123.23753845214844,
+        "main/cer_ctc": 0.22670647128511856,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 123.23753845214844,
+        "epoch": 355,
+        "iteration": 6400,
+        "elapsed_time": 8854.102090785978
+    },
+    {
+        "main/loss_ctc": 119.25092185974121,
+        "main/cer_ctc": 0.21691931653523994,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 119.25092185974121,
+        "epoch": 361,
+        "iteration": 6500,
+        "elapsed_time": 8992.54882104008
+    },
+    {
+        "main/loss_ctc": 118.98830959320068,
+        "main/cer_ctc": 0.22394959407967202,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 118.98830959320068,
+        "epoch": 366,
+        "iteration": 6600,
+        "elapsed_time": 9129.339972238056
+    },
+    {
+        "main/loss_ctc": 117.79004299163819,
+        "main/cer_ctc": 0.22684886039120272,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 117.79004299163819,
+        "epoch": 372,
+        "iteration": 6700,
+        "elapsed_time": 9267.399583628052
+    },
+    {
+        "main/loss_ctc": 118.36321628570556,
+        "main/cer_ctc": 0.22288801024577418,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 118.36321628570556,
+        "epoch": 377,
+        "iteration": 6800,
+        "elapsed_time": 9403.592944722972
+    },
+    {
+        "main/loss_ctc": 118.48445552825928,
+        "main/cer_ctc": 0.2196368190272346,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 118.48445552825928,
+        "epoch": 383,
+        "iteration": 6900,
+        "elapsed_time": 9541.759013960022
+    },
+    {
+        "main/loss_ctc": 125.8449129486084,
+        "main/cer_ctc": 0.23924300200341006,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 125.8449129486084,
+        "epoch": 388,
+        "iteration": 7000,
+        "elapsed_time": 9679.204361194978
+    },
+    {
+        "main/loss_ctc": 112.3040929031372,
+        "main/cer_ctc": 0.22091677716426744,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 112.3040929031372,
+        "epoch": 394,
+        "iteration": 7100,
+        "elapsed_time": 9817.452926099999
+    },
+    {
+        "main/loss_ctc": 121.86729145050049,
+        "main/cer_ctc": 0.23401710670019932,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 121.86729145050049,
+        "epoch": 400,
+        "iteration": 7200,
+        "elapsed_time": 9955.025007228018
+    },
+    {
+        "main/loss_ctc": 121.07277729034423,
+        "main/cer_ctc": 0.22641786264163632,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 121.07277729034423,
+        "epoch": 405,
+        "iteration": 7300,
+        "elapsed_time": 10091.923751748982
+    },
+    {
+        "main/loss_ctc": 111.5497053527832,
+        "main/cer_ctc": 0.2299343442087147,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 111.5497053527832,
+        "epoch": 411,
+        "iteration": 7400,
+        "elapsed_time": 10230.105663347058
+    },
+    {
+        "main/loss_ctc": 127.31292081832886,
+        "main/cer_ctc": 0.23122119175042996,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 127.31292081832886,
+        "epoch": 416,
+        "iteration": 7500,
+        "elapsed_time": 10366.31614892406
+    },
+    {
+        "main/loss_ctc": 120.86661418914795,
+        "main/cer_ctc": 0.23084387338752507,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 120.86661418914795,
+        "epoch": 422,
+        "iteration": 7600,
+        "elapsed_time": 10504.226277366979
+    },
+    {
+        "main/loss_ctc": 113.6159281539917,
+        "main/cer_ctc": 0.22459526192531454,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 113.6159281539917,
+        "epoch": 427,
+        "iteration": 7700,
+        "elapsed_time": 10640.418500235071
+    },
+    {
+        "main/loss_ctc": 118.13140674591064,
+        "main/cer_ctc": 0.22880994178753183,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 118.13140674591064,
+        "epoch": 433,
+        "iteration": 7800,
+        "elapsed_time": 10778.540762854973
+    },
+    {
+        "main/loss_ctc": 121.04415603637695,
+        "main/cer_ctc": 0.24142133525608908,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 121.04415603637695,
+        "epoch": 438,
+        "iteration": 7900,
+        "elapsed_time": 10915.291355765075
+    },
+    {
+        "main/loss_ctc": 111.78732927322388,
+        "main/cer_ctc": 0.21412345826263204,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 111.78732927322388,
+        "epoch": 444,
+        "iteration": 8000,
+        "elapsed_time": 11054.18684944103
+    },
+    {
+        "main/loss_ctc": 117.4382349395752,
+        "main/cer_ctc": 0.22459916666202853,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 117.4382349395752,
+        "epoch": 450,
+        "iteration": 8100,
+        "elapsed_time": 11191.304295532056
+    },
+    {
+        "main/loss_ctc": 119.78541721343994,
+        "main/cer_ctc": 0.22796713831175816,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 119.78541721343994,
+        "epoch": 455,
+        "iteration": 8200,
+        "elapsed_time": 11327.954464133014
+    },
+    {
+        "main/loss_ctc": 126.91912546157837,
+        "main/cer_ctc": 0.22900330243907074,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 126.91912546157837,
+        "epoch": 461,
+        "iteration": 8300,
+        "elapsed_time": 11466.309760506032
+    },
+    {
+        "main/loss_ctc": 119.30916770935059,
+        "main/cer_ctc": 0.22756426979422012,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 119.30916770935059,
+        "epoch": 466,
+        "iteration": 8400,
+        "elapsed_time": 11602.711914011976
+    },
+    {
+        "main/loss_ctc": 118.86114631652832,
+        "main/cer_ctc": 0.2300748225507193,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 118.86114631652832,
+        "epoch": 472,
+        "iteration": 8500,
+        "elapsed_time": 11740.824167813058
+    },
+    {
+        "main/loss_ctc": 122.1851288986206,
+        "main/cer_ctc": 0.23088908328514843,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 122.1851288986206,
+        "epoch": 477,
+        "iteration": 8600,
+        "elapsed_time": 11877.049359251047
+    },
+    {
+        "main/loss_ctc": 118.5817995262146,
+        "main/cer_ctc": 0.23724761007917106,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 118.5817995262146,
+        "epoch": 483,
+        "iteration": 8700,
+        "elapsed_time": 12015.227544037974
+    },
+    {
+        "main/loss_ctc": 120.10042152404785,
+        "main/cer_ctc": 0.22665551302978948,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 120.10042152404785,
+        "epoch": 488,
+        "iteration": 8800,
+        "elapsed_time": 12153.204232436023
+    },
+    {
+        "main/loss_ctc": 113.59215692520142,
+        "main/cer_ctc": 0.2302821082363032,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 113.59215692520142,
+        "epoch": 494,
+        "iteration": 8900,
+        "elapsed_time": 12291.371051050024
+    },
+    {
+        "main/loss_ctc": 119.06517978668212,
+        "main/cer_ctc": 0.2233093676971415,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 119.06517978668212,
+        "epoch": 500,
+        "iteration": 9000,
+        "elapsed_time": 12429.196065407014
+    },
+    {
+        "main/loss_ctc": 116.03656257629395,
+        "main/cer_ctc": 0.21849056129128916,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 116.03656257629395,
+        "epoch": 505,
+        "iteration": 9100,
+        "elapsed_time": 12565.751679979032
+    },
+    {
+        "main/loss_ctc": 116.99685935974121,
+        "main/cer_ctc": 0.22920069225996895,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 116.99685935974121,
+        "epoch": 511,
+        "iteration": 9200,
+        "elapsed_time": 12704.007356623071
+    },
+    {
+        "main/loss_ctc": 115.39739110946655,
+        "main/cer_ctc": 0.22357108942565276,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 115.39739110946655,
+        "epoch": 516,
+        "iteration": 9300,
+        "elapsed_time": 12840.247293699067
+    },
+    {
+        "main/loss_ctc": 116.599924659729,
+        "main/cer_ctc": 0.22937137765640903,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 116.599924659729,
+        "epoch": 522,
+        "iteration": 9400,
+        "elapsed_time": 12978.411899188999
+    },
+    {
+        "main/loss_ctc": 120.2351588821411,
+        "main/cer_ctc": 0.22931305821612327,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 120.2351588821411,
+        "epoch": 527,
+        "iteration": 9500,
+        "elapsed_time": 13114.778158326051
+    },
+    {
+        "main/loss_ctc": 117.54037818908691,
+        "main/cer_ctc": 0.22144619459203888,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 117.54037818908691,
+        "epoch": 533,
+        "iteration": 9600,
+        "elapsed_time": 13252.887059167027
+    },
+    {
+        "main/loss_ctc": 119.83000051498414,
+        "main/cer_ctc": 0.22582043184388648,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 119.83000051498414,
+        "epoch": 538,
+        "iteration": 9700,
+        "elapsed_time": 13390.16238396999
+    },
+    {
+        "main/loss_ctc": 114.83266746520997,
+        "main/cer_ctc": 0.23010714090394196,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 114.83266746520997,
+        "epoch": 544,
+        "iteration": 9800,
+        "elapsed_time": 13528.119592307019
+    },
+    {
+        "main/loss_ctc": 117.2257540512085,
+        "main/cer_ctc": 0.22232980483839412,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 117.2257540512085,
+        "epoch": 550,
+        "iteration": 9900,
+        "elapsed_time": 13799.591890265001
+    },
+    {
+        "main/loss_ctc": 110.11953069686889,
+        "main/cer_ctc": 0.21895393530864024,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 110.11953069686889,
+        "epoch": 555,
+        "iteration": 10000,
+        "elapsed_time": 14157.513511607074
+    },
+    {
+        "main/loss_ctc": 96.83058835983276,
+        "main/cer_ctc": 0.19496202286069975,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 96.83058835983276,
+        "epoch": 561,
+        "iteration": 10100,
+        "elapsed_time": 14516.343914972036
+    },
+    {
+        "main/loss_ctc": 96.73197229385376,
+        "main/cer_ctc": 0.1912995647224713,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 96.73197229385376,
+        "epoch": 566,
+        "iteration": 10200,
+        "elapsed_time": 14875.27540454606
+    },
+    {
+        "main/loss_ctc": 92.48338535308838,
+        "main/cer_ctc": 0.1881086047226671,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 92.48338535308838,
+        "epoch": 572,
+        "iteration": 10300,
+        "elapsed_time": 15234.907715582987
+    },
+    {
+        "main/loss_ctc": 98.84868976593017,
+        "main/cer_ctc": 0.19501547256723004,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 98.84868976593017,
+        "epoch": 577,
+        "iteration": 10400,
+        "elapsed_time": 15591.96599552303
+    },
+    {
+        "main/loss_ctc": 82.50168529510498,
+        "main/cer_ctc": 0.17180568428573356,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 82.50168529510498,
+        "epoch": 583,
+        "iteration": 10500,
+        "elapsed_time": 15954.33583980205
+    },
+    {
+        "main/loss_ctc": 88.91107086181641,
+        "main/cer_ctc": 0.17585163239429943,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 88.91107086181641,
+        "epoch": 588,
+        "iteration": 10600,
+        "elapsed_time": 16314.561441152007
+    },
+    {
+        "main/loss_ctc": 80.78253387451171,
+        "main/cer_ctc": 0.17341757883416478,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 80.78253387451171,
+        "epoch": 594,
+        "iteration": 10700,
+        "elapsed_time": 16674.326421429985
+    },
+    {
+        "main/loss_ctc": 83.38769319534302,
+        "main/cer_ctc": 0.17050134868597763,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 83.38769319534302,
+        "epoch": 600,
+        "iteration": 10800,
+        "elapsed_time": 17032.25902484404
+    },
+    {
+        "main/loss_ctc": 73.73069200515747,
+        "main/cer_ctc": 0.15791965995177873,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 73.73069200515747,
+        "epoch": 605,
+        "iteration": 10900,
+        "elapsed_time": 17390.84272327402
+    },
+    {
+        "main/loss_ctc": 80.89135858535766,
+        "main/cer_ctc": 0.16178290713767615,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 80.89135858535766,
+        "epoch": 611,
+        "iteration": 11000,
+        "elapsed_time": 17750.212277323008
+    },
+    {
+        "main/loss_ctc": 75.26466652870178,
+        "main/cer_ctc": 0.1559114215533267,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 75.26466652870178,
+        "epoch": 616,
+        "iteration": 11100,
+        "elapsed_time": 18108.792397859972
+    },
+    {
+        "main/loss_ctc": 74.3061768913269,
+        "main/cer_ctc": 0.15451841092573482,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 74.3061768913269,
+        "epoch": 622,
+        "iteration": 11200,
+        "elapsed_time": 18467.768274320057
+    },
+    {
+        "main/loss_ctc": 69.99569773674011,
+        "main/cer_ctc": 0.14669649506713486,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 69.99569773674011,
+        "epoch": 627,
+        "iteration": 11300,
+        "elapsed_time": 18824.94539824198
+    },
+    {
+        "main/loss_ctc": 67.62137504577636,
+        "main/cer_ctc": 0.14450561295598507,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 67.62137504577636,
+        "epoch": 633,
+        "iteration": 11400,
+        "elapsed_time": 19185.303172420012
+    },
+    {
+        "main/loss_ctc": 70.76055327415466,
+        "main/cer_ctc": 0.149884815085046,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 70.76055327415466,
+        "epoch": 638,
+        "iteration": 11500,
+        "elapsed_time": 19543.45631680207
+    },
+    {
+        "main/loss_ctc": 67.70125741958618,
+        "main/cer_ctc": 0.14739164371031988,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 67.70125741958618,
+        "epoch": 644,
+        "iteration": 11600,
+        "elapsed_time": 19904.436867285985
+    },
+    {
+        "main/loss_ctc": 71.6271936416626,
+        "main/cer_ctc": 0.15091633142954314,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 71.6271936416626,
+        "epoch": 650,
+        "iteration": 11700,
+        "elapsed_time": 20261.226432928
+    },
+    {
+        "main/loss_ctc": 62.666550149917605,
+        "main/cer_ctc": 0.13379749708176342,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 62.666550149917605,
+        "epoch": 655,
+        "iteration": 11800,
+        "elapsed_time": 20620.936539874994
+    },
+    {
+        "main/loss_ctc": 61.89683732032776,
+        "main/cer_ctc": 0.12988982064738294,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 61.89683732032776,
+        "epoch": 661,
+        "iteration": 11900,
+        "elapsed_time": 20982.356091103982
+    },
+    {
+        "main/loss_ctc": 59.70864589691162,
+        "main/cer_ctc": 0.1316746644941232,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 59.70864589691162,
+        "epoch": 666,
+        "iteration": 12000,
+        "elapsed_time": 21340.202337760013
+    },
+    {
+        "main/loss_ctc": 58.373643732070924,
+        "main/cer_ctc": 0.13211074293685665,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 58.373643732070924,
+        "epoch": 672,
+        "iteration": 12100,
+        "elapsed_time": 21700.585269213072
+    },
+    {
+        "main/loss_ctc": 60.60470020294189,
+        "main/cer_ctc": 0.1318954820399843,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 60.60470020294189,
+        "epoch": 677,
+        "iteration": 12200,
+        "elapsed_time": 22057.29177426407
+    },
+    {
+        "main/loss_ctc": 59.23849498748779,
+        "main/cer_ctc": 0.1307144778194832,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 59.23849498748779,
+        "epoch": 683,
+        "iteration": 12300,
+        "elapsed_time": 22416.834108236013
+    },
+    {
+        "main/loss_ctc": 58.27319679260254,
+        "main/cer_ctc": 0.12362835953338117,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 58.27319679260254,
+        "epoch": 688,
+        "iteration": 12400,
+        "elapsed_time": 22775.994948168052
+    },
+    {
+        "main/loss_ctc": 54.85036664962769,
+        "main/cer_ctc": 0.12457664300797974,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 54.85036664962769,
+        "epoch": 694,
+        "iteration": 12500,
+        "elapsed_time": 23136.256097150035
+    },
+    {
+        "main/loss_ctc": 58.29468168258667,
+        "main/cer_ctc": 0.12640964380166714,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 58.29468168258667,
+        "epoch": 700,
+        "iteration": 12600,
+        "elapsed_time": 23494.858108871034
+    },
+    {
+        "main/loss_ctc": 57.66875069618225,
+        "main/cer_ctc": 0.12557375473545535,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 57.66875069618225,
+        "epoch": 705,
+        "iteration": 12700,
+        "elapsed_time": 23851.856496573077
+    },
+    {
+        "main/loss_ctc": 54.69665395736694,
+        "main/cer_ctc": 0.11629199847865329,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 54.69665395736694,
+        "epoch": 711,
+        "iteration": 12800,
+        "elapsed_time": 24213.360354247037
+    },
+    {
+        "main/loss_ctc": 61.35515462875366,
+        "main/cer_ctc": 0.1266746459643215,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 61.35515462875366,
+        "epoch": 716,
+        "iteration": 12900,
+        "elapsed_time": 24571.40186959703
+    },
+    {
+        "main/loss_ctc": 56.72075189113617,
+        "main/cer_ctc": 0.12421893527849169,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 56.72075189113617,
+        "epoch": 722,
+        "iteration": 13000,
+        "elapsed_time": 24932.32064584503
+    },
+    {
+        "main/loss_ctc": 52.742315711975095,
+        "main/cer_ctc": 0.11314944436154746,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 52.742315711975095,
+        "epoch": 727,
+        "iteration": 13100,
+        "elapsed_time": 25288.213775487035
+    },
+    {
+        "main/loss_ctc": 48.37142399787903,
+        "main/cer_ctc": 0.1068528685605285,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 48.37142399787903,
+        "epoch": 733,
+        "iteration": 13200,
+        "elapsed_time": 25649.29115273198
+    },
+    {
+        "main/loss_ctc": 55.93599408149719,
+        "main/cer_ctc": 0.11500370129073371,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 55.93599408149719,
+        "epoch": 738,
+        "iteration": 13300,
+        "elapsed_time": 26007.604343548068
+    },
+    {
+        "main/loss_ctc": 50.262991428375244,
+        "main/cer_ctc": 0.10538881109430759,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 50.262991428375244,
+        "epoch": 744,
+        "iteration": 13400,
+        "elapsed_time": 26368.082726640976
+    },
+    {
+        "main/loss_ctc": 48.2118169593811,
+        "main/cer_ctc": 0.10849974674704456,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 48.2118169593811,
+        "epoch": 750,
+        "iteration": 13500,
+        "elapsed_time": 26726.578268083045
+    },
+    {
+        "main/loss_ctc": 51.054288930892945,
+        "main/cer_ctc": 0.10980487483662033,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 51.054288930892945,
+        "epoch": 755,
+        "iteration": 13600,
+        "elapsed_time": 27088.488761781016
+    },
+    {
+        "main/loss_ctc": 46.03503360271454,
+        "main/cer_ctc": 0.1015605953983023,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 46.03503360271454,
+        "epoch": 761,
+        "iteration": 13700,
+        "elapsed_time": 27449.274116505054
+    },
+    {
+        "main/loss_ctc": 49.98198655128479,
+        "main/cer_ctc": 0.10553673518343822,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 49.98198655128479,
+        "epoch": 766,
+        "iteration": 13800,
+        "elapsed_time": 27806.858114802046
+    },
+    {
+        "main/loss_ctc": 44.84365566730499,
+        "main/cer_ctc": 0.09866957604029425,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 44.84365566730499,
+        "epoch": 772,
+        "iteration": 13900,
+        "elapsed_time": 28167.91013718606
+    },
+    {
+        "main/loss_ctc": 49.06590232849121,
+        "main/cer_ctc": 0.10501125167337375,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 49.06590232849121,
+        "epoch": 777,
+        "iteration": 14000,
+        "elapsed_time": 28551.28346761607
+    },
+    {
+        "main/loss_ctc": 42.90857918739319,
+        "main/cer_ctc": 0.09154058883448019,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 42.90857918739319,
+        "epoch": 783,
+        "iteration": 14100,
+        "elapsed_time": 28927.45970178407
+    },
+    {
+        "main/loss_ctc": 47.94427786827087,
+        "main/cer_ctc": 0.09823780442699398,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 47.94427786827087,
+        "epoch": 788,
+        "iteration": 14200,
+        "elapsed_time": 29339.152641348075
+    },
+    {
+        "main/loss_ctc": 45.008172559738156,
+        "main/cer_ctc": 0.0973487726967864,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 45.008172559738156,
+        "epoch": 794,
+        "iteration": 14300,
+        "elapsed_time": 29714.174029414076
+    },
+    {
+        "main/loss_ctc": 42.28227591991425,
+        "main/cer_ctc": 0.09293061004034021,
+        "main/cer": 0.0,
+        "main/wer": 0.0,
+        "main/loss": 42.28227591991425,
+        "epoch": 800,
+        "iteration": 14400,
+        "elapsed_time": 30124.679366097087
+    }
+]

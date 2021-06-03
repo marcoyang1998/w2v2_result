@@ -1,0 +1,308 @@
+{
+    "utts": {
+        "1255-138279-0016": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>SAD THE BRD SPOHTIN THE STOW TRIBULAECLY<eos>",
+                    "rec_token": "<blank> <eos> S A D <space> T H E <space> B R D <space> S P O H T I N <space> T H E <space> S T O W <space> T R I B U L A E C L Y <eos>",
+                    "rec_tokenid": "0 29 21 3 6 2 22 10 7 2 4 20 6 2 21 18 17 10 22 11 16 2 22 10 7 2 21 22 17 25 2 22 20 11 4 23 14 3 7 5 14 27 29",
+                    "score": 307.5937805175781,
+                    "shape": [
+                        45,
+                        30
+                    ],
+                    "text": "SAID THE BLURRED SPOT IN THE SNOW TREMULOUSLY",
+                    "token": "S A I D <space> T H E <space> B L U R R E D <space> S P O T <space> I N <space> T H E <space> S N O W <space> T R E M U L O U S L Y",
+                    "tokenid": "21 3 11 6 2 22 10 7 2 4 14 23 20 20 7 6 2 21 18 17 22 2 11 16 2 22 10 7 2 21 16 17 25 2 22 20 7 15 23 14 17 23 21 14 27"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1255-138279-0017": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>I WHKE IT WAS YOUR PCOEN FORGIVIN ME<eos>",
+                    "rec_token": "<blank> <eos> I <space> W H K E <space> I T <space> W A S <space> Y O U R <space> P C O E N <space> F O R G I V I N <space> M E <eos>",
+                    "rec_tokenid": "0 29 11 2 25 10 13 7 2 11 22 2 25 3 21 2 27 17 23 20 2 18 5 17 7 16 2 8 17 20 9 11 24 11 16 2 15 7 29",
+                    "score": 231.79830932617188,
+                    "shape": [
+                        40,
+                        30
+                    ],
+                    "text": "I ASKED WHICH WAS YOUR WINDOW FORGIVE ME",
+                    "token": "I <space> A S K E D <space> W H I C H <space> W A S <space> Y O U R <space> W I N D O W <space> F O R G I V E <space> M E",
+                    "tokenid": "11 2 3 21 13 7 6 2 25 10 11 5 10 2 25 3 21 2 27 17 23 20 2 25 11 16 6 17 25 2 8 17 20 9 11 24 7 2 15 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1255-138279-0018": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>O WEL I SAID THET SEE MIGHT<eos>",
+                    "rec_token": "<blank> <eos> O <space> W E L <space> I <space> S A I D <space> T H E T <space> S E E <space> M I G H T <eos>",
+                    "rec_tokenid": "0 29 17 2 25 7 14 2 11 2 21 3 11 6 2 22 10 7 22 2 21 7 7 2 15 11 9 10 22 29",
+                    "score": 144.39857482910156,
+                    "shape": [
+                        26,
+                        30
+                    ],
+                    "text": "WELL I SAID THAT YOU MIGHT",
+                    "token": "W E L L <space> I <space> S A I D <space> T H A T <space> Y O U <space> M I G H T",
+                    "tokenid": "25 7 14 14 2 11 2 21 3 11 6 2 22 10 3 22 2 27 17 23 2 15 11 9 10 22"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1255-138279-0019": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos> MUST I IT IS TWHEN SHOL I BE MARYIED FRANK<eos>",
+                    "rec_token": "<blank> <eos> <space> M U S T <space> I <space> I T <space> I S <space> T W H E N <space> S H O L <space> I <space> B E <space> M A R Y I E D <space> F R A N K <eos>",
+                    "rec_tokenid": "0 29 2 15 23 21 22 2 11 2 11 22 2 11 21 2 22 25 10 7 16 2 21 10 17 14 2 11 2 4 7 2 15 3 20 27 11 7 6 2 8 20 3 16 13 29",
+                    "score": 477.68206787109375,
+                    "shape": [
+                        45,
+                        30
+                    ],
+                    "text": "O MUST I IT IS WHEN SHALL WE BE MARRIED FRANK",
+                    "token": "O <space> M U S T <space> I <space> I T <space> I S <space> W H E N <space> S H A L L <space> W E <space> B E <space> M A R R I E D <space> F R A N K",
+                    "tokenid": "17 2 15 23 21 22 2 11 2 11 22 2 11 21 2 25 10 7 16 2 21 10 3 14 14 2 25 7 2 4 7 2 15 3 20 20 11 7 6 2 8 20 3 16 13"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1255-138279-0020": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>",
+                    "rec_token": "<blank> <eos>",
+                    "rec_tokenid": "0 29",
+                    "score": 2.0,
+                    "shape": [
+                        12,
+                        30
+                    ],
+                    "text": "I HAVE MONEY",
+                    "token": "I <space> H A V E <space> M O N E Y",
+                    "tokenid": "11 2 10 3 24 7 2 15 17 16 7 27"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1255-138279-0021": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>HAND I LIVE IN TWO PARISHIOES LUEY WHATD EE<eos>",
+                    "rec_token": "<blank> <eos> H A N D <space> I <space> L I V E <space> I N <space> T W O <space> P A R I S H I O E S <space> L U E Y <space> W H A T D <space> E E <eos>",
+                    "rec_tokenid": "0 29 10 3 16 6 2 11 2 14 11 24 7 2 11 16 2 22 25 17 2 18 3 20 11 21 10 11 17 7 21 2 14 23 7 27 2 25 10 3 22 6 2 7 7 29",
+                    "score": 216.59671020507812,
+                    "shape": [
+                        43,
+                        30
+                    ],
+                    "text": "AND WE LIVE IN TWO PARISHES DO WE WHAT THEN",
+                    "token": "A N D <space> W E <space> L I V E <space> I N <space> T W O <space> P A R I S H E S <space> D O <space> W E <space> W H A T <space> T H E N",
+                    "tokenid": "3 16 6 2 25 7 2 14 11 24 7 2 11 16 2 22 25 17 2 18 3 20 11 21 10 7 21 2 6 17 2 25 7 2 25 10 3 22 2 22 10 7 16"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1255-138279-0022": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>IF I SAD SO OFORCULSET WILL<eos>",
+                    "rec_token": "<blank> <eos> I F <space> I <space> S A D <space> S O <space> O F O R C U L S E T <space> W I L L <eos>",
+                    "rec_tokenid": "0 29 11 8 2 11 2 21 3 6 2 21 17 2 17 8 17 20 5 23 14 21 7 22 2 25 11 14 14 29",
+                    "score": 176.46392822265625,
+                    "shape": [
+                        29,
+                        30
+                    ],
+                    "text": "IF I SAID SO OF COURSE I WILL",
+                    "token": "I F <space> I <space> S A I D <space> S O <space> O F <space> C O U R S E <space> I <space> W I L L",
+                    "tokenid": "11 8 2 11 2 21 3 11 6 2 21 17 2 17 8 2 5 17 23 20 21 7 2 11 2 25 11 14 14"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1255-138279-0023": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>HE FACT IS I   FOR GOT TO ASK<eos>",
+                    "rec_token": "<blank> <eos> H E <space> F A C T <space> I S <space> I <space> <space> <space> F O R <space> G O T <space> T O <space> A S K <eos>",
+                    "rec_tokenid": "0 29 10 7 2 8 3 5 22 2 11 21 2 11 2 2 2 8 17 20 2 9 17 22 2 22 17 2 3 21 13 29",
+                    "score": 280.0374755859375,
+                    "shape": [
+                        27,
+                        30
+                    ],
+                    "text": "THE FACT IS I FORGOT TO ASK",
+                    "token": "T H E <space> F A C T <space> I S <space> I <space> F O R G O T <space> T O <space> A S K",
+                    "tokenid": "22 10 7 2 8 3 5 22 2 11 21 2 11 2 8 17 20 9 17 22 2 22 17 2 3 21 13"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1255-138279-0024": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>CASTER FRANKE TA RET<eos>",
+                    "rec_token": "<blank> <eos> C A S T E R <space> F R A N K E <space> T A <space> R E T <eos>",
+                    "rec_tokenid": "0 29 5 3 21 22 7 20 2 8 20 3 16 13 7 2 22 3 2 20 7 22 29",
+                    "score": 82.3785629272461,
+                    "shape": [
+                        27,
+                        30
+                    ],
+                    "text": "GOOD NIGHT FRANK GOOD NIGHT",
+                    "token": "G O O D <space> N I G H T <space> F R A N K <space> G O O D <space> N I G H T",
+                    "tokenid": "9 17 17 6 2 16 11 9 10 22 2 8 20 3 16 13 2 9 17 17 6 2 16 11 9 10 22"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1255-74899-0000": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>TONGS O CHANGE THEMSELVES <eos>",
+                    "rec_token": "<blank> <eos> T O N G S <space> O <space> C H A N G E <space> T H E M S E L V E S <space> <eos>",
+                    "rec_tokenid": "0 29 22 17 16 9 21 2 17 2 5 10 3 16 9 7 2 22 10 7 15 21 7 14 24 7 21 2 29",
+                    "score": 213.99432373046875,
+                    "shape": [
+                        25,
+                        30
+                    ],
+                    "text": "THINGS ARRANGE THEMSELVES",
+                    "token": "T H I N G S <space> A R R A N G E <space> T H E M S E L V E S",
+                    "tokenid": "22 10 11 16 9 21 2 3 20 20 3 16 9 7 2 22 10 7 15 21 7 14 24 7 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1255-74899-0001": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>UTEANNIS NEVE GAE AN INCH<eos>",
+                    "rec_token": "<blank> <eos> U T E A N N I S <space> N E V E <space> G A E <space> A N <space> I N C H <eos>",
+                    "rec_tokenid": "0 29 23 22 7 3 16 16 11 21 2 16 7 24 7 2 9 3 7 2 3 16 2 11 16 5 10 29",
+                    "score": 175.80718994140625,
+                    "shape": [
+                        39,
+                        30
+                    ],
+                    "text": "BUT THE COUNTESS NEVER GAVE WAY AN INCH",
+                    "token": "B U T <space> T H E <space> C O U N T E S S <space> N E V E R <space> G A V E <space> W A Y <space> A N <space> I N C H",
+                    "tokenid": "4 23 22 2 22 10 7 2 5 17 23 16 22 7 21 21 2 16 7 24 7 20 2 9 3 24 7 2 25 3 27 2 3 16 2 11 16 5 10"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1255-74899-0002": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>ATHE FOLOWING WAS THE AONCSER WICH SHE RETURNED TO CHEEEEND TO HER BY AUTRA<eos>",
+                    "rec_token": "<blank> A T H E <space> F O L O W I N G <space> W A S <space> T H E <space> A O N C S E R <space> W I C H <space> S H E <space> R E T U R N E D <space> T O <space> C H E E E E N D <space> T O <space> H E R <space> B Y <space> A U T R A <eos>",
+                    "rec_tokenid": "0 3 22 10 7 2 8 17 14 17 25 11 16 9 2 25 3 21 2 22 10 7 2 3 17 16 5 21 7 20 2 25 11 5 10 2 21 10 7 2 20 7 22 23 20 16 7 6 2 22 17 2 5 10 7 7 7 7 16 6 2 22 17 2 10 7 20 2 4 27 2 3 23 22 20 3 29",
+                    "score": 51.749473571777344,
+                    "shape": [
+                        88,
+                        30
+                    ],
+                    "text": "THE FOLLOWING WAS THE ANSWER WHICH SHE RETURNED TO THE NOTE WRITTEN TO HER BY AUNT JULIA",
+                    "token": "T H E <space> F O L L O W I N G <space> W A S <space> T H E <space> A N S W E R <space> W H I C H <space> S H E <space> R E T U R N E D <space> T O <space> T H E <space> N O T E <space> W R I T T E N <space> T O <space> H E R <space> B Y <space> A U N T <space> J U L I A",
+                    "tokenid": "22 10 7 2 8 17 14 14 17 25 11 16 9 2 25 3 21 2 22 10 7 2 3 16 21 25 7 20 2 25 10 11 5 10 2 21 10 7 2 20 7 22 23 20 16 7 6 2 22 17 2 22 10 7 2 16 17 22 7 2 25 20 11 22 22 7 16 2 22 17 2 10 7 20 2 4 27 2 3 23 16 22 2 12 23 14 11 3"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1255-74899-0003": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>HI SHOLD HANT BOW TOR DRINK WINE WIT THEM AN WOL DO A HONDRED ANF CH N WOLD MAKE THEM THROTHERE BEECS<eos>",
+                    "rec_token": "<blank> H I <space> S H O L D <space> H A N T <space> B O W <space> T O R <space> D R I N K <space> W I N E <space> W I T <space> T H E M <space> A N <space> W O L <space> D O <space> A <space> H O N D R E D <space> A N F <space> C H <space> N <space> W O L D <space> M A K E <space> T H E M <space> T H R O T H E R E <space> B E E C S <eos>",
+                    "rec_tokenid": "0 10 11 2 21 10 17 14 6 2 10 3 16 22 2 4 17 25 2 22 17 20 2 6 20 11 16 13 2 25 11 16 7 2 25 11 22 2 22 10 7 15 2 3 16 2 25 17 14 2 6 17 2 3 2 10 17 16 6 20 7 6 2 3 16 8 2 5 10 2 16 2 25 17 14 6 2 15 3 13 7 2 22 10 7 15 2 22 10 20 17 22 10 7 20 7 2 4 7 7 5 21 29",
+                    "score": 60.54770278930664,
+                    "shape": [
+                        115,
+                        30
+                    ],
+                    "text": "I SHOULD NOT KNOW HOW TO DRINK WINE WITH THEM AND SHOULD DO A HUNDRED THINGS WHICH WOULD MAKE THEM THINK ME A BEAST",
+                    "token": "I <space> S H O U L D <space> N O T <space> K N O W <space> H O W <space> T O <space> D R I N K <space> W I N E <space> W I T H <space> T H E M <space> A N D <space> S H O U L D <space> D O <space> A <space> H U N D R E D <space> T H I N G S <space> W H I C H <space> W O U L D <space> M A K E <space> T H E M <space> T H I N K <space> M E <space> A <space> B E A S T",
+                    "tokenid": "11 2 21 10 17 23 14 6 2 16 17 22 2 13 16 17 25 2 10 17 25 2 22 17 2 6 20 11 16 13 2 25 11 16 7 2 25 11 22 10 2 22 10 7 15 2 3 16 6 2 21 10 17 23 14 6 2 6 17 2 3 2 10 23 16 6 20 7 6 2 22 10 11 16 9 21 2 25 10 11 5 10 2 25 17 23 14 6 2 15 3 13 7 2 22 10 7 15 2 22 10 11 16 13 2 15 7 2 3 2 4 7 3 21 22"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1255-74899-0004": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>UT IAL NOT BEGE FOR SOME DEDY <eos>",
+                    "rec_token": "<blank> <eos> U T <space> I A L <space> N O T <space> B E G E <space> F O R <space> S O M E <space> D E D Y <space> <eos>",
+                    "rec_tokenid": "0 29 23 22 2 11 3 14 2 16 17 22 2 4 7 9 7 2 8 17 20 2 21 17 15 7 2 6 7 6 27 2 29",
+                    "score": 176.19009399414062,
+                    "shape": [
+                        34,
+                        30
+                    ],
+                    "text": "BUT THE GIRL BEGGED FOR SOME DELAY",
+                    "token": "B U T <space> T H E <space> G I R L <space> B E G G E D <space> F O R <space> S O M E <space> D E L A Y",
+                    "tokenid": "4 23 22 2 22 10 7 2 9 11 20 14 2 4 7 9 9 7 6 2 8 17 20 2 21 17 15 7 2 6 7 14 3 27"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1255-74899-0005": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>T WAS A MAN   ONT TO BE CONSCIDED<eos>",
+                    "rec_token": "<blank> <eos> T <space> W A S <space> A <space> M A N <space> <space> <space> O N T <space> T O <space> B E <space> C O N S C I D E D <eos>",
+                    "rec_tokenid": "0 29 22 2 25 3 21 2 3 2 15 3 16 2 2 2 17 16 22 2 22 17 2 4 7 2 5 17 16 21 5 11 6 7 6 29",
+                    "score": 257.5560302734375,
+                    "shape": [
+                        46,
+                        30
+                    ],
+                    "text": "IT WAS A MATTER THAT REQUIRED TO BE CONSIDERED",
+                    "token": "I T <space> W A S <space> A <space> M A T T E R <space> T H A T <space> R E Q U I R E D <space> T O <space> B E <space> C O N S I D E R E D",
+                    "tokenid": "11 22 2 25 3 21 2 3 2 15 3 22 22 7 20 2 22 10 3 22 2 20 7 19 23 11 20 7 6 2 22 17 2 4 7 2 5 17 16 21 11 6 7 20 7 6"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1255-74899-0006": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>PRISED HIM A E AS WEAKE AS PRIDE O IM<eos>",
+                    "rec_token": "<blank> <eos> P R I S E D <space> H I M <space> A <space> E <space> A S <space> W E A K E <space> A S <space> P R I D E <space> O <space> I M <eos>",
+                    "rec_tokenid": "0 29 18 20 11 21 7 6 2 10 11 15 2 3 2 7 2 3 21 2 25 7 3 13 7 2 3 21 2 18 20 11 6 7 2 17 2 11 15 29",
+                    "score": 270.5948181152344,
+                    "shape": [
+                        46,
+                        30
+                    ],
+                    "text": "PRIDE IN HIM MIGHT BE AS WEAK AS PRIDE IN THEM",
+                    "token": "P R I D E <space> I N <space> H I M <space> M I G H T <space> B E <space> A S <space> W E A K <space> A S <space> P R I D E <space> I N <space> T H E M",
+                    "tokenid": "18 20 11 6 7 2 11 16 2 10 11 15 2 15 11 9 10 22 2 4 7 2 3 21 2 25 7 3 13 2 3 21 2 18 20 11 6 7 2 11 16 2 22 10 7 15"
+                }
+            ],
+            "utt2spk": ""
+        }
+    }
+}
