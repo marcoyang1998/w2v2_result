@@ -1,0 +1,498 @@
+{
+    "utts": {
+        "2830-3980-0055": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> TO BESTOW PEACE AND GRACE LIES IN THE PROVINCE OF GOD WHO ALONE CAN CREATE THESE BLESSINGS THE ANGILS CAN NOT<eos>",
+                    "rec_token": "<blank> <space> T O <space> B E S T O W <space> P E A C E <space> A N D <space> G R A C E <space> L I E S <space> I N <space> T H E <space> P R O V I N C E <space> O F <space> G O D <space> W H O <space> A L O N E <space> C A N <space> C R E A T E <space> T H E S E <space> B L E S S I N G S <space> T H E <space> A N G I L S <space> C A N <space> N O T <eos>",
+                    "rec_tokenid": "0 2 22 17 2 4 7 21 22 17 25 2 18 7 3 5 7 2 3 16 6 2 9 20 3 5 7 2 14 11 7 21 2 11 16 2 22 10 7 2 18 20 17 24 11 16 5 7 2 17 8 2 9 17 6 2 25 10 17 2 3 14 17 16 7 2 5 3 16 2 5 20 7 3 22 7 2 22 10 7 21 7 2 4 14 7 21 21 11 16 9 21 2 22 10 7 2 3 16 9 11 14 21 2 5 3 16 2 16 17 22 29",
+                    "score": 109.92645263671875,
+                    "shape": [
+                        108,
+                        30
+                    ],
+                    "text": "TO BESTOW PEACE AND GRACE LIES IN THE PROVINCE OF GOD WHO ALONE CAN CREATE THESE BLESSINGS THE ANGELS CANNOT",
+                    "token": "T O <space> B E S T O W <space> P E A C E <space> A N D <space> G R A C E <space> L I E S <space> I N <space> T H E <space> P R O V I N C E <space> O F <space> G O D <space> W H O <space> A L O N E <space> C A N <space> C R E A T E <space> T H E S E <space> B L E S S I N G S <space> T H E <space> A N G E L S <space> C A N N O T",
+                    "tokenid": "22 17 2 4 7 21 22 17 25 2 18 7 3 5 7 2 3 16 6 2 9 20 3 5 7 2 14 11 7 21 2 11 16 2 22 10 7 2 18 20 17 24 11 16 5 7 2 17 8 2 9 17 6 2 25 10 17 2 3 14 17 16 7 2 5 3 16 2 5 20 7 3 22 7 2 22 10 7 21 7 2 4 14 7 21 21 11 16 9 21 2 22 10 7 2 3 16 9 7 14 21 2 5 3 16 16 17 22"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2830-3980-0056": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> OTHER WISE PALL SHOULD HAVE RITEN GRACE FROM GOD THE FATHER AND PEACE FROM OUR LORD JIEASUS CRIST<eos>",
+                    "rec_token": "<blank> <space> O T H E R <space> W I S E <space> P A L L <space> S H O U L D <space> H A V E <space> R I T E N <space> G R A C E <space> F R O M <space> G O D <space> T H E <space> F A T H E R <space> A N D <space> P E A C E <space> F R O M <space> O U R <space> L O R D <space> J I E A S U S <space> C R I S T <eos>",
+                    "rec_tokenid": "0 2 17 22 10 7 20 2 25 11 21 7 2 18 3 14 14 2 21 10 17 23 14 6 2 10 3 24 7 2 20 11 22 7 16 2 9 20 3 5 7 2 8 20 17 15 2 9 17 6 2 22 10 7 2 8 3 22 10 7 20 2 3 16 6 2 18 7 3 5 7 2 8 20 17 15 2 17 23 20 2 14 17 20 6 2 12 11 7 3 21 23 21 2 5 20 11 21 22 29",
+                    "score": 96.6931381225586,
+                    "shape": [
+                        97,
+                        30
+                    ],
+                    "text": "OTHERWISE PAUL SHOULD HAVE WRITTEN GRACE FROM GOD THE FATHER AND PEACE FROM OUR LORD JESUS CHRIST",
+                    "token": "O T H E R W I S E <space> P A U L <space> S H O U L D <space> H A V E <space> W R I T T E N <space> G R A C E <space> F R O M <space> G O D <space> T H E <space> F A T H E R <space> A N D <space> P E A C E <space> F R O M <space> O U R <space> L O R D <space> J E S U S <space> C H R I S T",
+                    "tokenid": "17 22 10 7 20 25 11 21 7 2 18 3 23 14 2 21 10 17 23 14 6 2 10 3 24 7 2 25 20 11 22 22 7 16 2 9 20 3 5 7 2 8 20 17 15 2 9 17 6 2 22 10 7 2 8 3 22 10 7 20 2 3 16 6 2 18 7 3 5 7 2 8 20 17 15 2 17 23 20 2 14 17 20 6 2 12 7 21 23 21 2 5 10 20 11 21 22"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2830-3980-0057": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THE ARIANS TOOK CRIST FOR A NOBLE AND PERFECTCREATURES SUPPERIOR EVEN TO THE ANGILS BECAUSE BY HIM GOD CREATED HEAVEN AN ERTH<eos>",
+                    "rec_token": "<blank> <space> T H E <space> A R I A N S <space> T O O K <space> C R I S T <space> F O R <space> A <space> N O B L E <space> A N D <space> P E R F E C T C R E A T U R E S <space> S U P P E R I O R <space> E V E N <space> T O <space> T H E <space> A N G I L S <space> B E C A U S E <space> B Y <space> H I M <space> G O D <space> C R E A T E D <space> H E A V E N <space> A N <space> E R T H <eos>",
+                    "rec_tokenid": "0 2 22 10 7 2 3 20 11 3 16 21 2 22 17 17 13 2 5 20 11 21 22 2 8 17 20 2 3 2 16 17 4 14 7 2 3 16 6 2 18 7 20 8 7 5 22 5 20 7 3 22 23 20 7 21 2 21 23 18 18 7 20 11 17 20 2 7 24 7 16 2 22 17 2 22 10 7 2 3 16 9 11 14 21 2 4 7 5 3 23 21 7 2 4 27 2 10 11 15 2 9 17 6 2 5 20 7 3 22 7 6 2 10 7 3 24 7 16 2 3 16 2 7 20 22 10 29",
+                    "score": 125.00969696044922,
+                    "shape": [
+                        127,
+                        30
+                    ],
+                    "text": "THE ARIANS TOOK CHRIST FOR A NOBLE AND PERFECT CREATURE SUPERIOR EVEN TO THE ANGELS BECAUSE BY HIM GOD CREATED HEAVEN AND EARTH",
+                    "token": "T H E <space> A R I A N S <space> T O O K <space> C H R I S T <space> F O R <space> A <space> N O B L E <space> A N D <space> P E R F E C T <space> C R E A T U R E <space> S U P E R I O R <space> E V E N <space> T O <space> T H E <space> A N G E L S <space> B E C A U S E <space> B Y <space> H I M <space> G O D <space> C R E A T E D <space> H E A V E N <space> A N D <space> E A R T H",
+                    "tokenid": "22 10 7 2 3 20 11 3 16 21 2 22 17 17 13 2 5 10 20 11 21 22 2 8 17 20 2 3 2 16 17 4 14 7 2 3 16 6 2 18 7 20 8 7 5 22 2 5 20 7 3 22 23 20 7 2 21 23 18 7 20 11 17 20 2 7 24 7 16 2 22 17 2 22 10 7 2 3 16 9 7 14 21 2 4 7 5 3 23 21 7 2 4 27 2 10 11 15 2 9 17 6 2 5 20 7 3 22 7 6 2 10 7 3 24 7 16 2 3 16 6 2 7 3 20 22 10"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2830-3980-0058": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> MAHOMITE ALSO SPEEKS HIGHLY OF CRISTE<eos>",
+                    "rec_token": "<blank> <space> M A H O M I T E <space> A L S O <space> S P E E K S <space> H I G H L Y <space> O F <space> C R I S T E <eos>",
+                    "rec_tokenid": "0 2 15 3 10 17 15 11 22 7 2 3 14 21 17 2 21 18 7 7 13 21 2 10 11 9 10 14 27 2 17 8 2 5 20 11 21 22 7 29",
+                    "score": 36.402320861816406,
+                    "shape": [
+                        37,
+                        30
+                    ],
+                    "text": "MOHAMMED ALSO SPEAKS HIGHLY OF CHRIST",
+                    "token": "M O H A M M E D <space> A L S O <space> S P E A K S <space> H I G H L Y <space> O F <space> C H R I S T",
+                    "tokenid": "15 17 10 3 15 15 7 6 2 3 14 21 17 2 21 18 7 3 13 21 2 10 11 9 10 14 27 2 17 8 2 5 10 20 11 21 22"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2830-3980-0059": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>POLL STICKS TO HIS THEM<eos>",
+                    "rec_token": "<blank> <eos> P O L L <space> S T I C K S <space> T O <space> H I S <space> T H E M <eos>",
+                    "rec_tokenid": "0 29 18 17 14 14 2 21 22 11 5 13 21 2 22 17 2 10 11 21 2 22 10 7 15 29",
+                    "score": 332.57843017578125,
+                    "shape": [
+                        24,
+                        30
+                    ],
+                    "text": "PAUL STICKS TO HIS THEME",
+                    "token": "P A U L <space> S T I C K S <space> T O <space> H I S <space> T H E M E",
+                    "tokenid": "18 3 23 14 2 21 22 11 5 13 21 2 22 17 2 10 11 21 2 22 10 7 15 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2830-3980-0060": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> HE NEVER LOSE ES SIGHT OF THE PERPAS OF HIS OPPISCTAL<eos>",
+                    "rec_token": "<blank> <space> H E <space> N E V E R <space> L O S E <space> E S <space> S I G H T <space> O F <space> T H E <space> P E R P A S <space> O F <space> H I S <space> O P P I S C T A L <eos>",
+                    "rec_tokenid": "0 2 10 7 2 16 7 24 7 20 2 14 17 21 7 2 7 21 2 21 11 9 10 22 2 17 8 2 22 10 7 2 18 7 20 18 3 21 2 17 8 2 10 11 21 2 17 18 18 11 21 5 22 3 14 29",
+                    "score": 50.67992401123047,
+                    "shape": [
+                        50,
+                        30
+                    ],
+                    "text": "HE NEVER LOSES SIGHT OF THE PURPOSE OF HIS EPISTLE",
+                    "token": "H E <space> N E V E R <space> L O S E S <space> S I G H T <space> O F <space> T H E <space> P U R P O S E <space> O F <space> H I S <space> E P I S T L E",
+                    "tokenid": "10 7 2 16 7 24 7 20 2 14 17 21 7 21 2 21 11 9 10 22 2 17 8 2 22 10 7 2 18 23 20 18 17 21 7 2 17 8 2 10 11 21 2 7 18 11 21 22 14 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2830-3980-0061": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>ANOT GOLD OR SILVER OR PACHIAL LAMBS OR AN ANGIL BUT HIMSELF WHAT FORE<eos>",
+                    "rec_token": "<blank> A N O T <space> G O L D <space> O R <space> S I L V E R <space> O R <space> P A C H I A L <space> L A M B S <space> O R <space> A N <space> A N G I L <space> B U T <space> H I M S E L F <space> W H A T <space> F O R E <eos>",
+                    "rec_tokenid": "0 3 16 17 22 2 9 17 14 6 2 17 20 2 21 11 14 24 7 20 2 17 20 2 18 3 5 10 11 3 14 2 14 3 15 4 21 2 17 20 2 3 16 2 3 16 9 11 14 2 4 23 22 2 10 11 15 21 7 14 8 2 25 10 3 22 2 8 17 20 7 29",
+                    "score": 68.79505157470703,
+                    "shape": [
+                        68,
+                        30
+                    ],
+                    "text": "NOT GOLD OR SILVER OR PASCHAL LAMBS OR AN ANGEL BUT HIMSELF WHAT FOR",
+                    "token": "N O T <space> G O L D <space> O R <space> S I L V E R <space> O R <space> P A S C H A L <space> L A M B S <space> O R <space> A N <space> A N G E L <space> B U T <space> H I M S E L F <space> W H A T <space> F O R",
+                    "tokenid": "16 17 22 2 9 17 14 6 2 17 20 2 21 11 14 24 7 20 2 17 20 2 18 3 21 5 10 3 14 2 14 3 15 4 21 2 17 20 2 3 16 2 3 16 9 7 14 2 4 23 22 2 10 11 15 21 7 14 8 2 25 10 3 22 2 8 17 20"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2830-3980-0062": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> NOT FOR A CROWNE OR A KINGDOM OR OUR GOODNESS BUT FOR OUR SINS<eos>",
+                    "rec_token": "<blank> <space> N O T <space> F O R <space> A <space> C R O W N E <space> O R <space> A <space> K I N G D O M <space> O R <space> O U R <space> G O O D N E S S <space> B U T <space> F O R <space> O U R <space> S I N S <eos>",
+                    "rec_tokenid": "0 2 16 17 22 2 8 17 20 2 3 2 5 20 17 25 16 7 2 17 20 2 3 2 13 11 16 9 6 17 15 2 17 20 2 17 23 20 2 9 17 17 6 16 7 21 21 2 4 23 22 2 8 17 20 2 17 23 20 2 21 11 16 21 29",
+                    "score": 63.537879943847656,
+                    "shape": [
+                        61,
+                        30
+                    ],
+                    "text": "NOT FOR A CROWN OR A KINGDOM OR OUR GOODNESS BUT FOR OUR SINS",
+                    "token": "N O T <space> F O R <space> A <space> C R O W N <space> O R <space> A <space> K I N G D O M <space> O R <space> O U R <space> G O O D N E S S <space> B U T <space> F O R <space> O U R <space> S I N S",
+                    "tokenid": "16 17 22 2 8 17 20 2 3 2 5 20 17 25 16 2 17 20 2 3 2 13 11 16 9 6 17 15 2 17 20 2 17 23 20 2 9 17 17 6 16 7 21 21 2 4 23 22 2 8 17 20 2 17 23 20 2 21 11 16 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2830-3980-0063": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> UNDER SCORE THESE WOARDS FOR THEY ARE FULL OF COMFORT FOR SOR CONSCHIENCES<eos>",
+                    "rec_token": "<blank> <space> U N D E R <space> S C O R E <space> T H E S E <space> W O A R D S <space> F O R <space> T H E Y <space> A R E <space> F U L L <space> O F <space> C O M F O R T <space> F O R <space> S O R <space> C O N S C H I E N C E S <eos>",
+                    "rec_tokenid": "0 2 23 16 6 7 20 2 21 5 17 20 7 2 22 10 7 21 7 2 25 17 3 20 6 21 2 8 17 20 2 22 10 7 27 2 3 20 7 2 8 23 14 14 2 17 8 2 5 17 15 8 17 20 22 2 8 17 20 2 21 17 20 2 5 17 16 21 5 10 11 7 16 5 7 21 29",
+                    "score": 74.0553207397461,
+                    "shape": [
+                        72,
+                        30
+                    ],
+                    "text": "UNDERSCORE THESE WORDS FOR THEY ARE FULL OF COMFORT FOR SORE CONSCIENCES",
+                    "token": "U N D E R S C O R E <space> T H E S E <space> W O R D S <space> F O R <space> T H E Y <space> A R E <space> F U L L <space> O F <space> C O M F O R T <space> F O R <space> S O R E <space> C O N S C I E N C E S",
+                    "tokenid": "23 16 6 7 20 21 5 17 20 7 2 22 10 7 21 7 2 25 17 20 6 21 2 8 17 20 2 22 10 7 27 2 3 20 7 2 8 23 14 14 2 17 8 2 5 17 15 8 17 20 22 2 8 17 20 2 21 17 20 7 2 5 17 16 21 5 11 7 16 5 7 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2830-3980-0064": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> HOW MAY WE OBTAIN REMITION OF OUR SINS<eos>",
+                    "rec_token": "<blank> <space> H O W <space> M A Y <space> W E <space> O B T A I N <space> R E M I T I O N <space> O F <space> O U R <space> S I N S <eos>",
+                    "rec_tokenid": "0 2 10 17 25 2 15 3 27 2 25 7 2 17 4 22 3 11 16 2 20 7 15 11 22 11 17 16 2 17 8 2 17 23 20 2 21 11 16 21 29",
+                    "score": 39.37853240966797,
+                    "shape": [
+                        39,
+                        30
+                    ],
+                    "text": "HOW MAY WE OBTAIN REMISSION OF OUR SINS",
+                    "token": "H O W <space> M A Y <space> W E <space> O B T A I N <space> R E M I S S I O N <space> O F <space> O U R <space> S I N S",
+                    "tokenid": "10 17 25 2 15 3 27 2 25 7 2 17 4 22 3 11 16 2 20 7 15 11 21 21 11 17 16 2 17 8 2 17 23 20 2 21 11 16 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2830-3980-0065": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> PALL ANCWERS THE MAN WHO IS NAMED JEASUS CRIST AND THE SON OF GOD GAVE HIMSELF FOR OUR SINS<eos>",
+                    "rec_token": "<blank> <space> P A L L <space> A N C W E R S <space> T H E <space> M A N <space> W H O <space> I S <space> N A M E D <space> J E A S U S <space> C R I S T <space> A N D <space> T H E <space> S O N <space> O F <space> G O D <space> G A V E <space> H I M S E L F <space> F O R <space> O U R <space> S I N S <eos>",
+                    "rec_tokenid": "0 2 18 3 14 14 2 3 16 5 25 7 20 21 2 22 10 7 2 15 3 16 2 25 10 17 2 11 21 2 16 3 15 7 6 2 12 7 3 21 23 21 2 5 20 11 21 22 2 3 16 6 2 22 10 7 2 21 17 16 2 17 8 2 9 17 6 2 9 3 24 7 2 10 11 15 21 7 14 8 2 8 17 20 2 17 23 20 2 21 11 16 21 29",
+                    "score": 90.86003112792969,
+                    "shape": [
+                        91,
+                        30
+                    ],
+                    "text": "PAUL ANSWERS THE MAN WHO IS NAMED JESUS CHRIST AND THE SON OF GOD GAVE HIMSELF FOR OUR SINS",
+                    "token": "P A U L <space> A N S W E R S <space> T H E <space> M A N <space> W H O <space> I S <space> N A M E D <space> J E S U S <space> C H R I S T <space> A N D <space> T H E <space> S O N <space> O F <space> G O D <space> G A V E <space> H I M S E L F <space> F O R <space> O U R <space> S I N S",
+                    "tokenid": "18 3 23 14 2 3 16 21 25 7 20 21 2 22 10 7 2 15 3 16 2 25 10 17 2 11 21 2 16 3 15 7 6 2 12 7 21 23 21 2 5 10 20 11 21 22 2 3 16 6 2 22 10 7 2 21 17 16 2 17 8 2 9 17 6 2 9 3 24 7 2 10 11 15 21 7 14 8 2 8 17 20 2 17 23 20 2 21 11 16 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2830-3980-0066": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> SINCE CRIST WAS GIVEN FOR OUR SINS IT STANDS TO REASON THAT THEY CON NOT BE PUT AWAY BY OUR OWN EFORTS<eos>",
+                    "rec_token": "<blank> <space> S I N C E <space> C R I S T <space> W A S <space> G I V E N <space> F O R <space> O U R <space> S I N S <space> I T <space> S T A N D S <space> T O <space> R E A S O N <space> T H A T <space> T H E Y <space> C O N <space> N O T <space> B E <space> P U T <space> A W A Y <space> B Y <space> O U R <space> O W N <space> E F O R T S <eos>",
+                    "rec_tokenid": "0 2 21 11 16 5 7 2 5 20 11 21 22 2 25 3 21 2 9 11 24 7 16 2 8 17 20 2 17 23 20 2 21 11 16 21 2 11 22 2 21 22 3 16 6 21 2 22 17 2 20 7 3 21 17 16 2 22 10 3 22 2 22 10 7 27 2 5 17 16 2 16 17 22 2 4 7 2 18 23 22 2 3 25 3 27 2 4 27 2 17 23 20 2 17 25 16 2 7 8 17 20 22 21 29",
+                    "score": 103.86754608154297,
+                    "shape": [
+                        103,
+                        30
+                    ],
+                    "text": "SINCE CHRIST WAS GIVEN FOR OUR SINS IT STANDS TO REASON THAT THEY CANNOT BE PUT AWAY BY OUR OWN EFFORTS",
+                    "token": "S I N C E <space> C H R I S T <space> W A S <space> G I V E N <space> F O R <space> O U R <space> S I N S <space> I T <space> S T A N D S <space> T O <space> R E A S O N <space> T H A T <space> T H E Y <space> C A N N O T <space> B E <space> P U T <space> A W A Y <space> B Y <space> O U R <space> O W N <space> E F F O R T S",
+                    "tokenid": "21 11 16 5 7 2 5 10 20 11 21 22 2 25 3 21 2 9 11 24 7 16 2 8 17 20 2 17 23 20 2 21 11 16 21 2 11 22 2 21 22 3 16 6 21 2 22 17 2 20 7 3 21 17 16 2 22 10 3 22 2 22 10 7 27 2 5 3 16 16 17 22 2 4 7 2 18 23 22 2 3 25 3 27 2 4 27 2 17 23 20 2 17 25 16 2 7 8 8 17 20 22 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2830-3980-0067": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THIS CENTANCE ALSO DEFINDS OUR SINS AS GREAT SO GREAT IN FACT THAT THE WHOLE WORLD COULD NOT MAKE A MEND FOR A SINGLE SIN<eos>",
+                    "rec_token": "<blank> <space> T H I S <space> C E N T A N C E <space> A L S O <space> D E F I N D S <space> O U R <space> S I N S <space> A S <space> G R E A T <space> S O <space> G R E A T <space> I N <space> F A C T <space> T H A T <space> T H E <space> W H O L E <space> W O R L D <space> C O U L D <space> N O T <space> M A K E <space> A <space> M E N D <space> F O R <space> A <space> S I N G L E <space> S I N <eos>",
+                    "rec_tokenid": "0 2 22 10 11 21 2 5 7 16 22 3 16 5 7 2 3 14 21 17 2 6 7 8 11 16 6 21 2 17 23 20 2 21 11 16 21 2 3 21 2 9 20 7 3 22 2 21 17 2 9 20 7 3 22 2 11 16 2 8 3 5 22 2 22 10 3 22 2 22 10 7 2 25 10 17 14 7 2 25 17 20 14 6 2 5 17 23 14 6 2 16 17 22 2 15 3 13 7 2 3 2 15 7 16 6 2 8 17 20 2 3 2 21 11 16 9 14 7 2 21 11 16 29",
+                    "score": 122.19804382324219,
+                    "shape": [
+                        121,
+                        30
+                    ],
+                    "text": "THIS SENTENCE ALSO DEFINES OUR SINS AS GREAT SO GREAT IN FACT THAT THE WHOLE WORLD COULD NOT MAKE AMENDS FOR A SINGLE SIN",
+                    "token": "T H I S <space> S E N T E N C E <space> A L S O <space> D E F I N E S <space> O U R <space> S I N S <space> A S <space> G R E A T <space> S O <space> G R E A T <space> I N <space> F A C T <space> T H A T <space> T H E <space> W H O L E <space> W O R L D <space> C O U L D <space> N O T <space> M A K E <space> A M E N D S <space> F O R <space> A <space> S I N G L E <space> S I N",
+                    "tokenid": "22 10 11 21 2 21 7 16 22 7 16 5 7 2 3 14 21 17 2 6 7 8 11 16 7 21 2 17 23 20 2 21 11 16 21 2 3 21 2 9 20 7 3 22 2 21 17 2 9 20 7 3 22 2 11 16 2 8 3 5 22 2 22 10 3 22 2 22 10 7 2 25 10 17 14 7 2 25 17 20 14 6 2 5 17 23 14 6 2 16 17 22 2 15 3 13 7 2 3 15 7 16 6 21 2 8 17 20 2 3 2 21 11 16 9 14 7 2 21 11 16"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2830-3980-0068": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THE GREATNESS OF THE RANDSOM CRIST THE SONE OF GOD INDICATS THIS<eos>",
+                    "rec_token": "<blank> <space> T H E <space> G R E A T N E S S <space> O F <space> T H E <space> R A N D S O M <space> C R I S T <space> T H E <space> S O N E <space> O F <space> G O D <space> I N D I C A T S <space> T H I S <eos>",
+                    "rec_tokenid": "0 2 22 10 7 2 9 20 7 3 22 16 7 21 21 2 17 8 2 22 10 7 2 20 3 16 6 21 17 15 2 5 20 11 21 22 2 22 10 7 2 21 17 16 7 2 17 8 2 9 17 6 2 11 16 6 11 5 3 22 21 2 22 10 11 21 29",
+                    "score": 63.83397674560547,
+                    "shape": [
+                        64,
+                        30
+                    ],
+                    "text": "THE GREATNESS OF THE RANSOM CHRIST THE SON OF GOD INDICATES THIS",
+                    "token": "T H E <space> G R E A T N E S S <space> O F <space> T H E <space> R A N S O M <space> C H R I S T <space> T H E <space> S O N <space> O F <space> G O D <space> I N D I C A T E S <space> T H I S",
+                    "tokenid": "22 10 7 2 9 20 7 3 22 16 7 21 21 2 17 8 2 22 10 7 2 20 3 16 21 17 15 2 5 10 20 11 21 22 2 22 10 7 2 21 17 16 2 17 8 2 9 17 6 2 11 16 6 11 5 3 22 7 21 2 22 10 11 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2830-3980-0069": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THE VITIOUS CARACTER OF SIN IS BROUGHT OUT BY THE WORDS WHO GAVE HIMSELF FOR OUR SINS<eos>",
+                    "rec_token": "<blank> <space> T H E <space> V I T I O U S <space> C A R A C T E R <space> O F <space> S I N <space> I S <space> B R O U G H T <space> O U T <space> B Y <space> T H E <space> W O R D S <space> W H O <space> G A V E <space> H I M S E L F <space> F O R <space> O U R <space> S I N S <eos>",
+                    "rec_tokenid": "0 2 22 10 7 2 24 11 22 11 17 23 21 2 5 3 20 3 5 22 7 20 2 17 8 2 21 11 16 2 11 21 2 4 20 17 23 9 10 22 2 17 23 22 2 4 27 2 22 10 7 2 25 17 20 6 21 2 25 10 17 2 9 3 24 7 2 10 11 15 21 7 14 8 2 8 17 20 2 17 23 20 2 21 11 16 21 29",
+                    "score": 87.11399841308594,
+                    "shape": [
+                        86,
+                        30
+                    ],
+                    "text": "THE VICIOUS CHARACTER OF SIN IS BROUGHT OUT BY THE WORDS WHO GAVE HIMSELF FOR OUR SINS",
+                    "token": "T H E <space> V I C I O U S <space> C H A R A C T E R <space> O F <space> S I N <space> I S <space> B R O U G H T <space> O U T <space> B Y <space> T H E <space> W O R D S <space> W H O <space> G A V E <space> H I M S E L F <space> F O R <space> O U R <space> S I N S",
+                    "tokenid": "22 10 7 2 24 11 5 11 17 23 21 2 5 10 3 20 3 5 22 7 20 2 17 8 2 21 11 16 2 11 21 2 4 20 17 23 9 10 22 2 17 23 22 2 4 27 2 22 10 7 2 25 17 20 6 21 2 25 10 17 2 9 3 24 7 2 10 11 15 21 7 14 8 2 8 17 20 2 17 23 20 2 21 11 16 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2830-3980-0070": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> BUT WE ARE CARELESS WE MAKE LIGHTE OF SIN<eos>",
+                    "rec_token": "<blank> <space> B U T <space> W E <space> A R E <space> C A R E L E S S <space> W E <space> M A K E <space> L I G H T E <space> O F <space> S I N <eos>",
+                    "rec_tokenid": "0 2 4 23 22 2 25 7 2 3 20 7 2 5 3 20 7 14 7 21 21 2 25 7 2 15 3 13 7 2 14 11 9 10 22 7 2 17 8 2 21 11 16 29",
+                    "score": 43.63857650756836,
+                    "shape": [
+                        40,
+                        30
+                    ],
+                    "text": "BUT WE ARE CARELESS WE MAKE LIGHT OF SIN",
+                    "token": "B U T <space> W E <space> A R E <space> C A R E L E S S <space> W E <space> M A K E <space> L I G H T <space> O F <space> S I N",
+                    "tokenid": "4 23 22 2 25 7 2 3 20 7 2 5 3 20 7 14 7 21 21 2 25 7 2 15 3 13 7 2 14 11 9 10 22 2 17 8 2 21 11 16"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2830-3980-0071": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> WE THINK THAT BY SOME LITTLE WORK OR MARRIT WE CAN DISMISS SIN<eos>",
+                    "rec_token": "<blank> <space> W E <space> T H I N K <space> T H A T <space> B Y <space> S O M E <space> L I T T L E <space> W O R K <space> O R <space> M A R R I T <space> W E <space> C A N <space> D I S M I S S <space> S I N <eos>",
+                    "rec_tokenid": "0 2 25 7 2 22 10 11 16 13 2 22 10 3 22 2 4 27 2 21 17 15 7 2 14 11 22 22 14 7 2 25 17 20 13 2 17 20 2 15 3 20 20 11 22 2 25 7 2 5 3 16 2 6 11 21 15 11 21 21 2 21 11 16 29",
+                    "score": 64.17228698730469,
+                    "shape": [
+                        61,
+                        30
+                    ],
+                    "text": "WE THINK THAT BY SOME LITTLE WORK OR MERIT WE CAN DISMISS SIN",
+                    "token": "W E <space> T H I N K <space> T H A T <space> B Y <space> S O M E <space> L I T T L E <space> W O R K <space> O R <space> M E R I T <space> W E <space> C A N <space> D I S M I S S <space> S I N",
+                    "tokenid": "25 7 2 22 10 11 16 13 2 22 10 3 22 2 4 27 2 21 17 15 7 2 14 11 22 22 14 7 2 25 17 20 13 2 17 20 2 15 7 20 11 22 2 25 7 2 5 3 16 2 6 11 21 15 11 21 21 2 21 11 16"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2830-3980-0072": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THIS PASSAGE THEN BEARES OUT THE FACT THAT ALL MEN ARE SOLD UN DER SIN<eos>",
+                    "rec_token": "<blank> <space> T H I S <space> P A S S A G E <space> T H E N <space> B E A R E S <space> O U T <space> T H E <space> F A C T <space> T H A T <space> A L L <space> M E N <space> A R E <space> S O L D <space> U N <space> D E R <space> S I N <eos>",
+                    "rec_tokenid": "0 2 22 10 11 21 2 18 3 21 21 3 9 7 2 22 10 7 16 2 4 7 3 20 7 21 2 17 23 22 2 22 10 7 2 8 3 5 22 2 22 10 3 22 2 3 14 14 2 15 7 16 2 3 20 7 2 21 17 14 6 2 23 16 2 6 7 20 2 21 11 16 29",
+                    "score": 70.06584930419922,
+                    "shape": [
+                        68,
+                        30
+                    ],
+                    "text": "THIS PASSAGE THEN BEARS OUT THE FACT THAT ALL MEN ARE SOLD UNDER SIN",
+                    "token": "T H I S <space> P A S S A G E <space> T H E N <space> B E A R S <space> O U T <space> T H E <space> F A C T <space> T H A T <space> A L L <space> M E N <space> A R E <space> S O L D <space> U N D E R <space> S I N",
+                    "tokenid": "22 10 11 21 2 18 3 21 21 3 9 7 2 22 10 7 16 2 4 7 3 20 21 2 17 23 22 2 22 10 7 2 8 3 5 22 2 22 10 3 22 2 3 14 14 2 15 7 16 2 3 20 7 2 21 17 14 6 2 23 16 6 7 20 2 21 11 16"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2830-3980-0073": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THIS ATITUDE SPRINGS FROM A FALS CONCEPTION OF SIN THE CONCEPTION THAT SIN IS A SMALL MATTER EASILY TAKENG CARE OFE BY GOOD WORKS THAT WE MUST PRESENT OURSELVES UN TO GOD WITH A GOOD CONSCIONCE THAT WE MUST FEAL NO SIN BEFORE WE MAY FEAL THAT CRIST WAS GIVEN FOR OUR SINS<eos>",
+                    "rec_token": "<blank> <space> T H I S <space> A T I T U D E <space> S P R I N G S <space> F R O M <space> A <space> F A L S <space> C O N C E P T I O N <space> O F <space> S I N <space> T H E <space> C O N C E P T I O N <space> T H A T <space> S I N <space> I S <space> A <space> S M A L L <space> M A T T E R <space> E A S I L Y <space> T A K E N G <space> C A R E <space> O F E <space> B Y <space> G O O D <space> W O R K S <space> T H A T <space> W E <space> M U S T <space> P R E S E N T <space> O U R S E L V E S <space> U N <space> T O <space> G O D <space> W I T H <space> A <space> G O O D <space> C O N S C I O N C E <space> T H A T <space> W E <space> M U S T <space> F E A L <space> N O <space> S I N <space> B E F O R E <space> W E <space> M A Y <space> F E A L <space> T H A T <space> C R I S T <space> W A S <space> G I V E N <space> F O R <space> O U R <space> S I N S <eos>",
+                    "rec_tokenid": "0 2 22 10 11 21 2 3 22 11 22 23 6 7 2 21 18 20 11 16 9 21 2 8 20 17 15 2 3 2 8 3 14 21 2 5 17 16 5 7 18 22 11 17 16 2 17 8 2 21 11 16 2 22 10 7 2 5 17 16 5 7 18 22 11 17 16 2 22 10 3 22 2 21 11 16 2 11 21 2 3 2 21 15 3 14 14 2 15 3 22 22 7 20 2 7 3 21 11 14 27 2 22 3 13 7 16 9 2 5 3 20 7 2 17 8 7 2 4 27 2 9 17 17 6 2 25 17 20 13 21 2 22 10 3 22 2 25 7 2 15 23 21 22 2 18 20 7 21 7 16 22 2 17 23 20 21 7 14 24 7 21 2 23 16 2 22 17 2 9 17 6 2 25 11 22 10 2 3 2 9 17 17 6 2 5 17 16 21 5 11 17 16 5 7 2 22 10 3 22 2 25 7 2 15 23 21 22 2 8 7 3 14 2 16 17 2 21 11 16 2 4 7 8 17 20 7 2 25 7 2 15 3 27 2 8 7 3 14 2 22 10 3 22 2 5 20 11 21 22 2 25 3 21 2 9 11 24 7 16 2 8 17 20 2 17 23 20 2 21 11 16 21 29",
+                    "score": 270.19580078125,
+                    "shape": [
+                        271,
+                        30
+                    ],
+                    "text": "THIS ATTITUDE SPRINGS FROM A FALSE CONCEPTION OF SIN THE CONCEPTION THAT SIN IS A SMALL MATTER EASILY TAKEN CARE OF BY GOOD WORKS THAT WE MUST PRESENT OURSELVES UNTO GOD WITH A GOOD CONSCIENCE THAT WE MUST FEEL NO SIN BEFORE WE MAY FEEL THAT CHRIST WAS GIVEN FOR OUR SINS",
+                    "token": "T H I S <space> A T T I T U D E <space> S P R I N G S <space> F R O M <space> A <space> F A L S E <space> C O N C E P T I O N <space> O F <space> S I N <space> T H E <space> C O N C E P T I O N <space> T H A T <space> S I N <space> I S <space> A <space> S M A L L <space> M A T T E R <space> E A S I L Y <space> T A K E N <space> C A R E <space> O F <space> B Y <space> G O O D <space> W O R K S <space> T H A T <space> W E <space> M U S T <space> P R E S E N T <space> O U R S E L V E S <space> U N T O <space> G O D <space> W I T H <space> A <space> G O O D <space> C O N S C I E N C E <space> T H A T <space> W E <space> M U S T <space> F E E L <space> N O <space> S I N <space> B E F O R E <space> W E <space> M A Y <space> F E E L <space> T H A T <space> C H R I S T <space> W A S <space> G I V E N <space> F O R <space> O U R <space> S I N S",
+                    "tokenid": "22 10 11 21 2 3 22 22 11 22 23 6 7 2 21 18 20 11 16 9 21 2 8 20 17 15 2 3 2 8 3 14 21 7 2 5 17 16 5 7 18 22 11 17 16 2 17 8 2 21 11 16 2 22 10 7 2 5 17 16 5 7 18 22 11 17 16 2 22 10 3 22 2 21 11 16 2 11 21 2 3 2 21 15 3 14 14 2 15 3 22 22 7 20 2 7 3 21 11 14 27 2 22 3 13 7 16 2 5 3 20 7 2 17 8 2 4 27 2 9 17 17 6 2 25 17 20 13 21 2 22 10 3 22 2 25 7 2 15 23 21 22 2 18 20 7 21 7 16 22 2 17 23 20 21 7 14 24 7 21 2 23 16 22 17 2 9 17 6 2 25 11 22 10 2 3 2 9 17 17 6 2 5 17 16 21 5 11 7 16 5 7 2 22 10 3 22 2 25 7 2 15 23 21 22 2 8 7 7 14 2 16 17 2 21 11 16 2 4 7 8 17 20 7 2 25 7 2 15 3 27 2 8 7 7 14 2 22 10 3 22 2 5 10 20 11 21 22 2 25 3 21 2 9 11 24 7 16 2 8 17 20 2 17 23 20 2 21 11 16 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2830-3980-0074": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THIS ATITUDE IS UNIVERSAL AND PARTICUARLY DEVELOPED IN THOSE WHO CONSIDER THEMSELVES BETTER THAN OTHERS<eos>",
+                    "rec_token": "<blank> <space> T H I S <space> A T I T U D E <space> I S <space> U N I V E R S A L <space> A N D <space> P A R T I C U A R L Y <space> D E V E L O P E D <space> I N <space> T H O S E <space> W H O <space> C O N S I D E R <space> T H E M S E L V E S <space> B E T T E R <space> T H A N <space> O T H E R S <eos>",
+                    "rec_tokenid": "0 2 22 10 11 21 2 3 22 11 22 23 6 7 2 11 21 2 23 16 11 24 7 20 21 3 14 2 3 16 6 2 18 3 20 22 11 5 23 3 20 14 27 2 6 7 24 7 14 17 18 7 6 2 11 16 2 22 10 17 21 7 2 25 10 17 2 5 17 16 21 11 6 7 20 2 22 10 7 15 21 7 14 24 7 21 2 4 7 22 22 7 20 2 22 10 3 16 2 17 22 10 7 20 21 29",
+                    "score": 104.45726013183594,
+                    "shape": [
+                        105,
+                        30
+                    ],
+                    "text": "THIS ATTITUDE IS UNIVERSAL AND PARTICULARLY DEVELOPED IN THOSE WHO CONSIDER THEMSELVES BETTER THAN OTHERS",
+                    "token": "T H I S <space> A T T I T U D E <space> I S <space> U N I V E R S A L <space> A N D <space> P A R T I C U L A R L Y <space> D E V E L O P E D <space> I N <space> T H O S E <space> W H O <space> C O N S I D E R <space> T H E M S E L V E S <space> B E T T E R <space> T H A N <space> O T H E R S",
+                    "tokenid": "22 10 11 21 2 3 22 22 11 22 23 6 7 2 11 21 2 23 16 11 24 7 20 21 3 14 2 3 16 6 2 18 3 20 22 11 5 23 14 3 20 14 27 2 6 7 24 7 14 17 18 7 6 2 11 16 2 22 10 17 21 7 2 25 10 17 2 5 17 16 21 11 6 7 20 2 22 10 7 15 21 7 14 24 7 21 2 4 7 22 22 7 20 2 22 10 3 16 2 17 22 10 7 20 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2830-3980-0075": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> BUT THE REAL SIGNIFICANCE AND COMFORT OF THE WORDS FOR OURE SINS IS LOST UPON THEM<eos>",
+                    "rec_token": "<blank> <space> B U T <space> T H E <space> R E A L <space> S I G N I F I C A N C E <space> A N D <space> C O M F O R T <space> O F <space> T H E <space> W O R D S <space> F O R <space> O U R E <space> S I N S <space> I S <space> L O S T <space> U P O N <space> T H E M <eos>",
+                    "rec_tokenid": "0 2 4 23 22 2 22 10 7 2 20 7 3 14 2 21 11 9 16 11 8 11 5 3 16 5 7 2 3 16 6 2 5 17 15 8 17 20 22 2 17 8 2 22 10 7 2 25 17 20 6 21 2 8 17 20 2 17 23 20 7 2 21 11 16 21 2 11 21 2 14 17 21 22 2 23 18 17 16 2 22 10 7 15 29",
+                    "score": 83.47817993164062,
+                    "shape": [
+                        81,
+                        30
+                    ],
+                    "text": "BUT THE REAL SIGNIFICANCE AND COMFORT OF THE WORDS FOR OUR SINS IS LOST UPON THEM",
+                    "token": "B U T <space> T H E <space> R E A L <space> S I G N I F I C A N C E <space> A N D <space> C O M F O R T <space> O F <space> T H E <space> W O R D S <space> F O R <space> O U R <space> S I N S <space> I S <space> L O S T <space> U P O N <space> T H E M",
+                    "tokenid": "4 23 22 2 22 10 7 2 20 7 3 14 2 21 11 9 16 11 8 11 5 3 16 5 7 2 3 16 6 2 5 17 15 8 17 20 22 2 17 8 2 22 10 7 2 25 17 20 6 21 2 8 17 20 2 17 23 20 2 21 11 16 21 2 11 21 2 14 17 21 22 2 23 18 17 16 2 22 10 7 15"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2830-3980-0076": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>AON THE OTHER HAND WE ARE NOT TO REGARD THEM AS SO TERRIBLE THAT WE MUST DISPAIRE<eos>",
+                    "rec_token": "<blank> A O N <space> T H E <space> O T H E R <space> H A N D <space> W E <space> A R E <space> N O T <space> T O <space> R E G A R D <space> T H E M <space> A S <space> S O <space> T E R R I B L E <space> T H A T <space> W E <space> M U S T <space> D I S P A I R E <eos>",
+                    "rec_tokenid": "0 3 17 16 2 22 10 7 2 17 22 10 7 20 2 10 3 16 6 2 25 7 2 3 20 7 2 16 17 22 2 22 17 2 20 7 9 3 20 6 2 22 10 7 15 2 3 21 2 21 17 2 22 7 20 20 11 4 14 7 2 22 10 3 22 2 25 7 2 15 23 21 22 2 6 11 21 18 3 11 20 7 29",
+                    "score": 80.60533905029297,
+                    "shape": [
+                        79,
+                        30
+                    ],
+                    "text": "ON THE OTHER HAND WE ARE NOT TO REGARD THEM AS SO TERRIBLE THAT WE MUST DESPAIR",
+                    "token": "O N <space> T H E <space> O T H E R <space> H A N D <space> W E <space> A R E <space> N O T <space> T O <space> R E G A R D <space> T H E M <space> A S <space> S O <space> T E R R I B L E <space> T H A T <space> W E <space> M U S T <space> D E S P A I R",
+                    "tokenid": "17 16 2 22 10 7 2 17 22 10 7 20 2 10 3 16 6 2 25 7 2 3 20 7 2 16 17 22 2 22 17 2 20 7 9 3 20 6 2 22 10 7 15 2 3 21 2 21 17 2 22 7 20 20 11 4 14 7 2 22 10 3 22 2 25 7 2 15 23 21 22 2 6 7 21 18 3 11 20"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2961-960-0000": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>CHE PASSES ABRUPTLY FROM PERSONS TO IDEAS AND NUMBERS AND FROM IDEAS AND NUMBERS TO PERSONS FROM THE HEAVENS TO MAN FROM ESTRONAMEY TO PHYSIEOLEGY HE CONFEUSES OAR RATHER DUS NOT DESTINGUISH SUBJECT AND OBJECT FIRST AND FINAL CAUSES AND IS DREAMING OF GEOMATRICAL FIGURES LOSTD IN TH FLUDS OF SENCE<eos>",
+                    "rec_token": "<blank> C H E <space> P A S S E S <space> A B R U P T L Y <space> F R O M <space> P E R S O N S <space> T O <space> I D E A S <space> A N D <space> N U M B E R S <space> A N D <space> F R O M <space> I D E A S <space> A N D <space> N U M B E R S <space> T O <space> P E R S O N S <space> F R O M <space> T H E <space> H E A V E N S <space> T O <space> M A N <space> F R O M <space> E S T R O N A M E Y <space> T O <space> P H Y S I E O L E G Y <space> H E <space> C O N F E U S E S <space> O A R <space> R A T H E R <space> D U S <space> N O T <space> D E S T I N G U I S H <space> S U B J E C T <space> A N D <space> O B J E C T <space> F I R S T <space> A N D <space> F I N A L <space> C A U S E S <space> A N D <space> I S <space> D R E A M I N G <space> O F <space> G E O M A T R I C A L <space> F I G U R E S <space> L O S T D <space> I N <space> T H <space> F L U D S <space> O F <space> S E N C E <eos>",
+                    "rec_tokenid": "0 5 10 7 2 18 3 21 21 7 21 2 3 4 20 23 18 22 14 27 2 8 20 17 15 2 18 7 20 21 17 16 21 2 22 17 2 11 6 7 3 21 2 3 16 6 2 16 23 15 4 7 20 21 2 3 16 6 2 8 20 17 15 2 11 6 7 3 21 2 3 16 6 2 16 23 15 4 7 20 21 2 22 17 2 18 7 20 21 17 16 21 2 8 20 17 15 2 22 10 7 2 10 7 3 24 7 16 21 2 22 17 2 15 3 16 2 8 20 17 15 2 7 21 22 20 17 16 3 15 7 27 2 22 17 2 18 10 27 21 11 7 17 14 7 9 27 2 10 7 2 5 17 16 8 7 23 21 7 21 2 17 3 20 2 20 3 22 10 7 20 2 6 23 21 2 16 17 22 2 6 7 21 22 11 16 9 23 11 21 10 2 21 23 4 12 7 5 22 2 3 16 6 2 17 4 12 7 5 22 2 8 11 20 21 22 2 3 16 6 2 8 11 16 3 14 2 5 3 23 21 7 21 2 3 16 6 2 11 21 2 6 20 7 3 15 11 16 9 2 17 8 2 9 7 17 15 3 22 20 11 5 3 14 2 8 11 9 23 20 7 21 2 14 17 21 22 6 2 11 16 2 22 10 2 8 14 23 6 21 2 17 8 2 21 7 16 5 7 29",
+                    "score": 289.97869873046875,
+                    "shape": [
+                        291,
+                        30
+                    ],
+                    "text": "HE PASSES ABRUPTLY FROM PERSONS TO IDEAS AND NUMBERS AND FROM IDEAS AND NUMBERS TO PERSONS FROM THE HEAVENS TO MAN FROM ASTRONOMY TO PHYSIOLOGY HE CONFUSES OR RATHER DOES NOT DISTINGUISH SUBJECT AND OBJECT FIRST AND FINAL CAUSES AND IS DREAMING OF GEOMETRICAL FIGURES LOST IN A FLUX OF SENSE",
+                    "token": "H E <space> P A S S E S <space> A B R U P T L Y <space> F R O M <space> P E R S O N S <space> T O <space> I D E A S <space> A N D <space> N U M B E R S <space> A N D <space> F R O M <space> I D E A S <space> A N D <space> N U M B E R S <space> T O <space> P E R S O N S <space> F R O M <space> T H E <space> H E A V E N S <space> T O <space> M A N <space> F R O M <space> A S T R O N O M Y <space> T O <space> P H Y S I O L O G Y <space> H E <space> C O N F U S E S <space> O R <space> R A T H E R <space> D O E S <space> N O T <space> D I S T I N G U I S H <space> S U B J E C T <space> A N D <space> O B J E C T <space> F I R S T <space> A N D <space> F I N A L <space> C A U S E S <space> A N D <space> I S <space> D R E A M I N G <space> O F <space> G E O M E T R I C A L <space> F I G U R E S <space> L O S T <space> I N <space> A <space> F L U X <space> O F <space> S E N S E",
+                    "tokenid": "10 7 2 18 3 21 21 7 21 2 3 4 20 23 18 22 14 27 2 8 20 17 15 2 18 7 20 21 17 16 21 2 22 17 2 11 6 7 3 21 2 3 16 6 2 16 23 15 4 7 20 21 2 3 16 6 2 8 20 17 15 2 11 6 7 3 21 2 3 16 6 2 16 23 15 4 7 20 21 2 22 17 2 18 7 20 21 17 16 21 2 8 20 17 15 2 22 10 7 2 10 7 3 24 7 16 21 2 22 17 2 15 3 16 2 8 20 17 15 2 3 21 22 20 17 16 17 15 27 2 22 17 2 18 10 27 21 11 17 14 17 9 27 2 10 7 2 5 17 16 8 23 21 7 21 2 17 20 2 20 3 22 10 7 20 2 6 17 7 21 2 16 17 22 2 6 11 21 22 11 16 9 23 11 21 10 2 21 23 4 12 7 5 22 2 3 16 6 2 17 4 12 7 5 22 2 8 11 20 21 22 2 3 16 6 2 8 11 16 3 14 2 5 3 23 21 7 21 2 3 16 6 2 11 21 2 6 20 7 3 15 11 16 9 2 17 8 2 9 7 17 15 7 22 20 11 5 3 14 2 8 11 9 23 20 7 21 2 14 17 21 22 2 11 16 2 3 2 8 14 23 26 2 17 8 2 21 7 16 21 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2961-960-0001": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THE INFLOUENCE WHICH THEA TEMIOUS HAS EXERSIZED UPON PAUSTERITY IS DUE PARTLY TO A MISS UNDERSTANDING<eos>",
+                    "rec_token": "<blank> <space> T H E <space> I N F L O U E N C E <space> W H I C H <space> T H E A <space> T E M I O U S <space> H A S <space> E X E R S I Z E D <space> U P O N <space> P A U S T E R I T Y <space> I S <space> D U E <space> P A R T L Y <space> T O <space> A <space> M I S S <space> U N D E R S T A N D I N G <eos>",
+                    "rec_tokenid": "0 2 22 10 7 2 11 16 8 14 17 23 7 16 5 7 2 25 10 11 5 10 2 22 10 7 3 2 22 7 15 11 17 23 21 2 10 3 21 2 7 26 7 20 21 11 28 7 6 2 23 18 17 16 2 18 3 23 21 22 7 20 11 22 27 2 11 21 2 6 23 7 2 18 3 20 22 14 27 2 22 17 2 3 2 15 11 21 21 2 23 16 6 7 20 21 22 3 16 6 11 16 9 29",
+                    "score": 99.26278686523438,
+                    "shape": [
+                        95,
+                        30
+                    ],
+                    "text": "THE INFLUENCE WITH THE TIMAEUS HAS EXERCISED UPON POSTERITY IS DUE PARTLY TO A MISUNDERSTANDING",
+                    "token": "T H E <space> I N F L U E N C E <space> W I T H <space> T H E <space> T I M A E U S <space> H A S <space> E X E R C I S E D <space> U P O N <space> P O S T E R I T Y <space> I S <space> D U E <space> P A R T L Y <space> T O <space> A <space> M I S U N D E R S T A N D I N G",
+                    "tokenid": "22 10 7 2 11 16 8 14 23 7 16 5 7 2 25 11 22 10 2 22 10 7 2 22 11 15 3 7 23 21 2 10 3 21 2 7 26 7 20 5 11 21 7 6 2 23 18 17 16 2 18 17 21 22 7 20 11 22 27 2 11 21 2 6 23 7 2 18 3 20 22 14 27 2 22 17 2 3 2 15 11 21 23 16 6 7 20 21 22 3 16 6 11 16 9"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2961-960-0002": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>AIN THE SUPPOSED DEAPTHS OF THIS DIEALLOKE THE NEAL PLATINISTS FOUND HIDEN MEANINGS IN CONNECTIONS WITH THE GUISH AND CRISTIONS SCRIPTURES AND OUT OF THEM THEY IELISCITED DOCTRINS QUIETE AT VERIENCES WITH THE SPIRIT OF PLATO<eos>",
+                    "rec_token": "<blank> A I N <space> T H E <space> S U P P O S E D <space> D E A P T H S <space> O F <space> T H I S <space> D I E A L L O K E <space> T H E <space> N E A L <space> P L A T I N I S T S <space> F O U N D <space> H I D E N <space> M E A N I N G S <space> I N <space> C O N N E C T I O N S <space> W I T H <space> T H E <space> G U I S H <space> A N D <space> C R I S T I O N S <space> S C R I P T U R E S <space> A N D <space> O U T <space> O F <space> T H E M <space> T H E Y <space> I E L I S C I T E D <space> D O C T R I N S <space> Q U I E T E <space> A T <space> V E R I E N C E S <space> W I T H <space> T H E <space> S P I R I T <space> O F <space> P L A T O <eos>",
+                    "rec_tokenid": "0 3 11 16 2 22 10 7 2 21 23 18 18 17 21 7 6 2 6 7 3 18 22 10 21 2 17 8 2 22 10 11 21 2 6 11 7 3 14 14 17 13 7 2 22 10 7 2 16 7 3 14 2 18 14 3 22 11 16 11 21 22 21 2 8 17 23 16 6 2 10 11 6 7 16 2 15 7 3 16 11 16 9 21 2 11 16 2 5 17 16 16 7 5 22 11 17 16 21 2 25 11 22 10 2 22 10 7 2 9 23 11 21 10 2 3 16 6 2 5 20 11 21 22 11 17 16 21 2 21 5 20 11 18 22 23 20 7 21 2 3 16 6 2 17 23 22 2 17 8 2 22 10 7 15 2 22 10 7 27 2 11 7 14 11 21 5 11 22 7 6 2 6 17 5 22 20 11 16 21 2 19 23 11 7 22 7 2 3 22 2 24 7 20 11 7 16 5 7 21 2 25 11 22 10 2 22 10 7 2 21 18 11 20 11 22 2 17 8 2 18 14 3 22 17 29",
+                    "score": 219.65380859375,
+                    "shape": [
+                        220,
+                        30
+                    ],
+                    "text": "IN THE SUPPOSED DEPTHS OF THIS DIALOGUE THE NEO PLATONISTS FOUND HIDDEN MEANINGS AND CONNECTIONS WITH THE JEWISH AND CHRISTIAN SCRIPTURES AND OUT OF THEM THEY ELICITED DOCTRINES QUITE AT VARIANCE WITH THE SPIRIT OF PLATO",
+                    "token": "I N <space> T H E <space> S U P P O S E D <space> D E P T H S <space> O F <space> T H I S <space> D I A L O G U E <space> T H E <space> N E O <space> P L A T O N I S T S <space> F O U N D <space> H I D D E N <space> M E A N I N G S <space> A N D <space> C O N N E C T I O N S <space> W I T H <space> T H E <space> J E W I S H <space> A N D <space> C H R I S T I A N <space> S C R I P T U R E S <space> A N D <space> O U T <space> O F <space> T H E M <space> T H E Y <space> E L I C I T E D <space> D O C T R I N E S <space> Q U I T E <space> A T <space> V A R I A N C E <space> W I T H <space> T H E <space> S P I R I T <space> O F <space> P L A T O",
+                    "tokenid": "11 16 2 22 10 7 2 21 23 18 18 17 21 7 6 2 6 7 18 22 10 21 2 17 8 2 22 10 11 21 2 6 11 3 14 17 9 23 7 2 22 10 7 2 16 7 17 2 18 14 3 22 17 16 11 21 22 21 2 8 17 23 16 6 2 10 11 6 6 7 16 2 15 7 3 16 11 16 9 21 2 3 16 6 2 5 17 16 16 7 5 22 11 17 16 21 2 25 11 22 10 2 22 10 7 2 12 7 25 11 21 10 2 3 16 6 2 5 10 20 11 21 22 11 3 16 2 21 5 20 11 18 22 23 20 7 21 2 3 16 6 2 17 23 22 2 17 8 2 22 10 7 15 2 22 10 7 27 2 7 14 11 5 11 22 7 6 2 6 17 5 22 20 11 16 7 21 2 19 23 11 22 7 2 3 22 2 24 3 20 11 3 16 5 7 2 25 11 22 10 2 22 10 7 2 21 18 11 20 11 22 2 17 8 2 18 14 3 22 17"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2961-960-0003": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THEY WERE OBSORBED IN HIS THEOLOGY AND WERE UNDER THE DEMINIAON OF HIS NAME WHILE THAT WHICH WAS TRUELY GREATE AND TRUELY CARECTURISTIC IN HIM HIS EFORT T REALLEIZED IN CONECTE ABSTRACTIONS WAS NOT UNDERSTOOD BY THEM AT ALL<eos>",
+                    "rec_token": "<blank> <space> T H E Y <space> W E R E <space> O B S O R B E D <space> I N <space> H I S <space> T H E O L O G Y <space> A N D <space> W E R E <space> U N D E R <space> T H E <space> D E M I N I A O N <space> O F <space> H I S <space> N A M E <space> W H I L E <space> T H A T <space> W H I C H <space> W A S <space> T R U E L Y <space> G R E A T E <space> A N D <space> T R U E L Y <space> C A R E C T U R I S T I C <space> I N <space> H I M <space> H I S <space> E F O R T <space> T <space> R E A L L E I Z E D <space> I N <space> C O N E C T E <space> A B S T R A C T I O N S <space> W A S <space> N O T <space> U N D E R S T O O D <space> B Y <space> T H E M <space> A T <space> A L L <eos>",
+                    "rec_tokenid": "0 2 22 10 7 27 2 25 7 20 7 2 17 4 21 17 20 4 7 6 2 11 16 2 10 11 21 2 22 10 7 17 14 17 9 27 2 3 16 6 2 25 7 20 7 2 23 16 6 7 20 2 22 10 7 2 6 7 15 11 16 11 3 17 16 2 17 8 2 10 11 21 2 16 3 15 7 2 25 10 11 14 7 2 22 10 3 22 2 25 10 11 5 10 2 25 3 21 2 22 20 23 7 14 27 2 9 20 7 3 22 7 2 3 16 6 2 22 20 23 7 14 27 2 5 3 20 7 5 22 23 20 11 21 22 11 5 2 11 16 2 10 11 15 2 10 11 21 2 7 8 17 20 22 2 22 2 20 7 3 14 14 7 11 28 7 6 2 11 16 2 5 17 16 7 5 22 7 2 3 4 21 22 20 3 5 22 11 17 16 21 2 25 3 21 2 16 17 22 2 23 16 6 7 20 21 22 17 17 6 2 4 27 2 22 10 7 15 2 3 22 2 3 14 14 29",
+                    "score": 216.4139404296875,
+                    "shape": [
+                        220,
+                        30
+                    ],
+                    "text": "THEY WERE ABSORBED IN HIS THEOLOGY AND WERE UNDER THE DOMINION OF HIS NAME WHILE THAT WHICH WAS TRULY GREAT AND TRULY CHARACTERISTIC IN HIM HIS EFFORT TO REALIZE AND CONNECT ABSTRACTIONS WAS NOT UNDERSTOOD BY THEM AT ALL",
+                    "token": "T H E Y <space> W E R E <space> A B S O R B E D <space> I N <space> H I S <space> T H E O L O G Y <space> A N D <space> W E R E <space> U N D E R <space> T H E <space> D O M I N I O N <space> O F <space> H I S <space> N A M E <space> W H I L E <space> T H A T <space> W H I C H <space> W A S <space> T R U L Y <space> G R E A T <space> A N D <space> T R U L Y <space> C H A R A C T E R I S T I C <space> I N <space> H I M <space> H I S <space> E F F O R T <space> T O <space> R E A L I Z E <space> A N D <space> C O N N E C T <space> A B S T R A C T I O N S <space> W A S <space> N O T <space> U N D E R S T O O D <space> B Y <space> T H E M <space> A T <space> A L L",
+                    "tokenid": "22 10 7 27 2 25 7 20 7 2 3 4 21 17 20 4 7 6 2 11 16 2 10 11 21 2 22 10 7 17 14 17 9 27 2 3 16 6 2 25 7 20 7 2 23 16 6 7 20 2 22 10 7 2 6 17 15 11 16 11 17 16 2 17 8 2 10 11 21 2 16 3 15 7 2 25 10 11 14 7 2 22 10 3 22 2 25 10 11 5 10 2 25 3 21 2 22 20 23 14 27 2 9 20 7 3 22 2 3 16 6 2 22 20 23 14 27 2 5 10 3 20 3 5 22 7 20 11 21 22 11 5 2 11 16 2 10 11 15 2 10 11 21 2 7 8 8 17 20 22 2 22 17 2 20 7 3 14 11 28 7 2 3 16 6 2 5 17 16 16 7 5 22 2 3 4 21 22 20 3 5 22 11 17 16 21 2 25 3 21 2 16 17 22 2 23 16 6 7 20 21 22 17 17 6 2 4 27 2 22 10 7 15 2 3 22 2 3 14 14"
+                }
+            ],
+            "utt2spk": ""
+        }
+    }
+}

@@ -1,0 +1,52 @@
+# Running on cpu-p-345
+# Started at Fri Jun 4 00:31:13 BST 2021
+# SLURMD_NODENAME=cpu-p-345
+# SLURM_ARRAY_JOB_ID=41685070
+# SLURM_ARRAY_TASK_COUNT=100
+# SLURM_ARRAY_TASK_ID=62
+# SLURM_ARRAY_TASK_MAX=100
+# SLURM_ARRAY_TASK_MIN=1
+# SLURM_ARRAY_TASK_STEP=1
+# SLURM_CLUSTER_NAME=csd3
+# SLURM_CPUS_ON_NODE=1
+# SLURM_EXPORT_ENV=PATH
+# SLURM_GET_USER_ENV=1
+# SLURM_GTIDS=0
+# SLURM_JOBID=41685240
+# SLURM_JOB_ACCOUNT=mlmi-xy316-sl2-cpu
+# SLURM_JOB_CPUS_PER_NODE=1
+# SLURM_JOB_GID=18469
+# SLURM_JOB_ID=41685240
+# SLURM_JOB_NAME=decode.sh
+# SLURM_JOB_NODELIST=cpu-p-345
+# SLURM_JOB_NUM_NODES=1
+# SLURM_JOB_PARTITION=cclake
+# SLURM_JOB_QOS=cpu1
+# SLURM_JOB_UID=18457
+# SLURM_JOB_USER=xy316
+# SLURM_LOCALID=0
+# SLURM_MEM_PER_CPU=3420
+# SLURM_MPI_TYPE=pmi2
+# SLURM_NNODES=1
+# SLURM_NODEID=0
+# SLURM_NODELIST=cpu-p-345
+# SLURM_NODE_ALIASES='(null)'
+# SLURM_OPEN_MODE=a
+# SLURM_PRIO_PROCESS=0
+# SLURM_PROCID=0
+# SLURM_SUBMIT_DIR=/rds/user/xy316/hpc-work/mphil/espnet/egs/librispeech/asr1
+# SLURM_SUBMIT_HOST=login-e-13
+# SLURM_TASKS_PER_NODE=1
+# SLURM_TASK_PID=261677
+# SLURM_TOPOLOGY_ADDR=cpu-p-345
+# SLURM_TOPOLOGY_ADDR_PATTERN=node
+# SLURM_WORKING_CLUSTER=csd3:10.43.89.1:6817:8704:101
+# asr_recog.py --config conf/decode_w2v2_ctc_1.0_ins1_beam50_lm0.yaml --ngpu 0 --backend pytorch --debugmode 1 --verbose 0 --recog-json /rds/user/xy316/hpc-work/mphil/espnet/egs/librispeech/asr1/decode_w2v2/test_clean/split100utt/data.62.json --result-label exp/train_librispeech_1h_pytorch_base_from_scratch_bs4_accum4_maskchannel0.25/decode_test_clean_decode_w2v2_ctc_1.0_ins1_beam50_lm0_/data.62.json --model exp/train_librispeech_1h_pytorch_base_from_scratch_bs4_accum4_maskchannel0.25/results/snapshot.ep.750 
+2021-06-04 00:31:15,072 (asr_recog:288) WARNING: Skip DEBUG/INFO messages
+2021-06-04 00:31:20,901 (asr_init:162) WARNING: reading model parameters from exp/train_librispeech_1h_pytorch_base_from_scratch_bs4_accum4_maskchannel0.25/results/snapshot.ep.750
+2021-06-04 00:31:20,903 (nets_utils:422) WARNING: Subsampling is not performed for vgg*. It is performed in max pooling layers at CNN.
+----Starting recoginition----
+# Accounting: begin_time=1622763073
+# Accounting: end_time=1622763451
+# Accounting: time=378 threads=1
+# Finished at Fri Jun 4 00:37:31 BST 2021 with status 0

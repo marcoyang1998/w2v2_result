@@ -1,0 +1,574 @@
+{
+    "utts": {
+        "367-130732-0010": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>KING OF SELFPHISH<eos>",
+                    "rec_token": "<blank> <eos> K I N G <space> O F <space> S E L F P H I S H <eos>",
+                    "rec_tokenid": "0 29 13 11 16 9 2 17 8 2 21 7 14 8 18 10 11 21 10 29",
+                    "score": 261.6390380859375,
+                    "shape": [
+                        18,
+                        30
+                    ],
+                    "text": "KING OF SHELL FISH",
+                    "token": "K I N G <space> O F <space> S H E L L <space> F I S H",
+                    "tokenid": "13 11 16 9 2 17 8 2 21 10 7 14 14 2 8 11 21 10"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "367-130732-0011": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>AONE HAS TO COME TO SAN FRINCISCO TO PARTAKE OF THE KING OF SHELFISH THE MAMMATH POSIPHIC CRAB<eos>",
+                    "rec_token": "<blank> A O N E <space> H A S <space> T O <space> C O M E <space> T O <space> S A N <space> F R I N C I S C O <space> T O <space> P A R T A K E <space> O F <space> T H E <space> K I N G <space> O F <space> S H E L F I S H <space> T H E <space> M A M M A T H <space> P O S I P H I C <space> C R A B <eos>",
+                    "rec_tokenid": "0 3 17 16 7 2 10 3 21 2 22 17 2 5 17 15 7 2 22 17 2 21 3 16 2 8 20 11 16 5 11 21 5 17 2 22 17 2 18 3 20 22 3 13 7 2 17 8 2 22 10 7 2 13 11 16 9 2 17 8 2 21 10 7 14 8 11 21 10 2 22 10 7 2 15 3 15 15 3 22 10 2 18 17 21 11 18 10 11 5 2 5 20 3 4 29",
+                    "score": 93.0100326538086,
+                    "shape": [
+                        94,
+                        30
+                    ],
+                    "text": "ONE HAS TO COME TO SAN FRANCISCO TO PARTAKE OF THE KING OF SHELL FISH THE MAMMOTH PACIFIC CRAB",
+                    "token": "O N E <space> H A S <space> T O <space> C O M E <space> T O <space> S A N <space> F R A N C I S C O <space> T O <space> P A R T A K E <space> O F <space> T H E <space> K I N G <space> O F <space> S H E L L <space> F I S H <space> T H E <space> M A M M O T H <space> P A C I F I C <space> C R A B",
+                    "tokenid": "17 16 7 2 10 3 21 2 22 17 2 5 17 15 7 2 22 17 2 21 3 16 2 8 20 3 16 5 11 21 5 17 2 22 17 2 18 3 20 22 3 13 7 2 17 8 2 22 10 7 2 13 11 16 9 2 17 8 2 21 10 7 14 14 2 8 11 21 10 2 22 10 7 2 15 3 15 15 17 22 10 2 18 3 5 11 8 11 5 2 5 20 3 4"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "367-130732-0012": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>HI SAY COME TO SANFRONCISCO ADVISELY FOR WHILE THE QRAB IS FOUND ALL ALONG THE COST IT IS PREPARED NO WERE SO DELITIOUSLY AS IN SAN FRINCISCO<eos>",
+                    "rec_token": "<blank> H I <space> S A Y <space> C O M E <space> T O <space> S A N F R O N C I S C O <space> A D V I S E L Y <space> F O R <space> W H I L E <space> T H E <space> Q R A B <space> I S <space> F O U N D <space> A L L <space> A L O N G <space> T H E <space> C O S T <space> I T <space> I S <space> P R E P A R E D <space> N O <space> W E R E <space> S O <space> D E L I T I O U S L Y <space> A S <space> I N <space> S A N <space> F R I N C I S C O <eos>",
+                    "rec_tokenid": "0 10 11 2 21 3 27 2 5 17 15 7 2 22 17 2 21 3 16 8 20 17 16 5 11 21 5 17 2 3 6 24 11 21 7 14 27 2 8 17 20 2 25 10 11 14 7 2 22 10 7 2 19 20 3 4 2 11 21 2 8 17 23 16 6 2 3 14 14 2 3 14 17 16 9 2 22 10 7 2 5 17 21 22 2 11 22 2 11 21 2 18 20 7 18 3 20 7 6 2 16 17 2 25 7 20 7 2 21 17 2 6 7 14 11 22 11 17 23 21 14 27 2 3 21 2 11 16 2 21 3 16 2 8 20 11 16 5 11 21 5 17 29",
+                    "score": 136.20413208007812,
+                    "shape": [
+                        143,
+                        30
+                    ],
+                    "text": "I SAY COME TO SAN FRANCISCO ADVISEDLY FOR WHILE THE CRAB IS FOUND ALL ALONG THE COAST IT IS PREPARED NOWHERE SO DELICIOUSLY AS IN SAN FRANCISCO",
+                    "token": "I <space> S A Y <space> C O M E <space> T O <space> S A N <space> F R A N C I S C O <space> A D V I S E D L Y <space> F O R <space> W H I L E <space> T H E <space> C R A B <space> I S <space> F O U N D <space> A L L <space> A L O N G <space> T H E <space> C O A S T <space> I T <space> I S <space> P R E P A R E D <space> N O W H E R E <space> S O <space> D E L I C I O U S L Y <space> A S <space> I N <space> S A N <space> F R A N C I S C O",
+                    "tokenid": "11 2 21 3 27 2 5 17 15 7 2 22 17 2 21 3 16 2 8 20 3 16 5 11 21 5 17 2 3 6 24 11 21 7 6 14 27 2 8 17 20 2 25 10 11 14 7 2 22 10 7 2 5 20 3 4 2 11 21 2 8 17 23 16 6 2 3 14 14 2 3 14 17 16 9 2 22 10 7 2 5 17 3 21 22 2 11 22 2 11 21 2 18 20 7 18 3 20 7 6 2 16 17 25 10 7 20 7 2 21 17 2 6 7 14 11 5 11 17 23 21 14 27 2 3 21 2 11 16 2 21 3 16 2 8 20 3 16 5 11 21 5 17"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "367-130732-0013": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> GOBIES PASED WITH THE FIRE AND THE LITTLE RESTRONT BEARING HIS NAME AND INCHARGE OF HIS WIDOW AN UNIONS SQUR AVINEUW HAS NOT OBDTAINED THE FAME OF THE OLD PLACE<eos>",
+                    "rec_token": "<blank> <space> G O B I E S <space> P A S E D <space> W I T H <space> T H E <space> F I R E <space> A N D <space> T H E <space> L I T T L E <space> R E S T R O N T <space> B E A R I N G <space> H I S <space> N A M E <space> A N D <space> I N C H A R G E <space> O F <space> H I S <space> W I D O W <space> A N <space> U N I O N S <space> S Q U R <space> A V I N E U W <space> H A S <space> N O T <space> O B D T A I N E D <space> T H E <space> F A M E <space> O F <space> T H E <space> O L D <space> P L A C E <eos>",
+                    "rec_tokenid": "0 2 9 17 4 11 7 21 2 18 3 21 7 6 2 25 11 22 10 2 22 10 7 2 8 11 20 7 2 3 16 6 2 22 10 7 2 14 11 22 22 14 7 2 20 7 21 22 20 17 16 22 2 4 7 3 20 11 16 9 2 10 11 21 2 16 3 15 7 2 3 16 6 2 11 16 5 10 3 20 9 7 2 17 8 2 10 11 21 2 25 11 6 17 25 2 3 16 2 23 16 11 17 16 21 2 21 19 23 20 2 3 24 11 16 7 23 25 2 10 3 21 2 16 17 22 2 17 4 6 22 3 11 16 7 6 2 22 10 7 2 8 3 15 7 2 17 8 2 22 10 7 2 17 14 6 2 18 14 3 5 7 29",
+                    "score": 152.47610473632812,
+                    "shape": [
+                        164,
+                        30
+                    ],
+                    "text": "GOBEY'S PASSED WITH THE FIRE AND THE LITTLE RESTAURANT BEARING HIS NAME AND IN CHARGE OF HIS WIDOW IN UNION SQUARE AVENUE HAS NOT ATTAINED THE FAME OF THE OLD PLACE",
+                    "token": "G O B E Y <unk> S <space> P A S S E D <space> W I T H <space> T H E <space> F I R E <space> A N D <space> T H E <space> L I T T L E <space> R E S T A U R A N T <space> B E A R I N G <space> H I S <space> N A M E <space> A N D <space> I N <space> C H A R G E <space> O F <space> H I S <space> W I D O W <space> I N <space> U N I O N <space> S Q U A R E <space> A V E N U E <space> H A S <space> N O T <space> A T T A I N E D <space> T H E <space> F A M E <space> O F <space> T H E <space> O L D <space> P L A C E",
+                    "tokenid": "9 17 4 7 27 1 21 2 18 3 21 21 7 6 2 25 11 22 10 2 22 10 7 2 8 11 20 7 2 3 16 6 2 22 10 7 2 14 11 22 22 14 7 2 20 7 21 22 3 23 20 3 16 22 2 4 7 3 20 11 16 9 2 10 11 21 2 16 3 15 7 2 3 16 6 2 11 16 2 5 10 3 20 9 7 2 17 8 2 10 11 21 2 25 11 6 17 25 2 11 16 2 23 16 11 17 16 2 21 19 23 3 20 7 2 3 24 7 16 23 7 2 10 3 21 2 16 17 22 2 3 22 22 3 11 16 7 6 2 22 10 7 2 8 3 15 7 2 17 8 2 22 10 7 2 17 14 6 2 18 14 3 5 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "367-130732-0014": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> IT IS POSSIBLE THAT SHE KNOWS THE SEECRETE OF PREPARING CRAB AS IT WAS PREPARED ON THE GOBIS OF BEFORE THE FIRE BUT HIS PROSCEGE DID NOT DESCEND TO HER<eos>",
+                    "rec_token": "<blank> <space> I T <space> I S <space> P O S S I B L E <space> T H A T <space> S H E <space> K N O W S <space> T H E <space> S E E C R E T E <space> O F <space> P R E P A R I N G <space> C R A B <space> A S <space> I T <space> W A S <space> P R E P A R E D <space> O N <space> T H E <space> G O B I S <space> O F <space> B E F O R E <space> T H E <space> F I R E <space> B U T <space> H I S <space> P R O S C E G E <space> D I D <space> N O T <space> D E S C E N D <space> T O <space> H E R <eos>",
+                    "rec_tokenid": "0 2 11 22 2 11 21 2 18 17 21 21 11 4 14 7 2 22 10 3 22 2 21 10 7 2 13 16 17 25 21 2 22 10 7 2 21 7 7 5 20 7 22 7 2 17 8 2 18 20 7 18 3 20 11 16 9 2 5 20 3 4 2 3 21 2 11 22 2 25 3 21 2 18 20 7 18 3 20 7 6 2 17 16 2 22 10 7 2 9 17 4 11 21 2 17 8 2 4 7 8 17 20 7 2 22 10 7 2 8 11 20 7 2 4 23 22 2 10 11 21 2 18 20 17 21 5 7 9 7 2 6 11 6 2 16 17 22 2 6 7 21 5 7 16 6 2 22 17 2 10 7 20 29",
+                    "score": 150.730712890625,
+                    "shape": [
+                        151,
+                        30
+                    ],
+                    "text": "IT IS POSSIBLE THAT SHE KNOWS THE SECRET OF PREPARING CRAB AS IT WAS PREPARED IN THE GOBEY'S OF BEFORE THE FIRE BUT HIS PRESTIGE DID NOT DESCEND TO HER",
+                    "token": "I T <space> I S <space> P O S S I B L E <space> T H A T <space> S H E <space> K N O W S <space> T H E <space> S E C R E T <space> O F <space> P R E P A R I N G <space> C R A B <space> A S <space> I T <space> W A S <space> P R E P A R E D <space> I N <space> T H E <space> G O B E Y <unk> S <space> O F <space> B E F O R E <space> T H E <space> F I R E <space> B U T <space> H I S <space> P R E S T I G E <space> D I D <space> N O T <space> D E S C E N D <space> T O <space> H E R",
+                    "tokenid": "11 22 2 11 21 2 18 17 21 21 11 4 14 7 2 22 10 3 22 2 21 10 7 2 13 16 17 25 21 2 22 10 7 2 21 7 5 20 7 22 2 17 8 2 18 20 7 18 3 20 11 16 9 2 5 20 3 4 2 3 21 2 11 22 2 25 3 21 2 18 20 7 18 3 20 7 6 2 11 16 2 22 10 7 2 9 17 4 7 27 1 21 2 17 8 2 4 7 8 17 20 7 2 22 10 7 2 8 11 20 7 2 4 23 22 2 10 11 21 2 18 20 7 21 22 11 9 7 2 6 11 6 2 16 17 22 2 6 7 21 5 7 16 6 2 22 17 2 10 7 20"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "367-130732-0015": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>GOLBIS CRAB STO<eos>",
+                    "rec_token": "<blank> <eos> G O L B I S <space> C R A B <space> S T O <eos>",
+                    "rec_tokenid": "0 29 9 17 14 4 11 21 2 5 20 3 4 2 21 22 17 29",
+                    "score": 178.47361755371094,
+                    "shape": [
+                        17,
+                        30
+                    ],
+                    "text": "GOBEY'S CRAB STEW",
+                    "token": "G O B E Y <unk> S <space> C R A B <space> S T E W",
+                    "tokenid": "9 17 4 7 27 1 21 2 5 20 3 4 2 21 22 7 25"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "367-130732-0016": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> TAKE THE MEET OF ONE LARGE CRAB SCRAIPING OUT ALL THE BAT FROM THE SHELL<eos>",
+                    "rec_token": "<blank> <space> T A K E <space> T H E <space> M E E T <space> O F <space> O N E <space> L A R G E <space> C R A B <space> S C R A I P I N G <space> O U T <space> A L L <space> T H E <space> B A T <space> F R O M <space> T H E <space> S H E L L <eos>",
+                    "rec_tokenid": "0 2 22 3 13 7 2 22 10 7 2 15 7 7 22 2 17 8 2 17 16 7 2 14 3 20 9 7 2 5 20 3 4 2 21 5 20 3 11 18 11 16 9 2 17 23 22 2 3 14 14 2 22 10 7 2 4 3 22 2 8 20 17 15 2 22 10 7 2 21 10 7 14 14 29",
+                    "score": 72.45536804199219,
+                    "shape": [
+                        74,
+                        30
+                    ],
+                    "text": "TAKE THE MEAT OF ONE LARGE CRAB SCRAPING OUT ALL OF THE FAT FROM THE SHELL",
+                    "token": "T A K E <space> T H E <space> M E A T <space> O F <space> O N E <space> L A R G E <space> C R A B <space> S C R A P I N G <space> O U T <space> A L L <space> O F <space> T H E <space> F A T <space> F R O M <space> T H E <space> S H E L L",
+                    "tokenid": "22 3 13 7 2 22 10 7 2 15 7 3 22 2 17 8 2 17 16 7 2 14 3 20 9 7 2 5 20 3 4 2 21 5 20 3 18 11 16 9 2 17 23 22 2 3 14 14 2 17 8 2 22 10 7 2 8 3 22 2 8 20 17 15 2 22 10 7 2 21 10 7 14 14"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "367-130732-0017": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> SILK TE CRAB ME IN THE SHAR TWO OURS BEFORE COUOCKING<eos>",
+                    "rec_token": "<blank> <space> S I L K <space> T E <space> C R A B <space> M E <space> I N <space> T H E <space> S H A R <space> T W O <space> O U R S <space> B E F O R E <space> C O U O C K I N G <eos>",
+                    "rec_tokenid": "0 2 21 11 14 13 2 22 7 2 5 20 3 4 2 15 7 2 11 16 2 22 10 7 2 21 10 3 20 2 22 25 17 2 17 23 20 21 2 4 7 8 17 20 7 2 5 17 23 17 5 13 11 16 9 29",
+                    "score": 51.599098205566406,
+                    "shape": [
+                        57,
+                        30
+                    ],
+                    "text": "SOAK THE CRAB MEAT IN THE SHERRY TWO HOURS BEFORE COOKING",
+                    "token": "S O A K <space> T H E <space> C R A B <space> M E A T <space> I N <space> T H E <space> S H E R R Y <space> T W O <space> H O U R S <space> B E F O R E <space> C O O K I N G",
+                    "tokenid": "21 17 3 13 2 22 10 7 2 5 20 3 4 2 15 7 3 22 2 11 16 2 22 10 7 2 21 10 7 20 20 27 2 22 25 17 2 10 17 23 20 21 2 4 7 8 17 20 7 2 5 17 17 13 11 16 9"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "367-130732-0018": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> CHOP FINE THE UNIUN SWEET PEPER ANTEMADO WITH THE ROSEMARRY<eos>",
+                    "rec_token": "<blank> <space> C H O P <space> F I N E <space> T H E <space> U N I U N <space> S W E E T <space> P E P E R <space> A N T E M A D O <space> W I T H <space> T H E <space> R O S E M A R R Y <eos>",
+                    "rec_tokenid": "0 2 5 10 17 18 2 8 11 16 7 2 22 10 7 2 23 16 11 23 16 2 21 25 7 7 22 2 18 7 18 7 20 2 3 16 22 7 15 3 6 17 2 25 11 22 10 2 22 10 7 2 20 17 21 7 15 3 20 20 27 29",
+                    "score": 58.37820053100586,
+                    "shape": [
+                        61,
+                        30
+                    ],
+                    "text": "CHOP FINE THE ONION SWEET PEPPER AND TOMATO WITH THE ROSEMARY",
+                    "token": "C H O P <space> F I N E <space> T H E <space> O N I O N <space> S W E E T <space> P E P P E R <space> A N D <space> T O M A T O <space> W I T H <space> T H E <space> R O S E M A R Y",
+                    "tokenid": "5 10 17 18 2 8 11 16 7 2 22 10 7 2 17 16 11 17 16 2 21 25 7 7 22 2 18 7 18 18 7 20 2 3 16 6 2 22 17 15 3 22 17 2 25 11 22 10 2 22 10 7 2 20 17 21 7 15 3 20 27"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "367-130732-0019": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> HEAPED US IN A STUPAND AND WEND SIVERING AT THE SHERY AND CRABMEY AND LET ALL COOK TOGETHER WITH THE SLOW FIRE FOR EIGHTE MINETS<eos>",
+                    "rec_token": "<blank> <space> H E A P E D <space> U S <space> I N <space> A <space> S T U P A N D <space> A N D <space> W E N D <space> S I V E R I N G <space> A T <space> T H E <space> S H E R Y <space> A N D <space> C R A B M E Y <space> A N D <space> L E T <space> A L L <space> C O O K <space> T O G E T H E R <space> W I T H <space> T H E <space> S L O W <space> F I R E <space> F O R <space> E I G H T E <space> M I N E T S <eos>",
+                    "rec_tokenid": "0 2 10 7 3 18 7 6 2 23 21 2 11 16 2 3 2 21 22 23 18 3 16 6 2 3 16 6 2 25 7 16 6 2 21 11 24 7 20 11 16 9 2 3 22 2 22 10 7 2 21 10 7 20 27 2 3 16 6 2 5 20 3 4 15 7 27 2 3 16 6 2 14 7 22 2 3 14 14 2 5 17 17 13 2 22 17 9 7 22 10 7 20 2 25 11 22 10 2 22 10 7 2 21 14 17 25 2 8 11 20 7 2 8 17 20 2 7 11 9 10 22 7 2 15 11 16 7 22 21 29",
+                    "score": 124.38987731933594,
+                    "shape": [
+                        131,
+                        30
+                    ],
+                    "text": "HEAT THIS IN A STEWPAN AND WHEN SIMMERING ADD THE SHERRY AND CRAB MEAT AND LET ALL COOK TOGETHER WITH A SLOW FIRE FOR EIGHT MINUTES",
+                    "token": "H E A T <space> T H I S <space> I N <space> A <space> S T E W P A N <space> A N D <space> W H E N <space> S I M M E R I N G <space> A D D <space> T H E <space> S H E R R Y <space> A N D <space> C R A B <space> M E A T <space> A N D <space> L E T <space> A L L <space> C O O K <space> T O G E T H E R <space> W I T H <space> A <space> S L O W <space> F I R E <space> F O R <space> E I G H T <space> M I N U T E S",
+                    "tokenid": "10 7 3 22 2 22 10 11 21 2 11 16 2 3 2 21 22 7 25 18 3 16 2 3 16 6 2 25 10 7 16 2 21 11 15 15 7 20 11 16 9 2 3 6 6 2 22 10 7 2 21 10 7 20 20 27 2 3 16 6 2 5 20 3 4 2 15 7 3 22 2 3 16 6 2 14 7 22 2 3 14 14 2 5 17 17 13 2 22 17 9 7 22 10 7 20 2 25 11 22 10 2 3 2 21 14 17 25 2 8 11 20 7 2 8 17 20 2 7 11 9 10 22 2 15 11 16 23 22 7 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "367-130732-0020": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> SERVE IN A CHAPING DISSH WITH TOSTED CRACKERS OR THIN SLICES OF TOSTED BREAD<eos>",
+                    "rec_token": "<blank> <space> S E R V E <space> I N <space> A <space> C H A P I N G <space> D I S S H <space> W I T H <space> T O S T E D <space> C R A C K E R S <space> O R <space> T H I N <space> S L I C E S <space> O F <space> T O S T E D <space> B R E A D <eos>",
+                    "rec_tokenid": "0 2 21 7 20 24 7 2 11 16 2 3 2 5 10 3 18 11 16 9 2 6 11 21 21 10 2 25 11 22 10 2 22 17 21 22 7 6 2 5 20 3 5 13 7 20 21 2 17 20 2 22 10 11 16 2 21 14 11 5 7 21 2 17 8 2 22 17 21 22 7 6 2 4 20 7 3 6 29",
+                    "score": 77.23017883300781,
+                    "shape": [
+                        77,
+                        30
+                    ],
+                    "text": "SERVE IN A CHAFING DISH WITH TOASTED CRACKERS OR THIN SLICES OF TOASTED BREAD",
+                    "token": "S E R V E <space> I N <space> A <space> C H A F I N G <space> D I S H <space> W I T H <space> T O A S T E D <space> C R A C K E R S <space> O R <space> T H I N <space> S L I C E S <space> O F <space> T O A S T E D <space> B R E A D",
+                    "tokenid": "21 7 20 24 7 2 11 16 2 3 2 5 10 3 8 11 16 9 2 6 11 21 10 2 25 11 22 10 2 22 17 3 21 22 7 6 2 5 20 3 5 13 7 20 21 2 17 20 2 22 10 11 16 2 21 14 11 5 7 21 2 17 8 2 22 17 3 21 22 7 6 2 4 20 7 3 6"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "367-130732-0021": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>LOUBSTER IN MINNIATURE<eos>",
+                    "rec_token": "<blank> <eos> L O U B S T E R <space> I N <space> M I N N I A T U R E <eos>",
+                    "rec_tokenid": "0 29 14 17 23 4 21 22 7 20 2 11 16 2 15 11 16 16 11 3 22 23 20 7 29",
+                    "score": 249.39132690429688,
+                    "shape": [
+                        20,
+                        30
+                    ],
+                    "text": "LOBSTER IN MINIATURE",
+                    "token": "L O B S T E R <space> I N <space> M I N I A T U R E",
+                    "tokenid": "14 17 4 21 22 7 20 2 11 16 2 15 11 16 11 3 22 23 20 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "367-130732-0022": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> SO FAR IT HAS BEEN USED MOSTLY FOR GARNISHMENT OF OTHER DIHES AND IT IS ONLY REASENTLY THAT THE WHOLE BROW HAS BEEN MAKING A SPECIALTY OF THEM<eos>",
+                    "rec_token": "<blank> <space> S O <space> F A R <space> I T <space> H A S <space> B E E N <space> U S E D <space> M O S T L Y <space> F O R <space> G A R N I S H M E N T <space> O F <space> O T H E R <space> D I H E S <space> A N D <space> I T <space> I S <space> O N L Y <space> R E A S E N T L Y <space> T H A T <space> T H E <space> W H O L E <space> B R O W <space> H A S <space> B E E N <space> M A K I N G <space> A <space> S P E C I A L T Y <space> O F <space> T H E M <eos>",
+                    "rec_tokenid": "0 2 21 17 2 8 3 20 2 11 22 2 10 3 21 2 4 7 7 16 2 23 21 7 6 2 15 17 21 22 14 27 2 8 17 20 2 9 3 20 16 11 21 10 15 7 16 22 2 17 8 2 17 22 10 7 20 2 6 11 10 7 21 2 3 16 6 2 11 22 2 11 21 2 17 16 14 27 2 20 7 3 21 7 16 22 14 27 2 22 10 3 22 2 22 10 7 2 25 10 17 14 7 2 4 20 17 25 2 10 3 21 2 4 7 7 16 2 15 3 13 11 16 9 2 3 2 21 18 7 5 11 3 14 22 27 2 17 8 2 22 10 7 15 29",
+                    "score": 142.55059814453125,
+                    "shape": [
+                        140,
+                        30
+                    ],
+                    "text": "SO FAR IT HAS BEEN USED MOSTLY FOR GARNISHMENT OF OTHER DISHES AND IT IS ONLY RECENTLY THAT THE HOF BRAU HAS BEEN MAKING A SPECIALTY OF THEM",
+                    "token": "S O <space> F A R <space> I T <space> H A S <space> B E E N <space> U S E D <space> M O S T L Y <space> F O R <space> G A R N I S H M E N T <space> O F <space> O T H E R <space> D I S H E S <space> A N D <space> I T <space> I S <space> O N L Y <space> R E C E N T L Y <space> T H A T <space> T H E <space> H O F <space> B R A U <space> H A S <space> B E E N <space> M A K I N G <space> A <space> S P E C I A L T Y <space> O F <space> T H E M",
+                    "tokenid": "21 17 2 8 3 20 2 11 22 2 10 3 21 2 4 7 7 16 2 23 21 7 6 2 15 17 21 22 14 27 2 8 17 20 2 9 3 20 16 11 21 10 15 7 16 22 2 17 8 2 17 22 10 7 20 2 6 11 21 10 7 21 2 3 16 6 2 11 22 2 11 21 2 17 16 14 27 2 20 7 5 7 16 22 14 27 2 22 10 3 22 2 22 10 7 2 10 17 8 2 4 20 3 23 2 10 3 21 2 4 7 7 16 2 15 3 13 11 16 9 2 3 2 21 18 7 5 11 3 14 22 27 2 17 8 2 22 10 7 15"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "367-130732-0023": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> ALL OF THE BETTER CLAS RESTROTS HOWEVER WIL SARVE THEM IF YOU ORDER THEM<eos>",
+                    "rec_token": "<blank> <space> A L L <space> O F <space> T H E <space> B E T T E R <space> C L A S <space> R E S T R O T S <space> H O W E V E R <space> W I L <space> S A R V E <space> T H E M <space> I F <space> Y O U <space> O R D E R <space> T H E M <eos>",
+                    "rec_tokenid": "0 2 3 14 14 2 17 8 2 22 10 7 2 4 7 22 22 7 20 2 5 14 3 21 2 20 7 21 22 20 17 22 21 2 10 17 25 7 24 7 20 2 25 11 14 2 21 3 20 24 7 2 22 10 7 15 2 11 8 2 27 17 23 2 17 20 6 7 20 2 22 10 7 15 29",
+                    "score": 74.45390319824219,
+                    "shape": [
+                        77,
+                        30
+                    ],
+                    "text": "ALL OF THE BETTER CLASS RESTAURANTS HOWEVER WILL SERVE THEM IF YOU ORDER THEM",
+                    "token": "A L L <space> O F <space> T H E <space> B E T T E R <space> C L A S S <space> R E S T A U R A N T S <space> H O W E V E R <space> W I L L <space> S E R V E <space> T H E M <space> I F <space> Y O U <space> O R D E R <space> T H E M",
+                    "tokenid": "3 14 14 2 17 8 2 22 10 7 2 4 7 22 22 7 20 2 5 14 3 21 21 2 20 7 21 22 3 23 20 3 16 22 21 2 10 17 25 7 24 7 20 2 25 11 14 14 2 21 7 20 24 7 2 22 10 7 15 2 11 8 2 27 17 23 2 17 20 6 7 20 2 22 10 7 15"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "367-130732-0024": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THIS IS THE RESPIY FOR AIT PEOPLE AND IT IS WELL  WORTH TRYING IF YOU ARE GIVING A DINNER OF IMPORTANCE<eos>",
+                    "rec_token": "<blank> <space> T H I S <space> I S <space> T H E <space> R E S P I Y <space> F O R <space> A I T <space> P E O P L E <space> A N D <space> I T <space> I S <space> W E L L <space> <space> W O R T H <space> T R Y I N G <space> I F <space> Y O U <space> A R E <space> G I V I N G <space> A <space> D I N N E R <space> O F <space> I M P O R T A N C E <eos>",
+                    "rec_tokenid": "0 2 22 10 11 21 2 11 21 2 22 10 7 2 20 7 21 18 11 27 2 8 17 20 2 3 11 22 2 18 7 17 18 14 7 2 3 16 6 2 11 22 2 11 21 2 25 7 14 14 2 2 25 17 20 22 10 2 22 20 27 11 16 9 2 11 8 2 27 17 23 2 3 20 7 2 9 11 24 11 16 9 2 3 2 6 11 16 16 7 20 2 17 8 2 11 15 18 17 20 22 3 16 5 7 29",
+                    "score": 101.11051940917969,
+                    "shape": [
+                        104,
+                        30
+                    ],
+                    "text": "THIS IS THE RECIPE FOR EIGHT PEOPLE AND IT IS WELL WORTH TRYING IF YOU ARE GIVING A DINNER OF IMPORTANCE",
+                    "token": "T H I S <space> I S <space> T H E <space> R E C I P E <space> F O R <space> E I G H T <space> P E O P L E <space> A N D <space> I T <space> I S <space> W E L L <space> W O R T H <space> T R Y I N G <space> I F <space> Y O U <space> A R E <space> G I V I N G <space> A <space> D I N N E R <space> O F <space> I M P O R T A N C E",
+                    "tokenid": "22 10 11 21 2 11 21 2 22 10 7 2 20 7 5 11 18 7 2 8 17 20 2 7 11 9 10 22 2 18 7 17 18 14 7 2 3 16 6 2 11 22 2 11 21 2 25 7 14 14 2 25 17 20 22 10 2 22 20 27 11 16 9 2 11 8 2 27 17 23 2 3 20 7 2 9 11 24 11 16 9 2 3 2 6 11 16 16 7 20 2 17 8 2 11 15 18 17 20 22 3 16 5 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "367-130732-0025": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>ISK OF CROPFISH<eos>",
+                    "rec_token": "<blank> <eos> I S K <space> O F <space> C R O P F I S H <eos>",
+                    "rec_tokenid": "0 29 11 21 13 2 17 8 2 5 20 17 18 8 11 21 10 29",
+                    "score": 226.1969451904297,
+                    "shape": [
+                        18,
+                        30
+                    ],
+                    "text": "BISQUE OF CRAWFISH",
+                    "token": "B I S Q U E <space> O F <space> C R A W F I S H",
+                    "tokenid": "4 11 21 19 23 7 2 17 8 2 5 20 3 25 8 11 21 10"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "367-130732-0026": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> TAKE THIRTY CROFISH FROM WHICH REMOVED THE GUT CONTAINING THE GALL IN THE FOLLOWING MANNER TAKE FIRM HOLD OF THE CROFESH WITH THE LEFT HAND SO AS TO AVOIDE BEENG PINCHED BY ITS CLOS WITH THE THUMB AN FOREFINGER OF THE RIGHT HAND PINCH THE EXTREME END OF THE CENTRAL FIN OF THE TAIL AND WITH A SUDDEN JERK THE GUT WILL BE WITH DRAOWN<eos>",
+                    "rec_token": "<blank> <space> T A K E <space> T H I R T Y <space> C R O F I S H <space> F R O M <space> W H I C H <space> R E M O V E D <space> T H E <space> G U T <space> C O N T A I N I N G <space> T H E <space> G A L L <space> I N <space> T H E <space> F O L L O W I N G <space> M A N N E R <space> T A K E <space> F I R M <space> H O L D <space> O F <space> T H E <space> C R O F E S H <space> W I T H <space> T H E <space> L E F T <space> H A N D <space> S O <space> A S <space> T O <space> A V O I D E <space> B E E N G <space> P I N C H E D <space> B Y <space> I T S <space> C L O S <space> W I T H <space> T H E <space> T H U M B <space> A N <space> F O R E F I N G E R <space> O F <space> T H E <space> R I G H T <space> H A N D <space> P I N C H <space> T H E <space> E X T R E M E <space> E N D <space> O F <space> T H E <space> C E N T R A L <space> F I N <space> O F <space> T H E <space> T A I L <space> A N D <space> W I T H <space> A <space> S U D D E N <space> J E R K <space> T H E <space> G U T <space> W I L L <space> B E <space> W I T H <space> D R A O W N <eos>",
+                    "rec_tokenid": "0 2 22 3 13 7 2 22 10 11 20 22 27 2 5 20 17 8 11 21 10 2 8 20 17 15 2 25 10 11 5 10 2 20 7 15 17 24 7 6 2 22 10 7 2 9 23 22 2 5 17 16 22 3 11 16 11 16 9 2 22 10 7 2 9 3 14 14 2 11 16 2 22 10 7 2 8 17 14 14 17 25 11 16 9 2 15 3 16 16 7 20 2 22 3 13 7 2 8 11 20 15 2 10 17 14 6 2 17 8 2 22 10 7 2 5 20 17 8 7 21 10 2 25 11 22 10 2 22 10 7 2 14 7 8 22 2 10 3 16 6 2 21 17 2 3 21 2 22 17 2 3 24 17 11 6 7 2 4 7 7 16 9 2 18 11 16 5 10 7 6 2 4 27 2 11 22 21 2 5 14 17 21 2 25 11 22 10 2 22 10 7 2 22 10 23 15 4 2 3 16 2 8 17 20 7 8 11 16 9 7 20 2 17 8 2 22 10 7 2 20 11 9 10 22 2 10 3 16 6 2 18 11 16 5 10 2 22 10 7 2 7 26 22 20 7 15 7 2 7 16 6 2 17 8 2 22 10 7 2 5 7 16 22 20 3 14 2 8 11 16 2 17 8 2 22 10 7 2 22 3 11 14 2 3 16 6 2 25 11 22 10 2 3 2 21 23 6 6 7 16 2 12 7 20 13 2 22 10 7 2 9 23 22 2 25 11 14 14 2 4 7 2 25 11 22 10 2 6 20 3 17 25 16 29",
+                    "score": 326.2118225097656,
+                    "shape": [
+                        332,
+                        30
+                    ],
+                    "text": "TAKE THIRTY CRAWFISH FROM WHICH REMOVE THE GUT CONTAINING THE GALL IN THE FOLLOWING MANNER TAKE FIRM HOLD OF THE CRAWFISH WITH THE LEFT HAND SO AS TO AVOID BEING PINCHED BY ITS CLAWS WITH THE THUMB AND FOREFINGER OF THE RIGHT HAND PINCH THE EXTREME END OF THE CENTRAL FIN OF THE TAIL AND WITH A SUDDEN JERK THE GUT WILL BE WITHDRAWN",
+                    "token": "T A K E <space> T H I R T Y <space> C R A W F I S H <space> F R O M <space> W H I C H <space> R E M O V E <space> T H E <space> G U T <space> C O N T A I N I N G <space> T H E <space> G A L L <space> I N <space> T H E <space> F O L L O W I N G <space> M A N N E R <space> T A K E <space> F I R M <space> H O L D <space> O F <space> T H E <space> C R A W F I S H <space> W I T H <space> T H E <space> L E F T <space> H A N D <space> S O <space> A S <space> T O <space> A V O I D <space> B E I N G <space> P I N C H E D <space> B Y <space> I T S <space> C L A W S <space> W I T H <space> T H E <space> T H U M B <space> A N D <space> F O R E F I N G E R <space> O F <space> T H E <space> R I G H T <space> H A N D <space> P I N C H <space> T H E <space> E X T R E M E <space> E N D <space> O F <space> T H E <space> C E N T R A L <space> F I N <space> O F <space> T H E <space> T A I L <space> A N D <space> W I T H <space> A <space> S U D D E N <space> J E R K <space> T H E <space> G U T <space> W I L L <space> B E <space> W I T H D R A W N",
+                    "tokenid": "22 3 13 7 2 22 10 11 20 22 27 2 5 20 3 25 8 11 21 10 2 8 20 17 15 2 25 10 11 5 10 2 20 7 15 17 24 7 2 22 10 7 2 9 23 22 2 5 17 16 22 3 11 16 11 16 9 2 22 10 7 2 9 3 14 14 2 11 16 2 22 10 7 2 8 17 14 14 17 25 11 16 9 2 15 3 16 16 7 20 2 22 3 13 7 2 8 11 20 15 2 10 17 14 6 2 17 8 2 22 10 7 2 5 20 3 25 8 11 21 10 2 25 11 22 10 2 22 10 7 2 14 7 8 22 2 10 3 16 6 2 21 17 2 3 21 2 22 17 2 3 24 17 11 6 2 4 7 11 16 9 2 18 11 16 5 10 7 6 2 4 27 2 11 22 21 2 5 14 3 25 21 2 25 11 22 10 2 22 10 7 2 22 10 23 15 4 2 3 16 6 2 8 17 20 7 8 11 16 9 7 20 2 17 8 2 22 10 7 2 20 11 9 10 22 2 10 3 16 6 2 18 11 16 5 10 2 22 10 7 2 7 26 22 20 7 15 7 2 7 16 6 2 17 8 2 22 10 7 2 5 7 16 22 20 3 14 2 8 11 16 2 17 8 2 22 10 7 2 22 3 11 14 2 3 16 6 2 25 11 22 10 2 3 2 21 23 6 6 7 16 2 12 7 20 13 2 22 10 7 2 9 23 22 2 25 11 14 14 2 4 7 2 25 11 22 10 6 20 3 25 16"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "367-130732-0027": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> MINSER CUT INTO SMALL DICES A CARRAG AN UNIUON ONE HEAD OF SALERY AND A FEW PARSELY ROUTS AND TO THESE AT A BAYLEF O A SPRING OF TIME A LITTLE MENONET PEPER AND TWOW OUNTCES OF BUTTER<eos>",
+                    "rec_token": "<blank> <space> M I N S E R <space> C U T <space> I N T O <space> S M A L L <space> D I C E S <space> A <space> C A R R A G <space> A N <space> U N I U O N <space> O N E <space> H E A D <space> O F <space> S A L E R Y <space> A N D <space> A <space> F E W <space> P A R S E L Y <space> R O U T S <space> A N D <space> T O <space> T H E S E <space> A T <space> A <space> B A Y L E F <space> O <space> A <space> S P R I N G <space> O F <space> T I M E <space> A <space> L I T T L E <space> M E N O N E T <space> P E P E R <space> A N D <space> T W O W <space> O U N T C E S <space> O F <space> B U T T E R <eos>",
+                    "rec_tokenid": "0 2 15 11 16 21 7 20 2 5 23 22 2 11 16 22 17 2 21 15 3 14 14 2 6 11 5 7 21 2 3 2 5 3 20 20 3 9 2 3 16 2 23 16 11 23 17 16 2 17 16 7 2 10 7 3 6 2 17 8 2 21 3 14 7 20 27 2 3 16 6 2 3 2 8 7 25 2 18 3 20 21 7 14 27 2 20 17 23 22 21 2 3 16 6 2 22 17 2 22 10 7 21 7 2 3 22 2 3 2 4 3 27 14 7 8 2 17 2 3 2 21 18 20 11 16 9 2 17 8 2 22 11 15 7 2 3 2 14 11 22 22 14 7 2 15 7 16 17 16 7 22 2 18 7 18 7 20 2 3 16 6 2 22 25 17 25 2 17 23 16 22 5 7 21 2 17 8 2 4 23 22 22 7 20 29",
+                    "score": 172.67825317382812,
+                    "shape": [
+                        186,
+                        30
+                    ],
+                    "text": "MINCE OR CUT INTO SMALL DICE A CARROT AN ONION ONE HEAD OF CELERY AND A FEW PARSLEY ROOTS AND TO THESE ADD A BAY LEAF A SPRIG OF THYME A LITTLE MINIONETTE PEPPER AND TWO OUNCES OF BUTTER",
+                    "token": "M I N C E <space> O R <space> C U T <space> I N T O <space> S M A L L <space> D I C E <space> A <space> C A R R O T <space> A N <space> O N I O N <space> O N E <space> H E A D <space> O F <space> C E L E R Y <space> A N D <space> A <space> F E W <space> P A R S L E Y <space> R O O T S <space> A N D <space> T O <space> T H E S E <space> A D D <space> A <space> B A Y <space> L E A F <space> A <space> S P R I G <space> O F <space> T H Y M E <space> A <space> L I T T L E <space> M I N I O N E T T E <space> P E P P E R <space> A N D <space> T W O <space> O U N C E S <space> O F <space> B U T T E R",
+                    "tokenid": "15 11 16 5 7 2 17 20 2 5 23 22 2 11 16 22 17 2 21 15 3 14 14 2 6 11 5 7 2 3 2 5 3 20 20 17 22 2 3 16 2 17 16 11 17 16 2 17 16 7 2 10 7 3 6 2 17 8 2 5 7 14 7 20 27 2 3 16 6 2 3 2 8 7 25 2 18 3 20 21 14 7 27 2 20 17 17 22 21 2 3 16 6 2 22 17 2 22 10 7 21 7 2 3 6 6 2 3 2 4 3 27 2 14 7 3 8 2 3 2 21 18 20 11 9 2 17 8 2 22 10 27 15 7 2 3 2 14 11 22 22 14 7 2 15 11 16 11 17 16 7 22 22 7 2 18 7 18 18 7 20 2 3 16 6 2 22 25 17 2 17 23 16 5 7 21 2 17 8 2 4 23 22 22 7 20"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "367-130732-0028": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> PUT THESE INGRIEDIENCE INTO A STUPAN AND FRIY THEM TEN MINETS THEN THROW IN THE CROPESH AND PORE ON THEM HALF A BOTTLE OF FRENCH WITE WINE<eos>",
+                    "rec_token": "<blank> <space> P U T <space> T H E S E <space> I N G R I E D I E N C E <space> I N T O <space> A <space> S T U P A N <space> A N D <space> F R I Y <space> T H E M <space> T E N <space> M I N E T S <space> T H E N <space> T H R O W <space> I N <space> T H E <space> C R O P E S H <space> A N D <space> P O R E <space> O N <space> T H E M <space> H A L F <space> A <space> B O T T L E <space> O F <space> F R E N C H <space> W I T E <space> W I N E <eos>",
+                    "rec_tokenid": "0 2 18 23 22 2 22 10 7 21 7 2 11 16 9 20 11 7 6 11 7 16 5 7 2 11 16 22 17 2 3 2 21 22 23 18 3 16 2 3 16 6 2 8 20 11 27 2 22 10 7 15 2 22 7 16 2 15 11 16 7 22 21 2 22 10 7 16 2 22 10 20 17 25 2 11 16 2 22 10 7 2 5 20 17 18 7 21 10 2 3 16 6 2 18 17 20 7 2 17 16 2 22 10 7 15 2 10 3 14 8 2 3 2 4 17 22 22 14 7 2 17 8 2 8 20 7 16 5 10 2 25 11 22 7 2 25 11 16 7 29",
+                    "score": 136.56625366210938,
+                    "shape": [
+                        140,
+                        30
+                    ],
+                    "text": "PUT THESE INGREDIENTS INTO A STEWPAN AND FRY THEM TEN MINUTES THEN THROW IN THE CRAWFISH AND POUR ON THEM HALF A BOTTLE OF FRENCH WHITE WINE",
+                    "token": "P U T <space> T H E S E <space> I N G R E D I E N T S <space> I N T O <space> A <space> S T E W P A N <space> A N D <space> F R Y <space> T H E M <space> T E N <space> M I N U T E S <space> T H E N <space> T H R O W <space> I N <space> T H E <space> C R A W F I S H <space> A N D <space> P O U R <space> O N <space> T H E M <space> H A L F <space> A <space> B O T T L E <space> O F <space> F R E N C H <space> W H I T E <space> W I N E",
+                    "tokenid": "18 23 22 2 22 10 7 21 7 2 11 16 9 20 7 6 11 7 16 22 21 2 11 16 22 17 2 3 2 21 22 7 25 18 3 16 2 3 16 6 2 8 20 27 2 22 10 7 15 2 22 7 16 2 15 11 16 23 22 7 21 2 22 10 7 16 2 22 10 20 17 25 2 11 16 2 22 10 7 2 5 20 3 25 8 11 21 10 2 3 16 6 2 18 17 23 20 2 17 16 2 22 10 7 15 2 10 3 14 8 2 3 2 4 17 22 22 14 7 2 17 8 2 8 20 7 16 5 10 2 25 10 11 22 7 2 25 11 16 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "367-130732-0029": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> ALLOWED US TO BOIYLE AND THEN AT A COURT OF STRONG CONSAM AND LET ALL CONTINUW BOILING FOR HALF AN HOUR<eos>",
+                    "rec_token": "<blank> <space> A L L O W E D <space> U S <space> T O <space> B O I Y L E <space> A N D <space> T H E N <space> A T <space> A <space> C O U R T <space> O F <space> S T R O N G <space> C O N S A M <space> A N D <space> L E T <space> A L L <space> C O N T I N U W <space> B O I L I N G <space> F O R <space> H A L F <space> A N <space> H O U R <eos>",
+                    "rec_tokenid": "0 2 3 14 14 17 25 7 6 2 23 21 2 22 17 2 4 17 11 27 14 7 2 3 16 6 2 22 10 7 16 2 3 22 2 3 2 5 17 23 20 22 2 17 8 2 21 22 20 17 16 9 2 5 17 16 21 3 15 2 3 16 6 2 14 7 22 2 3 14 14 2 5 17 16 22 11 16 23 25 2 4 17 11 14 11 16 9 2 8 17 20 2 10 3 14 8 2 3 16 2 10 17 23 20 29",
+                    "score": 102.96754455566406,
+                    "shape": [
+                        104,
+                        30
+                    ],
+                    "text": "ALLOW THIS TO BOIL AND THEN ADD A QUART OF STRONG CONSOMME AND LET ALL CONTINUE BOILING FOR HALF AN HOUR",
+                    "token": "A L L O W <space> T H I S <space> T O <space> B O I L <space> A N D <space> T H E N <space> A D D <space> A <space> Q U A R T <space> O F <space> S T R O N G <space> C O N S O M M E <space> A N D <space> L E T <space> A L L <space> C O N T I N U E <space> B O I L I N G <space> F O R <space> H A L F <space> A N <space> H O U R",
+                    "tokenid": "3 14 14 17 25 2 22 10 11 21 2 22 17 2 4 17 11 14 2 3 16 6 2 22 10 7 16 2 3 6 6 2 3 2 19 23 3 20 22 2 17 8 2 21 22 20 17 16 9 2 5 17 16 21 17 15 15 7 2 3 16 6 2 14 7 22 2 3 14 14 2 5 17 16 22 11 16 23 7 2 4 17 11 14 11 16 9 2 8 17 20 2 10 3 14 8 2 3 16 2 10 17 23 20"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "367-130732-0030": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> PICKE OUT THE CROFFISH AND STRIGE THE BROUGHTH THROUGH A NAP KIN BY PRESSHURE INTO A BACEN ORIN ORDER TO EXTRACT ALL THE ESSENCE FROM THE VEGHSTABLS<eos>",
+                    "rec_token": "<blank> <space> P I C K E <space> O U T <space> T H E <space> C R O F F I S H <space> A N D <space> S T R I G E <space> T H E <space> B R O U G H T H <space> T H R O U G H <space> A <space> N A P <space> K I N <space> B Y <space> P R E S S H U R E <space> I N T O <space> A <space> B A C E N <space> O R I N <space> O R D E R <space> T O <space> E X T R A C T <space> A L L <space> T H E <space> E S S E N C E <space> F R O M <space> T H E <space> V E G H S T A B L S <eos>",
+                    "rec_tokenid": "0 2 18 11 5 13 7 2 17 23 22 2 22 10 7 2 5 20 17 8 8 11 21 10 2 3 16 6 2 21 22 20 11 9 7 2 22 10 7 2 4 20 17 23 9 10 22 10 2 22 10 20 17 23 9 10 2 3 2 16 3 18 2 13 11 16 2 4 27 2 18 20 7 21 21 10 23 20 7 2 11 16 22 17 2 3 2 4 3 5 7 16 2 17 20 11 16 2 17 20 6 7 20 2 22 17 2 7 26 22 20 3 5 22 2 3 14 14 2 22 10 7 2 7 21 21 7 16 5 7 2 8 20 17 15 2 22 10 7 2 24 7 9 10 21 22 3 4 14 21 29",
+                    "score": 140.60877990722656,
+                    "shape": [
+                        140,
+                        30
+                    ],
+                    "text": "PICK OUT THE CRAWFISH AND STRAIN THE BROTH THROUGH A NAPKIN BY PRESSURE INTO A BASIN IN ORDER TO EXTRACT ALL THE ESSENCE FROM THE VEGETABLES",
+                    "token": "P I C K <space> O U T <space> T H E <space> C R A W F I S H <space> A N D <space> S T R A I N <space> T H E <space> B R O T H <space> T H R O U G H <space> A <space> N A P K I N <space> B Y <space> P R E S S U R E <space> I N T O <space> A <space> B A S I N <space> I N <space> O R D E R <space> T O <space> E X T R A C T <space> A L L <space> T H E <space> E S S E N C E <space> F R O M <space> T H E <space> V E G E T A B L E S",
+                    "tokenid": "18 11 5 13 2 17 23 22 2 22 10 7 2 5 20 3 25 8 11 21 10 2 3 16 6 2 21 22 20 3 11 16 2 22 10 7 2 4 20 17 22 10 2 22 10 20 17 23 9 10 2 3 2 16 3 18 13 11 16 2 4 27 2 18 20 7 21 21 23 20 7 2 11 16 22 17 2 3 2 4 3 21 11 16 2 11 16 2 17 20 6 7 20 2 22 17 2 7 26 22 20 3 5 22 2 3 14 14 2 22 10 7 2 7 21 21 7 16 5 7 2 8 20 17 15 2 22 10 7 2 24 7 9 7 22 3 4 14 7 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "367-130732-0031": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> PICKED THE SHELLS OF TWENTY FIVE OF THE CROFISH TAILS TRIMED THEM NEATLING AND SET THEM ASIDE UNTIL WANTED<eos>",
+                    "rec_token": "<blank> <space> P I C K E D <space> T H E <space> S H E L L S <space> O F <space> T W E N T Y <space> F I V E <space> O F <space> T H E <space> C R O F I S H <space> T A I L S <space> T R I M E D <space> T H E M <space> N E A T L I N G <space> A N D <space> S E T <space> T H E M <space> A S I D E <space> U N T I L <space> W A N T E D <eos>",
+                    "rec_tokenid": "0 2 18 11 5 13 7 6 2 22 10 7 2 21 10 7 14 14 21 2 17 8 2 22 25 7 16 22 27 2 8 11 24 7 2 17 8 2 22 10 7 2 5 20 17 8 11 21 10 2 22 3 11 14 21 2 22 20 11 15 7 6 2 22 10 7 15 2 16 7 3 22 14 11 16 9 2 3 16 6 2 21 7 22 2 22 10 7 15 2 3 21 11 6 7 2 23 16 22 11 14 2 25 3 16 22 7 6 29",
+                    "score": 106.99849700927734,
+                    "shape": [
+                        102,
+                        30
+                    ],
+                    "text": "PICK THE SHELLS OFF TWENTY FIVE OF THE CRAWFISH TAILS TRIM THEM NEATLY AND SET THEM ASIDE UNTIL WANTED",
+                    "token": "P I C K <space> T H E <space> S H E L L S <space> O F F <space> T W E N T Y <space> F I V E <space> O F <space> T H E <space> C R A W F I S H <space> T A I L S <space> T R I M <space> T H E M <space> N E A T L Y <space> A N D <space> S E T <space> T H E M <space> A S I D E <space> U N T I L <space> W A N T E D",
+                    "tokenid": "18 11 5 13 2 22 10 7 2 21 10 7 14 14 21 2 17 8 8 2 22 25 7 16 22 27 2 8 11 24 7 2 17 8 2 22 10 7 2 5 20 3 25 8 11 21 10 2 22 3 11 14 21 2 22 20 11 15 2 22 10 7 15 2 16 7 3 22 14 27 2 3 16 6 2 21 7 22 2 22 10 7 15 2 3 21 11 6 7 2 23 16 22 11 14 2 25 3 16 22 7 6"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "367-130732-0032": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>WRESERVE SOME OF THE SPAUNE ALSO HALFAM THE BODDY SHELLS WITH WHICH TO MAKE THE CROFEASH BUTTER TO FINISH THE SUP<eos>",
+                    "rec_token": "<blank> W R E S E R V E <space> S O M E <space> O F <space> T H E <space> S P A U N E <space> A L S O <space> H A L F A M <space> T H E <space> B O D D Y <space> S H E L L S <space> W I T H <space> W H I C H <space> T O <space> M A K E <space> T H E <space> C R O F E A S H <space> B U T T E R <space> T O <space> F I N I S H <space> T H E <space> S U P <eos>",
+                    "rec_tokenid": "0 25 20 7 21 7 20 24 7 2 21 17 15 7 2 17 8 2 22 10 7 2 21 18 3 23 16 7 2 3 14 21 17 2 10 3 14 8 3 15 2 22 10 7 2 4 17 6 6 27 2 21 10 7 14 14 21 2 25 11 22 10 2 25 10 11 5 10 2 22 17 2 15 3 13 7 2 22 10 7 2 5 20 17 8 7 3 21 10 2 4 23 22 22 7 20 2 22 17 2 8 11 16 11 21 10 2 22 10 7 2 21 23 18 29",
+                    "score": 108.89575958251953,
+                    "shape": [
+                        112,
+                        30
+                    ],
+                    "text": "RESERVE SOME OF THE SPAWN ALSO HALF OF THE BODY SHELLS WITH WHICH TO MAKE THE CRAWFISH BUTTER TO FINISH THE SOUP",
+                    "token": "R E S E R V E <space> S O M E <space> O F <space> T H E <space> S P A W N <space> A L S O <space> H A L F <space> O F <space> T H E <space> B O D Y <space> S H E L L S <space> W I T H <space> W H I C H <space> T O <space> M A K E <space> T H E <space> C R A W F I S H <space> B U T T E R <space> T O <space> F I N I S H <space> T H E <space> S O U P",
+                    "tokenid": "20 7 21 7 20 24 7 2 21 17 15 7 2 17 8 2 22 10 7 2 21 18 3 25 16 2 3 14 21 17 2 10 3 14 8 2 17 8 2 22 10 7 2 4 17 6 27 2 21 10 7 14 14 21 2 25 11 22 10 2 25 10 11 5 10 2 22 17 2 15 3 13 7 2 22 10 7 2 5 20 3 25 8 11 21 10 2 4 23 22 22 7 20 2 22 17 2 8 11 16 11 21 10 2 22 10 7 2 21 17 23 18"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "367-130732-0033": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THIS BUTTER IS MADE AS FOLLOWS PLACED THE SHELLS ON A BAKING SHEET IN THE OVEN TO DRY LET THE SHELLS COLE AND THEN POUND THEM IN A MORTURE WITH A LITTLE LOBSTROCORL IN FOUR OUNCES OF FRESH BUTTER THOUROULLY BRUSING THE WHOLE TOGETHER SO AS TO MAKE A FIN PASTE<eos>",
+                    "rec_token": "<blank> <space> T H I S <space> B U T T E R <space> I S <space> M A D E <space> A S <space> F O L L O W S <space> P L A C E D <space> T H E <space> S H E L L S <space> O N <space> A <space> B A K I N G <space> S H E E T <space> I N <space> T H E <space> O V E N <space> T O <space> D R Y <space> L E T <space> T H E <space> S H E L L S <space> C O L E <space> A N D <space> T H E N <space> P O U N D <space> T H E M <space> I N <space> A <space> M O R T U R E <space> W I T H <space> A <space> L I T T L E <space> L O B S T R O C O R L <space> I N <space> F O U R <space> O U N C E S <space> O F <space> F R E S H <space> B U T T E R <space> T H O U R O U L L Y <space> B R U S I N G <space> T H E <space> W H O L E <space> T O G E T H E R <space> S O <space> A S <space> T O <space> M A K E <space> A <space> F I N <space> P A S T E <eos>",
+                    "rec_tokenid": "0 2 22 10 11 21 2 4 23 22 22 7 20 2 11 21 2 15 3 6 7 2 3 21 2 8 17 14 14 17 25 21 2 18 14 3 5 7 6 2 22 10 7 2 21 10 7 14 14 21 2 17 16 2 3 2 4 3 13 11 16 9 2 21 10 7 7 22 2 11 16 2 22 10 7 2 17 24 7 16 2 22 17 2 6 20 27 2 14 7 22 2 22 10 7 2 21 10 7 14 14 21 2 5 17 14 7 2 3 16 6 2 22 10 7 16 2 18 17 23 16 6 2 22 10 7 15 2 11 16 2 3 2 15 17 20 22 23 20 7 2 25 11 22 10 2 3 2 14 11 22 22 14 7 2 14 17 4 21 22 20 17 5 17 20 14 2 11 16 2 8 17 23 20 2 17 23 16 5 7 21 2 17 8 2 8 20 7 21 10 2 4 23 22 22 7 20 2 22 10 17 23 20 17 23 14 14 27 2 4 20 23 21 11 16 9 2 22 10 7 2 25 10 17 14 7 2 22 17 9 7 22 10 7 20 2 21 17 2 3 21 2 22 17 2 15 3 13 7 2 3 2 8 11 16 2 18 3 21 22 7 29",
+                    "score": 253.20352172851562,
+                    "shape": [
+                        262,
+                        30
+                    ],
+                    "text": "THIS BUTTER IS MADE AS FOLLOWS PLACE THE SHELLS ON A BAKING SHEET IN THE OVEN TO DRY LET THE SHELLS COOL AND THEN POUND THEM IN A MORTAR WITH A LITTLE LOBSTER CORAL AND FOUR OUNCES OF FRESH BUTTER THOROUGHLY BRUISING THE WHOLE TOGETHER SO AS TO MAKE A FINE PASTE",
+                    "token": "T H I S <space> B U T T E R <space> I S <space> M A D E <space> A S <space> F O L L O W S <space> P L A C E <space> T H E <space> S H E L L S <space> O N <space> A <space> B A K I N G <space> S H E E T <space> I N <space> T H E <space> O V E N <space> T O <space> D R Y <space> L E T <space> T H E <space> S H E L L S <space> C O O L <space> A N D <space> T H E N <space> P O U N D <space> T H E M <space> I N <space> A <space> M O R T A R <space> W I T H <space> A <space> L I T T L E <space> L O B S T E R <space> C O R A L <space> A N D <space> F O U R <space> O U N C E S <space> O F <space> F R E S H <space> B U T T E R <space> T H O R O U G H L Y <space> B R U I S I N G <space> T H E <space> W H O L E <space> T O G E T H E R <space> S O <space> A S <space> T O <space> M A K E <space> A <space> F I N E <space> P A S T E",
+                    "tokenid": "22 10 11 21 2 4 23 22 22 7 20 2 11 21 2 15 3 6 7 2 3 21 2 8 17 14 14 17 25 21 2 18 14 3 5 7 2 22 10 7 2 21 10 7 14 14 21 2 17 16 2 3 2 4 3 13 11 16 9 2 21 10 7 7 22 2 11 16 2 22 10 7 2 17 24 7 16 2 22 17 2 6 20 27 2 14 7 22 2 22 10 7 2 21 10 7 14 14 21 2 5 17 17 14 2 3 16 6 2 22 10 7 16 2 18 17 23 16 6 2 22 10 7 15 2 11 16 2 3 2 15 17 20 22 3 20 2 25 11 22 10 2 3 2 14 11 22 22 14 7 2 14 17 4 21 22 7 20 2 5 17 20 3 14 2 3 16 6 2 8 17 23 20 2 17 23 16 5 7 21 2 17 8 2 8 20 7 21 10 2 4 23 22 22 7 20 2 22 10 17 20 17 23 9 10 14 27 2 4 20 23 11 21 11 16 9 2 22 10 7 2 25 10 17 14 7 2 22 17 9 7 22 10 7 20 2 21 17 2 3 21 2 22 17 2 15 3 13 7 2 3 2 8 11 16 7 2 18 3 21 22 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "367-293981-0000": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>I SWARE ITT ANCTERED SAUNCHO<eos>",
+                    "rec_token": "<blank> <eos> I <space> S W A R E <space> I T T <space> A N C T E R E D <space> S A U N C H O <eos>",
+                    "rec_tokenid": "0 29 11 2 21 25 3 20 7 2 11 22 22 2 3 16 5 22 7 20 7 6 2 21 3 23 16 5 10 17 29",
+                    "score": 407.6816101074219,
+                    "shape": [
+                        26,
+                        30
+                    ],
+                    "text": "I SWEAR IT ANSWERED SANCHO",
+                    "token": "I <space> S W E A R <space> I T <space> A N S W E R E D <space> S A N C H O",
+                    "tokenid": "11 2 21 25 7 3 20 2 11 22 2 3 16 21 25 7 20 7 6 2 21 3 16 5 10 17"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "367-293981-0001": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>UI SAY SO CONTINUED DONKEYHOUTY BECAUSE I HATE TAKING AWAY ANY ONE<unk>S GOOD NEAM<eos>",
+                    "rec_token": "<blank> U I <space> S A Y <space> S O <space> C O N T I N U E D <space> D O N K E Y H O U T Y <space> B E C A U S E <space> I <space> H A T E <space> T A K I N G <space> A W A Y <space> A N Y <space> O N E <unk> S <space> G O O D <space> N E A M <eos>",
+                    "rec_tokenid": "0 23 11 2 21 3 27 2 21 17 2 5 17 16 22 11 16 23 7 6 2 6 17 16 13 7 27 10 17 23 22 27 2 4 7 5 3 23 21 7 2 11 2 10 3 22 7 2 22 3 13 11 16 9 2 3 25 3 27 2 3 16 27 2 17 16 7 1 21 2 9 17 17 6 2 16 7 3 15 29",
+                    "score": 76.759521484375,
+                    "shape": [
+                        76,
+                        30
+                    ],
+                    "text": "I SAY SO CONTINUED DON QUIXOTE BECAUSE I HATE TAKING AWAY ANYONE'S GOOD NAME",
+                    "token": "I <space> S A Y <space> S O <space> C O N T I N U E D <space> D O N <space> Q U I X O T E <space> B E C A U S E <space> I <space> H A T E <space> T A K I N G <space> A W A Y <space> A N Y O N E <unk> S <space> G O O D <space> N A M E",
+                    "tokenid": "11 2 21 3 27 2 21 17 2 5 17 16 22 11 16 23 7 6 2 6 17 16 2 19 23 11 26 17 22 7 2 4 7 5 3 23 21 7 2 11 2 10 3 22 7 2 22 3 13 11 16 9 2 3 25 3 27 2 3 16 27 17 16 7 1 21 2 9 17 17 6 2 16 3 15 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "367-293981-0002": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>AI SAY REPLIED SANCTO THAT I SWARE TO HOLD MY TUNG ABOUT IT TILL THE END OF YOUR WORCHIOIPES DAYS AND GONE GORETT I MAY BE ABLE TO LET IT OUT TO MOROW<eos>",
+                    "rec_token": "<blank> A I <space> S A Y <space> R E P L I E D <space> S A N C T O <space> T H A T <space> I <space> S W A R E <space> T O <space> H O L D <space> M Y <space> T U N G <space> A B O U T <space> I T <space> T I L L <space> T H E <space> E N D <space> O F <space> Y O U R <space> W O R C H I O I P E S <space> D A Y S <space> A N D <space> G O N E <space> G O R E T T <space> I <space> M A Y <space> B E <space> A B L E <space> T O <space> L E T <space> I T <space> O U T <space> T O <space> M O R O W <eos>",
+                    "rec_tokenid": "0 3 11 2 21 3 27 2 20 7 18 14 11 7 6 2 21 3 16 5 22 17 2 22 10 3 22 2 11 2 21 25 3 20 7 2 22 17 2 10 17 14 6 2 15 27 2 22 23 16 9 2 3 4 17 23 22 2 11 22 2 22 11 14 14 2 22 10 7 2 7 16 6 2 17 8 2 27 17 23 20 2 25 17 20 5 10 11 17 11 18 7 21 2 6 3 27 21 2 3 16 6 2 9 17 16 7 2 9 17 20 7 22 22 2 11 2 15 3 27 2 4 7 2 3 4 14 7 2 22 17 2 14 7 22 2 11 22 2 17 23 22 2 22 17 2 15 17 20 17 25 29",
+                    "score": 145.40280151367188,
+                    "shape": [
+                        147,
+                        30
+                    ],
+                    "text": "I SAY REPLIED SANCHO THAT I SWEAR TO HOLD MY TONGUE ABOUT IT TILL THE END OF YOUR WORSHIP'S DAYS AND GOD GRANT I MAY BE ABLE TO LET IT OUT TOMORROW",
+                    "token": "I <space> S A Y <space> R E P L I E D <space> S A N C H O <space> T H A T <space> I <space> S W E A R <space> T O <space> H O L D <space> M Y <space> T O N G U E <space> A B O U T <space> I T <space> T I L L <space> T H E <space> E N D <space> O F <space> Y O U R <space> W O R S H I P <unk> S <space> D A Y S <space> A N D <space> G O D <space> G R A N T <space> I <space> M A Y <space> B E <space> A B L E <space> T O <space> L E T <space> I T <space> O U T <space> T O M O R R O W",
+                    "tokenid": "11 2 21 3 27 2 20 7 18 14 11 7 6 2 21 3 16 5 10 17 2 22 10 3 22 2 11 2 21 25 7 3 20 2 22 17 2 10 17 14 6 2 15 27 2 22 17 16 9 23 7 2 3 4 17 23 22 2 11 22 2 22 11 14 14 2 22 10 7 2 7 16 6 2 17 8 2 27 17 23 20 2 25 17 20 21 10 11 18 1 21 2 6 3 27 21 2 3 16 6 2 9 17 6 2 9 20 3 16 22 2 11 2 15 3 27 2 4 7 2 3 4 14 7 2 22 17 2 14 7 22 2 11 22 2 17 23 22 2 22 17 15 17 20 20 17 25"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "367-293981-0003": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THOUGH YOUR WORSHIP WAS NOT SO BADLY OFF HAVING IN YOUR ARMS THE IN COMPEARIABLE BEUTY YOU SPOKE OF BUT I WHAT DID I HAVE EXCEPT THE HEVIEUST WACX THAT I THINK I HAD IN ALL MY LIFE<eos>",
+                    "rec_token": "<blank> <space> T H O U G H <space> Y O U R <space> W O R S H I P <space> W A S <space> N O T <space> S O <space> B A D L Y <space> O F F <space> H A V I N G <space> I N <space> Y O U R <space> A R M S <space> T H E <space> I N <space> C O M P E A R I A B L E <space> B E U T Y <space> Y O U <space> S P O K E <space> O F <space> B U T <space> I <space> W H A T <space> D I D <space> I <space> H A V E <space> E X C E P T <space> T H E <space> H E V I E U S T <space> W A C X <space> T H A T <space> I <space> T H I N K <space> I <space> H A D <space> I N <space> A L L <space> M Y <space> L I F E <eos>",
+                    "rec_tokenid": "0 2 22 10 17 23 9 10 2 27 17 23 20 2 25 17 20 21 10 11 18 2 25 3 21 2 16 17 22 2 21 17 2 4 3 6 14 27 2 17 8 8 2 10 3 24 11 16 9 2 11 16 2 27 17 23 20 2 3 20 15 21 2 22 10 7 2 11 16 2 5 17 15 18 7 3 20 11 3 4 14 7 2 4 7 23 22 27 2 27 17 23 2 21 18 17 13 7 2 17 8 2 4 23 22 2 11 2 25 10 3 22 2 6 11 6 2 11 2 10 3 24 7 2 7 26 5 7 18 22 2 22 10 7 2 10 7 24 11 7 23 21 22 2 25 3 5 26 2 22 10 3 22 2 11 2 22 10 11 16 13 2 11 2 10 3 6 2 11 16 2 3 14 14 2 15 27 2 14 11 8 7 29",
+                    "score": 176.93240356445312,
+                    "shape": [
+                        176,
+                        30
+                    ],
+                    "text": "THOUGH YOUR WORSHIP WAS NOT SO BADLY OFF HAVING IN YOUR ARMS THAT INCOMPARABLE BEAUTY YOU SPOKE OF BUT I WHAT DID I HAVE EXCEPT THE HEAVIEST WHACKS I THINK I HAD IN ALL MY LIFE",
+                    "token": "T H O U G H <space> Y O U R <space> W O R S H I P <space> W A S <space> N O T <space> S O <space> B A D L Y <space> O F F <space> H A V I N G <space> I N <space> Y O U R <space> A R M S <space> T H A T <space> I N C O M P A R A B L E <space> B E A U T Y <space> Y O U <space> S P O K E <space> O F <space> B U T <space> I <space> W H A T <space> D I D <space> I <space> H A V E <space> E X C E P T <space> T H E <space> H E A V I E S T <space> W H A C K S <space> I <space> T H I N K <space> I <space> H A D <space> I N <space> A L L <space> M Y <space> L I F E",
+                    "tokenid": "22 10 17 23 9 10 2 27 17 23 20 2 25 17 20 21 10 11 18 2 25 3 21 2 16 17 22 2 21 17 2 4 3 6 14 27 2 17 8 8 2 10 3 24 11 16 9 2 11 16 2 27 17 23 20 2 3 20 15 21 2 22 10 3 22 2 11 16 5 17 15 18 3 20 3 4 14 7 2 4 7 3 23 22 27 2 27 17 23 2 21 18 17 13 7 2 17 8 2 4 23 22 2 11 2 25 10 3 22 2 6 11 6 2 11 2 10 3 24 7 2 7 26 5 7 18 22 2 22 10 7 2 10 7 3 24 11 7 21 22 2 25 10 3 5 13 21 2 11 2 22 10 11 16 13 2 11 2 10 3 6 2 11 16 2 3 14 14 2 15 27 2 14 11 8 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "367-293981-0004": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>NLUCKY ME INTO THE MOTHER THAT  BOARE ME<eos>",
+                    "rec_token": "<blank> <eos> N L U C K Y <space> M E <space> I N T O <space> T H E <space> M O T H E R <space> T H A T <space> <space> B O A R E <space> M E <eos>",
+                    "rec_tokenid": "0 29 16 14 23 5 13 27 2 15 7 2 11 16 22 17 2 22 10 7 2 15 17 22 10 7 20 2 22 10 3 22 2 2 4 17 3 20 7 2 15 7 29",
+                    "score": 522.5302734375,
+                    "shape": [
+                        38,
+                        30
+                    ],
+                    "text": "UNLUCKY ME AND THE MOTHER THAT BORE ME",
+                    "token": "U N L U C K Y <space> M E <space> A N D <space> T H E <space> M O T H E R <space> T H A T <space> B O R E <space> M E",
+                    "tokenid": "23 16 14 23 5 13 27 2 15 7 2 3 16 6 2 22 10 7 2 15 17 22 10 7 20 2 22 10 3 22 2 4 17 20 7 2 15 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "367-293981-0005": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> DIDNT I SAY SO WORSE LUCK TO MY LINE SAID SANTCO<eos>",
+                    "rec_token": "<blank> <space> D I D N T <space> I <space> S A Y <space> S O <space> W O R S E <space> L U C K <space> T O <space> M Y <space> L I N E <space> S A I D <space> S A N T C O <eos>",
+                    "rec_tokenid": "0 2 6 11 6 16 22 2 11 2 21 3 27 2 21 17 2 25 17 20 21 7 2 14 23 5 13 2 22 17 2 15 27 2 14 11 16 7 2 21 3 11 6 2 21 3 16 22 5 17 29",
+                    "score": 49.01506423950195,
+                    "shape": [
+                        49,
+                        30
+                    ],
+                    "text": "DIDN'T I SAY SO WORSE LUCK TO MY LINE SAID SANCHO",
+                    "token": "D I D N <unk> T <space> I <space> S A Y <space> S O <space> W O R S E <space> L U C K <space> T O <space> M Y <space> L I N E <space> S A I D <space> S A N C H O",
+                    "tokenid": "6 11 6 16 1 22 2 11 2 21 3 27 2 21 17 2 25 17 20 21 7 2 14 23 5 13 2 22 17 2 15 27 2 14 11 16 7 2 21 3 11 6 2 21 3 16 5 10 17"
+                }
+            ],
+            "utt2spk": ""
+        }
+    }
+}

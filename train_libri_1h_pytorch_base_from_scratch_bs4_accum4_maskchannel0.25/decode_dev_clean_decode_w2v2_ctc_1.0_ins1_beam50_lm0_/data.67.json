@@ -1,0 +1,517 @@
+{
+    "utts": {
+        "5895-34622-0018": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THE CARAVAN WAS DIVIDED INTO THREE COMPARTMENTS PARTITION FROM EACH OTHER<eos>",
+                    "rec_token": "<blank> <space> T H E <space> C A R A V A N <space> W A S <space> D I V I D E D <space> I N T O <space> T H R E E <space> C O M P A R T M E N T S <space> P A R T I T I O N <space> F R O M <space> E A C H <space> O T H E R <eos>",
+                    "rec_tokenid": "0 2 22 10 7 2 5 3 20 3 24 3 16 2 25 3 21 2 6 11 24 11 6 7 6 2 11 16 22 17 2 22 10 20 7 7 2 5 17 15 18 3 20 22 15 7 16 22 21 2 18 3 20 22 11 22 11 17 16 2 8 20 17 15 2 7 3 5 10 2 17 22 10 7 20 29",
+                    "score": 74.93739318847656,
+                    "shape": [
+                        75,
+                        30
+                    ],
+                    "text": "THE CARAVAN WAS DIVIDED INTO THREE COMPARTMENTS PARTITIONED FROM EACH OTHER",
+                    "token": "T H E <space> C A R A V A N <space> W A S <space> D I V I D E D <space> I N T O <space> T H R E E <space> C O M P A R T M E N T S <space> P A R T I T I O N E D <space> F R O M <space> E A C H <space> O T H E R",
+                    "tokenid": "22 10 7 2 5 3 20 3 24 3 16 2 25 3 21 2 6 11 24 11 6 7 6 2 11 16 22 17 2 22 10 20 7 7 2 5 17 15 18 3 20 22 15 7 16 22 21 2 18 3 20 22 11 22 11 17 16 7 6 2 8 20 17 15 2 7 3 5 10 2 17 22 10 7 20"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34622-0019": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>HA LOFT UNDER THE ARCH OF THE ROOF CONTAINED THE SEENS AND ON OPENING A TRAP DOOR LAMPS APPEARED PRODUCEING WONDERS OF LIGHT<eos>",
+                    "rec_token": "<blank> H A <space> L O F T <space> U N D E R <space> T H E <space> A R C H <space> O F <space> T H E <space> R O O F <space> C O N T A I N E D <space> T H E <space> S E E N S <space> A N D <space> O N <space> O P E N I N G <space> A <space> T R A P <space> D O O R <space> L A M P S <space> A P P E A R E D <space> P R O D U C E I N G <space> W O N D E R S <space> O F <space> L I G H T <eos>",
+                    "rec_tokenid": "0 10 3 2 14 17 8 22 2 23 16 6 7 20 2 22 10 7 2 3 20 5 10 2 17 8 2 22 10 7 2 20 17 17 8 2 5 17 16 22 3 11 16 7 6 2 22 10 7 2 21 7 7 16 21 2 3 16 6 2 17 16 2 17 18 7 16 11 16 9 2 3 2 22 20 3 18 2 6 17 17 20 2 14 3 15 18 21 2 3 18 18 7 3 20 7 6 2 18 20 17 6 23 5 7 11 16 9 2 25 17 16 6 7 20 21 2 17 8 2 14 11 9 10 22 29",
+                    "score": 124.05489349365234,
+                    "shape": [
+                        123,
+                        30
+                    ],
+                    "text": "A LOFT UNDER THE ARCH OF THE ROOF CONTAINED THE SCENES AND ON OPENING A TRAP DOOR LAMPS APPEARED PRODUCING WONDERS OF LIGHT",
+                    "token": "A <space> L O F T <space> U N D E R <space> T H E <space> A R C H <space> O F <space> T H E <space> R O O F <space> C O N T A I N E D <space> T H E <space> S C E N E S <space> A N D <space> O N <space> O P E N I N G <space> A <space> T R A P <space> D O O R <space> L A M P S <space> A P P E A R E D <space> P R O D U C I N G <space> W O N D E R S <space> O F <space> L I G H T",
+                    "tokenid": "3 2 14 17 8 22 2 23 16 6 7 20 2 22 10 7 2 3 20 5 10 2 17 8 2 22 10 7 2 20 17 17 8 2 5 17 16 22 3 11 16 7 6 2 22 10 7 2 21 5 7 16 7 21 2 3 16 6 2 17 16 2 17 18 7 16 11 16 9 2 3 2 22 20 3 18 2 6 17 17 20 2 14 3 15 18 21 2 3 18 18 7 3 20 7 6 2 18 20 17 6 23 5 11 16 9 2 25 17 16 6 7 20 21 2 17 8 2 14 11 9 10 22"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34622-0020": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>ERSAS WAS THE POWITT OF THESE MAGICAL REPRESENTATIONS HE ROUTE THE PIEASES<eos>",
+                    "rec_token": "<blank> E R S A S <space> W A S <space> T H E <space> P O W I T T <space> O F <space> T H E S E <space> M A G I C A L <space> R E P R E S E N T A T I O N S <space> H E <space> R O U T E <space> T H E <space> P I E A S E S <eos>",
+                    "rec_tokenid": "0 7 20 21 3 21 2 25 3 21 2 22 10 7 2 18 17 25 11 22 22 2 17 8 2 22 10 7 21 7 2 15 3 9 11 5 3 14 2 20 7 18 20 7 21 7 16 22 3 22 11 17 16 21 2 10 7 2 20 17 23 22 7 2 22 10 7 2 18 11 7 3 21 7 21 29",
+                    "score": 72.6050033569336,
+                    "shape": [
+                        71,
+                        30
+                    ],
+                    "text": "URSUS WAS THE POET OF THESE MAGICAL REPRESENTATIONS HE WROTE THE PIECES",
+                    "token": "U R S U S <space> W A S <space> T H E <space> P O E T <space> O F <space> T H E S E <space> M A G I C A L <space> R E P R E S E N T A T I O N S <space> H E <space> W R O T E <space> T H E <space> P I E C E S",
+                    "tokenid": "23 20 21 23 21 2 25 3 21 2 22 10 7 2 18 17 7 22 2 17 8 2 22 10 7 21 7 2 15 3 9 11 5 3 14 2 20 7 18 20 7 21 7 16 22 3 22 11 17 16 21 2 10 7 2 25 20 17 22 7 2 22 10 7 2 18 11 7 5 7 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34622-0021": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THEN I LOOK PERHAPS LIKE WHAT I AM<eos>",
+                    "rec_token": "<blank> <space> T H E N <space> I <space> L O O K <space> P E R H A P S <space> L I K E <space> W H A T <space> I <space> A M <eos>",
+                    "rec_tokenid": "0 2 22 10 7 16 2 11 2 14 17 17 13 2 18 7 20 10 3 18 21 2 14 11 13 7 2 25 10 3 22 2 11 2 3 15 29",
+                    "score": 36.84750747680664,
+                    "shape": [
+                        34,
+                        30
+                    ],
+                    "text": "THEN I LOOK PERHAPS LIKE WHAT I AM",
+                    "token": "T H E N <space> I <space> L O O K <space> P E R H A P S <space> L I K E <space> W H A T <space> I <space> A M",
+                    "tokenid": "22 10 7 16 2 11 2 14 17 17 13 2 18 7 20 10 3 18 21 2 14 11 13 7 2 25 10 3 22 2 11 2 3 15"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34622-0022": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THIS OPENING LOOKED FOR ALL THE WORLD LIKE A MOUTH OF HELL IN THE WORDS OF THE ITINNERANT PURITANT PREATURES WHO TURNED AWAY FROM IT WITH HORROR<eos>",
+                    "rec_token": "<blank> <space> T H I S <space> O P E N I N G <space> L O O K E D <space> F O R <space> A L L <space> T H E <space> W O R L D <space> L I K E <space> A <space> M O U T H <space> O F <space> H E L L <space> I N <space> T H E <space> W O R D S <space> O F <space> T H E <space> I T I N N E R A N T <space> P U R I T A N T <space> P R E A T U R E S <space> W H O <space> T U R N E D <space> A W A Y <space> F R O M <space> I T <space> W I T H <space> H O R R O R <eos>",
+                    "rec_tokenid": "0 2 22 10 11 21 2 17 18 7 16 11 16 9 2 14 17 17 13 7 6 2 8 17 20 2 3 14 14 2 22 10 7 2 25 17 20 14 6 2 14 11 13 7 2 3 2 15 17 23 22 10 2 17 8 2 10 7 14 14 2 11 16 2 22 10 7 2 25 17 20 6 21 2 17 8 2 22 10 7 2 11 22 11 16 16 7 20 3 16 22 2 18 23 20 11 22 3 16 22 2 18 20 7 3 22 23 20 7 21 2 25 10 17 2 22 23 20 16 7 6 2 3 25 3 27 2 8 20 17 15 2 11 22 2 25 11 22 10 2 10 17 20 20 17 20 29",
+                    "score": 142.97250366210938,
+                    "shape": [
+                        142,
+                        30
+                    ],
+                    "text": "THIS OPENING LOOKED FOR ALL THE WORLD LIKE A MOUTH OF HELL IN THE WORDS OF THE ITINERANT PURITAN PREACHERS WHO TURNED AWAY FROM IT WITH HORROR",
+                    "token": "T H I S <space> O P E N I N G <space> L O O K E D <space> F O R <space> A L L <space> T H E <space> W O R L D <space> L I K E <space> A <space> M O U T H <space> O F <space> H E L L <space> I N <space> T H E <space> W O R D S <space> O F <space> T H E <space> I T I N E R A N T <space> P U R I T A N <space> P R E A C H E R S <space> W H O <space> T U R N E D <space> A W A Y <space> F R O M <space> I T <space> W I T H <space> H O R R O R",
+                    "tokenid": "22 10 11 21 2 17 18 7 16 11 16 9 2 14 17 17 13 7 6 2 8 17 20 2 3 14 14 2 22 10 7 2 25 17 20 14 6 2 14 11 13 7 2 3 2 15 17 23 22 10 2 17 8 2 10 7 14 14 2 11 16 2 22 10 7 2 25 17 20 6 21 2 17 8 2 22 10 7 2 11 22 11 16 7 20 3 16 22 2 18 23 20 11 22 3 16 2 18 20 7 3 5 10 7 20 21 2 25 10 17 2 22 23 20 16 7 6 2 3 25 3 27 2 8 20 17 15 2 11 22 2 25 11 22 10 2 10 17 20 20 17 20"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34622-0023": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>FERSAS WAS IN EVERYTHING IN THE PEACE IN THE COMPANY IN THE CITTION IN THE ORCOUSTRA<eos>",
+                    "rec_token": "<blank> F E R S A S <space> W A S <space> I N <space> E V E R Y T H I N G <space> I N <space> T H E <space> P E A C E <space> I N <space> T H E <space> C O M P A N Y <space> I N <space> T H E <space> C I T T I O N <space> I N <space> T H E <space> O R C O U S T R A <eos>",
+                    "rec_tokenid": "0 8 7 20 21 3 21 2 25 3 21 2 11 16 2 7 24 7 20 27 22 10 11 16 9 2 11 16 2 22 10 7 2 18 7 3 5 7 2 11 16 2 22 10 7 2 5 17 15 18 3 16 27 2 11 16 2 22 10 7 2 5 11 22 22 11 17 16 2 11 16 2 22 10 7 2 17 20 5 17 23 21 22 20 3 29",
+                    "score": 82.5423812866211,
+                    "shape": [
+                        83,
+                        30
+                    ],
+                    "text": "URSUS WAS IN EVERYTHING IN THE PIECE IN THE COMPANY IN THE KITCHEN IN THE ORCHESTRA",
+                    "token": "U R S U S <space> W A S <space> I N <space> E V E R Y T H I N G <space> I N <space> T H E <space> P I E C E <space> I N <space> T H E <space> C O M P A N Y <space> I N <space> T H E <space> K I T C H E N <space> I N <space> T H E <space> O R C H E S T R A",
+                    "tokenid": "23 20 21 23 21 2 25 3 21 2 11 16 2 7 24 7 20 27 22 10 11 16 9 2 11 16 2 22 10 7 2 18 11 7 5 7 2 11 16 2 22 10 7 2 5 17 15 18 3 16 27 2 11 16 2 22 10 7 2 13 11 22 5 10 7 16 2 11 16 2 22 10 7 2 17 20 5 10 7 21 22 20 3"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34629-0000": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>IT WAS ESTABLISHED AT SOUTH WORK<eos>",
+                    "rec_token": "<blank> <eos> I T <space> W A S <space> E S T A B L I S H E D <space> A T <space> S O U T H <space> W O R K <eos>",
+                    "rec_tokenid": "0 29 11 22 2 25 3 21 2 7 21 22 3 4 14 11 21 10 7 6 2 3 22 2 21 17 23 22 10 2 25 17 20 13 29",
+                    "score": 509.4187316894531,
+                    "shape": [
+                        31,
+                        30
+                    ],
+                    "text": "IT WAS ESTABLISHED AT SOUTHWARK",
+                    "token": "I T <space> W A S <space> E S T A B L I S H E D <space> A T <space> S O U T H W A R K",
+                    "tokenid": "11 22 2 25 3 21 2 7 21 22 3 4 14 11 21 10 7 6 2 3 22 2 21 17 23 22 10 25 3 20 13"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34629-0001": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THE DOME OF SANT PAOLLS WAS A DELIGHT TO ERSIS<eos>",
+                    "rec_token": "<blank> <space> T H E <space> D O M E <space> O F <space> S A N T <space> P A O L L S <space> W A S <space> A <space> D E L I G H T <space> T O <space> E R S I S <eos>",
+                    "rec_tokenid": "0 2 22 10 7 2 6 17 15 7 2 17 8 2 21 3 16 22 2 18 3 17 14 14 21 2 25 3 21 2 3 2 6 7 14 11 9 10 22 2 22 17 2 7 20 21 11 21 29",
+                    "score": 46.02088928222656,
+                    "shape": [
+                        47,
+                        30
+                    ],
+                    "text": "THE DOME OF SAINT PAUL'S WAS A DELIGHT TO URSUS",
+                    "token": "T H E <space> D O M E <space> O F <space> S A I N T <space> P A U L <unk> S <space> W A S <space> A <space> D E L I G H T <space> T O <space> U R S U S",
+                    "tokenid": "22 10 7 2 6 17 15 7 2 17 8 2 21 3 11 16 22 2 18 3 23 14 1 21 2 25 3 21 2 3 2 6 7 14 11 9 10 22 2 22 17 2 23 20 21 23 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34629-0002": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> SAINT POLL IS E SAINTE ONLY WITH EXTENUATING CIRCUMSTANCES<eos>",
+                    "rec_token": "<blank> <space> S A I N T <space> P O L L <space> I S <space> E <space> S A I N T E <space> O N L Y <space> W I T H <space> E X T E N U A T I N G <space> C I R C U M S T A N C E S <eos>",
+                    "rec_tokenid": "0 2 21 3 11 16 22 2 18 17 14 14 2 11 21 2 7 2 21 3 11 16 22 7 2 17 16 14 27 2 25 11 22 10 2 7 26 22 7 16 23 3 22 11 16 9 2 5 11 20 5 23 15 21 22 3 16 5 7 21 29",
+                    "score": 58.4996337890625,
+                    "shape": [
+                        57,
+                        30
+                    ],
+                    "text": "SAINT PAUL IS A SAINT ONLY WITH EXTENUATING CIRCUMSTANCES",
+                    "token": "S A I N T <space> P A U L <space> I S <space> A <space> S A I N T <space> O N L Y <space> W I T H <space> E X T E N U A T I N G <space> C I R C U M S T A N C E S",
+                    "tokenid": "21 3 11 16 22 2 18 3 23 14 2 11 21 2 3 2 21 3 11 16 22 2 17 16 14 27 2 25 11 22 10 2 7 26 22 7 16 23 3 22 11 16 9 2 5 11 20 5 23 15 21 22 3 16 5 7 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34629-0003": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>WHE ENTERED HEAVN ONLY BY THE ARTISTS DOOR<eos>",
+                    "rec_token": "<blank> W H E <space> E N T E R E D <space> H E A V N <space> O N L Y <space> B Y <space> T H E <space> A R T I S T S <space> D O O R <eos>",
+                    "rec_tokenid": "0 25 10 7 2 7 16 22 7 20 7 6 2 10 7 3 24 16 2 17 16 14 27 2 4 27 2 22 10 7 2 3 20 22 11 21 22 21 2 6 17 17 20 29",
+                    "score": 43.31131362915039,
+                    "shape": [
+                        42,
+                        30
+                    ],
+                    "text": "HE ENTERED HEAVEN ONLY BY THE ARTISTS DOOR",
+                    "token": "H E <space> E N T E R E D <space> H E A V E N <space> O N L Y <space> B Y <space> T H E <space> A R T I S T S <space> D O O R",
+                    "tokenid": "10 7 2 7 16 22 7 20 7 6 2 10 7 3 24 7 16 2 17 16 14 27 2 4 27 2 22 10 7 2 3 20 22 11 21 22 21 2 6 17 17 20"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34629-0004": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> IT MIGHT HAVE BEEN ORDERED FOR THE GREEN BOXS<eos>",
+                    "rec_token": "<blank> <space> I T <space> M I G H T <space> H A V E <space> B E E N <space> O R D E R E D <space> F O R <space> T H E <space> G R E E N <space> B O X S <eos>",
+                    "rec_tokenid": "0 2 11 22 2 15 11 9 10 22 2 10 3 24 7 2 4 7 7 16 2 17 20 6 7 20 7 6 2 8 17 20 2 22 10 7 2 9 20 7 7 16 2 4 17 26 21 29",
+                    "score": 47.2274284362793,
+                    "shape": [
+                        44,
+                        30
+                    ],
+                    "text": "IT MIGHT HAVE BEEN ORDERED FOR THE GREEN BOX",
+                    "token": "I T <space> M I G H T <space> H A V E <space> B E E N <space> O R D E R E D <space> F O R <space> T H E <space> G R E E N <space> B O X",
+                    "tokenid": "11 22 2 15 11 9 10 22 2 10 3 24 7 2 4 7 7 16 2 17 20 6 7 20 7 6 2 8 17 20 2 22 10 7 2 9 20 7 7 16 2 4 17 26"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34629-0005": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>IT WAS A THEATER READY MAIDE<eos>",
+                    "rec_token": "<blank> <eos> I T <space> W A S <space> A <space> T H E A T E R <space> R E A D Y <space> M A I D E <eos>",
+                    "rec_tokenid": "0 29 11 22 2 25 3 21 2 3 2 22 10 7 3 22 7 20 2 20 7 3 6 27 2 15 3 11 6 7 29",
+                    "score": 430.3276672363281,
+                    "shape": [
+                        27,
+                        30
+                    ],
+                    "text": "IT WAS A THEATRE READY MADE",
+                    "token": "I T <space> W A S <space> A <space> T H E A T R E <space> R E A D Y <space> M A D E",
+                    "tokenid": "11 22 2 25 3 21 2 3 2 22 10 7 3 22 20 7 2 20 7 3 6 27 2 15 3 6 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34629-0006": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>AGAINST THIS WALL WAS PLACED THE GREEN BOXS WHICH THEY WERE ABLE TO DRAW INTO THE YARD OWING TO THE HEIGHTE OF THE GATE<eos>",
+                    "rec_token": "<blank> A G A I N S T <space> T H I S <space> W A L L <space> W A S <space> P L A C E D <space> T H E <space> G R E E N <space> B O X S <space> W H I C H <space> T H E Y <space> W E R E <space> A B L E <space> T O <space> D R A W <space> I N T O <space> T H E <space> Y A R D <space> O W I N G <space> T O <space> T H E <space> H E I G H T E <space> O F <space> T H E <space> G A T E <eos>",
+                    "rec_tokenid": "0 3 9 3 11 16 21 22 2 22 10 11 21 2 25 3 14 14 2 25 3 21 2 18 14 3 5 7 6 2 22 10 7 2 9 20 7 7 16 2 4 17 26 21 2 25 10 11 5 10 2 22 10 7 27 2 25 7 20 7 2 3 4 14 7 2 22 17 2 6 20 3 25 2 11 16 22 17 2 22 10 7 2 27 3 20 6 2 17 25 11 16 9 2 22 17 2 22 10 7 2 10 7 11 9 10 22 7 2 17 8 2 22 10 7 2 9 3 22 7 29",
+                    "score": 119.26768493652344,
+                    "shape": [
+                        117,
+                        30
+                    ],
+                    "text": "AGAINST THIS WALL WAS PLACED THE GREEN BOX WHICH THEY WERE ABLE TO DRAW INTO THE YARD OWING TO THE HEIGHT OF THE GATE",
+                    "token": "A G A I N S T <space> T H I S <space> W A L L <space> W A S <space> P L A C E D <space> T H E <space> G R E E N <space> B O X <space> W H I C H <space> T H E Y <space> W E R E <space> A B L E <space> T O <space> D R A W <space> I N T O <space> T H E <space> Y A R D <space> O W I N G <space> T O <space> T H E <space> H E I G H T <space> O F <space> T H E <space> G A T E",
+                    "tokenid": "3 9 3 11 16 21 22 2 22 10 11 21 2 25 3 14 14 2 25 3 21 2 18 14 3 5 7 6 2 22 10 7 2 9 20 7 7 16 2 4 17 26 2 25 10 11 5 10 2 22 10 7 27 2 25 7 20 7 2 3 4 14 7 2 22 17 2 6 20 3 25 2 11 16 22 17 2 22 10 7 2 27 3 20 6 2 17 25 11 16 9 2 22 17 2 22 10 7 2 10 7 11 9 10 22 2 17 8 2 22 10 7 2 9 3 22 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34629-0007": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THE PLACKERD GWEN PLAINED THE LAGFHING MAN TAKEN FROM ITS NAIL IN THE GREEN BOXS WAS HUNG UP CLOSE TO THE SINED OF THE IN<eos>",
+                    "rec_token": "<blank> <space> T H E <space> P L A C K E R D <space> G W E N <space> P L A I N E D <space> T H E <space> L A G F H I N G <space> M A N <space> T A K E N <space> F R O M <space> I T S <space> N A I L <space> I N <space> T H E <space> G R E E N <space> B O X S <space> W A S <space> H U N G <space> U P <space> C L O S E <space> T O <space> T H E <space> S I N E D <space> O F <space> T H E <space> I N <eos>",
+                    "rec_tokenid": "0 2 22 10 7 2 18 14 3 5 13 7 20 6 2 9 25 7 16 2 18 14 3 11 16 7 6 2 22 10 7 2 14 3 9 8 10 11 16 9 2 15 3 16 2 22 3 13 7 16 2 8 20 17 15 2 11 22 21 2 16 3 11 14 2 11 16 2 22 10 7 2 9 20 7 7 16 2 4 17 26 21 2 25 3 21 2 10 23 16 9 2 23 18 2 5 14 17 21 7 2 22 17 2 22 10 7 2 21 11 16 7 6 2 17 8 2 22 10 7 2 11 16 29",
+                    "score": 118.63766479492188,
+                    "shape": [
+                        117,
+                        30
+                    ],
+                    "text": "THE PLACARD GWYNPLAINE THE LAUGHING MAN TAKEN FROM ITS NAIL IN THE GREEN BOX WAS HUNG UP CLOSE TO THE SIGN OF THE INN",
+                    "token": "T H E <space> P L A C A R D <space> G W Y N P L A I N E <space> T H E <space> L A U G H I N G <space> M A N <space> T A K E N <space> F R O M <space> I T S <space> N A I L <space> I N <space> T H E <space> G R E E N <space> B O X <space> W A S <space> H U N G <space> U P <space> C L O S E <space> T O <space> T H E <space> S I G N <space> O F <space> T H E <space> I N N",
+                    "tokenid": "22 10 7 2 18 14 3 5 3 20 6 2 9 25 27 16 18 14 3 11 16 7 2 22 10 7 2 14 3 23 9 10 11 16 9 2 15 3 16 2 22 3 13 7 16 2 8 20 17 15 2 11 22 21 2 16 3 11 14 2 11 16 2 22 10 7 2 9 20 7 7 16 2 4 17 26 2 25 3 21 2 10 23 16 9 2 23 18 2 5 14 17 21 7 2 22 17 2 22 10 7 2 21 11 9 16 2 17 8 2 22 10 7 2 11 16 16"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34629-0008": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> BY THE SIDE OF THE DOOR WAS CONSTRUCTED OFF HAND BY MEANS OF AN EMTY BARROL A BOX FOR THE MONY TAKER WHO WAS SOMETIMES FIEABY AND SOMETIMES FEENOUS<eos>",
+                    "rec_token": "<blank> <space> B Y <space> T H E <space> S I D E <space> O F <space> T H E <space> D O O R <space> W A S <space> C O N S T R U C T E D <space> O F F <space> H A N D <space> B Y <space> M E A N S <space> O F <space> A N <space> E M T Y <space> B A R R O L <space> A <space> B O X <space> F O R <space> T H E <space> M O N Y <space> T A K E R <space> W H O <space> W A S <space> S O M E T I M E S <space> F I E A B Y <space> A N D <space> S O M E T I M E S <space> F E E N O U S <eos>",
+                    "rec_tokenid": "0 2 4 27 2 22 10 7 2 21 11 6 7 2 17 8 2 22 10 7 2 6 17 17 20 2 25 3 21 2 5 17 16 21 22 20 23 5 22 7 6 2 17 8 8 2 10 3 16 6 2 4 27 2 15 7 3 16 21 2 17 8 2 3 16 2 7 15 22 27 2 4 3 20 20 17 14 2 3 2 4 17 26 2 8 17 20 2 22 10 7 2 15 17 16 27 2 22 3 13 7 20 2 25 10 17 2 25 3 21 2 21 17 15 7 22 11 15 7 21 2 8 11 7 3 4 27 2 3 16 6 2 21 17 15 7 22 11 15 7 21 2 8 7 7 16 17 23 21 29",
+                    "score": 145.97723388671875,
+                    "shape": [
+                        145,
+                        30
+                    ],
+                    "text": "BY THE SIDE OF THE DOOR WAS CONSTRUCTED OFF HAND BY MEANS OF AN EMPTY BARREL A BOX FOR THE MONEY TAKER WHO WAS SOMETIMES FIBI AND SOMETIMES VINOS",
+                    "token": "B Y <space> T H E <space> S I D E <space> O F <space> T H E <space> D O O R <space> W A S <space> C O N S T R U C T E D <space> O F F <space> H A N D <space> B Y <space> M E A N S <space> O F <space> A N <space> E M P T Y <space> B A R R E L <space> A <space> B O X <space> F O R <space> T H E <space> M O N E Y <space> T A K E R <space> W H O <space> W A S <space> S O M E T I M E S <space> F I B I <space> A N D <space> S O M E T I M E S <space> V I N O S",
+                    "tokenid": "4 27 2 22 10 7 2 21 11 6 7 2 17 8 2 22 10 7 2 6 17 17 20 2 25 3 21 2 5 17 16 21 22 20 23 5 22 7 6 2 17 8 8 2 10 3 16 6 2 4 27 2 15 7 3 16 21 2 17 8 2 3 16 2 7 15 18 22 27 2 4 3 20 20 7 14 2 3 2 4 17 26 2 8 17 20 2 22 10 7 2 15 17 16 7 27 2 22 3 13 7 20 2 25 10 17 2 25 3 21 2 21 17 15 7 22 11 15 7 21 2 8 11 4 11 2 3 16 6 2 21 17 15 7 22 11 15 7 21 2 24 11 16 17 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34629-0009": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>YWE ARE IN LUNDON SAID ERSCIS WE MUST BE PREPARED FOR THE GENTRY<eos>",
+                    "rec_token": "<blank> Y W E <space> A R E <space> I N <space> L U N D O N <space> S A I D <space> E R S C I S <space> W E <space> M U S T <space> B E <space> P R E P A R E D <space> F O R <space> T H E <space> G E N T R Y <eos>",
+                    "rec_tokenid": "0 27 25 7 2 3 20 7 2 11 16 2 14 23 16 6 17 16 2 21 3 11 6 2 7 20 21 5 11 21 2 25 7 2 15 23 21 22 2 4 7 2 18 20 7 18 3 20 7 6 2 8 17 20 2 22 10 7 2 9 7 16 22 20 27 29",
+                    "score": 64.20503234863281,
+                    "shape": [
+                        62,
+                        30
+                    ],
+                    "text": "WE ARE IN LONDON SAID URSUS WE MUST BE PREPARED FOR THE GENTRY",
+                    "token": "W E <space> A R E <space> I N <space> L O N D O N <space> S A I D <space> U R S U S <space> W E <space> M U S T <space> B E <space> P R E P A R E D <space> F O R <space> T H E <space> G E N T R Y",
+                    "tokenid": "25 7 2 3 20 7 2 11 16 2 14 17 16 6 17 16 2 21 3 11 6 2 23 20 21 23 21 2 25 7 2 15 23 21 22 2 4 7 2 18 20 7 18 3 20 7 6 2 8 17 20 2 22 10 7 2 9 7 16 22 20 27"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34629-0010": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>HEY BEGAN THEIR PERFORMANCES<eos>",
+                    "rec_token": "<blank> <eos> H E Y <space> B E G A N <space> T H E I R <space> P E R F O R M A N C E S <eos>",
+                    "rec_tokenid": "0 29 10 7 27 2 4 7 9 3 16 2 22 10 7 11 20 2 18 7 20 8 17 20 15 3 16 5 7 21 29",
+                    "score": 456.1434326171875,
+                    "shape": [
+                        29,
+                        30
+                    ],
+                    "text": "THEY BEGAN THEIR PERFORMANCES",
+                    "token": "T H E Y <space> B E G A N <space> T H E I R <space> P E R F O R M A N C E S",
+                    "tokenid": "22 10 7 27 2 4 7 9 3 16 2 22 10 7 11 20 2 18 7 20 8 17 20 15 3 16 5 7 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34629-0011": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> WITH THAT EXCEPTION THEIR SUCCESS BECAME SO GREAT THAT NO MOUNTOBANK MEMARY COULD RECALL ITS PEARRIALELL<eos>",
+                    "rec_token": "<blank> <space> W I T H <space> T H A T <space> E X C E P T I O N <space> T H E I R <space> S U C C E S S <space> B E C A M E <space> S O <space> G R E A T <space> T H A T <space> N O <space> M O U N T O B A N K <space> M E M A R Y <space> C O U L D <space> R E C A L L <space> I T S <space> P E A R R I A L E L L <eos>",
+                    "rec_tokenid": "0 2 25 11 22 10 2 22 10 3 22 2 7 26 5 7 18 22 11 17 16 2 22 10 7 11 20 2 21 23 5 5 7 21 21 2 4 7 5 3 15 7 2 21 17 2 9 20 7 3 22 2 22 10 3 22 2 16 17 2 15 17 23 16 22 17 4 3 16 13 2 15 7 15 3 20 27 2 5 17 23 14 6 2 20 7 5 3 14 14 2 11 22 21 2 18 7 3 20 20 11 3 14 7 14 14 29",
+                    "score": 100.32270812988281,
+                    "shape": [
+                        101,
+                        30
+                    ],
+                    "text": "WITH THAT EXCEPTION THEIR SUCCESS BECAME SO GREAT THAT NO MOUNTEBANK MEMORY COULD RECALL ITS PARALLEL",
+                    "token": "W I T H <space> T H A T <space> E X C E P T I O N <space> T H E I R <space> S U C C E S S <space> B E C A M E <space> S O <space> G R E A T <space> T H A T <space> N O <space> M O U N T E B A N K <space> M E M O R Y <space> C O U L D <space> R E C A L L <space> I T S <space> P A R A L L E L",
+                    "tokenid": "25 11 22 10 2 22 10 3 22 2 7 26 5 7 18 22 11 17 16 2 22 10 7 11 20 2 21 23 5 5 7 21 21 2 4 7 5 3 15 7 2 21 17 2 9 20 7 3 22 2 22 10 3 22 2 16 17 2 15 17 23 16 22 7 4 3 16 13 2 15 7 15 17 20 27 2 5 17 23 14 6 2 20 7 5 3 14 14 2 11 22 21 2 18 3 20 3 14 14 7 14"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34629-0012": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> ALL SOUTHWORK RAN IN CROUDS TO ADMIRE THE LAUFING MAN<eos>",
+                    "rec_token": "<blank> <space> A L L <space> S O U T H W O R K <space> R A N <space> I N <space> C R O U D S <space> T O <space> A D M I R E <space> T H E <space> L A U F I N G <space> M A N <eos>",
+                    "rec_tokenid": "0 2 3 14 14 2 21 17 23 22 10 25 17 20 13 2 20 3 16 2 11 16 2 5 20 17 23 6 21 2 22 17 2 3 6 15 11 20 7 2 22 10 7 2 14 3 23 8 11 16 9 2 15 3 16 29",
+                    "score": 53.1907958984375,
+                    "shape": [
+                        54,
+                        30
+                    ],
+                    "text": "ALL SOUTHWARK RAN IN CROWDS TO ADMIRE THE LAUGHING MAN",
+                    "token": "A L L <space> S O U T H W A R K <space> R A N <space> I N <space> C R O W D S <space> T O <space> A D M I R E <space> T H E <space> L A U G H I N G <space> M A N",
+                    "tokenid": "3 14 14 2 21 17 23 22 10 25 3 20 13 2 20 3 16 2 11 16 2 5 20 17 25 6 21 2 22 17 2 3 6 15 11 20 7 2 22 10 7 2 14 3 23 9 10 11 16 9 2 15 3 16"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34629-0013": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THE MERRY ANDROUWS AND MOUNTABANKS OF TUTINSOFIELD WERE A GAST AT GWINPLAINE<eos>",
+                    "rec_token": "<blank> <space> T H E <space> M E R R Y <space> A N D R O U W S <space> A N D <space> M O U N T A B A N K S <space> O F <space> T U T I N S O F I E L D <space> W E R E <space> A <space> G A S T <space> A T <space> G W I N P L A I N E <eos>",
+                    "rec_tokenid": "0 2 22 10 7 2 15 7 20 20 27 2 3 16 6 20 17 23 25 21 2 3 16 6 2 15 17 23 16 22 3 4 3 16 13 21 2 17 8 2 22 23 22 11 16 21 17 8 11 7 14 6 2 25 7 20 7 2 3 2 9 3 21 22 2 3 22 2 9 25 11 16 18 14 3 11 16 7 29",
+                    "score": 74.61254119873047,
+                    "shape": [
+                        79,
+                        30
+                    ],
+                    "text": "THE MERRY ANDREWS AND MOUNTEBANKS OF TARRINZEAU FIELD WERE AGHAST AT GWYNPLAINE",
+                    "token": "T H E <space> M E R R Y <space> A N D R E W S <space> A N D <space> M O U N T E B A N K S <space> O F <space> T A R R I N Z E A U <space> F I E L D <space> W E R E <space> A G H A S T <space> A T <space> G W Y N P L A I N E",
+                    "tokenid": "22 10 7 2 15 7 20 20 27 2 3 16 6 20 7 25 21 2 3 16 6 2 15 17 23 16 22 7 4 3 16 13 21 2 17 8 2 22 3 20 20 11 16 28 7 3 23 2 8 11 7 14 6 2 25 7 20 7 2 3 9 10 3 21 22 2 3 22 2 9 25 27 16 18 14 3 11 16 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34629-0014": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>WENDPLAINE ATE UP THEIR PUBLICK<eos>",
+                    "rec_token": "<blank> <eos> W E N D P L A I N E <space> A T E <space> U P <space> T H E I R <space> P U B L I C K <eos>",
+                    "rec_tokenid": "0 29 25 7 16 6 18 14 3 11 16 7 2 3 22 7 2 23 18 2 22 10 7 11 20 2 18 23 4 14 11 5 13 29",
+                    "score": 417.2311096191406,
+                    "shape": [
+                        30,
+                        30
+                    ],
+                    "text": "GWYNPLAINE ATE UP THEIR PUBLIC",
+                    "token": "G W Y N P L A I N E <space> A T E <space> U P <space> T H E I R <space> P U B L I C",
+                    "tokenid": "9 25 27 16 18 14 3 11 16 7 2 3 22 7 2 23 18 2 22 10 7 11 20 2 18 23 4 14 11 5"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34629-0015": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> BESIDES THE SMALLE FRY THE SWOLLOWORS OF SWARDS AND THE GRIMIS MAKERS REAL PERFORMANCES TOOK PLACE ON THE GREEN<eos>",
+                    "rec_token": "<blank> <space> B E S I D E S <space> T H E <space> S M A L L E <space> F R Y <space> T H E <space> S W O L L O W O R S <space> O F <space> S W A R D S <space> A N D <space> T H E <space> G R I M I S <space> M A K E R S <space> R E A L <space> P E R F O R M A N C E S <space> T O O K <space> P L A C E <space> O N <space> T H E <space> G R E E N <eos>",
+                    "rec_tokenid": "0 2 4 7 21 11 6 7 21 2 22 10 7 2 21 15 3 14 14 7 2 8 20 27 2 22 10 7 2 21 25 17 14 14 17 25 17 20 21 2 17 8 2 21 25 3 20 6 21 2 3 16 6 2 22 10 7 2 9 20 11 15 11 21 2 15 3 13 7 20 21 2 20 7 3 14 2 18 7 20 8 17 20 15 3 16 5 7 21 2 22 17 17 13 2 18 14 3 5 7 2 17 16 2 22 10 7 2 9 20 7 7 16 29",
+                    "score": 110.67669677734375,
+                    "shape": [
+                        111,
+                        30
+                    ],
+                    "text": "BESIDES THE SMALL FRY THE SWALLOWERS OF SWORDS AND THE GRIMACE MAKERS REAL PERFORMANCES TOOK PLACE ON THE GREEN",
+                    "token": "B E S I D E S <space> T H E <space> S M A L L <space> F R Y <space> T H E <space> S W A L L O W E R S <space> O F <space> S W O R D S <space> A N D <space> T H E <space> G R I M A C E <space> M A K E R S <space> R E A L <space> P E R F O R M A N C E S <space> T O O K <space> P L A C E <space> O N <space> T H E <space> G R E E N",
+                    "tokenid": "4 7 21 11 6 7 21 2 22 10 7 2 21 15 3 14 14 2 8 20 27 2 22 10 7 2 21 25 3 14 14 17 25 7 20 21 2 17 8 2 21 25 17 20 6 21 2 3 16 6 2 22 10 7 2 9 20 11 15 3 5 7 2 15 3 13 7 20 21 2 20 7 3 14 2 18 7 20 8 17 20 15 3 16 5 7 21 2 22 17 17 13 2 18 14 3 5 7 2 17 16 2 22 10 7 2 9 20 7 7 16"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34629-0016": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><unk>EVEN THIS COMMEDIAN OF JAUWS AND CLAUS WAS EACLIPSE IN SUCESS<eos>",
+                    "rec_token": "<blank> <unk> E V E N <space> T H I S <space> C O M M E D I A N <space> O F <space> J A U W S <space> A N D <space> C L A U S <space> W A S <space> E A C L I P S E <space> I N <space> S U C E S S <eos>",
+                    "rec_tokenid": "0 1 7 24 7 16 2 22 10 11 21 2 5 17 15 15 7 6 11 3 16 2 17 8 2 12 3 23 25 21 2 3 16 6 2 5 14 3 23 21 2 25 3 21 2 7 3 5 14 11 18 21 7 2 11 16 2 21 23 5 7 21 21 29",
+                    "score": 59.39544677734375,
+                    "shape": [
+                        60,
+                        30
+                    ],
+                    "text": "EVEN THIS COMEDIAN OF JAWS AND CLAWS WAS ECLIPSED IN SUCCESS",
+                    "token": "E V E N <space> T H I S <space> C O M E D I A N <space> O F <space> J A W S <space> A N D <space> C L A W S <space> W A S <space> E C L I P S E D <space> I N <space> S U C C E S S",
+                    "tokenid": "7 24 7 16 2 22 10 11 21 2 5 17 15 7 6 11 3 16 2 17 8 2 12 3 25 21 2 3 16 6 2 5 14 3 25 21 2 25 3 21 2 7 5 14 11 18 21 7 6 2 11 16 2 21 23 5 5 7 21 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34629-0017": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THAT SUCCESS WAS PRODIGIEOUS STILL IT REMAINED LOKAL<eos>",
+                    "rec_token": "<blank> <space> T H A T <space> S U C C E S S <space> W A S <space> P R O D I G I E O U S <space> S T I L L <space> I T <space> R E M A I N E D <space> L O K A L <eos>",
+                    "rec_tokenid": "0 2 22 10 3 22 2 21 23 5 5 7 21 21 2 25 3 21 2 18 20 17 6 11 9 11 7 17 23 21 2 21 22 11 14 14 2 11 22 2 20 7 15 3 11 16 7 6 2 14 17 13 3 14 29",
+                    "score": 53.368770599365234,
+                    "shape": [
+                        51,
+                        30
+                    ],
+                    "text": "THAT SUCCESS WAS PRODIGIOUS STILL IT REMAINED LOCAL",
+                    "token": "T H A T <space> S U C C E S S <space> W A S <space> P R O D I G I O U S <space> S T I L L <space> I T <space> R E M A I N E D <space> L O C A L",
+                    "tokenid": "22 10 3 22 2 21 23 5 5 7 21 21 2 25 3 21 2 18 20 17 6 11 9 11 17 23 21 2 21 22 11 14 14 2 11 22 2 20 7 15 3 11 16 7 6 2 14 17 5 3 14"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34629-0018": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> IT TOOK A HUNDRED AND THIRTY YEARS FOR THE NAME OF SHAKESPEARE TO PENNETRATE FROM EINGLAND IN TO FRANCE<eos>",
+                    "rec_token": "<blank> <space> I T <space> T O O K <space> A <space> H U N D R E D <space> A N D <space> T H I R T Y <space> Y E A R S <space> F O R <space> T H E <space> N A M E <space> O F <space> S H A K E S P E A R E <space> T O <space> P E N N E T R A T E <space> F R O M <space> E I N G L A N D <space> I N <space> T O <space> F R A N C E <eos>",
+                    "rec_tokenid": "0 2 11 22 2 22 17 17 13 2 3 2 10 23 16 6 20 7 6 2 3 16 6 2 22 10 11 20 22 27 2 27 7 3 20 21 2 8 17 20 2 22 10 7 2 16 3 15 7 2 17 8 2 21 10 3 13 7 21 18 7 3 20 7 2 22 17 2 18 7 16 16 7 22 20 3 22 7 2 8 20 17 15 2 7 11 16 9 14 3 16 6 2 11 16 2 22 17 2 8 20 3 16 5 7 29",
+                    "score": 103.50835418701172,
+                    "shape": [
+                        100,
+                        30
+                    ],
+                    "text": "IT TOOK A HUNDRED AND THIRTY YEARS FOR THE NAME OF SHAKESPEARE TO PENETRATE FROM ENGLAND INTO FRANCE",
+                    "token": "I T <space> T O O K <space> A <space> H U N D R E D <space> A N D <space> T H I R T Y <space> Y E A R S <space> F O R <space> T H E <space> N A M E <space> O F <space> S H A K E S P E A R E <space> T O <space> P E N E T R A T E <space> F R O M <space> E N G L A N D <space> I N T O <space> F R A N C E",
+                    "tokenid": "11 22 2 22 17 17 13 2 3 2 10 23 16 6 20 7 6 2 3 16 6 2 22 10 11 20 22 27 2 27 7 3 20 21 2 8 17 20 2 22 10 7 2 16 3 15 7 2 17 8 2 21 10 3 13 7 21 18 7 3 20 7 2 22 17 2 18 7 16 7 22 20 3 22 7 2 8 20 17 15 2 7 16 9 14 3 16 6 2 11 16 22 17 2 8 20 3 16 5 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34629-0019": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THE GLOARY OF GWUENPLAIN HAD NOT PASSED LUNDEN BRIDGE<eos>",
+                    "rec_token": "<blank> <space> T H E <space> G L O A R Y <space> O F <space> G W U E N P L A I N <space> H A D <space> N O T <space> P A S S E D <space> L U N D E N <space> B R I D G E <eos>",
+                    "rec_tokenid": "0 2 22 10 7 2 9 14 17 3 20 27 2 17 8 2 9 25 23 7 16 18 14 3 11 16 2 10 3 6 2 16 17 22 2 18 3 21 21 7 6 2 14 23 16 6 7 16 2 4 20 11 6 9 7 29",
+                    "score": 53.485618591308594,
+                    "shape": [
+                        52,
+                        30
+                    ],
+                    "text": "THE GLORY OF GWYNPLAINE HAD NOT PASSED LONDON BRIDGE",
+                    "token": "T H E <space> G L O R Y <space> O F <space> G W Y N P L A I N E <space> H A D <space> N O T <space> P A S S E D <space> L O N D O N <space> B R I D G E",
+                    "tokenid": "22 10 7 2 9 14 17 20 27 2 17 8 2 9 25 27 16 18 14 3 11 16 7 2 10 3 6 2 16 17 22 2 18 3 21 21 7 6 2 14 17 16 6 17 16 2 4 20 11 6 9 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34629-0020": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>THESE WERE REMARKABLE TALLENTS<eos>",
+                    "rec_token": "<blank> <eos> T H E S E <space> W E R E <space> R E M A R K A B L E <space> T A L L E N T S <eos>",
+                    "rec_tokenid": "0 29 22 10 7 21 7 2 25 7 20 7 2 20 7 15 3 20 13 3 4 14 7 2 22 3 14 14 7 16 22 21 29",
+                    "score": 532.3687744140625,
+                    "shape": [
+                        29,
+                        30
+                    ],
+                    "text": "THESE WERE REMARKABLE TALENTS",
+                    "token": "T H E S E <space> W E R E <space> R E M A R K A B L E <space> T A L E N T S",
+                    "tokenid": "22 10 7 21 7 2 25 7 20 7 2 20 7 15 3 20 13 3 4 14 7 2 22 3 14 7 16 22 21"
+                }
+            ],
+            "utt2spk": ""
+        }
+    }
+}
