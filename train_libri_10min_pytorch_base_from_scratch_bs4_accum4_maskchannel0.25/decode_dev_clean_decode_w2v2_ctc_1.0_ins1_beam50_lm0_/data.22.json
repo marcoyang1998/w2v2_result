@@ -1,0 +1,517 @@
+{
+    "utts": {
+        "2078-142845-0028": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> MOVE IT BACQWARDS AND FORWARDS AUNTIL THE BRED IS NICELY COLLERED THEN TUERN IT AND TOSED THE OTHERS SID AND DU NOT PLACE IT SO NER THE FIR THAT IT BLACONDS<eos>",
+                    "rec_token": "<blank> <space> M O V E <space> I T <space> B A C Q W A R D S <space> A N D <space> F O R W A R D S <space> A U N T I L <space> T H E <space> B R E D <space> I S <space> N I C E L Y <space> C O L L E R E D <space> T H E N <space> T U E R N <space> I T <space> A N D <space> T O S E D <space> T H E <space> O T H E R S <space> S I D <space> A N D <space> D U <space> N O T <space> P L A C E <space> I T <space> S O <space> N E R <space> T H E <space> F I R <space> T H A T <space> I T <space> B L A C O N D S <eos>",
+                    "rec_tokenid": "0 2 15 17 24 7 2 11 22 2 4 3 5 19 25 3 20 6 21 2 3 16 6 2 8 17 20 25 3 20 6 21 2 3 23 16 22 11 14 2 22 10 7 2 4 20 7 6 2 11 21 2 16 11 5 7 14 27 2 5 17 14 14 7 20 7 6 2 22 10 7 16 2 22 23 7 20 16 2 11 22 2 3 16 6 2 22 17 21 7 6 2 22 10 7 2 17 22 10 7 20 21 2 21 11 6 2 3 16 6 2 6 23 2 16 17 22 2 18 14 3 5 7 2 11 22 2 21 17 2 16 7 20 2 22 10 7 2 8 11 20 2 22 10 3 22 2 11 22 2 4 14 3 5 17 16 6 21 29",
+                    "score": 152.19419860839844,
+                    "shape": [
+                        157,
+                        30
+                    ],
+                    "text": "MOVE IT BACKWARDS AND FORWARDS UNTIL THE BREAD IS NICELY COLOURED THEN TURN IT AND TOAST THE OTHER SIDE AND DO NOT PLACE IT SO NEAR THE FIRE THAT IT BLACKENS",
+                    "token": "M O V E <space> I T <space> B A C K W A R D S <space> A N D <space> F O R W A R D S <space> U N T I L <space> T H E <space> B R E A D <space> I S <space> N I C E L Y <space> C O L O U R E D <space> T H E N <space> T U R N <space> I T <space> A N D <space> T O A S T <space> T H E <space> O T H E R <space> S I D E <space> A N D <space> D O <space> N O T <space> P L A C E <space> I T <space> S O <space> N E A R <space> T H E <space> F I R E <space> T H A T <space> I T <space> B L A C K E N S",
+                    "tokenid": "15 17 24 7 2 11 22 2 4 3 5 13 25 3 20 6 21 2 3 16 6 2 8 17 20 25 3 20 6 21 2 23 16 22 11 14 2 22 10 7 2 4 20 7 3 6 2 11 21 2 16 11 5 7 14 27 2 5 17 14 17 23 20 7 6 2 22 10 7 16 2 22 23 20 16 2 11 22 2 3 16 6 2 22 17 3 21 22 2 22 10 7 2 17 22 10 7 20 2 21 11 6 7 2 3 16 6 2 6 17 2 16 17 22 2 18 14 3 5 7 2 11 22 2 21 17 2 16 7 3 20 2 22 10 7 2 8 11 20 7 2 22 10 3 22 2 11 22 2 4 14 3 5 13 7 16 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2078-142845-0029": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>CTO MAKE HOUT BUTERED TOSTD SEVENTEN TWENTY SIXE<eos>",
+                    "rec_token": "<blank> C T O <space> M A K E <space> H O U T <space> B U T E R E D <space> T O S T D <space> S E V E N T E N <space> T W E N T Y <space> S I X E <eos>",
+                    "rec_tokenid": "0 5 22 17 2 15 3 13 7 2 10 17 23 22 2 4 23 22 7 20 7 6 2 22 17 21 22 6 2 21 7 24 7 16 22 7 16 2 22 25 7 16 22 27 2 21 11 26 7 29",
+                    "score": 47.505741119384766,
+                    "shape": [
+                        47,
+                        30
+                    ],
+                    "text": "TO MAKE HOT BUTTERED TOAST SEVENTEEN TWENTY SIX",
+                    "token": "T O <space> M A K E <space> H O T <space> B U T T E R E D <space> T O A S T <space> S E V E N T E E N <space> T W E N T Y <space> S I X",
+                    "tokenid": "22 17 2 15 3 13 7 2 10 17 22 2 4 23 22 22 7 20 7 6 2 22 17 3 21 22 2 21 7 24 7 16 22 7 7 16 2 22 25 7 16 22 27 2 21 11 26"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2078-142845-0030": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>J A LOFE OF HOUS HOLD BRED ABOUT TO DAYS OLD ANSWERS FOR MACKING TOST BETTER THAN COUTAGE BRIED  THE LATER NOT BEIING A GOOD SHAP AND TOE CRUSTY FOR THE PURPAUS<eos>",
+                    "rec_token": "<blank> J <space> A <space> L O F E <space> O F <space> H O U S <space> H O L D <space> B R E D <space> A B O U T <space> T O <space> D A Y S <space> O L D <space> A N S W E R S <space> F O R <space> M A C K I N G <space> T O S T <space> B E T T E R <space> T H A N <space> C O U T A G E <space> B R I E D <space> <space> T H E <space> L A T E R <space> N O T <space> B E I I N G <space> A <space> G O O D <space> S H A P <space> A N D <space> T O E <space> C R U S T Y <space> F O R <space> T H E <space> P U R P A U S <eos>",
+                    "rec_tokenid": "0 12 2 3 2 14 17 8 7 2 17 8 2 10 17 23 21 2 10 17 14 6 2 4 20 7 6 2 3 4 17 23 22 2 22 17 2 6 3 27 21 2 17 14 6 2 3 16 21 25 7 20 21 2 8 17 20 2 15 3 5 13 11 16 9 2 22 17 21 22 2 4 7 22 22 7 20 2 22 10 3 16 2 5 17 23 22 3 9 7 2 4 20 11 7 6 2 2 22 10 7 2 14 3 22 7 20 2 16 17 22 2 4 7 11 11 16 9 2 3 2 9 17 17 6 2 21 10 3 18 2 3 16 6 2 22 17 7 2 5 20 23 21 22 27 2 8 17 20 2 22 10 7 2 18 23 20 18 3 23 21 29",
+                    "score": 154.73190307617188,
+                    "shape": [
+                        160,
+                        30
+                    ],
+                    "text": "A LOAF OF HOUSEHOLD BREAD ABOUT TWO DAYS OLD ANSWERS FOR MAKING TOAST BETTER THAN COTTAGE BREAD THE LATTER NOT BEING A GOOD SHAPE AND TOO CRUSTY FOR THE PURPOSE",
+                    "token": "A <space> L O A F <space> O F <space> H O U S E H O L D <space> B R E A D <space> A B O U T <space> T W O <space> D A Y S <space> O L D <space> A N S W E R S <space> F O R <space> M A K I N G <space> T O A S T <space> B E T T E R <space> T H A N <space> C O T T A G E <space> B R E A D <space> T H E <space> L A T T E R <space> N O T <space> B E I N G <space> A <space> G O O D <space> S H A P E <space> A N D <space> T O O <space> C R U S T Y <space> F O R <space> T H E <space> P U R P O S E",
+                    "tokenid": "3 2 14 17 3 8 2 17 8 2 10 17 23 21 7 10 17 14 6 2 4 20 7 3 6 2 3 4 17 23 22 2 22 25 17 2 6 3 27 21 2 17 14 6 2 3 16 21 25 7 20 21 2 8 17 20 2 15 3 13 11 16 9 2 22 17 3 21 22 2 4 7 22 22 7 20 2 22 10 3 16 2 5 17 22 22 3 9 7 2 4 20 7 3 6 2 22 10 7 2 14 3 22 22 7 20 2 16 17 22 2 4 7 11 16 9 2 3 2 9 17 17 6 2 21 10 3 18 7 2 3 16 6 2 22 17 17 2 5 20 23 21 22 27 2 8 17 20 2 22 10 7 2 18 23 20 18 17 21 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2078-142845-0031": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> CUT AS MEANY NICSE EAVEAN SLICSES AS MAY BE REQUIRED RATHER MOR THAN ONE CQOURTER EIENCH IN THIC NES AND TOSED THEM BEFOR A VERY BRIGT FIR WITHOUT ALOWING THE BRED TO BLACON WHICH SPOILES THE APPEARENCS IN FLAVER OF ALL TOSTD<eos>",
+                    "rec_token": "<blank> <space> C U T <space> A S <space> M E A N Y <space> N I C S E <space> E A V E A N <space> S L I C S E S <space> A S <space> M A Y <space> B E <space> R E Q U I R E D <space> R A T H E R <space> M O R <space> T H A N <space> O N E <space> C Q O U R T E R <space> E I E N C H <space> I N <space> T H I C <space> N E S <space> A N D <space> T O S E D <space> T H E M <space> B E F O R <space> A <space> V E R Y <space> B R I G T <space> F I R <space> W I T H O U T <space> A L O W I N G <space> T H E <space> B R E D <space> T O <space> B L A C O N <space> W H I C H <space> S P O I L E S <space> T H E <space> A P P E A R E N C S <space> I N <space> F L A V E R <space> O F <space> A L L <space> T O S T D <eos>",
+                    "rec_tokenid": "0 2 5 23 22 2 3 21 2 15 7 3 16 27 2 16 11 5 21 7 2 7 3 24 7 3 16 2 21 14 11 5 21 7 21 2 3 21 2 15 3 27 2 4 7 2 20 7 19 23 11 20 7 6 2 20 3 22 10 7 20 2 15 17 20 2 22 10 3 16 2 17 16 7 2 5 19 17 23 20 22 7 20 2 7 11 7 16 5 10 2 11 16 2 22 10 11 5 2 16 7 21 2 3 16 6 2 22 17 21 7 6 2 22 10 7 15 2 4 7 8 17 20 2 3 2 24 7 20 27 2 4 20 11 9 22 2 8 11 20 2 25 11 22 10 17 23 22 2 3 14 17 25 11 16 9 2 22 10 7 2 4 20 7 6 2 22 17 2 4 14 3 5 17 16 2 25 10 11 5 10 2 21 18 17 11 14 7 21 2 22 10 7 2 3 18 18 7 3 20 7 16 5 21 2 11 16 2 8 14 3 24 7 20 2 17 8 2 3 14 14 2 22 17 21 22 6 29",
+                    "score": 214.771484375,
+                    "shape": [
+                        226,
+                        30
+                    ],
+                    "text": "CUT AS MANY NICE EVEN SLICES AS MAY BE REQUIRED RATHER MORE THAN ONE QUARTER INCH IN THICKNESS AND TOAST THEM BEFORE A VERY BRIGHT FIRE WITHOUT ALLOWING THE BREAD TO BLACKEN WHICH SPOILS THE APPEARANCE AND FLAVOUR OF ALL TOAST",
+                    "token": "C U T <space> A S <space> M A N Y <space> N I C E <space> E V E N <space> S L I C E S <space> A S <space> M A Y <space> B E <space> R E Q U I R E D <space> R A T H E R <space> M O R E <space> T H A N <space> O N E <space> Q U A R T E R <space> I N C H <space> I N <space> T H I C K N E S S <space> A N D <space> T O A S T <space> T H E M <space> B E F O R E <space> A <space> V E R Y <space> B R I G H T <space> F I R E <space> W I T H O U T <space> A L L O W I N G <space> T H E <space> B R E A D <space> T O <space> B L A C K E N <space> W H I C H <space> S P O I L S <space> T H E <space> A P P E A R A N C E <space> A N D <space> F L A V O U R <space> O F <space> A L L <space> T O A S T",
+                    "tokenid": "5 23 22 2 3 21 2 15 3 16 27 2 16 11 5 7 2 7 24 7 16 2 21 14 11 5 7 21 2 3 21 2 15 3 27 2 4 7 2 20 7 19 23 11 20 7 6 2 20 3 22 10 7 20 2 15 17 20 7 2 22 10 3 16 2 17 16 7 2 19 23 3 20 22 7 20 2 11 16 5 10 2 11 16 2 22 10 11 5 13 16 7 21 21 2 3 16 6 2 22 17 3 21 22 2 22 10 7 15 2 4 7 8 17 20 7 2 3 2 24 7 20 27 2 4 20 11 9 10 22 2 8 11 20 7 2 25 11 22 10 17 23 22 2 3 14 14 17 25 11 16 9 2 22 10 7 2 4 20 7 3 6 2 22 17 2 4 14 3 5 13 7 16 2 25 10 11 5 10 2 21 18 17 11 14 21 2 22 10 7 2 3 18 18 7 3 20 3 16 5 7 2 3 16 6 2 8 14 3 24 17 23 20 2 17 8 2 3 14 14 2 22 17 3 21 22"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2078-142845-0032": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>T SOYER RECOMMENDS THAT HEACH SLICE SHOULD BE CUT INTO PEACES AS SOON AS IT IS BUTTERED AND WHIN ALL AR REDDY THAT THEY SHOULD BE PILD LIGTLY  ON THE DICH THEY AR ENTENDED TO BE SIRVED ON<eos>",
+                    "rec_token": "<blank> T <space> S O Y E R <space> R E C O M M E N D S <space> T H A T <space> H E A C H <space> S L I C E <space> S H O U L D <space> B E <space> C U T <space> I N T O <space> P E A C E S <space> A S <space> S O O N <space> A S <space> I T <space> I S <space> B U T T E R E D <space> A N D <space> W H I N <space> A L L <space> A R <space> R E D D Y <space> T H A T <space> T H E Y <space> S H O U L D <space> B E <space> P I L D <space> L I G T L Y <space> <space> O N <space> T H E <space> D I C H <space> T H E Y <space> A R <space> E N T E N D E D <space> T O <space> B E <space> S I R V E D <space> O N <eos>",
+                    "rec_tokenid": "0 22 2 21 17 27 7 20 2 20 7 5 17 15 15 7 16 6 21 2 22 10 3 22 2 10 7 3 5 10 2 21 14 11 5 7 2 21 10 17 23 14 6 2 4 7 2 5 23 22 2 11 16 22 17 2 18 7 3 5 7 21 2 3 21 2 21 17 17 16 2 3 21 2 11 22 2 11 21 2 4 23 22 22 7 20 7 6 2 3 16 6 2 25 10 11 16 2 3 14 14 2 3 20 2 20 7 6 6 27 2 22 10 3 22 2 22 10 7 27 2 21 10 17 23 14 6 2 4 7 2 18 11 14 6 2 14 11 9 22 14 27 2 2 17 16 2 22 10 7 2 6 11 5 10 2 22 10 7 27 2 3 20 2 7 16 22 7 16 6 7 6 2 22 17 2 4 7 2 21 11 20 24 7 6 2 17 16 29",
+                    "score": 181.52349853515625,
+                    "shape": [
+                        187,
+                        30
+                    ],
+                    "text": "SOYER RECOMMENDS THAT EACH SLICE SHOULD BE CUT INTO PIECES AS SOON AS IT IS BUTTERED AND WHEN ALL ARE READY THAT THEY SHOULD BE PILED LIGHTLY ON THE DISH THEY ARE INTENDED TO BE SERVED ON",
+                    "token": "S O Y E R <space> R E C O M M E N D S <space> T H A T <space> E A C H <space> S L I C E <space> S H O U L D <space> B E <space> C U T <space> I N T O <space> P I E C E S <space> A S <space> S O O N <space> A S <space> I T <space> I S <space> B U T T E R E D <space> A N D <space> W H E N <space> A L L <space> A R E <space> R E A D Y <space> T H A T <space> T H E Y <space> S H O U L D <space> B E <space> P I L E D <space> L I G H T L Y <space> O N <space> T H E <space> D I S H <space> T H E Y <space> A R E <space> I N T E N D E D <space> T O <space> B E <space> S E R V E D <space> O N",
+                    "tokenid": "21 17 27 7 20 2 20 7 5 17 15 15 7 16 6 21 2 22 10 3 22 2 7 3 5 10 2 21 14 11 5 7 2 21 10 17 23 14 6 2 4 7 2 5 23 22 2 11 16 22 17 2 18 11 7 5 7 21 2 3 21 2 21 17 17 16 2 3 21 2 11 22 2 11 21 2 4 23 22 22 7 20 7 6 2 3 16 6 2 25 10 7 16 2 3 14 14 2 3 20 7 2 20 7 3 6 27 2 22 10 3 22 2 22 10 7 27 2 21 10 17 23 14 6 2 4 7 2 18 11 14 7 6 2 14 11 9 10 22 14 27 2 17 16 2 22 10 7 2 6 11 21 10 2 22 10 7 27 2 3 20 7 2 11 16 22 7 16 6 7 6 2 22 17 2 4 7 2 21 7 20 24 7 6 2 17 16"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2078-142845-0033": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>CHE SEAS THAT BY CUTTING THROU FOUREOR FIVE SLICES AT A TIME ALL THE BUTTER IS SQUEAASED OUT OF THE OUPER WONS WHILE THE BAUTUME ON IS SWIMING IN FAT LICQUAD<eos>",
+                    "rec_token": "<blank> C H E <space> S E A S <space> T H A T <space> B Y <space> C U T T I N G <space> T H R O U <space> F O U R E O R <space> F I V E <space> S L I C E S <space> A T <space> A <space> T I M E <space> A L L <space> T H E <space> B U T T E R <space> I S <space> S Q U E A A S E D <space> O U T <space> O F <space> T H E <space> O U P E R <space> W O N S <space> W H I L E <space> T H E <space> B A U T U M E <space> O N <space> I S <space> S W I M I N G <space> I N <space> F A T <space> L I C Q U A D <eos>",
+                    "rec_tokenid": "0 5 10 7 2 21 7 3 21 2 22 10 3 22 2 4 27 2 5 23 22 22 11 16 9 2 22 10 20 17 23 2 8 17 23 20 7 17 20 2 8 11 24 7 2 21 14 11 5 7 21 2 3 22 2 3 2 22 11 15 7 2 3 14 14 2 22 10 7 2 4 23 22 22 7 20 2 11 21 2 21 19 23 7 3 3 21 7 6 2 17 23 22 2 17 8 2 22 10 7 2 17 23 18 7 20 2 25 17 16 21 2 25 10 11 14 7 2 22 10 7 2 4 3 23 22 23 15 7 2 17 16 2 11 21 2 21 25 11 15 11 16 9 2 11 16 2 8 3 22 2 14 11 5 19 23 3 6 29",
+                    "score": 149.7322998046875,
+                    "shape": [
+                        157,
+                        30
+                    ],
+                    "text": "HE SAYS THAT BY CUTTING THROUGH FOUR OR FIVE SLICES AT A TIME ALL THE BUTTER IS SQUEEZED OUT OF THE UPPER ONES WHILE THE BOTTOM ONE IS SWIMMING IN FAT LIQUID",
+                    "token": "H E <space> S A Y S <space> T H A T <space> B Y <space> C U T T I N G <space> T H R O U G H <space> F O U R <space> O R <space> F I V E <space> S L I C E S <space> A T <space> A <space> T I M E <space> A L L <space> T H E <space> B U T T E R <space> I S <space> S Q U E E Z E D <space> O U T <space> O F <space> T H E <space> U P P E R <space> O N E S <space> W H I L E <space> T H E <space> B O T T O M <space> O N E <space> I S <space> S W I M M I N G <space> I N <space> F A T <space> L I Q U I D",
+                    "tokenid": "10 7 2 21 3 27 21 2 22 10 3 22 2 4 27 2 5 23 22 22 11 16 9 2 22 10 20 17 23 9 10 2 8 17 23 20 2 17 20 2 8 11 24 7 2 21 14 11 5 7 21 2 3 22 2 3 2 22 11 15 7 2 3 14 14 2 22 10 7 2 4 23 22 22 7 20 2 11 21 2 21 19 23 7 7 28 7 6 2 17 23 22 2 17 8 2 22 10 7 2 23 18 18 7 20 2 17 16 7 21 2 25 10 11 14 7 2 22 10 7 2 4 17 22 22 17 15 2 17 16 7 2 11 21 2 21 25 11 15 15 11 16 9 2 11 16 2 8 3 22 2 14 11 19 23 11 6"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2078-142845-0034": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> MUFINS AND CRUMPATS SHOULD ALWAY<unk>S BE SEIRVED ON SEPRAT DICHES AND BOTH TOSTED AND SEIRVED AS EXPEDICIOUSLY AS POSSIBLE<eos>",
+                    "rec_token": "<blank> <space> M U F I N S <space> A N D <space> C R U M P A T S <space> S H O U L D <space> A L W A Y <unk> S <space> B E <space> S E I R V E D <space> O N <space> S E P R A T <space> D I C H E S <space> A N D <space> B O T H <space> T O S T E D <space> A N D <space> S E I R V E D <space> A S <space> E X P E D I C I O U S L Y <space> A S <space> P O S S I B L E <eos>",
+                    "rec_tokenid": "0 2 15 23 8 11 16 21 2 3 16 6 2 5 20 23 15 18 3 22 21 2 21 10 17 23 14 6 2 3 14 25 3 27 1 21 2 4 7 2 21 7 11 20 24 7 6 2 17 16 2 21 7 18 20 3 22 2 6 11 5 10 7 21 2 3 16 6 2 4 17 22 10 2 22 17 21 22 7 6 2 3 16 6 2 21 7 11 20 24 7 6 2 3 21 2 7 26 18 7 6 11 5 11 17 23 21 14 27 2 3 21 2 18 17 21 21 11 4 14 7 29",
+                    "score": 115.75328826904297,
+                    "shape": [
+                        120,
+                        30
+                    ],
+                    "text": "MUFFINS AND CRUMPETS SHOULD ALWAYS BE SERVED ON SEPARATE DISHES AND BOTH TOASTED AND SERVED AS EXPEDITIOUSLY AS POSSIBLE",
+                    "token": "M U F F I N S <space> A N D <space> C R U M P E T S <space> S H O U L D <space> A L W A Y S <space> B E <space> S E R V E D <space> O N <space> S E P A R A T E <space> D I S H E S <space> A N D <space> B O T H <space> T O A S T E D <space> A N D <space> S E R V E D <space> A S <space> E X P E D I T I O U S L Y <space> A S <space> P O S S I B L E",
+                    "tokenid": "15 23 8 8 11 16 21 2 3 16 6 2 5 20 23 15 18 7 22 21 2 21 10 17 23 14 6 2 3 14 25 3 27 21 2 4 7 2 21 7 20 24 7 6 2 17 16 2 21 7 18 3 20 3 22 7 2 6 11 21 10 7 21 2 3 16 6 2 4 17 22 10 2 22 17 3 21 22 7 6 2 3 16 6 2 21 7 20 24 7 6 2 3 21 2 7 26 18 7 6 11 22 11 17 23 21 14 27 2 3 21 2 18 17 21 21 11 4 14 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2078-142845-0035": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> SEFICIANT ALOUWD TOOE CROMPETS TO EACH PERSCON<eos>",
+                    "rec_token": "<blank> <space> S E F I C I A N T <space> A L O U W D <space> T O O E <space> C R O M P E T S <space> T O <space> E A C H <space> P E R S C O N <eos>",
+                    "rec_tokenid": "0 2 21 7 8 11 5 11 3 16 22 2 3 14 17 23 25 6 2 22 17 17 7 2 5 20 17 15 18 7 22 21 2 22 17 2 7 3 5 10 2 18 7 20 21 5 17 16 29",
+                    "score": 43.070594787597656,
+                    "shape": [
+                        44,
+                        30
+                    ],
+                    "text": "SUFFICIENT ALLOW TWO CRUMPETS TO EACH PERSON",
+                    "token": "S U F F I C I E N T <space> A L L O W <space> T W O <space> C R U M P E T S <space> T O <space> E A C H <space> P E R S O N",
+                    "tokenid": "21 23 8 8 11 5 11 7 16 22 2 3 14 14 17 25 2 22 25 17 2 5 20 23 15 18 7 22 21 2 22 17 2 7 3 5 10 2 18 7 20 21 17 16"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2078-142845-0036": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> PLAIN BUNS SEVENTEIN TWENTY NIN<eos>",
+                    "rec_token": "<blank> <space> P L A I N <space> B U N S <space> S E V E N T E I N <space> T W E N T Y <space> N I N <eos>",
+                    "rec_tokenid": "0 2 18 14 3 11 16 2 4 23 16 21 2 21 7 24 7 16 22 7 11 16 2 22 25 7 16 22 27 2 16 11 16 29",
+                    "score": 33.01681900024414,
+                    "shape": [
+                        32,
+                        30
+                    ],
+                    "text": "PLAIN BUNS SEVENTEEN TWENTY NINE",
+                    "token": "P L A I N <space> B U N S <space> S E V E N T E E N <space> T W E N T Y <space> N I N E",
+                    "tokenid": "18 14 3 11 16 2 4 23 16 21 2 21 7 24 7 16 22 7 7 16 2 22 25 7 16 22 27 2 16 11 16 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2078-142845-0037": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>T MOADPOUT THE FLOWER INTO A BACSEON MIXES THE SHOUGOER WELL WITH IT MAKE A HOL IN THE SENTER AND STER IN THEY YEASTE IN MILKE WHICH SHOULD BE LOK WARME WITH ENOUGF OF THE FLOWER TO MAKE IT THE THICHE NESS OF CRIME<eos>",
+                    "rec_token": "<blank> T <space> M O A D P O U T <space> T H E <space> F L O W E R <space> I N T O <space> A <space> B A C S E O N <space> M I X E S <space> T H E <space> S H O U G O E R <space> W E L L <space> W I T H <space> I T <space> M A K E <space> A <space> H O L <space> I N <space> T H E <space> S E N T E R <space> A N D <space> S T E R <space> I N <space> T H E Y <space> Y E A S T E <space> I N <space> M I L K E <space> W H I C H <space> S H O U L D <space> B E <space> L O K <space> W A R M E <space> W I T H <space> E N O U G F <space> O F <space> T H E <space> F L O W E R <space> T O <space> M A K E <space> I T <space> T H E <space> T H I C H E <space> N E S S <space> O F <space> C R I M E <eos>",
+                    "rec_tokenid": "0 22 2 15 17 3 6 18 17 23 22 2 22 10 7 2 8 14 17 25 7 20 2 11 16 22 17 2 3 2 4 3 5 21 7 17 16 2 15 11 26 7 21 2 22 10 7 2 21 10 17 23 9 17 7 20 2 25 7 14 14 2 25 11 22 10 2 11 22 2 15 3 13 7 2 3 2 10 17 14 2 11 16 2 22 10 7 2 21 7 16 22 7 20 2 3 16 6 2 21 22 7 20 2 11 16 2 22 10 7 27 2 27 7 3 21 22 7 2 11 16 2 15 11 14 13 7 2 25 10 11 5 10 2 21 10 17 23 14 6 2 4 7 2 14 17 13 2 25 3 20 15 7 2 25 11 22 10 2 7 16 17 23 9 8 2 17 8 2 22 10 7 2 8 14 17 25 7 20 2 22 17 2 15 3 13 7 2 11 22 2 22 10 7 2 22 10 11 5 10 7 2 16 7 21 21 2 17 8 2 5 20 11 15 7 29",
+                    "score": 204.3197021484375,
+                    "shape": [
+                        199,
+                        30
+                    ],
+                    "text": "MODE PUT THE FLOUR INTO A BASIN MIX THE SUGAR WELL WITH IT MAKE A HOLE IN THE CENTRE AND STIR IN THE YEAST AND MILK WHICH SHOULD BE LUKEWARM WITH ENOUGH OF THE FLOUR TO MAKE IT THE THICKNESS OF CREAM",
+                    "token": "M O D E <space> P U T <space> T H E <space> F L O U R <space> I N T O <space> A <space> B A S I N <space> M I X <space> T H E <space> S U G A R <space> W E L L <space> W I T H <space> I T <space> M A K E <space> A <space> H O L E <space> I N <space> T H E <space> C E N T R E <space> A N D <space> S T I R <space> I N <space> T H E <space> Y E A S T <space> A N D <space> M I L K <space> W H I C H <space> S H O U L D <space> B E <space> L U K E W A R M <space> W I T H <space> E N O U G H <space> O F <space> T H E <space> F L O U R <space> T O <space> M A K E <space> I T <space> T H E <space> T H I C K N E S S <space> O F <space> C R E A M",
+                    "tokenid": "15 17 6 7 2 18 23 22 2 22 10 7 2 8 14 17 23 20 2 11 16 22 17 2 3 2 4 3 21 11 16 2 15 11 26 2 22 10 7 2 21 23 9 3 20 2 25 7 14 14 2 25 11 22 10 2 11 22 2 15 3 13 7 2 3 2 10 17 14 7 2 11 16 2 22 10 7 2 5 7 16 22 20 7 2 3 16 6 2 21 22 11 20 2 11 16 2 22 10 7 2 27 7 3 21 22 2 3 16 6 2 15 11 14 13 2 25 10 11 5 10 2 21 10 17 23 14 6 2 4 7 2 14 23 13 7 25 3 20 15 2 25 11 22 10 2 7 16 17 23 9 10 2 17 8 2 22 10 7 2 8 14 17 23 20 2 22 17 2 15 3 13 7 2 11 22 2 22 10 7 2 22 10 11 5 13 16 7 21 21 2 17 8 2 5 20 7 3 15"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2078-142845-0038": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>EFROM FIFTEEN TO TWENTY MINETS WIL BE RECQUIRED TO BAKE THEM NICSELY<eos>",
+                    "rec_token": "<blank> E F R O M <space> F I F T E E N <space> T O <space> T W E N T Y <space> M I N E T S <space> W I L <space> B E <space> R E C Q U I R E D <space> T O <space> B A K E <space> T H E M <space> N I C S E L Y <eos>",
+                    "rec_tokenid": "0 7 8 20 17 15 2 8 11 8 22 7 7 16 2 22 17 2 22 25 7 16 22 27 2 15 11 16 7 22 21 2 25 11 14 2 4 7 2 20 7 5 19 23 11 20 7 6 2 22 17 2 4 3 13 7 2 22 10 7 15 2 16 11 5 21 7 14 27 29",
+                    "score": 65.84587097167969,
+                    "shape": [
+                        67,
+                        30
+                    ],
+                    "text": "FROM FIFTEEN TO TWENTY MINUTES WILL BE REQUIRED TO BAKE THEM NICELY",
+                    "token": "F R O M <space> F I F T E E N <space> T O <space> T W E N T Y <space> M I N U T E S <space> W I L L <space> B E <space> R E Q U I R E D <space> T O <space> B A K E <space> T H E M <space> N I C E L Y",
+                    "tokenid": "8 20 17 15 2 8 11 8 22 7 7 16 2 22 17 2 22 25 7 16 22 27 2 15 11 16 23 22 7 21 2 25 11 14 14 2 4 7 2 20 7 19 23 11 20 7 6 2 22 17 2 4 3 13 7 2 22 10 7 15 2 16 11 5 7 14 27"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2078-142845-0039": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THES BUNS MAY BE VEARRYED BY ADING A FEUE CARIANTS CANDID PELE ORE CAROUWAY SEADES TO THE OTHER EINGRIEDIANTE AND THE ABOVE MIXTURE ANSWERS FOR HOGHT CROSS BONS BY POUTTING IN A LITTL GROUND ALSPICSE AND BY PRESSING A TIN MOLD IN THE FORME OF A CROSS IN THE CENTER OF THE BOUN<eos>",
+                    "rec_token": "<blank> <space> T H E S <space> B U N S <space> M A Y <space> B E <space> V E A R R Y E D <space> B Y <space> A D I N G <space> A <space> F E U E <space> C A R I A N T S <space> C A N D I D <space> P E L E <space> O R E <space> C A R O U W A Y <space> S E A D E S <space> T O <space> T H E <space> O T H E R <space> E I N G R I E D I A N T E <space> A N D <space> T H E <space> A B O V E <space> M I X T U R E <space> A N S W E R S <space> F O R <space> H O G H T <space> C R O S S <space> B O N S <space> B Y <space> P O U T T I N G <space> I N <space> A <space> L I T T L <space> G R O U N D <space> A L S P I C S E <space> A N D <space> B Y <space> P R E S S I N G <space> A <space> T I N <space> M O L D <space> I N <space> T H E <space> F O R M E <space> O F <space> A <space> C R O S S <space> I N <space> T H E <space> C E N T E R <space> O F <space> T H E <space> B O U N <eos>",
+                    "rec_tokenid": "0 2 22 10 7 21 2 4 23 16 21 2 15 3 27 2 4 7 2 24 7 3 20 20 27 7 6 2 4 27 2 3 6 11 16 9 2 3 2 8 7 23 7 2 5 3 20 11 3 16 22 21 2 5 3 16 6 11 6 2 18 7 14 7 2 17 20 7 2 5 3 20 17 23 25 3 27 2 21 7 3 6 7 21 2 22 17 2 22 10 7 2 17 22 10 7 20 2 7 11 16 9 20 11 7 6 11 3 16 22 7 2 3 16 6 2 22 10 7 2 3 4 17 24 7 2 15 11 26 22 23 20 7 2 3 16 21 25 7 20 21 2 8 17 20 2 10 17 9 10 22 2 5 20 17 21 21 2 4 17 16 21 2 4 27 2 18 17 23 22 22 11 16 9 2 11 16 2 3 2 14 11 22 22 14 2 9 20 17 23 16 6 2 3 14 21 18 11 5 21 7 2 3 16 6 2 4 27 2 18 20 7 21 21 11 16 9 2 3 2 22 11 16 2 15 17 14 6 2 11 16 2 22 10 7 2 8 17 20 15 7 2 17 8 2 3 2 5 20 17 21 21 2 11 16 2 22 10 7 2 5 7 16 22 7 20 2 17 8 2 22 10 7 2 4 17 23 16 29",
+                    "score": 261.6945495605469,
+                    "shape": [
+                        268,
+                        30
+                    ],
+                    "text": "THESE BUNS MAY BE VARIED BY ADDING A FEW CURRANTS CANDIED PEEL OR CARAWAY SEEDS TO THE OTHER INGREDIENTS AND THE ABOVE MIXTURE ANSWERS FOR HOT CROSS BUNS BY PUTTING IN A LITTLE GROUND ALLSPICE AND BY PRESSING A TIN MOULD IN THE FORM OF A CROSS IN THE CENTRE OF THE BUN",
+                    "token": "T H E S E <space> B U N S <space> M A Y <space> B E <space> V A R I E D <space> B Y <space> A D D I N G <space> A <space> F E W <space> C U R R A N T S <space> C A N D I E D <space> P E E L <space> O R <space> C A R A W A Y <space> S E E D S <space> T O <space> T H E <space> O T H E R <space> I N G R E D I E N T S <space> A N D <space> T H E <space> A B O V E <space> M I X T U R E <space> A N S W E R S <space> F O R <space> H O T <space> C R O S S <space> B U N S <space> B Y <space> P U T T I N G <space> I N <space> A <space> L I T T L E <space> G R O U N D <space> A L L S P I C E <space> A N D <space> B Y <space> P R E S S I N G <space> A <space> T I N <space> M O U L D <space> I N <space> T H E <space> F O R M <space> O F <space> A <space> C R O S S <space> I N <space> T H E <space> C E N T R E <space> O F <space> T H E <space> B U N",
+                    "tokenid": "22 10 7 21 7 2 4 23 16 21 2 15 3 27 2 4 7 2 24 3 20 11 7 6 2 4 27 2 3 6 6 11 16 9 2 3 2 8 7 25 2 5 23 20 20 3 16 22 21 2 5 3 16 6 11 7 6 2 18 7 7 14 2 17 20 2 5 3 20 3 25 3 27 2 21 7 7 6 21 2 22 17 2 22 10 7 2 17 22 10 7 20 2 11 16 9 20 7 6 11 7 16 22 21 2 3 16 6 2 22 10 7 2 3 4 17 24 7 2 15 11 26 22 23 20 7 2 3 16 21 25 7 20 21 2 8 17 20 2 10 17 22 2 5 20 17 21 21 2 4 23 16 21 2 4 27 2 18 23 22 22 11 16 9 2 11 16 2 3 2 14 11 22 22 14 7 2 9 20 17 23 16 6 2 3 14 14 21 18 11 5 7 2 3 16 6 2 4 27 2 18 20 7 21 21 11 16 9 2 3 2 22 11 16 2 15 17 23 14 6 2 11 16 2 22 10 7 2 8 17 20 15 2 17 8 2 3 2 5 20 17 21 21 2 11 16 2 22 10 7 2 5 7 16 22 20 7 2 17 8 2 22 10 7 2 4 23 16"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2078-142845-0040": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>T SUFISSIONT TO MAKE TWELLVE BOUNS SEASEON ABOLLE AT ANY TIME LITE BOUNS<eos>",
+                    "rec_token": "<blank> T <space> S U F I S S I O N T <space> T O <space> M A K E <space> T W E L L V E <space> B O U N S <space> S E A S E O N <space> A B O L L E <space> A T <space> A N Y <space> T I M E <space> L I T E <space> B O U N S <eos>",
+                    "rec_tokenid": "0 22 2 21 23 8 11 21 21 11 17 16 22 2 22 17 2 15 3 13 7 2 22 25 7 14 14 24 7 2 4 17 23 16 21 2 21 7 3 21 7 17 16 2 3 4 17 14 14 7 2 3 22 2 3 16 27 2 22 11 15 7 2 14 11 22 7 2 4 17 23 16 21 29",
+                    "score": 65.55210876464844,
+                    "shape": [
+                        64,
+                        30
+                    ],
+                    "text": "SUFFICIENT TO MAKE TWELVE BUNS SEASONABLE AT ANY TIME LIGHT BUNS",
+                    "token": "S U F F I C I E N T <space> T O <space> M A K E <space> T W E L V E <space> B U N S <space> S E A S O N A B L E <space> A T <space> A N Y <space> T I M E <space> L I G H T <space> B U N S",
+                    "tokenid": "21 23 8 8 11 5 11 7 16 22 2 22 17 2 15 3 13 7 2 22 25 7 14 24 7 2 4 23 16 21 2 21 7 3 21 17 16 3 4 14 7 2 3 22 2 3 16 27 2 22 11 15 7 2 14 11 9 10 22 2 4 23 16 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2078-142845-0041": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>LLUSTRACTION BUTNS<eos>",
+                    "rec_token": "<blank> <eos> L L U S T R A C T I O N <space> B U T N S <eos>",
+                    "rec_tokenid": "0 29 14 14 23 21 22 20 3 5 22 11 17 16 2 4 23 22 16 21 29",
+                    "score": 386.3062438964844,
+                    "shape": [
+                        17,
+                        30
+                    ],
+                    "text": "ILLUSTRATION BUNS",
+                    "token": "I L L U S T R A T I O N <space> B U N S",
+                    "tokenid": "11 14 14 23 21 22 20 3 22 11 17 16 2 4 23 16 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2078-142845-0042": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>C VICTORIY A BUNS SEVENTEAIN THARTY TO<eos>",
+                    "rec_token": "<blank> C <space> V I C T O R I Y <space> A <space> B U N S <space> S E V E N T E A I N <space> T H A R T Y <space> T O <eos>",
+                    "rec_tokenid": "0 5 2 24 11 5 22 17 20 11 27 2 3 2 4 23 16 21 2 21 7 24 7 16 22 7 3 11 16 2 22 10 3 20 22 27 2 22 17 29",
+                    "score": 36.86666488647461,
+                    "shape": [
+                        34,
+                        30
+                    ],
+                    "text": "VICTORIA BUNS SEVENTEEN THIRTY TWO",
+                    "token": "V I C T O R I A <space> B U N S <space> S E V E N T E E N <space> T H I R T Y <space> T W O",
+                    "tokenid": "24 11 5 22 17 20 11 3 2 4 23 16 21 2 21 7 24 7 16 22 7 7 16 2 22 10 11 20 22 27 2 22 25 17"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2078-142845-0043": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>T MOAD WISKE THE EG STER IN THE SHOUGOER AND BEAT THES ENGREDIANCS WELL TO GETHER BEAT THE BUTTER TO A CRIME STEAR IN THE GROUND RICSE CARIAENTS AND CANDID PEALE AND AS MUCH FLOWRE AS WIL MACKE IT OF SUCH A CONSCISTAENCIY THAT IT MA BE ROLD INTO SEVEON OR AT BOLES<eos>",
+                    "rec_token": "<blank> T <space> M O A D <space> W I S K E <space> T H E <space> E G <space> S T E R <space> I N <space> T H E <space> S H O U G O E R <space> A N D <space> B E A T <space> T H E S <space> E N G R E D I A N C S <space> W E L L <space> T O <space> G E T H E R <space> B E A T <space> T H E <space> B U T T E R <space> T O <space> A <space> C R I M E <space> S T E A R <space> I N <space> T H E <space> G R O U N D <space> R I C S E <space> C A R I A E N T S <space> A N D <space> C A N D I D <space> P E A L E <space> A N D <space> A S <space> M U C H <space> F L O W R E <space> A S <space> W I L <space> M A C K E <space> I T <space> O F <space> S U C H <space> A <space> C O N S C I S T A E N C I Y <space> T H A T <space> I T <space> M A <space> B E <space> R O L D <space> I N T O <space> S E V E O N <space> O R <space> A T <space> B O L E S <eos>",
+                    "rec_tokenid": "0 22 2 15 17 3 6 2 25 11 21 13 7 2 22 10 7 2 7 9 2 21 22 7 20 2 11 16 2 22 10 7 2 21 10 17 23 9 17 7 20 2 3 16 6 2 4 7 3 22 2 22 10 7 21 2 7 16 9 20 7 6 11 3 16 5 21 2 25 7 14 14 2 22 17 2 9 7 22 10 7 20 2 4 7 3 22 2 22 10 7 2 4 23 22 22 7 20 2 22 17 2 3 2 5 20 11 15 7 2 21 22 7 3 20 2 11 16 2 22 10 7 2 9 20 17 23 16 6 2 20 11 5 21 7 2 5 3 20 11 3 7 16 22 21 2 3 16 6 2 5 3 16 6 11 6 2 18 7 3 14 7 2 3 16 6 2 3 21 2 15 23 5 10 2 8 14 17 25 20 7 2 3 21 2 25 11 14 2 15 3 5 13 7 2 11 22 2 17 8 2 21 23 5 10 2 3 2 5 17 16 21 5 11 21 22 3 7 16 5 11 27 2 22 10 3 22 2 11 22 2 15 3 2 4 7 2 20 17 14 6 2 11 16 22 17 2 21 7 24 7 17 16 2 17 20 2 3 22 2 4 17 14 7 21 29",
+                    "score": 253.73655700683594,
+                    "shape": [
+                        258,
+                        30
+                    ],
+                    "text": "MODE WHISK THE EGG STIR IN THE SUGAR AND BEAT THESE INGREDIENTS WELL TOGETHER BEAT THE BUTTER TO A CREAM STIR IN THE GROUND RICE CURRANTS AND CANDIED PEEL AND AS MUCH FLOUR AS WILL MAKE IT OF SUCH A CONSISTENCY THAT IT MAY BE ROLLED INTO SEVEN OR EIGHT BALLS",
+                    "token": "M O D E <space> W H I S K <space> T H E <space> E G G <space> S T I R <space> I N <space> T H E <space> S U G A R <space> A N D <space> B E A T <space> T H E S E <space> I N G R E D I E N T S <space> W E L L <space> T O G E T H E R <space> B E A T <space> T H E <space> B U T T E R <space> T O <space> A <space> C R E A M <space> S T I R <space> I N <space> T H E <space> G R O U N D <space> R I C E <space> C U R R A N T S <space> A N D <space> C A N D I E D <space> P E E L <space> A N D <space> A S <space> M U C H <space> F L O U R <space> A S <space> W I L L <space> M A K E <space> I T <space> O F <space> S U C H <space> A <space> C O N S I S T E N C Y <space> T H A T <space> I T <space> M A Y <space> B E <space> R O L L E D <space> I N T O <space> S E V E N <space> O R <space> E I G H T <space> B A L L S",
+                    "tokenid": "15 17 6 7 2 25 10 11 21 13 2 22 10 7 2 7 9 9 2 21 22 11 20 2 11 16 2 22 10 7 2 21 23 9 3 20 2 3 16 6 2 4 7 3 22 2 22 10 7 21 7 2 11 16 9 20 7 6 11 7 16 22 21 2 25 7 14 14 2 22 17 9 7 22 10 7 20 2 4 7 3 22 2 22 10 7 2 4 23 22 22 7 20 2 22 17 2 3 2 5 20 7 3 15 2 21 22 11 20 2 11 16 2 22 10 7 2 9 20 17 23 16 6 2 20 11 5 7 2 5 23 20 20 3 16 22 21 2 3 16 6 2 5 3 16 6 11 7 6 2 18 7 7 14 2 3 16 6 2 3 21 2 15 23 5 10 2 8 14 17 23 20 2 3 21 2 25 11 14 14 2 15 3 13 7 2 11 22 2 17 8 2 21 23 5 10 2 3 2 5 17 16 21 11 21 22 7 16 5 27 2 22 10 3 22 2 11 22 2 15 3 27 2 4 7 2 20 17 14 14 7 6 2 11 16 22 17 2 21 7 24 7 16 2 17 20 2 7 11 9 10 22 2 4 3 14 14 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2078-142845-0044": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>ETALYIAN ROUSCKEDS<eos>",
+                    "rec_token": "<blank> <eos> E T A L Y I A N <space> R O U S C K E D S <eos>",
+                    "rec_tokenid": "0 29 7 22 3 14 27 11 3 16 2 20 17 23 21 5 13 7 6 21 29",
+                    "score": 308.8175354003906,
+                    "shape": [
+                        13,
+                        30
+                    ],
+                    "text": "ITALIAN RUSKS",
+                    "token": "I T A L I A N <space> R U S K S",
+                    "tokenid": "11 22 3 14 11 3 16 2 20 23 21 13 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2078-142845-0045": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THEY SHOULD BE CEPT IN A CLOSED TIN CANSTER IN A DRIY PLAYCS TO PRESERVE THEIR CRISMNEISS<eos>",
+                    "rec_token": "<blank> <space> T H E Y <space> S H O U L D <space> B E <space> C E P T <space> I N <space> A <space> C L O S E D <space> T I N <space> C A N S T E R <space> I N <space> A <space> D R I Y <space> P L A Y C S <space> T O <space> P R E S E R V E <space> T H E I R <space> C R I S M N E I S S <eos>",
+                    "rec_tokenid": "0 2 22 10 7 27 2 21 10 17 23 14 6 2 4 7 2 5 7 18 22 2 11 16 2 3 2 5 14 17 21 7 6 2 22 11 16 2 5 3 16 21 22 7 20 2 11 16 2 3 2 6 20 11 27 2 18 14 3 27 5 21 2 22 17 2 18 20 7 21 7 20 24 7 2 22 10 7 11 20 2 5 20 11 21 15 16 7 11 21 21 29",
+                    "score": 87.48141479492188,
+                    "shape": [
+                        87,
+                        30
+                    ],
+                    "text": "THEY SHOULD BE KEPT IN A CLOSED TIN CANISTER IN A DRY PLACE TO PRESERVE THEIR CRISPNESS",
+                    "token": "T H E Y <space> S H O U L D <space> B E <space> K E P T <space> I N <space> A <space> C L O S E D <space> T I N <space> C A N I S T E R <space> I N <space> A <space> D R Y <space> P L A C E <space> T O <space> P R E S E R V E <space> T H E I R <space> C R I S P N E S S",
+                    "tokenid": "22 10 7 27 2 21 10 17 23 14 6 2 4 7 2 13 7 18 22 2 11 16 2 3 2 5 14 17 21 7 6 2 22 11 16 2 5 3 16 11 21 22 7 20 2 11 16 2 3 2 6 20 27 2 18 14 3 5 7 2 22 17 2 18 20 7 21 7 20 24 7 2 22 10 7 11 20 2 5 20 11 21 18 16 7 21 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2078-142845-0046": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>E IT IS NOT CAULTIVATED IN ENGLAND BEING PRINCEPLY CONFINED TO THE EASTE<eos>",
+                    "rec_token": "<blank> E <space> I T <space> I S <space> N O T <space> C A U L T I V A T E D <space> I N <space> E N G L A N D <space> B E I N G <space> P R I N C E P L Y <space> C O N F I N E D <space> T O <space> T H E <space> E A S T E <eos>",
+                    "rec_tokenid": "0 7 2 11 22 2 11 21 2 16 17 22 2 5 3 23 14 22 11 24 3 22 7 6 2 11 16 2 7 16 9 14 3 16 6 2 4 7 11 16 9 2 18 20 11 16 5 7 18 14 27 2 5 17 16 8 11 16 7 6 2 22 17 2 22 10 7 2 7 3 21 22 7 29",
+                    "score": 71.05902099609375,
+                    "shape": [
+                        70,
+                        30
+                    ],
+                    "text": "IT IS NOT CULTIVATED IN ENGLAND BEING PRINCIPALLY CONFINED TO THE EAST",
+                    "token": "I T <space> I S <space> N O T <space> C U L T I V A T E D <space> I N <space> E N G L A N D <space> B E I N G <space> P R I N C I P A L L Y <space> C O N F I N E D <space> T O <space> T H E <space> E A S T",
+                    "tokenid": "11 22 2 11 21 2 16 17 22 2 5 23 14 22 11 24 3 22 7 6 2 11 16 2 7 16 9 14 3 16 6 2 4 7 11 16 9 2 18 20 11 16 5 11 18 3 14 14 27 2 5 17 16 8 11 16 7 6 2 22 17 2 22 10 7 2 7 3 21 22"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2078-142845-0047": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> WHEN WE TAKE INTO ACOUNT THAT THE EARRABIANS ARE FOND OF LISERDS AND LOCAISTS AS ARTICLES OF FOUAD THEIRE COSEN ALTOGETHER IS SCARSELY A TEMTING ONE<eos>",
+                    "rec_token": "<blank> <space> W H E N <space> W E <space> T A K E <space> I N T O <space> A C O U N T <space> T H A T <space> T H E <space> E A R R A B I A N S <space> A R E <space> F O N D <space> O F <space> L I S E R D S <space> A N D <space> L O C A I S T S <space> A S <space> A R T I C L E S <space> O F <space> F O U A D <space> T H E I R E <space> C O S E N <space> A L T O G E T H E R <space> I S <space> S C A R S E L Y <space> A <space> T E M T I N G <space> O N E <eos>",
+                    "rec_tokenid": "0 2 25 10 7 16 2 25 7 2 22 3 13 7 2 11 16 22 17 2 3 5 17 23 16 22 2 22 10 3 22 2 22 10 7 2 7 3 20 20 3 4 11 3 16 21 2 3 20 7 2 8 17 16 6 2 17 8 2 14 11 21 7 20 6 21 2 3 16 6 2 14 17 5 3 11 21 22 21 2 3 21 2 3 20 22 11 5 14 7 21 2 17 8 2 8 17 23 3 6 2 22 10 7 11 20 7 2 5 17 21 7 16 2 3 14 22 17 9 7 22 10 7 20 2 11 21 2 21 5 3 20 21 7 14 27 2 3 2 22 7 15 22 11 16 9 2 17 16 7 29",
+                    "score": 144.28526306152344,
+                    "shape": [
+                        147,
+                        30
+                    ],
+                    "text": "WHEN WE TAKE INTO ACCOUNT THAT THE ARABIANS ARE FOND OF LIZARDS AND LOCUSTS AS ARTICLES OF FOOD THEIR CUISINE ALTOGETHER IS SCARCELY A TEMPTING ONE",
+                    "token": "W H E N <space> W E <space> T A K E <space> I N T O <space> A C C O U N T <space> T H A T <space> T H E <space> A R A B I A N S <space> A R E <space> F O N D <space> O F <space> L I Z A R D S <space> A N D <space> L O C U S T S <space> A S <space> A R T I C L E S <space> O F <space> F O O D <space> T H E I R <space> C U I S I N E <space> A L T O G E T H E R <space> I S <space> S C A R C E L Y <space> A <space> T E M P T I N G <space> O N E",
+                    "tokenid": "25 10 7 16 2 25 7 2 22 3 13 7 2 11 16 22 17 2 3 5 5 17 23 16 22 2 22 10 3 22 2 22 10 7 2 3 20 3 4 11 3 16 21 2 3 20 7 2 8 17 16 6 2 17 8 2 14 11 28 3 20 6 21 2 3 16 6 2 14 17 5 23 21 22 21 2 3 21 2 3 20 22 11 5 14 7 21 2 17 8 2 8 17 17 6 2 22 10 7 11 20 2 5 23 11 21 11 16 7 2 3 14 22 17 9 7 22 10 7 20 2 11 21 2 21 5 3 20 5 7 14 27 2 3 2 22 7 15 18 22 11 16 9 2 17 16 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2078-142845-0048": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos> SEVENTEIN THERTY FOORE<eos>",
+                    "rec_token": "<blank> <eos> <space> S E V E N T E I N <space> T H E R T Y <space> F O O R E <eos>",
+                    "rec_tokenid": "0 29 2 21 7 24 7 16 22 7 11 16 2 22 10 7 20 22 27 2 8 17 17 20 7 29",
+                    "score": 376.8007507324219,
+                    "shape": [
+                        21,
+                        30
+                    ],
+                    "text": "SEVENTEEN THIRTY FOUR",
+                    "token": "S E V E N T E E N <space> T H I R T Y <space> F O U R",
+                    "tokenid": "21 7 24 7 16 22 7 7 16 2 22 10 11 20 22 27 2 8 17 23 20"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2078-142845-0049": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>LLUSTRACJION  ROUSKEDS<eos>",
+                    "rec_token": "<blank> <eos> L L U S T R A C J I O N <space> <space> R O U S K E D S <eos>",
+                    "rec_tokenid": "0 29 14 14 23 21 22 20 3 5 12 11 17 16 2 2 20 17 23 21 13 7 6 21 29",
+                    "score": 467.09039306640625,
+                    "shape": [
+                        18,
+                        30
+                    ],
+                    "text": "ILLUSTRATION RUSKS",
+                    "token": "I L L U S T R A T I O N <space> R U S K S",
+                    "tokenid": "11 14 14 23 21 22 20 3 22 11 17 16 2 20 23 21 13 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2078-142845-0050": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>S MOAD POUT THE MILK AND BUTTER INTO A SAOSS PAN AND CEAPS SHACKING IT ROUND UN TIL THE LATER IS MELTED<eos>",
+                    "rec_token": "<blank> S <space> M O A D <space> P O U T <space> T H E <space> M I L K <space> A N D <space> B U T T E R <space> I N T O <space> A <space> S A O S S <space> P A N <space> A N D <space> C E A P S <space> S H A C K I N G <space> I T <space> R O U N D <space> U N <space> T I L <space> T H E <space> L A T E R <space> I S <space> M E L T E D <eos>",
+                    "rec_tokenid": "0 21 2 15 17 3 6 2 18 17 23 22 2 22 10 7 2 15 11 14 13 2 3 16 6 2 4 23 22 22 7 20 2 11 16 22 17 2 3 2 21 3 17 21 21 2 18 3 16 2 3 16 6 2 5 7 3 18 21 2 21 10 3 5 13 11 16 9 2 11 22 2 20 17 23 16 6 2 23 16 2 22 11 14 2 22 10 7 2 14 3 22 7 20 2 11 21 2 15 7 14 22 7 6 29",
+                    "score": 99.19449615478516,
+                    "shape": [
+                        97,
+                        30
+                    ],
+                    "text": "MODE PUT THE MILK AND BUTTER INTO A SAUCEPAN AND KEEP SHAKING IT ROUND UNTIL THE LATTER IS MELTED",
+                    "token": "M O D E <space> P U T <space> T H E <space> M I L K <space> A N D <space> B U T T E R <space> I N T O <space> A <space> S A U C E P A N <space> A N D <space> K E E P <space> S H A K I N G <space> I T <space> R O U N D <space> U N T I L <space> T H E <space> L A T T E R <space> I S <space> M E L T E D",
+                    "tokenid": "15 17 6 7 2 18 23 22 2 22 10 7 2 15 11 14 13 2 3 16 6 2 4 23 22 22 7 20 2 11 16 22 17 2 3 2 21 3 23 5 7 18 3 16 2 3 16 6 2 13 7 7 18 2 21 10 3 13 11 16 9 2 11 22 2 20 17 23 16 6 2 23 16 22 11 14 2 22 10 7 2 14 3 22 22 7 20 2 11 21 2 15 7 14 22 7 6"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2078-142845-0051": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> WHEN COLD THEY SHOULD BE POUT INTO TIN CANDISTERS TO CEAP THEM DREY AND IF INTENDED FOR THE CHEAS CORS THE SIFTED SHOUGER SHOULD BE OMITTED<eos>",
+                    "rec_token": "<blank> <space> W H E N <space> C O L D <space> T H E Y <space> S H O U L D <space> B E <space> P O U T <space> I N T O <space> T I N <space> C A N D I S T E R S <space> T O <space> C E A P <space> T H E M <space> D R E Y <space> A N D <space> I F <space> I N T E N D E D <space> F O R <space> T H E <space> C H E A S <space> C O R S <space> T H E <space> S I F T E D <space> S H O U G E R <space> S H O U L D <space> B E <space> O M I T T E D <eos>",
+                    "rec_tokenid": "0 2 25 10 7 16 2 5 17 14 6 2 22 10 7 27 2 21 10 17 23 14 6 2 4 7 2 18 17 23 22 2 11 16 22 17 2 22 11 16 2 5 3 16 6 11 21 22 7 20 21 2 22 17 2 5 7 3 18 2 22 10 7 15 2 6 20 7 27 2 3 16 6 2 11 8 2 11 16 22 7 16 6 7 6 2 8 17 20 2 22 10 7 2 5 10 7 3 21 2 5 17 20 21 2 22 10 7 2 21 11 8 22 7 6 2 21 10 17 23 9 7 20 2 21 10 17 23 14 6 2 4 7 2 17 15 11 22 22 7 6 29",
+                    "score": 135.35281372070312,
+                    "shape": [
+                        137,
+                        30
+                    ],
+                    "text": "WHEN COLD THEY SHOULD BE PUT INTO TIN CANISTERS TO KEEP THEM DRY AND IF INTENDED FOR THE CHEESE COURSE THE SIFTED SUGAR SHOULD BE OMITTED",
+                    "token": "W H E N <space> C O L D <space> T H E Y <space> S H O U L D <space> B E <space> P U T <space> I N T O <space> T I N <space> C A N I S T E R S <space> T O <space> K E E P <space> T H E M <space> D R Y <space> A N D <space> I F <space> I N T E N D E D <space> F O R <space> T H E <space> C H E E S E <space> C O U R S E <space> T H E <space> S I F T E D <space> S U G A R <space> S H O U L D <space> B E <space> O M I T T E D",
+                    "tokenid": "25 10 7 16 2 5 17 14 6 2 22 10 7 27 2 21 10 17 23 14 6 2 4 7 2 18 23 22 2 11 16 22 17 2 22 11 16 2 5 3 16 11 21 22 7 20 21 2 22 17 2 13 7 7 18 2 22 10 7 15 2 6 20 27 2 3 16 6 2 11 8 2 11 16 22 7 16 6 7 6 2 8 17 20 2 22 10 7 2 5 10 7 7 21 7 2 5 17 23 20 21 7 2 22 10 7 2 21 11 8 22 7 6 2 21 23 9 3 20 2 21 10 17 23 14 6 2 4 7 2 17 15 11 22 22 7 6"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2086-149214-0000": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THE NAROATIVE IT MAY BE IS WOVEIN OF SO HOMBLE AT TEXTURE AS TO REQUIR THIS ADVANTAGE AND AT THE SAME TIME TO RENDER IT THE MOR DIFFICALT OF ATTAIN MENT<eos>",
+                    "rec_token": "<blank> <space> T H E <space> N A R O A T I V E <space> I T <space> M A Y <space> B E <space> I S <space> W O V E I N <space> O F <space> S O <space> H O M B L E <space> A T <space> T E X T U R E <space> A S <space> T O <space> R E Q U I R <space> T H I S <space> A D V A N T A G E <space> A N D <space> A T <space> T H E <space> S A M E <space> T I M E <space> T O <space> R E N D E R <space> I T <space> T H E <space> M O R <space> D I F F I C A L T <space> O F <space> A T T A I N <space> M E N T <eos>",
+                    "rec_tokenid": "0 2 22 10 7 2 16 3 20 17 3 22 11 24 7 2 11 22 2 15 3 27 2 4 7 2 11 21 2 25 17 24 7 11 16 2 17 8 2 21 17 2 10 17 15 4 14 7 2 3 22 2 22 7 26 22 23 20 7 2 3 21 2 22 17 2 20 7 19 23 11 20 2 22 10 11 21 2 3 6 24 3 16 22 3 9 7 2 3 16 6 2 3 22 2 22 10 7 2 21 3 15 7 2 22 11 15 7 2 22 17 2 20 7 16 6 7 20 2 11 22 2 22 10 7 2 15 17 20 2 6 11 8 8 11 5 3 14 22 2 17 8 2 3 22 22 3 11 16 2 15 7 16 22 29",
+                    "score": 149.43528747558594,
+                    "shape": [
+                        151,
+                        30
+                    ],
+                    "text": "THE NARRATIVE IT MAY BE IS WOVEN OF SO HUMBLE A TEXTURE AS TO REQUIRE THIS ADVANTAGE AND AT THE SAME TIME TO RENDER IT THE MORE DIFFICULT OF ATTAINMENT",
+                    "token": "T H E <space> N A R R A T I V E <space> I T <space> M A Y <space> B E <space> I S <space> W O V E N <space> O F <space> S O <space> H U M B L E <space> A <space> T E X T U R E <space> A S <space> T O <space> R E Q U I R E <space> T H I S <space> A D V A N T A G E <space> A N D <space> A T <space> T H E <space> S A M E <space> T I M E <space> T O <space> R E N D E R <space> I T <space> T H E <space> M O R E <space> D I F F I C U L T <space> O F <space> A T T A I N M E N T",
+                    "tokenid": "22 10 7 2 16 3 20 20 3 22 11 24 7 2 11 22 2 15 3 27 2 4 7 2 11 21 2 25 17 24 7 16 2 17 8 2 21 17 2 10 23 15 4 14 7 2 3 2 22 7 26 22 23 20 7 2 3 21 2 22 17 2 20 7 19 23 11 20 7 2 22 10 11 21 2 3 6 24 3 16 22 3 9 7 2 3 16 6 2 3 22 2 22 10 7 2 21 3 15 7 2 22 11 15 7 2 22 17 2 20 7 16 6 7 20 2 11 22 2 22 10 7 2 15 17 20 7 2 6 11 8 8 11 5 23 14 22 2 17 8 2 3 22 22 3 11 16 15 7 16 22"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2086-149214-0001": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> IN GOOD FATH HOWEVER HE IS NOT SOFISIAN<unk>TLY AMADIANATIVE TO FLATER HIMSELF WIT THE SLITIST HOP OF THIS CIND<eos>",
+                    "rec_token": "<blank> <space> I N <space> G O O D <space> F A T H <space> H O W E V E R <space> H E <space> I S <space> N O T <space> S O F I S I A N <unk> T L Y <space> A M A D I A N A T I V E <space> T O <space> F L A T E R <space> H I M S E L F <space> W I T <space> T H E <space> S L I T I S T <space> H O P <space> O F <space> T H I S <space> C I N D <eos>",
+                    "rec_tokenid": "0 2 11 16 2 9 17 17 6 2 8 3 22 10 2 10 17 25 7 24 7 20 2 10 7 2 11 21 2 16 17 22 2 21 17 8 11 21 11 3 16 1 22 14 27 2 3 15 3 6 11 3 16 3 22 11 24 7 2 22 17 2 8 14 3 22 7 20 2 10 11 15 21 7 14 8 2 25 11 22 2 22 10 7 2 21 14 11 22 11 21 22 2 10 17 18 2 17 8 2 22 10 11 21 2 5 11 16 6 29",
+                    "score": 104.9122543334961,
+                    "shape": [
+                        112,
+                        30
+                    ],
+                    "text": "IN GOOD FAITH HOWEVER HE IS NOT SUFFICIENTLY IMAGINATIVE TO FLATTER HIMSELF WITH THE SLIGHTEST HOPE OF THIS KIND",
+                    "token": "I N <space> G O O D <space> F A I T H <space> H O W E V E R <space> H E <space> I S <space> N O T <space> S U F F I C I E N T L Y <space> I M A G I N A T I V E <space> T O <space> F L A T T E R <space> H I M S E L F <space> W I T H <space> T H E <space> S L I G H T E S T <space> H O P E <space> O F <space> T H I S <space> K I N D",
+                    "tokenid": "11 16 2 9 17 17 6 2 8 3 11 22 10 2 10 17 25 7 24 7 20 2 10 7 2 11 21 2 16 17 22 2 21 23 8 8 11 5 11 7 16 22 14 27 2 11 15 3 9 11 16 3 22 11 24 7 2 22 17 2 8 14 3 22 22 7 20 2 10 11 15 21 7 14 8 2 25 11 22 10 2 22 10 7 2 21 14 11 9 10 22 7 21 22 2 10 17 18 7 2 17 8 2 22 10 11 21 2 13 11 16 6"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "2086-149214-0002": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THE ALRTHER HAS CONSIDED IT HARDLY WORTH HIS WHIL THEREFORE RELENTLESLY TO AMPAL THE STORY WITH ITS MOROL AS WITH AN IRN ROD OR RATHER AS BY STICKING AF PEN THROG A BUTTERFLIY THUS AT ONCE DEPRIVEING IT OF LIFE AND CAUSING IT TO STIFEND IN AN UN GAINELY AND UN NATRAL ATITUDE<eos>",
+                    "rec_token": "<blank> <space> T H E <space> A L R T H E R <space> H A S <space> C O N S I D E D <space> I T <space> H A R D L Y <space> W O R T H <space> H I S <space> W H I L <space> T H E R E F O R E <space> R E L E N T L E S L Y <space> T O <space> A M P A L <space> T H E <space> S T O R Y <space> W I T H <space> I T S <space> M O R O L <space> A S <space> W I T H <space> A N <space> I R N <space> R O D <space> O R <space> R A T H E R <space> A S <space> B Y <space> S T I C K I N G <space> A F <space> P E N <space> T H R O G <space> A <space> B U T T E R F L I Y <space> T H U S <space> A T <space> O N C E <space> D E P R I V E I N G <space> I T <space> O F <space> L I F E <space> A N D <space> C A U S I N G <space> I T <space> T O <space> S T I F E N D <space> I N <space> A N <space> U N <space> G A I N E L Y <space> A N D <space> U N <space> N A T R A L <space> A T I T U D E <eos>",
+                    "rec_tokenid": "0 2 22 10 7 2 3 14 20 22 10 7 20 2 10 3 21 2 5 17 16 21 11 6 7 6 2 11 22 2 10 3 20 6 14 27 2 25 17 20 22 10 2 10 11 21 2 25 10 11 14 2 22 10 7 20 7 8 17 20 7 2 20 7 14 7 16 22 14 7 21 14 27 2 22 17 2 3 15 18 3 14 2 22 10 7 2 21 22 17 20 27 2 25 11 22 10 2 11 22 21 2 15 17 20 17 14 2 3 21 2 25 11 22 10 2 3 16 2 11 20 16 2 20 17 6 2 17 20 2 20 3 22 10 7 20 2 3 21 2 4 27 2 21 22 11 5 13 11 16 9 2 3 8 2 18 7 16 2 22 10 20 17 9 2 3 2 4 23 22 22 7 20 8 14 11 27 2 22 10 23 21 2 3 22 2 17 16 5 7 2 6 7 18 20 11 24 7 11 16 9 2 11 22 2 17 8 2 14 11 8 7 2 3 16 6 2 5 3 23 21 11 16 9 2 11 22 2 22 17 2 21 22 11 8 7 16 6 2 11 16 2 3 16 2 23 16 2 9 3 11 16 7 14 27 2 3 16 6 2 23 16 2 16 3 22 20 3 14 2 3 22 11 22 23 6 7 29",
+                    "score": 267.7978820800781,
+                    "shape": [
+                        278,
+                        30
+                    ],
+                    "text": "THE AUTHOR HAS CONSIDERED IT HARDLY WORTH HIS WHILE THEREFORE RELENTLESSLY TO IMPALE THE STORY WITH ITS MORAL AS WITH AN IRON ROD OR RATHER AS BY STICKING A PIN THROUGH A BUTTERFLY THUS AT ONCE DEPRIVING IT OF LIFE AND CAUSING IT TO STIFFEN IN AN UNGAINLY AND UNNATURAL ATTITUDE",
+                    "token": "T H E <space> A U T H O R <space> H A S <space> C O N S I D E R E D <space> I T <space> H A R D L Y <space> W O R T H <space> H I S <space> W H I L E <space> T H E R E F O R E <space> R E L E N T L E S S L Y <space> T O <space> I M P A L E <space> T H E <space> S T O R Y <space> W I T H <space> I T S <space> M O R A L <space> A S <space> W I T H <space> A N <space> I R O N <space> R O D <space> O R <space> R A T H E R <space> A S <space> B Y <space> S T I C K I N G <space> A <space> P I N <space> T H R O U G H <space> A <space> B U T T E R F L Y <space> T H U S <space> A T <space> O N C E <space> D E P R I V I N G <space> I T <space> O F <space> L I F E <space> A N D <space> C A U S I N G <space> I T <space> T O <space> S T I F F E N <space> I N <space> A N <space> U N G A I N L Y <space> A N D <space> U N N A T U R A L <space> A T T I T U D E",
+                    "tokenid": "22 10 7 2 3 23 22 10 17 20 2 10 3 21 2 5 17 16 21 11 6 7 20 7 6 2 11 22 2 10 3 20 6 14 27 2 25 17 20 22 10 2 10 11 21 2 25 10 11 14 7 2 22 10 7 20 7 8 17 20 7 2 20 7 14 7 16 22 14 7 21 21 14 27 2 22 17 2 11 15 18 3 14 7 2 22 10 7 2 21 22 17 20 27 2 25 11 22 10 2 11 22 21 2 15 17 20 3 14 2 3 21 2 25 11 22 10 2 3 16 2 11 20 17 16 2 20 17 6 2 17 20 2 20 3 22 10 7 20 2 3 21 2 4 27 2 21 22 11 5 13 11 16 9 2 3 2 18 11 16 2 22 10 20 17 23 9 10 2 3 2 4 23 22 22 7 20 8 14 27 2 22 10 23 21 2 3 22 2 17 16 5 7 2 6 7 18 20 11 24 11 16 9 2 11 22 2 17 8 2 14 11 8 7 2 3 16 6 2 5 3 23 21 11 16 9 2 11 22 2 22 17 2 21 22 11 8 8 7 16 2 11 16 2 3 16 2 23 16 9 3 11 16 14 27 2 3 16 6 2 23 16 16 3 22 23 20 3 14 2 3 22 22 11 22 23 6 7"
+                }
+            ],
+            "utt2spk": ""
+        }
+    }
+}

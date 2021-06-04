@@ -1,0 +1,498 @@
+{
+    "utts": {
+        "4077-13751-0012": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>E THE LUTTENENT GOUVEINER LILLBEARN DUBIU BOGS AFTERWARD GOUVEINER WAS A PRONOUNSED MNORMENT HATER AND THROU OUT THE PEIRIDE OF THE TROUBLES HE MANIFEAS HIS SYMPATHY WITH THE PERSECUTERS<eos>",
+                    "rec_token": "<blank> E <space> T H E <space> L U T T E N E N T <space> G O U V E I N E R <space> L I L L B E A R N <space> D U B I U <space> B O G S <space> A F T E R W A R D <space> G O U V E I N E R <space> W A S <space> A <space> P R O N O U N S E D <space> M N O R M E N T <space> H A T E R <space> A N D <space> T H R O U <space> O U T <space> T H E <space> P E I R I D E <space> O F <space> T H E <space> T R O U B L E S <space> H E <space> M A N I F E A S <space> H I S <space> S Y M P A T H Y <space> W I T H <space> T H E <space> P E R S E C U T E R S <eos>",
+                    "rec_tokenid": "0 7 2 22 10 7 2 14 23 22 22 7 16 7 16 22 2 9 17 23 24 7 11 16 7 20 2 14 11 14 14 4 7 3 20 16 2 6 23 4 11 23 2 4 17 9 21 2 3 8 22 7 20 25 3 20 6 2 9 17 23 24 7 11 16 7 20 2 25 3 21 2 3 2 18 20 17 16 17 23 16 21 7 6 2 15 16 17 20 15 7 16 22 2 10 3 22 7 20 2 3 16 6 2 22 10 20 17 23 2 17 23 22 2 22 10 7 2 18 7 11 20 11 6 7 2 17 8 2 22 10 7 2 22 20 17 23 4 14 7 21 2 10 7 2 15 3 16 11 8 7 3 21 2 10 11 21 2 21 27 15 18 3 22 10 27 2 25 11 22 10 2 22 10 7 2 18 7 20 21 7 5 23 22 7 20 21 29",
+                    "score": 174.7125244140625,
+                    "shape": [
+                        174,
+                        30
+                    ],
+                    "text": "THE LIEUTENANT GOVERNOR LILBURN W BOGGS AFTERWARD GOVERNOR WAS A PRONOUNCED MORMON HATER AND THROUGHOUT THE PERIOD OF THE TROUBLES HE MANIFESTED SYMPATHY WITH THE PERSECUTORS",
+                    "token": "T H E <space> L I E U T E N A N T <space> G O V E R N O R <space> L I L B U R N <space> W <space> B O G G S <space> A F T E R W A R D <space> G O V E R N O R <space> W A S <space> A <space> P R O N O U N C E D <space> M O R M O N <space> H A T E R <space> A N D <space> T H R O U G H O U T <space> T H E <space> P E R I O D <space> O F <space> T H E <space> T R O U B L E S <space> H E <space> M A N I F E S T E D <space> S Y M P A T H Y <space> W I T H <space> T H E <space> P E R S E C U T O R S",
+                    "tokenid": "22 10 7 2 14 11 7 23 22 7 16 3 16 22 2 9 17 24 7 20 16 17 20 2 14 11 14 4 23 20 16 2 25 2 4 17 9 9 21 2 3 8 22 7 20 25 3 20 6 2 9 17 24 7 20 16 17 20 2 25 3 21 2 3 2 18 20 17 16 17 23 16 5 7 6 2 15 17 20 15 17 16 2 10 3 22 7 20 2 3 16 6 2 22 10 20 17 23 9 10 17 23 22 2 22 10 7 2 18 7 20 11 17 6 2 17 8 2 22 10 7 2 22 20 17 23 4 14 7 21 2 10 7 2 15 3 16 11 8 7 21 22 7 6 2 21 27 15 18 3 22 10 27 2 25 11 22 10 2 22 10 7 2 18 7 20 21 7 5 23 22 17 20 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "4077-13751-0013": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THEIR SOFFERINGS HAVE NEVER YET BEEN FITTLY CRONICAL BY HUMAN SCRIB<eos>",
+                    "rec_token": "<blank> <space> T H E I R <space> S O F F E R I N G S <space> H A V E <space> N E V E R <space> Y E T <space> B E E N <space> F I T T L Y <space> C R O N I C A L <space> B Y <space> H U M A N <space> S C R I B <eos>",
+                    "rec_tokenid": "0 2 22 10 7 11 20 2 21 17 8 8 7 20 11 16 9 21 2 10 3 24 7 2 16 7 24 7 20 2 27 7 22 2 4 7 7 16 2 8 11 22 22 14 27 2 5 20 17 16 11 5 3 14 2 4 27 2 10 23 15 3 16 2 21 5 20 11 4 29",
+                    "score": 66.80767822265625,
+                    "shape": [
+                        69,
+                        30
+                    ],
+                    "text": "THEIR SUFFERINGS HAVE NEVER YET BEEN FITLY CHRONICLED BY HUMAN SCRIBE",
+                    "token": "T H E I R <space> S U F F E R I N G S <space> H A V E <space> N E V E R <space> Y E T <space> B E E N <space> F I T L Y <space> C H R O N I C L E D <space> B Y <space> H U M A N <space> S C R I B E",
+                    "tokenid": "22 10 7 11 20 2 21 23 8 8 7 20 11 16 9 21 2 10 3 24 7 2 16 7 24 7 20 2 27 7 22 2 4 7 7 16 2 8 11 22 14 27 2 5 10 20 17 16 11 5 14 7 6 2 4 27 2 10 23 15 3 16 2 21 5 20 11 4 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "4077-13751-0014": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> MACKING THER WAY ACROUS THE RIVER MOST OF THER REFIUGES FOUND SHELTER AMONG THE MORE HOSPITIBLE PEOPLE OF CLAY COUNEY AND AFTERWARD ESTABLISHED THEMSELVES IN CALD WELL COUNTY THEY R INFOUNDING THE SITTY OF FAR WESST<eos>",
+                    "rec_token": "<blank> <space> M A C K I N G <space> T H E R <space> W A Y <space> A C R O U S <space> T H E <space> R I V E R <space> M O S T <space> O F <space> T H E R <space> R E F I U G E S <space> F O U N D <space> S H E L T E R <space> A M O N G <space> T H E <space> M O R E <space> H O S P I T I B L E <space> P E O P L E <space> O F <space> C L A Y <space> C O U N E Y <space> A N D <space> A F T E R W A R D <space> E S T A B L I S H E D <space> T H E M S E L V E S <space> I N <space> C A L D <space> W E L L <space> C O U N T Y <space> T H E Y <space> R <space> I N F O U N D I N G <space> T H E <space> S I T T Y <space> O F <space> F A R <space> W E S S T <eos>",
+                    "rec_tokenid": "0 2 15 3 5 13 11 16 9 2 22 10 7 20 2 25 3 27 2 3 5 20 17 23 21 2 22 10 7 2 20 11 24 7 20 2 15 17 21 22 2 17 8 2 22 10 7 20 2 20 7 8 11 23 9 7 21 2 8 17 23 16 6 2 21 10 7 14 22 7 20 2 3 15 17 16 9 2 22 10 7 2 15 17 20 7 2 10 17 21 18 11 22 11 4 14 7 2 18 7 17 18 14 7 2 17 8 2 5 14 3 27 2 5 17 23 16 7 27 2 3 16 6 2 3 8 22 7 20 25 3 20 6 2 7 21 22 3 4 14 11 21 10 7 6 2 22 10 7 15 21 7 14 24 7 21 2 11 16 2 5 3 14 6 2 25 7 14 14 2 5 17 23 16 22 27 2 22 10 7 27 2 20 2 11 16 8 17 23 16 6 11 16 9 2 22 10 7 2 21 11 22 22 27 2 17 8 2 8 3 20 2 25 7 21 21 22 29",
+                    "score": 208.83590698242188,
+                    "shape": [
+                        210,
+                        30
+                    ],
+                    "text": "MAKING THEIR WAY ACROSS THE RIVER MOST OF THE REFUGEES FOUND SHELTER AMONG THE MORE HOSPITABLE PEOPLE OF CLAY COUNTY AND AFTERWARD ESTABLISHED THEMSELVES IN CALDWELL COUNTY THEREIN FOUNDING THE CITY OF FAR WEST",
+                    "token": "M A K I N G <space> T H E I R <space> W A Y <space> A C R O S S <space> T H E <space> R I V E R <space> M O S T <space> O F <space> T H E <space> R E F U G E E S <space> F O U N D <space> S H E L T E R <space> A M O N G <space> T H E <space> M O R E <space> H O S P I T A B L E <space> P E O P L E <space> O F <space> C L A Y <space> C O U N T Y <space> A N D <space> A F T E R W A R D <space> E S T A B L I S H E D <space> T H E M S E L V E S <space> I N <space> C A L D W E L L <space> C O U N T Y <space> T H E R E I N <space> F O U N D I N G <space> T H E <space> C I T Y <space> O F <space> F A R <space> W E S T",
+                    "tokenid": "15 3 13 11 16 9 2 22 10 7 11 20 2 25 3 27 2 3 5 20 17 21 21 2 22 10 7 2 20 11 24 7 20 2 15 17 21 22 2 17 8 2 22 10 7 2 20 7 8 23 9 7 7 21 2 8 17 23 16 6 2 21 10 7 14 22 7 20 2 3 15 17 16 9 2 22 10 7 2 15 17 20 7 2 10 17 21 18 11 22 3 4 14 7 2 18 7 17 18 14 7 2 17 8 2 5 14 3 27 2 5 17 23 16 22 27 2 3 16 6 2 3 8 22 7 20 25 3 20 6 2 7 21 22 3 4 14 11 21 10 7 6 2 22 10 7 15 21 7 14 24 7 21 2 11 16 2 5 3 14 6 25 7 14 14 2 5 17 23 16 22 27 2 22 10 7 20 7 11 16 2 8 17 23 16 6 11 16 9 2 22 10 7 2 5 11 22 27 2 17 8 2 8 3 20 2 25 7 21 22"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "4077-13751-0015": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>O A SMALL SETLEMENT HAD BEEN FOUNDED BY MORMAND FAMILYS ON SHOULE CRIECKE AND HEARE ON THE THERTITH OF OUCTOBER ATTEEN THEIRTY AT A COMPENEY OF TOW HOUNDRED AND FORTY FELL APPON THE HAPLEIS SETLARS AND BUTCHERED A SCORE<eos>",
+                    "rec_token": "<blank> O <space> A <space> S M A L L <space> S E T L E M E N T <space> H A D <space> B E E N <space> F O U N D E D <space> B Y <space> M O R M A N D <space> F A M I L Y S <space> O N <space> S H O U L E <space> C R I E C K E <space> A N D <space> H E A R E <space> O N <space> T H E <space> T H E R T I T H <space> O F <space> O U C T O B E R <space> A T T E E N <space> T H E I R T Y <space> A T <space> A <space> C O M P E N E Y <space> O F <space> T O W <space> H O U N D R E D <space> A N D <space> F O R T Y <space> F E L L <space> A P P O N <space> T H E <space> H A P L E I S <space> S E T L A R S <space> A N D <space> B U T C H E R E D <space> A <space> S C O R E <eos>",
+                    "rec_tokenid": "0 17 2 3 2 21 15 3 14 14 2 21 7 22 14 7 15 7 16 22 2 10 3 6 2 4 7 7 16 2 8 17 23 16 6 7 6 2 4 27 2 15 17 20 15 3 16 6 2 8 3 15 11 14 27 21 2 17 16 2 21 10 17 23 14 7 2 5 20 11 7 5 13 7 2 3 16 6 2 10 7 3 20 7 2 17 16 2 22 10 7 2 22 10 7 20 22 11 22 10 2 17 8 2 17 23 5 22 17 4 7 20 2 3 22 22 7 7 16 2 22 10 7 11 20 22 27 2 3 22 2 3 2 5 17 15 18 7 16 7 27 2 17 8 2 22 17 25 2 10 17 23 16 6 20 7 6 2 3 16 6 2 8 17 20 22 27 2 8 7 14 14 2 3 18 18 17 16 2 22 10 7 2 10 3 18 14 7 11 21 2 21 7 22 14 3 20 21 2 3 16 6 2 4 23 22 5 10 7 20 7 6 2 3 2 21 5 17 20 7 29",
+                    "score": 209.06358337402344,
+                    "shape": [
+                        216,
+                        30
+                    ],
+                    "text": "A SMALL SETTLEMENT HAD BEEN FOUNDED BY MORMON FAMILIES ON SHOAL CREEK AND HERE ON THE THIRTIETH OF OCTOBER EIGHTEEN THIRTY EIGHT A COMPANY OF TWO HUNDRED AND FORTY FELL UPON THE HAPLESS SETTLERS AND BUTCHERED A SCORE",
+                    "token": "A <space> S M A L L <space> S E T T L E M E N T <space> H A D <space> B E E N <space> F O U N D E D <space> B Y <space> M O R M O N <space> F A M I L I E S <space> O N <space> S H O A L <space> C R E E K <space> A N D <space> H E R E <space> O N <space> T H E <space> T H I R T I E T H <space> O F <space> O C T O B E R <space> E I G H T E E N <space> T H I R T Y <space> E I G H T <space> A <space> C O M P A N Y <space> O F <space> T W O <space> H U N D R E D <space> A N D <space> F O R T Y <space> F E L L <space> U P O N <space> T H E <space> H A P L E S S <space> S E T T L E R S <space> A N D <space> B U T C H E R E D <space> A <space> S C O R E",
+                    "tokenid": "3 2 21 15 3 14 14 2 21 7 22 22 14 7 15 7 16 22 2 10 3 6 2 4 7 7 16 2 8 17 23 16 6 7 6 2 4 27 2 15 17 20 15 17 16 2 8 3 15 11 14 11 7 21 2 17 16 2 21 10 17 3 14 2 5 20 7 7 13 2 3 16 6 2 10 7 20 7 2 17 16 2 22 10 7 2 22 10 11 20 22 11 7 22 10 2 17 8 2 17 5 22 17 4 7 20 2 7 11 9 10 22 7 7 16 2 22 10 11 20 22 27 2 7 11 9 10 22 2 3 2 5 17 15 18 3 16 27 2 17 8 2 22 25 17 2 10 23 16 6 20 7 6 2 3 16 6 2 8 17 20 22 27 2 8 7 14 14 2 23 18 17 16 2 22 10 7 2 10 3 18 14 7 21 21 2 21 7 22 22 14 7 20 21 2 3 16 6 2 4 23 22 5 10 7 20 7 6 2 3 2 21 5 17 20 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "4077-13751-0016": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> BEITS SEID TO THE ONER OFE SOME OF THE OFFISERS INTRUSTED WITH A TERIBLE COMITION THAT WHAEN THEY LEARND ITS TRU SIGNIFICANCES THEAY RESINED THEIR OFTHORIATY RATHER THAN HAVE EANYTHING TO DEI WITH WHAT THEY DESIGNATED A COLD BLUDED BUTCHEARIY<eos>",
+                    "rec_token": "<blank> <space> B E I T S <space> S E I D <space> T O <space> T H E <space> O N E R <space> O F E <space> S O M E <space> O F <space> T H E <space> O F F I S E R S <space> I N T R U S T E D <space> W I T H <space> A <space> T E R I B L E <space> C O M I T I O N <space> T H A T <space> W H A E N <space> T H E Y <space> L E A R N D <space> I T S <space> T R U <space> S I G N I F I C A N C E S <space> T H E A Y <space> R E S I N E D <space> T H E I R <space> O F T H O R I A T Y <space> R A T H E R <space> T H A N <space> H A V E <space> E A N Y T H I N G <space> T O <space> D E I <space> W I T H <space> W H A T <space> T H E Y <space> D E S I G N A T E D <space> A <space> C O L D <space> B L U D E D <space> B U T C H E A R I Y <eos>",
+                    "rec_tokenid": "0 2 4 7 11 22 21 2 21 7 11 6 2 22 17 2 22 10 7 2 17 16 7 20 2 17 8 7 2 21 17 15 7 2 17 8 2 22 10 7 2 17 8 8 11 21 7 20 21 2 11 16 22 20 23 21 22 7 6 2 25 11 22 10 2 3 2 22 7 20 11 4 14 7 2 5 17 15 11 22 11 17 16 2 22 10 3 22 2 25 10 3 7 16 2 22 10 7 27 2 14 7 3 20 16 6 2 11 22 21 2 22 20 23 2 21 11 9 16 11 8 11 5 3 16 5 7 21 2 22 10 7 3 27 2 20 7 21 11 16 7 6 2 22 10 7 11 20 2 17 8 22 10 17 20 11 3 22 27 2 20 3 22 10 7 20 2 22 10 3 16 2 10 3 24 7 2 7 3 16 27 22 10 11 16 9 2 22 17 2 6 7 11 2 25 11 22 10 2 25 10 3 22 2 22 10 7 27 2 6 7 21 11 9 16 3 22 7 6 2 3 2 5 17 14 6 2 4 14 23 6 7 6 2 4 23 22 5 10 7 3 20 11 27 29",
+                    "score": 231.88059997558594,
+                    "shape": [
+                        243,
+                        30
+                    ],
+                    "text": "BE IT SAID TO THE HONOR OF SOME OF THE OFFICERS ENTRUSTED WITH THE TERRIBLE COMMISSION THAT WHEN THEY LEARNED ITS TRUE SIGNIFICANCE THEY RESIGNED THEIR AUTHORITY RATHER THAN HAVE ANYTHING TO DO WITH WHAT THEY DESIGNATED A COLD BLOODED BUTCHERY",
+                    "token": "B E <space> I T <space> S A I D <space> T O <space> T H E <space> H O N O R <space> O F <space> S O M E <space> O F <space> T H E <space> O F F I C E R S <space> E N T R U S T E D <space> W I T H <space> T H E <space> T E R R I B L E <space> C O M M I S S I O N <space> T H A T <space> W H E N <space> T H E Y <space> L E A R N E D <space> I T S <space> T R U E <space> S I G N I F I C A N C E <space> T H E Y <space> R E S I G N E D <space> T H E I R <space> A U T H O R I T Y <space> R A T H E R <space> T H A N <space> H A V E <space> A N Y T H I N G <space> T O <space> D O <space> W I T H <space> W H A T <space> T H E Y <space> D E S I G N A T E D <space> A <space> C O L D <space> B L O O D E D <space> B U T C H E R Y",
+                    "tokenid": "4 7 2 11 22 2 21 3 11 6 2 22 17 2 22 10 7 2 10 17 16 17 20 2 17 8 2 21 17 15 7 2 17 8 2 22 10 7 2 17 8 8 11 5 7 20 21 2 7 16 22 20 23 21 22 7 6 2 25 11 22 10 2 22 10 7 2 22 7 20 20 11 4 14 7 2 5 17 15 15 11 21 21 11 17 16 2 22 10 3 22 2 25 10 7 16 2 22 10 7 27 2 14 7 3 20 16 7 6 2 11 22 21 2 22 20 23 7 2 21 11 9 16 11 8 11 5 3 16 5 7 2 22 10 7 27 2 20 7 21 11 9 16 7 6 2 22 10 7 11 20 2 3 23 22 10 17 20 11 22 27 2 20 3 22 10 7 20 2 22 10 3 16 2 10 3 24 7 2 3 16 27 22 10 11 16 9 2 22 17 2 6 17 2 25 11 22 10 2 25 10 3 22 2 22 10 7 27 2 6 7 21 11 9 16 3 22 7 6 2 3 2 5 17 14 6 2 4 14 17 17 6 7 6 2 4 23 22 5 10 7 20 27"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "4077-13751-0017": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>Y O WHAT A RECERD TO REAAD WHAT A PICTURE TO GAISE APON HOW AOFFULE THE FACT<eos>",
+                    "rec_token": "<blank> Y <space> O <space> W H A T <space> A <space> R E C E R D <space> T O <space> R E A A D <space> W H A T <space> A <space> P I C T U R E <space> T O <space> G A I S E <space> A P O N <space> H O W <space> A O F F U L E <space> T H E <space> F A C T <eos>",
+                    "rec_tokenid": "0 27 2 17 2 25 10 3 22 2 3 2 20 7 5 7 20 6 2 22 17 2 20 7 3 3 6 2 25 10 3 22 2 3 2 18 11 5 22 23 20 7 2 22 17 2 9 3 11 21 7 2 3 18 17 16 2 10 17 25 2 3 17 8 8 23 14 7 2 22 10 7 2 8 3 5 22 29",
+                    "score": 73.37877655029297,
+                    "shape": [
+                        71,
+                        30
+                    ],
+                    "text": "OH WHAT A RECORD TO READ WHAT A PICTURE TO GAZE UPON HOW AWFUL THE FACT",
+                    "token": "O H <space> W H A T <space> A <space> R E C O R D <space> T O <space> R E A D <space> W H A T <space> A <space> P I C T U R E <space> T O <space> G A Z E <space> U P O N <space> H O W <space> A W F U L <space> T H E <space> F A C T",
+                    "tokenid": "17 10 2 25 10 3 22 2 3 2 20 7 5 17 20 6 2 22 17 2 20 7 3 6 2 25 10 3 22 2 3 2 18 11 5 22 23 20 7 2 22 17 2 9 3 28 7 2 23 18 17 16 2 10 17 25 2 3 25 8 23 14 2 22 10 7 2 8 3 5 22"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "4077-13751-0018": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>S AMMERICAN SCHOL BAYS WREADE WITH EMMOTIONS OF HOR OFE THE ALBIGENSES DRIVEIN BEATN AND CILLD WITH A PAPL LEGAT DIRECTING THE BUTCHERY AND OF THEA VILDOWA HUNTED AND HOUNDED LIKE BEASTS AS THE EFECT OF A ROIL DECRIY AND THEY YET SHAL REAAD IN THE HISTRY OF THER OWN COUNTRY OFE SEAINS AS TERIABLE AS THES IN THE EXIBITION OFE INGUSTIS AND IN HUMIN HAT<eos>",
+                    "rec_token": "<blank> S <space> A M M E R I C A N <space> S C H O L <space> B A Y S <space> W R E A D E <space> W I T H <space> E M M O T I O N S <space> O F <space> H O R <space> O F E <space> T H E <space> A L B I G E N S E S <space> D R I V E I N <space> B E A T N <space> A N D <space> C I L L D <space> W I T H <space> A <space> P A P L <space> L E G A T <space> D I R E C T I N G <space> T H E <space> B U T C H E R Y <space> A N D <space> O F <space> T H E A <space> V I L D O W A <space> H U N T E D <space> A N D <space> H O U N D E D <space> L I K E <space> B E A S T S <space> A S <space> T H E <space> E F E C T <space> O F <space> A <space> R O I L <space> D E C R I Y <space> A N D <space> T H E Y <space> Y E T <space> S H A L <space> R E A A D <space> I N <space> T H E <space> H I S T R Y <space> O F <space> T H E R <space> O W N <space> C O U N T R Y <space> O F E <space> S E A I N S <space> A S <space> T E R I A B L E <space> A S <space> T H E S <space> I N <space> T H E <space> E X I B I T I O N <space> O F E <space> I N G U S T I S <space> A N D <space> I N <space> H U M I N <space> H A T <eos>",
+                    "rec_tokenid": "0 21 2 3 15 15 7 20 11 5 3 16 2 21 5 10 17 14 2 4 3 27 21 2 25 20 7 3 6 7 2 25 11 22 10 2 7 15 15 17 22 11 17 16 21 2 17 8 2 10 17 20 2 17 8 7 2 22 10 7 2 3 14 4 11 9 7 16 21 7 21 2 6 20 11 24 7 11 16 2 4 7 3 22 16 2 3 16 6 2 5 11 14 14 6 2 25 11 22 10 2 3 2 18 3 18 14 2 14 7 9 3 22 2 6 11 20 7 5 22 11 16 9 2 22 10 7 2 4 23 22 5 10 7 20 27 2 3 16 6 2 17 8 2 22 10 7 3 2 24 11 14 6 17 25 3 2 10 23 16 22 7 6 2 3 16 6 2 10 17 23 16 6 7 6 2 14 11 13 7 2 4 7 3 21 22 21 2 3 21 2 22 10 7 2 7 8 7 5 22 2 17 8 2 3 2 20 17 11 14 2 6 7 5 20 11 27 2 3 16 6 2 22 10 7 27 2 27 7 22 2 21 10 3 14 2 20 7 3 3 6 2 11 16 2 22 10 7 2 10 11 21 22 20 27 2 17 8 2 22 10 7 20 2 17 25 16 2 5 17 23 16 22 20 27 2 17 8 7 2 21 7 3 11 16 21 2 3 21 2 22 7 20 11 3 4 14 7 2 3 21 2 22 10 7 21 2 11 16 2 22 10 7 2 7 26 11 4 11 22 11 17 16 2 17 8 7 2 11 16 9 23 21 22 11 21 2 3 16 6 2 11 16 2 10 23 15 11 16 2 10 3 22 29",
+                    "score": 332.9200439453125,
+                    "shape": [
+                        356,
+                        30
+                    ],
+                    "text": "AMERICAN SCHOOL BOYS READ WITH EMOTIONS OF HORROR OF THE ALBIGENSES DRIVEN BEATEN AND KILLED WITH A PAPAL LEGATE DIRECTING THE BUTCHERY AND OF THE VAUDOIS HUNTED AND HOUNDED LIKE BEASTS AS THE EFFECT OF A ROYAL DECREE AND THEY YET SHALL READ IN THE HISTORY OF THEIR OWN COUNTRY OF SCENES AS TERRIBLE AS THESE IN THE EXHIBITION OF INJUSTICE AND INHUMAN HATE",
+                    "token": "A M E R I C A N <space> S C H O O L <space> B O Y S <space> R E A D <space> W I T H <space> E M O T I O N S <space> O F <space> H O R R O R <space> O F <space> T H E <space> A L B I G E N S E S <space> D R I V E N <space> B E A T E N <space> A N D <space> K I L L E D <space> W I T H <space> A <space> P A P A L <space> L E G A T E <space> D I R E C T I N G <space> T H E <space> B U T C H E R Y <space> A N D <space> O F <space> T H E <space> V A U D O I S <space> H U N T E D <space> A N D <space> H O U N D E D <space> L I K E <space> B E A S T S <space> A S <space> T H E <space> E F F E C T <space> O F <space> A <space> R O Y A L <space> D E C R E E <space> A N D <space> T H E Y <space> Y E T <space> S H A L L <space> R E A D <space> I N <space> T H E <space> H I S T O R Y <space> O F <space> T H E I R <space> O W N <space> C O U N T R Y <space> O F <space> S C E N E S <space> A S <space> T E R R I B L E <space> A S <space> T H E S E <space> I N <space> T H E <space> E X H I B I T I O N <space> O F <space> I N J U S T I C E <space> A N D <space> I N H U M A N <space> H A T E",
+                    "tokenid": "3 15 7 20 11 5 3 16 2 21 5 10 17 17 14 2 4 17 27 21 2 20 7 3 6 2 25 11 22 10 2 7 15 17 22 11 17 16 21 2 17 8 2 10 17 20 20 17 20 2 17 8 2 22 10 7 2 3 14 4 11 9 7 16 21 7 21 2 6 20 11 24 7 16 2 4 7 3 22 7 16 2 3 16 6 2 13 11 14 14 7 6 2 25 11 22 10 2 3 2 18 3 18 3 14 2 14 7 9 3 22 7 2 6 11 20 7 5 22 11 16 9 2 22 10 7 2 4 23 22 5 10 7 20 27 2 3 16 6 2 17 8 2 22 10 7 2 24 3 23 6 17 11 21 2 10 23 16 22 7 6 2 3 16 6 2 10 17 23 16 6 7 6 2 14 11 13 7 2 4 7 3 21 22 21 2 3 21 2 22 10 7 2 7 8 8 7 5 22 2 17 8 2 3 2 20 17 27 3 14 2 6 7 5 20 7 7 2 3 16 6 2 22 10 7 27 2 27 7 22 2 21 10 3 14 14 2 20 7 3 6 2 11 16 2 22 10 7 2 10 11 21 22 17 20 27 2 17 8 2 22 10 7 11 20 2 17 25 16 2 5 17 23 16 22 20 27 2 17 8 2 21 5 7 16 7 21 2 3 21 2 22 7 20 20 11 4 14 7 2 3 21 2 22 10 7 21 7 2 11 16 2 22 10 7 2 7 26 10 11 4 11 22 11 17 16 2 17 8 2 11 16 12 23 21 22 11 5 7 2 3 16 6 2 11 16 10 23 15 3 16 2 10 3 22 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "4077-13751-0019": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>N WHO BEGAN THE QUARLE WAS IT THE MORMENDS<eos>",
+                    "rec_token": "<blank> N <space> W H O <space> B E G A N <space> T H E <space> Q U A R L E <space> W A S <space> I T <space> T H E <space> M O R M E N D S <eos>",
+                    "rec_tokenid": "0 16 2 25 10 17 2 4 7 9 3 16 2 22 10 7 2 19 23 3 20 14 7 2 25 3 21 2 11 22 2 22 10 7 2 15 17 20 15 7 16 6 21 29",
+                    "score": 42.05320739746094,
+                    "shape": [
+                        40,
+                        30
+                    ],
+                    "text": "WHO BEGAN THE QUARREL WAS IT THE MORMONS",
+                    "token": "W H O <space> B E G A N <space> T H E <space> Q U A R R E L <space> W A S <space> I T <space> T H E <space> M O R M O N S",
+                    "tokenid": "25 10 17 2 4 7 9 3 16 2 22 10 7 2 19 23 3 20 20 7 14 2 25 3 21 2 11 22 2 22 10 7 2 15 17 20 15 17 16 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "4077-13751-0020": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> AS THE STAPLE OF THE PRESS CONMENTS AGANST THE BROUTALLITY OF THE MOSERIANS I QUOT A PERIGRAFE FROM THE CQUINCEY ARGISS MARCH SIXTEENTH ATTEEN THERTY NIN<eos>",
+                    "rec_token": "<blank> <space> A S <space> T H E <space> S T A P L E <space> O F <space> T H E <space> P R E S S <space> C O N M E N T S <space> A G A N S T <space> T H E <space> B R O U T A L L I T Y <space> O F <space> T H E <space> M O S E R I A N S <space> I <space> Q U O T <space> A <space> P E R I G R A F E <space> F R O M <space> T H E <space> C Q U I N C E Y <space> A R G I S S <space> M A R C H <space> S I X T E E N T H <space> A T T E E N <space> T H E R T Y <space> N I N <eos>",
+                    "rec_tokenid": "0 2 3 21 2 22 10 7 2 21 22 3 18 14 7 2 17 8 2 22 10 7 2 18 20 7 21 21 2 5 17 16 15 7 16 22 21 2 3 9 3 16 21 22 2 22 10 7 2 4 20 17 23 22 3 14 14 11 22 27 2 17 8 2 22 10 7 2 15 17 21 7 20 11 3 16 21 2 11 2 19 23 17 22 2 3 2 18 7 20 11 9 20 3 8 7 2 8 20 17 15 2 22 10 7 2 5 19 23 11 16 5 7 27 2 3 20 9 11 21 21 2 15 3 20 5 10 2 21 11 26 22 7 7 16 22 10 2 3 22 22 7 7 16 2 22 10 7 20 22 27 2 16 11 16 29",
+                    "score": 148.56326293945312,
+                    "shape": [
+                        153,
+                        30
+                    ],
+                    "text": "AS A SAMPLE OF THE PRESS COMMENTS AGAINST THE BRUTALITY OF THE MISSOURIANS I QUOTE A PARAGRAPH FROM THE QUINCY ARGUS MARCH SIXTEENTH EIGHTEEN THIRTY NINE",
+                    "token": "A S <space> A <space> S A M P L E <space> O F <space> T H E <space> P R E S S <space> C O M M E N T S <space> A G A I N S T <space> T H E <space> B R U T A L I T Y <space> O F <space> T H E <space> M I S S O U R I A N S <space> I <space> Q U O T E <space> A <space> P A R A G R A P H <space> F R O M <space> T H E <space> Q U I N C Y <space> A R G U S <space> M A R C H <space> S I X T E E N T H <space> E I G H T E E N <space> T H I R T Y <space> N I N E",
+                    "tokenid": "3 21 2 3 2 21 3 15 18 14 7 2 17 8 2 22 10 7 2 18 20 7 21 21 2 5 17 15 15 7 16 22 21 2 3 9 3 11 16 21 22 2 22 10 7 2 4 20 23 22 3 14 11 22 27 2 17 8 2 22 10 7 2 15 11 21 21 17 23 20 11 3 16 21 2 11 2 19 23 17 22 7 2 3 2 18 3 20 3 9 20 3 18 10 2 8 20 17 15 2 22 10 7 2 19 23 11 16 5 27 2 3 20 9 23 21 2 15 3 20 5 10 2 21 11 26 22 7 7 16 22 10 2 7 11 9 10 22 7 7 16 2 22 10 11 20 22 27 2 16 11 16 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "4077-13751-0021": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>E IT WIL BE OABSEIRVED THAT AN ORGANISED MAB ADED BY MANY OF THE SIVL AND MILITARY OFFISERS OF MISIRIY WITH GOVERNEAR BAGS AT THEIR HED HAVE BEEN THE PROMINANT ACTERS IN THIS BUSNESS INSITED TO IT APPERS AGAINST THE MORNMANTS BY POLITTICAL HATRID AND BY THE ADDITIONAL MOTIVS OF PLUNDER AND REVENGE<eos>",
+                    "rec_token": "<blank> E <space> I T <space> W I L <space> B E <space> O A B S E I R V E D <space> T H A T <space> A N <space> O R G A N I S E D <space> M A B <space> A D E D <space> B Y <space> M A N Y <space> O F <space> T H E <space> S I V L <space> A N D <space> M I L I T A R Y <space> O F F I S E R S <space> O F <space> M I S I R I Y <space> W I T H <space> G O V E R N E A R <space> B A G S <space> A T <space> T H E I R <space> H E D <space> H A V E <space> B E E N <space> T H E <space> P R O M I N A N T <space> A C T E R S <space> I N <space> T H I S <space> B U S N E S S <space> I N S I T E D <space> T O <space> I T <space> A P P E R S <space> A G A I N S T <space> T H E <space> M O R N M A N T S <space> B Y <space> P O L I T T I C A L <space> H A T R I D <space> A N D <space> B Y <space> T H E <space> A D D I T I O N A L <space> M O T I V S <space> O F <space> P L U N D E R <space> A N D <space> R E V E N G E <eos>",
+                    "rec_tokenid": "0 7 2 11 22 2 25 11 14 2 4 7 2 17 3 4 21 7 11 20 24 7 6 2 22 10 3 22 2 3 16 2 17 20 9 3 16 11 21 7 6 2 15 3 4 2 3 6 7 6 2 4 27 2 15 3 16 27 2 17 8 2 22 10 7 2 21 11 24 14 2 3 16 6 2 15 11 14 11 22 3 20 27 2 17 8 8 11 21 7 20 21 2 17 8 2 15 11 21 11 20 11 27 2 25 11 22 10 2 9 17 24 7 20 16 7 3 20 2 4 3 9 21 2 3 22 2 22 10 7 11 20 2 10 7 6 2 10 3 24 7 2 4 7 7 16 2 22 10 7 2 18 20 17 15 11 16 3 16 22 2 3 5 22 7 20 21 2 11 16 2 22 10 11 21 2 4 23 21 16 7 21 21 2 11 16 21 11 22 7 6 2 22 17 2 11 22 2 3 18 18 7 20 21 2 3 9 3 11 16 21 22 2 22 10 7 2 15 17 20 16 15 3 16 22 21 2 4 27 2 18 17 14 11 22 22 11 5 3 14 2 10 3 22 20 11 6 2 3 16 6 2 4 27 2 22 10 7 2 3 6 6 11 22 11 17 16 3 14 2 15 17 22 11 24 21 2 17 8 2 18 14 23 16 6 7 20 2 3 16 6 2 20 7 24 7 16 9 7 29",
+                    "score": 288.82958984375,
+                    "shape": [
+                        300,
+                        30
+                    ],
+                    "text": "IT WILL BE OBSERVED THAT AN ORGANIZED MOB AIDED BY MANY OF THE CIVIL AND MILITARY OFFICERS OF MISSOURI WITH GOVERNOR BOGGS AT THEIR HEAD HAVE BEEN THE PROMINENT ACTORS IN THIS BUSINESS INCITED TOO IT APPEARS AGAINST THE MORMONS BY POLITICAL HATRED AND BY THE ADDITIONAL MOTIVES OF PLUNDER AND REVENGE",
+                    "token": "I T <space> W I L L <space> B E <space> O B S E R V E D <space> T H A T <space> A N <space> O R G A N I Z E D <space> M O B <space> A I D E D <space> B Y <space> M A N Y <space> O F <space> T H E <space> C I V I L <space> A N D <space> M I L I T A R Y <space> O F F I C E R S <space> O F <space> M I S S O U R I <space> W I T H <space> G O V E R N O R <space> B O G G S <space> A T <space> T H E I R <space> H E A D <space> H A V E <space> B E E N <space> T H E <space> P R O M I N E N T <space> A C T O R S <space> I N <space> T H I S <space> B U S I N E S S <space> I N C I T E D <space> T O O <space> I T <space> A P P E A R S <space> A G A I N S T <space> T H E <space> M O R M O N S <space> B Y <space> P O L I T I C A L <space> H A T R E D <space> A N D <space> B Y <space> T H E <space> A D D I T I O N A L <space> M O T I V E S <space> O F <space> P L U N D E R <space> A N D <space> R E V E N G E",
+                    "tokenid": "11 22 2 25 11 14 14 2 4 7 2 17 4 21 7 20 24 7 6 2 22 10 3 22 2 3 16 2 17 20 9 3 16 11 28 7 6 2 15 17 4 2 3 11 6 7 6 2 4 27 2 15 3 16 27 2 17 8 2 22 10 7 2 5 11 24 11 14 2 3 16 6 2 15 11 14 11 22 3 20 27 2 17 8 8 11 5 7 20 21 2 17 8 2 15 11 21 21 17 23 20 11 2 25 11 22 10 2 9 17 24 7 20 16 17 20 2 4 17 9 9 21 2 3 22 2 22 10 7 11 20 2 10 7 3 6 2 10 3 24 7 2 4 7 7 16 2 22 10 7 2 18 20 17 15 11 16 7 16 22 2 3 5 22 17 20 21 2 11 16 2 22 10 11 21 2 4 23 21 11 16 7 21 21 2 11 16 5 11 22 7 6 2 22 17 17 2 11 22 2 3 18 18 7 3 20 21 2 3 9 3 11 16 21 22 2 22 10 7 2 15 17 20 15 17 16 21 2 4 27 2 18 17 14 11 22 11 5 3 14 2 10 3 22 20 7 6 2 3 16 6 2 4 27 2 22 10 7 2 3 6 6 11 22 11 17 16 3 14 2 15 17 22 11 24 7 21 2 17 8 2 18 14 23 16 6 7 20 2 3 16 6 2 20 7 24 7 16 9 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "4077-13754-0000": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THE ARMY SFOUND THE PEOPLE IN POVERTY AND LEFT THEM IN COMPAROATIVE WEALTH<eos>",
+                    "rec_token": "<blank> <space> T H E <space> A R M Y <space> S F O U N D <space> T H E <space> P E O P L E <space> I N <space> P O V E R T Y <space> A N D <space> L E F T <space> T H E M <space> I N <space> C O M P A R O A T I V E <space> W E A L T H <eos>",
+                    "rec_tokenid": "0 2 22 10 7 2 3 20 15 27 2 21 8 17 23 16 6 2 22 10 7 2 18 7 17 18 14 7 2 11 16 2 18 17 24 7 20 22 27 2 3 16 6 2 14 7 8 22 2 22 10 7 15 2 11 16 2 5 17 15 18 3 20 17 3 22 11 24 7 2 25 7 3 14 22 10 29",
+                    "score": 74.65804290771484,
+                    "shape": [
+                        72,
+                        30
+                    ],
+                    "text": "THE ARMY FOUND THE PEOPLE IN POVERTY AND LEFT THEM IN COMPARATIVE WEALTH",
+                    "token": "T H E <space> A R M Y <space> F O U N D <space> T H E <space> P E O P L E <space> I N <space> P O V E R T Y <space> A N D <space> L E F T <space> T H E M <space> I N <space> C O M P A R A T I V E <space> W E A L T H",
+                    "tokenid": "22 10 7 2 3 20 15 27 2 8 17 23 16 6 2 22 10 7 2 18 7 17 18 14 7 2 11 16 2 18 17 24 7 20 22 27 2 3 16 6 2 14 7 8 22 2 22 10 7 15 2 11 16 2 5 17 15 18 3 20 3 22 11 24 7 2 25 7 3 14 22 10"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "4077-13754-0001": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>N BUT A WORD FIRTHER CONSEURNING THE EXPADITION IN GENRAL<eos>",
+                    "rec_token": "<blank> N <space> B U T <space> A <space> W O R D <space> F I R T H E R <space> C O N S E U R N I N G <space> T H E <space> E X P A D I T I O N <space> I N <space> G E N R A L <eos>",
+                    "rec_tokenid": "0 16 2 4 23 22 2 3 2 25 17 20 6 2 8 11 20 22 10 7 20 2 5 17 16 21 7 23 20 16 11 16 9 2 22 10 7 2 7 26 18 3 6 11 22 11 17 16 2 11 16 2 9 7 16 20 3 14 29",
+                    "score": 56.25262451171875,
+                    "shape": [
+                        55,
+                        30
+                    ],
+                    "text": "BUT A WORD FURTHER CONCERNING THE EXPEDITION IN GENERAL",
+                    "token": "B U T <space> A <space> W O R D <space> F U R T H E R <space> C O N C E R N I N G <space> T H E <space> E X P E D I T I O N <space> I N <space> G E N E R A L",
+                    "tokenid": "4 23 22 2 3 2 25 17 20 6 2 8 23 20 22 10 7 20 2 5 17 16 5 7 20 16 11 16 9 2 22 10 7 2 7 26 18 7 6 11 22 11 17 16 2 11 16 2 9 7 16 7 20 3 14"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "4077-13754-0002": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> IT WAS THROUGH FLOADS ADVICE THE BUKANIN ORDER THE MILITARY EXPADITION TO YEUTAW OUSTENSCIBLY TO ENSTALL SCERTAIN FEDERAL AFFITHALS AND TO RAPRESS AN ALLEADGED INFANTILE REBELLION WHICH IN FACT HAD NEVER COM INTO AGSISTANCS BUT IN REALITY TO FIRTHER THE ENTRESTS OF THE CI CUTIONISTS<eos>",
+                    "rec_token": "<blank> <space> I T <space> W A S <space> T H R O U G H <space> F L O A D S <space> A D V I C E <space> T H E <space> B U K A N I N <space> O R D E R <space> T H E <space> M I L I T A R Y <space> E X P A D I T I O N <space> T O <space> Y E U T A W <space> O U S T E N S C I B L Y <space> T O <space> E N S T A L L <space> S C E R T A I N <space> F E D E R A L <space> A F F I T H A L S <space> A N D <space> T O <space> R A P R E S S <space> A N <space> A L L E A D G E D <space> I N F A N T I L E <space> R E B E L L I O N <space> W H I C H <space> I N <space> F A C T <space> H A D <space> N E V E R <space> C O M <space> I N T O <space> A G S I S T A N C S <space> B U T <space> I N <space> R E A L I T Y <space> T O <space> F I R T H E R <space> T H E <space> E N T R E S T S <space> O F <space> T H E <space> C I <space> C U T I O N I S T S <eos>",
+                    "rec_tokenid": "0 2 11 22 2 25 3 21 2 22 10 20 17 23 9 10 2 8 14 17 3 6 21 2 3 6 24 11 5 7 2 22 10 7 2 4 23 13 3 16 11 16 2 17 20 6 7 20 2 22 10 7 2 15 11 14 11 22 3 20 27 2 7 26 18 3 6 11 22 11 17 16 2 22 17 2 27 7 23 22 3 25 2 17 23 21 22 7 16 21 5 11 4 14 27 2 22 17 2 7 16 21 22 3 14 14 2 21 5 7 20 22 3 11 16 2 8 7 6 7 20 3 14 2 3 8 8 11 22 10 3 14 21 2 3 16 6 2 22 17 2 20 3 18 20 7 21 21 2 3 16 2 3 14 14 7 3 6 9 7 6 2 11 16 8 3 16 22 11 14 7 2 20 7 4 7 14 14 11 17 16 2 25 10 11 5 10 2 11 16 2 8 3 5 22 2 10 3 6 2 16 7 24 7 20 2 5 17 15 2 11 16 22 17 2 3 9 21 11 21 22 3 16 5 21 2 4 23 22 2 11 16 2 20 7 3 14 11 22 27 2 22 17 2 8 11 20 22 10 7 20 2 22 10 7 2 7 16 22 20 7 21 22 21 2 17 8 2 22 10 7 2 5 11 2 5 23 22 11 17 16 11 21 22 21 29",
+                    "score": 267.14617919921875,
+                    "shape": [
+                        282,
+                        30
+                    ],
+                    "text": "IT WAS THROUGH FLOYD'S ADVICE THAT BUCHANAN ORDERED THE MILITARY EXPEDITION TO UTAH OSTENSIBLY TO INSTALL CERTAIN FEDERAL OFFICIALS AND TO REPRESS AN ALLEGED INFANTILE REBELLION WHICH IN FACT HAD NEVER COME INTO EXISTENCE BUT IN REALITY TO FURTHER THE INTERESTS OF THE SECESSIONISTS",
+                    "token": "I T <space> W A S <space> T H R O U G H <space> F L O Y D <unk> S <space> A D V I C E <space> T H A T <space> B U C H A N A N <space> O R D E R E D <space> T H E <space> M I L I T A R Y <space> E X P E D I T I O N <space> T O <space> U T A H <space> O S T E N S I B L Y <space> T O <space> I N S T A L L <space> C E R T A I N <space> F E D E R A L <space> O F F I C I A L S <space> A N D <space> T O <space> R E P R E S S <space> A N <space> A L L E G E D <space> I N F A N T I L E <space> R E B E L L I O N <space> W H I C H <space> I N <space> F A C T <space> H A D <space> N E V E R <space> C O M E <space> I N T O <space> E X I S T E N C E <space> B U T <space> I N <space> R E A L I T Y <space> T O <space> F U R T H E R <space> T H E <space> I N T E R E S T S <space> O F <space> T H E <space> S E C E S S I O N I S T S",
+                    "tokenid": "11 22 2 25 3 21 2 22 10 20 17 23 9 10 2 8 14 17 27 6 1 21 2 3 6 24 11 5 7 2 22 10 3 22 2 4 23 5 10 3 16 3 16 2 17 20 6 7 20 7 6 2 22 10 7 2 15 11 14 11 22 3 20 27 2 7 26 18 7 6 11 22 11 17 16 2 22 17 2 23 22 3 10 2 17 21 22 7 16 21 11 4 14 27 2 22 17 2 11 16 21 22 3 14 14 2 5 7 20 22 3 11 16 2 8 7 6 7 20 3 14 2 17 8 8 11 5 11 3 14 21 2 3 16 6 2 22 17 2 20 7 18 20 7 21 21 2 3 16 2 3 14 14 7 9 7 6 2 11 16 8 3 16 22 11 14 7 2 20 7 4 7 14 14 11 17 16 2 25 10 11 5 10 2 11 16 2 8 3 5 22 2 10 3 6 2 16 7 24 7 20 2 5 17 15 7 2 11 16 22 17 2 7 26 11 21 22 7 16 5 7 2 4 23 22 2 11 16 2 20 7 3 14 11 22 27 2 22 17 2 8 23 20 22 10 7 20 2 22 10 7 2 11 16 22 7 20 7 21 22 21 2 17 8 2 22 10 7 2 21 7 5 7 21 21 11 17 16 11 21 22 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "4077-13754-0003": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>U MOREOVER HAD THE PEOPLE BEEN INCLINED TO REBELLIAON WHAT GRATER OPRTUNATY COULD THEY HAVE WISHED<eos>",
+                    "rec_token": "<blank> U <space> M O R E O V E R <space> H A D <space> T H E <space> P E O P L E <space> B E E N <space> I N C L I N E D <space> T O <space> R E B E L L I A O N <space> W H A T <space> G R A T E R <space> O P R T U N A T Y <space> C O U L D <space> T H E Y <space> H A V E <space> W I S H E D <eos>",
+                    "rec_tokenid": "0 23 2 15 17 20 7 17 24 7 20 2 10 3 6 2 22 10 7 2 18 7 17 18 14 7 2 4 7 7 16 2 11 16 5 14 11 16 7 6 2 22 17 2 20 7 4 7 14 14 11 3 17 16 2 25 10 3 22 2 9 20 3 22 7 20 2 17 18 20 22 23 16 3 22 27 2 5 17 23 14 6 2 22 10 7 27 2 10 3 24 7 2 25 11 21 10 7 6 29",
+                    "score": 97.61072540283203,
+                    "shape": [
+                        98,
+                        30
+                    ],
+                    "text": "MOREOVER HAD THE PEOPLE BEEN INCLINED TO REBELLION WHAT GREATER OPPORTUNITY COULD THEY HAVE WISHED",
+                    "token": "M O R E O V E R <space> H A D <space> T H E <space> P E O P L E <space> B E E N <space> I N C L I N E D <space> T O <space> R E B E L L I O N <space> W H A T <space> G R E A T E R <space> O P P O R T U N I T Y <space> C O U L D <space> T H E Y <space> H A V E <space> W I S H E D",
+                    "tokenid": "15 17 20 7 17 24 7 20 2 10 3 6 2 22 10 7 2 18 7 17 18 14 7 2 4 7 7 16 2 11 16 5 14 11 16 7 6 2 22 17 2 20 7 4 7 14 14 11 17 16 2 25 10 3 22 2 9 20 7 3 22 7 20 2 17 18 18 17 20 22 23 16 11 22 27 2 5 17 23 14 6 2 22 10 7 27 2 10 3 24 7 2 25 11 21 10 7 6"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "4077-13754-0004": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>T AL REDY AN NORTH AND A SOUWTH WER TAOKEDOVE WHIN NOT SETUP ALSO A WESSTD<eos>",
+                    "rec_token": "<blank> T <space> A L <space> R E D Y <space> A N <space> N O R T H <space> A N D <space> A <space> S O U W T H <space> W E R <space> T A O K E D O V E <space> W H I N <space> N O T <space> S E T U P <space> A L S O <space> A <space> W E S S T D <eos>",
+                    "rec_tokenid": "0 22 2 3 14 2 20 7 6 27 2 3 16 2 16 17 20 22 10 2 3 16 6 2 3 2 21 17 23 25 22 10 2 25 7 20 2 22 3 17 13 7 6 17 24 7 2 25 10 11 16 2 16 17 22 2 21 7 22 23 18 2 3 14 21 17 2 3 2 25 7 21 21 22 6 29",
+                    "score": 70.8448257446289,
+                    "shape": [
+                        69,
+                        30
+                    ],
+                    "text": "ALREADY A NORTH AND A SOUTH WERE TALKED OF WHY NOT SET UP ALSO A WEST",
+                    "token": "A L R E A D Y <space> A <space> N O R T H <space> A N D <space> A <space> S O U T H <space> W E R E <space> T A L K E D <space> O F <space> W H Y <space> N O T <space> S E T <space> U P <space> A L S O <space> A <space> W E S T",
+                    "tokenid": "3 14 20 7 3 6 27 2 3 2 16 17 20 22 10 2 3 16 6 2 3 2 21 17 23 22 10 2 25 7 20 7 2 22 3 14 13 7 6 2 17 8 2 25 10 27 2 16 17 22 2 21 7 22 2 23 18 2 3 14 21 17 2 3 2 25 7 21 22"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "4077-13754-0005": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THEY NE NOW NORTH NOW SOUWTH NO EAST NO WESST THEY STOOLD POSITIVELY BY THE CONSTITUTION ANDWOUD HAVE NOUTHING TO DE IN THE BLUDDY STRIFE BETWEEN BROTHERS UNLESS INDEAD THEY WER SUMONED BY THE OATHORITY TO WHICH THEY HAD ALRADY ONCE LOILLY RESPONDED TO FIRNISH MEN AND ARMS FOR THE COUNTRY<unk>S NEAAD<eos>",
+                    "rec_token": "<blank> <space> T H E Y <space> N E <space> N O W <space> N O R T H <space> N O W <space> S O U W T H <space> N O <space> E A S T <space> N O <space> W E S S T <space> T H E Y <space> S T O O L D <space> P O S I T I V E L Y <space> B Y <space> T H E <space> C O N S T I T U T I O N <space> A N D W O U D <space> H A V E <space> N O U T H I N G <space> T O <space> D E <space> I N <space> T H E <space> B L U D D Y <space> S T R I F E <space> B E T W E E N <space> B R O T H E R S <space> U N L E S S <space> I N D E A D <space> T H E Y <space> W E R <space> S U M O N E D <space> B Y <space> T H E <space> O A T H O R I T Y <space> T O <space> W H I C H <space> T H E Y <space> H A D <space> A L R A D Y <space> O N C E <space> L O I L L Y <space> R E S P O N D E D <space> T O <space> F I R N I S H <space> M E N <space> A N D <space> A R M S <space> F O R <space> T H E <space> C O U N T R Y <unk> S <space> N E A A D <eos>",
+                    "rec_tokenid": "0 2 22 10 7 27 2 16 7 2 16 17 25 2 16 17 20 22 10 2 16 17 25 2 21 17 23 25 22 10 2 16 17 2 7 3 21 22 2 16 17 2 25 7 21 21 22 2 22 10 7 27 2 21 22 17 17 14 6 2 18 17 21 11 22 11 24 7 14 27 2 4 27 2 22 10 7 2 5 17 16 21 22 11 22 23 22 11 17 16 2 3 16 6 25 17 23 6 2 10 3 24 7 2 16 17 23 22 10 11 16 9 2 22 17 2 6 7 2 11 16 2 22 10 7 2 4 14 23 6 6 27 2 21 22 20 11 8 7 2 4 7 22 25 7 7 16 2 4 20 17 22 10 7 20 21 2 23 16 14 7 21 21 2 11 16 6 7 3 6 2 22 10 7 27 2 25 7 20 2 21 23 15 17 16 7 6 2 4 27 2 22 10 7 2 17 3 22 10 17 20 11 22 27 2 22 17 2 25 10 11 5 10 2 22 10 7 27 2 10 3 6 2 3 14 20 3 6 27 2 17 16 5 7 2 14 17 11 14 14 27 2 20 7 21 18 17 16 6 7 6 2 22 17 2 8 11 20 16 11 21 10 2 15 7 16 2 3 16 6 2 3 20 15 21 2 8 17 20 2 22 10 7 2 5 17 23 16 22 20 27 1 21 2 16 7 3 3 6 29",
+                    "score": 284.704833984375,
+                    "shape": [
+                        300,
+                        30
+                    ],
+                    "text": "THEY KNEW NO NORTH NO SOUTH NO EAST NO WEST THEY STOOD POSITIVELY BY THE CONSTITUTION AND WOULD HAVE NOTHING TO DO IN THE BLOODY STRIFE BETWEEN BROTHERS UNLESS INDEED THEY WERE SUMMONED BY THE AUTHORITY TO WHICH THEY HAD ALREADY ONCE LOYALLY RESPONDED TO FURNISH MEN AND ARMS FOR THEIR COUNTRY'S NEED",
+                    "token": "T H E Y <space> K N E W <space> N O <space> N O R T H <space> N O <space> S O U T H <space> N O <space> E A S T <space> N O <space> W E S T <space> T H E Y <space> S T O O D <space> P O S I T I V E L Y <space> B Y <space> T H E <space> C O N S T I T U T I O N <space> A N D <space> W O U L D <space> H A V E <space> N O T H I N G <space> T O <space> D O <space> I N <space> T H E <space> B L O O D Y <space> S T R I F E <space> B E T W E E N <space> B R O T H E R S <space> U N L E S S <space> I N D E E D <space> T H E Y <space> W E R E <space> S U M M O N E D <space> B Y <space> T H E <space> A U T H O R I T Y <space> T O <space> W H I C H <space> T H E Y <space> H A D <space> A L R E A D Y <space> O N C E <space> L O Y A L L Y <space> R E S P O N D E D <space> T O <space> F U R N I S H <space> M E N <space> A N D <space> A R M S <space> F O R <space> T H E I R <space> C O U N T R Y <unk> S <space> N E E D",
+                    "tokenid": "22 10 7 27 2 13 16 7 25 2 16 17 2 16 17 20 22 10 2 16 17 2 21 17 23 22 10 2 16 17 2 7 3 21 22 2 16 17 2 25 7 21 22 2 22 10 7 27 2 21 22 17 17 6 2 18 17 21 11 22 11 24 7 14 27 2 4 27 2 22 10 7 2 5 17 16 21 22 11 22 23 22 11 17 16 2 3 16 6 2 25 17 23 14 6 2 10 3 24 7 2 16 17 22 10 11 16 9 2 22 17 2 6 17 2 11 16 2 22 10 7 2 4 14 17 17 6 27 2 21 22 20 11 8 7 2 4 7 22 25 7 7 16 2 4 20 17 22 10 7 20 21 2 23 16 14 7 21 21 2 11 16 6 7 7 6 2 22 10 7 27 2 25 7 20 7 2 21 23 15 15 17 16 7 6 2 4 27 2 22 10 7 2 3 23 22 10 17 20 11 22 27 2 22 17 2 25 10 11 5 10 2 22 10 7 27 2 10 3 6 2 3 14 20 7 3 6 27 2 17 16 5 7 2 14 17 27 3 14 14 27 2 20 7 21 18 17 16 6 7 6 2 22 17 2 8 23 20 16 11 21 10 2 15 7 16 2 3 16 6 2 3 20 15 21 2 8 17 20 2 22 10 7 11 20 2 5 17 23 16 22 20 27 1 21 2 16 7 7 6"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "4077-13754-0006": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> WHAT THE LATER DAY SAINTS CALED SILESTROAL MARRIAGE IS CARICTURISTICK OF THE CHURCH AND IS IN VERY GENORAL PRACTIS BUT OF SILESTRAL MARRIAGE PLAURAOLLITY OF WIVES WAS AN INCIDAENT NEVER AND ESCENCTIAL<eos>",
+                    "rec_token": "<blank> <space> W H A T <space> T H E <space> L A T E R <space> D A Y <space> S A I N T S <space> C A L E D <space> S I L E S T R O A L <space> M A R R I A G E <space> I S <space> C A R I C T U R I S T I C K <space> O F <space> T H E <space> C H U R C H <space> A N D <space> I S <space> I N <space> V E R Y <space> G E N O R A L <space> P R A C T I S <space> B U T <space> O F <space> S I L E S T R A L <space> M A R R I A G E <space> P L A U R A O L L I T Y <space> O F <space> W I V E S <space> W A S <space> A N <space> I N C I D A E N T <space> N E V E R <space> A N D <space> E S C E N C T I A L <eos>",
+                    "rec_tokenid": "0 2 25 10 3 22 2 22 10 7 2 14 3 22 7 20 2 6 3 27 2 21 3 11 16 22 21 2 5 3 14 7 6 2 21 11 14 7 21 22 20 17 3 14 2 15 3 20 20 11 3 9 7 2 11 21 2 5 3 20 11 5 22 23 20 11 21 22 11 5 13 2 17 8 2 22 10 7 2 5 10 23 20 5 10 2 3 16 6 2 11 21 2 11 16 2 24 7 20 27 2 9 7 16 17 20 3 14 2 18 20 3 5 22 11 21 2 4 23 22 2 17 8 2 21 11 14 7 21 22 20 3 14 2 15 3 20 20 11 3 9 7 2 18 14 3 23 20 3 17 14 14 11 22 27 2 17 8 2 25 11 24 7 21 2 25 3 21 2 3 16 2 11 16 5 11 6 3 7 16 22 2 16 7 24 7 20 2 3 16 6 2 7 21 5 7 16 5 22 11 3 14 29",
+                    "score": 190.98414611816406,
+                    "shape": [
+                        194,
+                        30
+                    ],
+                    "text": "WHAT THE LATTER DAY SAINTS CALL CELESTIAL MARRIAGE IS CHARACTERISTIC OF THE CHURCH AND IS IN VERY GENERAL PRACTISE BUT OF CELESTIAL MARRIAGE PLURALITY OF WIVES WAS AN INCIDENT NEVER AN ESSENTIAL",
+                    "token": "W H A T <space> T H E <space> L A T T E R <space> D A Y <space> S A I N T S <space> C A L L <space> C E L E S T I A L <space> M A R R I A G E <space> I S <space> C H A R A C T E R I S T I C <space> O F <space> T H E <space> C H U R C H <space> A N D <space> I S <space> I N <space> V E R Y <space> G E N E R A L <space> P R A C T I S E <space> B U T <space> O F <space> C E L E S T I A L <space> M A R R I A G E <space> P L U R A L I T Y <space> O F <space> W I V E S <space> W A S <space> A N <space> I N C I D E N T <space> N E V E R <space> A N <space> E S S E N T I A L",
+                    "tokenid": "25 10 3 22 2 22 10 7 2 14 3 22 22 7 20 2 6 3 27 2 21 3 11 16 22 21 2 5 3 14 14 2 5 7 14 7 21 22 11 3 14 2 15 3 20 20 11 3 9 7 2 11 21 2 5 10 3 20 3 5 22 7 20 11 21 22 11 5 2 17 8 2 22 10 7 2 5 10 23 20 5 10 2 3 16 6 2 11 21 2 11 16 2 24 7 20 27 2 9 7 16 7 20 3 14 2 18 20 3 5 22 11 21 7 2 4 23 22 2 17 8 2 5 7 14 7 21 22 11 3 14 2 15 3 20 20 11 3 9 7 2 18 14 23 20 3 14 11 22 27 2 17 8 2 25 11 24 7 21 2 25 3 21 2 3 16 2 11 16 5 11 6 7 16 22 2 16 7 24 7 20 2 3 16 2 7 21 21 7 16 22 11 3 14"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "4077-13754-0007": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> WHE BELEAVE IN A LITTORAL RESARECTION AND AN ACTUAL HEAR AFTER IN WHICH FUTURE STATS SHAL BE RECOGNISED EVERY SANGTIFIEDE AND AWTHORISED RELATION SHIP EGSISTING HER ON ERTH OFE PARINT AND CHILD BROTHERAND SISTER HUSBIND AND WIFE<eos>",
+                    "rec_token": "<blank> <space> W H E <space> B E L E A V E <space> I N <space> A <space> L I T T O R A L <space> R E S A R E C T I O N <space> A N D <space> A N <space> A C T U A L <space> H E A R <space> A F T E R <space> I N <space> W H I C H <space> F U T U R E <space> S T A T S <space> S H A L <space> B E <space> R E C O G N I S E D <space> E V E R Y <space> S A N G T I F I E D E <space> A N D <space> A W T H O R I S E D <space> R E L A T I O N <space> S H I P <space> E G S I S T I N G <space> H E R <space> O N <space> E R T H <space> O F E <space> P A R I N T <space> A N D <space> C H I L D <space> B R O T H E R A N D <space> S I S T E R <space> H U S B I N D <space> A N D <space> W I F E <eos>",
+                    "rec_tokenid": "0 2 25 10 7 2 4 7 14 7 3 24 7 2 11 16 2 3 2 14 11 22 22 17 20 3 14 2 20 7 21 3 20 7 5 22 11 17 16 2 3 16 6 2 3 16 2 3 5 22 23 3 14 2 10 7 3 20 2 3 8 22 7 20 2 11 16 2 25 10 11 5 10 2 8 23 22 23 20 7 2 21 22 3 22 21 2 21 10 3 14 2 4 7 2 20 7 5 17 9 16 11 21 7 6 2 7 24 7 20 27 2 21 3 16 9 22 11 8 11 7 6 7 2 3 16 6 2 3 25 22 10 17 20 11 21 7 6 2 20 7 14 3 22 11 17 16 2 21 10 11 18 2 7 9 21 11 21 22 11 16 9 2 10 7 20 2 17 16 2 7 20 22 10 2 17 8 7 2 18 3 20 11 16 22 2 3 16 6 2 5 10 11 14 6 2 4 20 17 22 10 7 20 3 16 6 2 21 11 21 22 7 20 2 10 23 21 4 11 16 6 2 3 16 6 2 25 11 8 7 29",
+                    "score": 222.23374938964844,
+                    "shape": [
+                        226,
+                        30
+                    ],
+                    "text": "WE BELIEVE IN A LITERAL RESURRECTION AND AN ACTUAL HEREAFTER IN WHICH FUTURE STATE SHALL BE RECOGNIZED EVERY SANCTIFIED AND AUTHORIZED RELATIONSHIP EXISTING HERE ON EARTH OF PARENT AND CHILD BROTHER AND SISTER HUSBAND AND WIFE",
+                    "token": "W E <space> B E L I E V E <space> I N <space> A <space> L I T E R A L <space> R E S U R R E C T I O N <space> A N D <space> A N <space> A C T U A L <space> H E R E A F T E R <space> I N <space> W H I C H <space> F U T U R E <space> S T A T E <space> S H A L L <space> B E <space> R E C O G N I Z E D <space> E V E R Y <space> S A N C T I F I E D <space> A N D <space> A U T H O R I Z E D <space> R E L A T I O N S H I P <space> E X I S T I N G <space> H E R E <space> O N <space> E A R T H <space> O F <space> P A R E N T <space> A N D <space> C H I L D <space> B R O T H E R <space> A N D <space> S I S T E R <space> H U S B A N D <space> A N D <space> W I F E",
+                    "tokenid": "25 7 2 4 7 14 11 7 24 7 2 11 16 2 3 2 14 11 22 7 20 3 14 2 20 7 21 23 20 20 7 5 22 11 17 16 2 3 16 6 2 3 16 2 3 5 22 23 3 14 2 10 7 20 7 3 8 22 7 20 2 11 16 2 25 10 11 5 10 2 8 23 22 23 20 7 2 21 22 3 22 7 2 21 10 3 14 14 2 4 7 2 20 7 5 17 9 16 11 28 7 6 2 7 24 7 20 27 2 21 3 16 5 22 11 8 11 7 6 2 3 16 6 2 3 23 22 10 17 20 11 28 7 6 2 20 7 14 3 22 11 17 16 21 10 11 18 2 7 26 11 21 22 11 16 9 2 10 7 20 7 2 17 16 2 7 3 20 22 10 2 17 8 2 18 3 20 7 16 22 2 3 16 6 2 5 10 11 14 6 2 4 20 17 22 10 7 20 2 3 16 6 2 21 11 21 22 7 20 2 10 23 21 4 3 16 6 2 3 16 6 2 25 11 8 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "4077-13754-0008": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> IT HAS BEEN MY PRIVLAGE TO TRED THE SOILE OF MANY LANDS TO ABSERVE THE COUSTUMNS AND STUDY THE HABITS OF MOR NATIONS THAND ON AND I HAVE YEAT TO FIND THE PLACS AND MEAT THE PEOPLE WHER AND WITH WHOM THE PURITY OF MAN AND WOMIEN IS HELD MORE PRESSIOUS THAND AMONG THE MALLINED MORNMENTS IN THE MOUNTOIN VALYS OF THE WESSTD<eos>",
+                    "rec_token": "<blank> <space> I T <space> H A S <space> B E E N <space> M Y <space> P R I V L A G E <space> T O <space> T R E D <space> T H E <space> S O I L E <space> O F <space> M A N Y <space> L A N D S <space> T O <space> A B S E R V E <space> T H E <space> C O U S T U M N S <space> A N D <space> S T U D Y <space> T H E <space> H A B I T S <space> O F <space> M O R <space> N A T I O N S <space> T H A N D <space> O N <space> A N D <space> I <space> H A V E <space> Y E A T <space> T O <space> F I N D <space> T H E <space> P L A C S <space> A N D <space> M E A T <space> T H E <space> P E O P L E <space> W H E R <space> A N D <space> W I T H <space> W H O M <space> T H E <space> P U R I T Y <space> O F <space> M A N <space> A N D <space> W O M I E N <space> I S <space> H E L D <space> M O R E <space> P R E S S I O U S <space> T H A N D <space> A M O N G <space> T H E <space> M A L L I N E D <space> M O R N M E N T S <space> I N <space> T H E <space> M O U N T O I N <space> V A L Y S <space> O F <space> T H E <space> W E S S T D <eos>",
+                    "rec_tokenid": "0 2 11 22 2 10 3 21 2 4 7 7 16 2 15 27 2 18 20 11 24 14 3 9 7 2 22 17 2 22 20 7 6 2 22 10 7 2 21 17 11 14 7 2 17 8 2 15 3 16 27 2 14 3 16 6 21 2 22 17 2 3 4 21 7 20 24 7 2 22 10 7 2 5 17 23 21 22 23 15 16 21 2 3 16 6 2 21 22 23 6 27 2 22 10 7 2 10 3 4 11 22 21 2 17 8 2 15 17 20 2 16 3 22 11 17 16 21 2 22 10 3 16 6 2 17 16 2 3 16 6 2 11 2 10 3 24 7 2 27 7 3 22 2 22 17 2 8 11 16 6 2 22 10 7 2 18 14 3 5 21 2 3 16 6 2 15 7 3 22 2 22 10 7 2 18 7 17 18 14 7 2 25 10 7 20 2 3 16 6 2 25 11 22 10 2 25 10 17 15 2 22 10 7 2 18 23 20 11 22 27 2 17 8 2 15 3 16 2 3 16 6 2 25 17 15 11 7 16 2 11 21 2 10 7 14 6 2 15 17 20 7 2 18 20 7 21 21 11 17 23 21 2 22 10 3 16 6 2 3 15 17 16 9 2 22 10 7 2 15 3 14 14 11 16 7 6 2 15 17 20 16 15 7 16 22 21 2 11 16 2 22 10 7 2 15 17 23 16 22 17 11 16 2 24 3 14 27 21 2 17 8 2 22 10 7 2 25 7 21 21 22 6 29",
+                    "score": 310.35540771484375,
+                    "shape": [
+                        316,
+                        30
+                    ],
+                    "text": "IT HAS BEEN MY PRIVILEGE TO TREAD THE SOIL OF MANY LANDS TO OBSERVE THE CUSTOMS AND STUDY THE HABITS OF MORE NATIONS THAN ONE AND I HAVE YET TO FIND THE PLACE AND MEET THE PEOPLE WHERE AND WITH WHOM THE PURITY OF MAN AND WOMAN IS HELD MORE PRECIOUS THAN AMONG THE MALIGNED MORMONS IN THE MOUNTAIN VALLEYS OF THE WEST",
+                    "token": "I T <space> H A S <space> B E E N <space> M Y <space> P R I V I L E G E <space> T O <space> T R E A D <space> T H E <space> S O I L <space> O F <space> M A N Y <space> L A N D S <space> T O <space> O B S E R V E <space> T H E <space> C U S T O M S <space> A N D <space> S T U D Y <space> T H E <space> H A B I T S <space> O F <space> M O R E <space> N A T I O N S <space> T H A N <space> O N E <space> A N D <space> I <space> H A V E <space> Y E T <space> T O <space> F I N D <space> T H E <space> P L A C E <space> A N D <space> M E E T <space> T H E <space> P E O P L E <space> W H E R E <space> A N D <space> W I T H <space> W H O M <space> T H E <space> P U R I T Y <space> O F <space> M A N <space> A N D <space> W O M A N <space> I S <space> H E L D <space> M O R E <space> P R E C I O U S <space> T H A N <space> A M O N G <space> T H E <space> M A L I G N E D <space> M O R M O N S <space> I N <space> T H E <space> M O U N T A I N <space> V A L L E Y S <space> O F <space> T H E <space> W E S T",
+                    "tokenid": "11 22 2 10 3 21 2 4 7 7 16 2 15 27 2 18 20 11 24 11 14 7 9 7 2 22 17 2 22 20 7 3 6 2 22 10 7 2 21 17 11 14 2 17 8 2 15 3 16 27 2 14 3 16 6 21 2 22 17 2 17 4 21 7 20 24 7 2 22 10 7 2 5 23 21 22 17 15 21 2 3 16 6 2 21 22 23 6 27 2 22 10 7 2 10 3 4 11 22 21 2 17 8 2 15 17 20 7 2 16 3 22 11 17 16 21 2 22 10 3 16 2 17 16 7 2 3 16 6 2 11 2 10 3 24 7 2 27 7 22 2 22 17 2 8 11 16 6 2 22 10 7 2 18 14 3 5 7 2 3 16 6 2 15 7 7 22 2 22 10 7 2 18 7 17 18 14 7 2 25 10 7 20 7 2 3 16 6 2 25 11 22 10 2 25 10 17 15 2 22 10 7 2 18 23 20 11 22 27 2 17 8 2 15 3 16 2 3 16 6 2 25 17 15 3 16 2 11 21 2 10 7 14 6 2 15 17 20 7 2 18 20 7 5 11 17 23 21 2 22 10 3 16 2 3 15 17 16 9 2 22 10 7 2 15 3 14 11 9 16 7 6 2 15 17 20 15 17 16 21 2 11 16 2 22 10 7 2 15 17 23 16 22 3 11 16 2 24 3 14 14 7 27 21 2 17 8 2 22 10 7 2 25 7 21 22"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "4077-13754-0009": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> AT THE INSEPSION OF PURL MARRIAGE AMONG THE LATER DAYS SAINTS THER WAS NO LAW NATIONAL OR STAT AGAINST ITS PRACTISS<eos>",
+                    "rec_token": "<blank> <space> A T <space> T H E <space> I N S E P S I O N <space> O F <space> P U R L <space> M A R R I A G E <space> A M O N G <space> T H E <space> L A T E R <space> D A Y S <space> S A I N T S <space> T H E R <space> W A S <space> N O <space> L A W <space> N A T I O N A L <space> O R <space> S T A T <space> A G A I N S T <space> I T S <space> P R A C T I S S <eos>",
+                    "rec_tokenid": "0 2 3 22 2 22 10 7 2 11 16 21 7 18 21 11 17 16 2 17 8 2 18 23 20 14 2 15 3 20 20 11 3 9 7 2 3 15 17 16 9 2 22 10 7 2 14 3 22 7 20 2 6 3 27 21 2 21 3 11 16 22 21 2 22 10 7 20 2 25 3 21 2 16 17 2 14 3 25 2 16 3 22 11 17 16 3 14 2 17 20 2 21 22 3 22 2 3 9 3 11 16 21 22 2 11 22 21 2 18 20 3 5 22 11 21 21 29",
+                    "score": 113.07782745361328,
+                    "shape": [
+                        119,
+                        30
+                    ],
+                    "text": "AT THE INCEPTION OF PLURAL MARRIAGE AMONG THE LATTER DAY SAINTS THERE WAS NO LAW NATIONAL OR STATE AGAINST ITS PRACTISE",
+                    "token": "A T <space> T H E <space> I N C E P T I O N <space> O F <space> P L U R A L <space> M A R R I A G E <space> A M O N G <space> T H E <space> L A T T E R <space> D A Y <space> S A I N T S <space> T H E R E <space> W A S <space> N O <space> L A W <space> N A T I O N A L <space> O R <space> S T A T E <space> A G A I N S T <space> I T S <space> P R A C T I S E",
+                    "tokenid": "3 22 2 22 10 7 2 11 16 5 7 18 22 11 17 16 2 17 8 2 18 14 23 20 3 14 2 15 3 20 20 11 3 9 7 2 3 15 17 16 9 2 22 10 7 2 14 3 22 22 7 20 2 6 3 27 2 21 3 11 16 22 21 2 22 10 7 20 7 2 25 3 21 2 16 17 2 14 3 25 2 16 3 22 11 17 16 3 14 2 17 20 2 21 22 3 22 7 2 3 9 3 11 16 21 22 2 11 22 21 2 18 20 3 5 22 11 21 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "4077-13754-0010": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> IN ATTEEN SIXTY TO A LAW WAS INACTED WITH THE PERPOS OF SOPRESSING PLORAL MARRIAGE AND AS HAD BEEN PREDICTED IN THE NATIONAL SENET PRIIER TO ITS PASSAGE IT LAY FOR MANY YEARS A DAD LETTER<eos>",
+                    "rec_token": "<blank> <space> I N <space> A T T E E N <space> S I X T Y <space> T O <space> A <space> L A W <space> W A S <space> I N A C T E D <space> W I T H <space> T H E <space> P E R P O S <space> O F <space> S O P R E S S I N G <space> P L O R A L <space> M A R R I A G E <space> A N D <space> A S <space> H A D <space> B E E N <space> P R E D I C T E D <space> I N <space> T H E <space> N A T I O N A L <space> S E N E T <space> P R I I E R <space> T O <space> I T S <space> P A S S A G E <space> I T <space> L A Y <space> F O R <space> M A N Y <space> Y E A R S <space> A <space> D A D <space> L E T T E R <eos>",
+                    "rec_tokenid": "0 2 11 16 2 3 22 22 7 7 16 2 21 11 26 22 27 2 22 17 2 3 2 14 3 25 2 25 3 21 2 11 16 3 5 22 7 6 2 25 11 22 10 2 22 10 7 2 18 7 20 18 17 21 2 17 8 2 21 17 18 20 7 21 21 11 16 9 2 18 14 17 20 3 14 2 15 3 20 20 11 3 9 7 2 3 16 6 2 3 21 2 10 3 6 2 4 7 7 16 2 18 20 7 6 11 5 22 7 6 2 11 16 2 22 10 7 2 16 3 22 11 17 16 3 14 2 21 7 16 7 22 2 18 20 11 11 7 20 2 22 17 2 11 22 21 2 18 3 21 21 3 9 7 2 11 22 2 14 3 27 2 8 17 20 2 15 3 16 27 2 27 7 3 20 21 2 3 2 6 3 6 2 14 7 22 22 7 20 29",
+                    "score": 184.6631622314453,
+                    "shape": [
+                        193,
+                        30
+                    ],
+                    "text": "IN EIGHTEEN SIXTY TWO A LAW WAS ENACTED WITH THE PURPOSE OF SUPPRESSING PLURAL MARRIAGE AND AS HAD BEEN PREDICTED IN THE NATIONAL SENATE PRIOR TO ITS PASSAGE IT LAY FOR MANY YEARS A DEAD LETTER",
+                    "token": "I N <space> E I G H T E E N <space> S I X T Y <space> T W O <space> A <space> L A W <space> W A S <space> E N A C T E D <space> W I T H <space> T H E <space> P U R P O S E <space> O F <space> S U P P R E S S I N G <space> P L U R A L <space> M A R R I A G E <space> A N D <space> A S <space> H A D <space> B E E N <space> P R E D I C T E D <space> I N <space> T H E <space> N A T I O N A L <space> S E N A T E <space> P R I O R <space> T O <space> I T S <space> P A S S A G E <space> I T <space> L A Y <space> F O R <space> M A N Y <space> Y E A R S <space> A <space> D E A D <space> L E T T E R",
+                    "tokenid": "11 16 2 7 11 9 10 22 7 7 16 2 21 11 26 22 27 2 22 25 17 2 3 2 14 3 25 2 25 3 21 2 7 16 3 5 22 7 6 2 25 11 22 10 2 22 10 7 2 18 23 20 18 17 21 7 2 17 8 2 21 23 18 18 20 7 21 21 11 16 9 2 18 14 23 20 3 14 2 15 3 20 20 11 3 9 7 2 3 16 6 2 3 21 2 10 3 6 2 4 7 7 16 2 18 20 7 6 11 5 22 7 6 2 11 16 2 22 10 7 2 16 3 22 11 17 16 3 14 2 21 7 16 3 22 7 2 18 20 11 17 20 2 22 17 2 11 22 21 2 18 3 21 21 3 9 7 2 11 22 2 14 3 27 2 8 17 20 2 15 3 16 27 2 27 7 3 20 21 2 3 2 6 7 3 6 2 14 7 22 22 7 20"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "4077-13754-0011": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> FEDRAL GUDDGES AND UNITED STATS ATERNIYS IN NUTALW WHO WERE NOT MORMENTS NORE LOVERS OF MORMINNISOME REFEUSED TO ENTERE TAIN COMPLANTS OR PROSECUTE CACES UNDER THE LAW BECAUSE OF ITS MANIFESST IN GUSTISS AND INATIQUICY<eos>",
+                    "rec_token": "<blank> <space> F E D R A L <space> G U D D G E S <space> A N D <space> U N I T E D <space> S T A T S <space> A T E R N I Y S <space> I N <space> N U T A L W <space> W H O <space> W E R E <space> N O T <space> M O R M E N T S <space> N O R E <space> L O V E R S <space> O F <space> M O R M I N N I S O M E <space> R E F E U S E D <space> T O <space> E N T E R E <space> T A I N <space> C O M P L A N T S <space> O R <space> P R O S E C U T E <space> C A C E S <space> U N D E R <space> T H E <space> L A W <space> B E C A U S E <space> O F <space> I T S <space> M A N I F E S S T <space> I N <space> G U S T I S S <space> A N D <space> I N A T I Q U I C Y <eos>",
+                    "rec_tokenid": "0 2 8 7 6 20 3 14 2 9 23 6 6 9 7 21 2 3 16 6 2 23 16 11 22 7 6 2 21 22 3 22 21 2 3 22 7 20 16 11 27 21 2 11 16 2 16 23 22 3 14 25 2 25 10 17 2 25 7 20 7 2 16 17 22 2 15 17 20 15 7 16 22 21 2 16 17 20 7 2 14 17 24 7 20 21 2 17 8 2 15 17 20 15 11 16 16 11 21 17 15 7 2 20 7 8 7 23 21 7 6 2 22 17 2 7 16 22 7 20 7 2 22 3 11 16 2 5 17 15 18 14 3 16 22 21 2 17 20 2 18 20 17 21 7 5 23 22 7 2 5 3 5 7 21 2 23 16 6 7 20 2 22 10 7 2 14 3 25 2 4 7 5 3 23 21 7 2 17 8 2 11 22 21 2 15 3 16 11 8 7 21 21 22 2 11 16 2 9 23 21 22 11 21 21 2 3 16 6 2 11 16 3 22 11 19 23 11 5 27 29",
+                    "score": 209.5513153076172,
+                    "shape": [
+                        209,
+                        30
+                    ],
+                    "text": "FEDERAL JUDGES AND UNITED STATES ATTORNEYS IN UTAH WHO WERE NOT MORMONS NOR LOVERS OF MORMONISM REFUSED TO ENTERTAIN COMPLAINTS OR PROSECUTE CASES UNDER THE LAW BECAUSE OF ITS MANIFEST INJUSTICE AND INADEQUACY",
+                    "token": "F E D E R A L <space> J U D G E S <space> A N D <space> U N I T E D <space> S T A T E S <space> A T T O R N E Y S <space> I N <space> U T A H <space> W H O <space> W E R E <space> N O T <space> M O R M O N S <space> N O R <space> L O V E R S <space> O F <space> M O R M O N I S M <space> R E F U S E D <space> T O <space> E N T E R T A I N <space> C O M P L A I N T S <space> O R <space> P R O S E C U T E <space> C A S E S <space> U N D E R <space> T H E <space> L A W <space> B E C A U S E <space> O F <space> I T S <space> M A N I F E S T <space> I N J U S T I C E <space> A N D <space> I N A D E Q U A C Y",
+                    "tokenid": "8 7 6 7 20 3 14 2 12 23 6 9 7 21 2 3 16 6 2 23 16 11 22 7 6 2 21 22 3 22 7 21 2 3 22 22 17 20 16 7 27 21 2 11 16 2 23 22 3 10 2 25 10 17 2 25 7 20 7 2 16 17 22 2 15 17 20 15 17 16 21 2 16 17 20 2 14 17 24 7 20 21 2 17 8 2 15 17 20 15 17 16 11 21 15 2 20 7 8 23 21 7 6 2 22 17 2 7 16 22 7 20 22 3 11 16 2 5 17 15 18 14 3 11 16 22 21 2 17 20 2 18 20 17 21 7 5 23 22 7 2 5 3 21 7 21 2 23 16 6 7 20 2 22 10 7 2 14 3 25 2 4 7 5 3 23 21 7 2 17 8 2 11 22 21 2 15 3 16 11 8 7 21 22 2 11 16 12 23 21 22 11 5 7 2 3 16 6 2 11 16 3 6 7 19 23 3 5 27"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "4077-13754-0012": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>A THIS MENT THAT FOR AN ALEDGED MISTDIMENER FOR WHICH CONGRS PROSCRIBED A MACXCIMAME PENALTY OF SIX MONTHS IMPRISINMENT AND A FINE OF THREY HUNDRAD DOLLERS A MAN MIT BE INPRISIND FOR LIFE IY FOR MANY TERMS OF A MAN<unk>S NATRAL LIFE DID THE COURTS POWR TO EANFOURS ITS SENTENCSEIS EXTEND SO FAR AND MITE BE FINED MILLIONS OF DOLLERS<eos>",
+                    "rec_token": "<blank> A <space> T H I S <space> M E N T <space> T H A T <space> F O R <space> A N <space> A L E D G E D <space> M I S T D I M E N E R <space> F O R <space> W H I C H <space> C O N G R S <space> P R O S C R I B E D <space> A <space> M A C X C I M A M E <space> P E N A L T Y <space> O F <space> S I X <space> M O N T H S <space> I M P R I S I N M E N T <space> A N D <space> A <space> F I N E <space> O F <space> T H R E Y <space> H U N D R A D <space> D O L L E R S <space> A <space> M A N <space> M I T <space> B E <space> I N P R I S I N D <space> F O R <space> L I F E <space> I Y <space> F O R <space> M A N Y <space> T E R M S <space> O F <space> A <space> M A N <unk> S <space> N A T R A L <space> L I F E <space> D I D <space> T H E <space> C O U R T S <space> P O W R <space> T O <space> E A N F O U R S <space> I T S <space> S E N T E N C S E I S <space> E X T E N D <space> S O <space> F A R <space> A N D <space> M I T E <space> B E <space> F I N E D <space> M I L L I O N S <space> O F <space> D O L L E R S <eos>",
+                    "rec_tokenid": "0 3 2 22 10 11 21 2 15 7 16 22 2 22 10 3 22 2 8 17 20 2 3 16 2 3 14 7 6 9 7 6 2 15 11 21 22 6 11 15 7 16 7 20 2 8 17 20 2 25 10 11 5 10 2 5 17 16 9 20 21 2 18 20 17 21 5 20 11 4 7 6 2 3 2 15 3 5 26 5 11 15 3 15 7 2 18 7 16 3 14 22 27 2 17 8 2 21 11 26 2 15 17 16 22 10 21 2 11 15 18 20 11 21 11 16 15 7 16 22 2 3 16 6 2 3 2 8 11 16 7 2 17 8 2 22 10 20 7 27 2 10 23 16 6 20 3 6 2 6 17 14 14 7 20 21 2 3 2 15 3 16 2 15 11 22 2 4 7 2 11 16 18 20 11 21 11 16 6 2 8 17 20 2 14 11 8 7 2 11 27 2 8 17 20 2 15 3 16 27 2 22 7 20 15 21 2 17 8 2 3 2 15 3 16 1 21 2 16 3 22 20 3 14 2 14 11 8 7 2 6 11 6 2 22 10 7 2 5 17 23 20 22 21 2 18 17 25 20 2 22 17 2 7 3 16 8 17 23 20 21 2 11 22 21 2 21 7 16 22 7 16 5 21 7 11 21 2 7 26 22 7 16 6 2 21 17 2 8 3 20 2 3 16 6 2 15 11 22 7 2 4 7 2 8 11 16 7 6 2 15 11 14 14 11 17 16 21 2 17 8 2 6 17 14 14 7 20 21 29",
+                    "score": 314.2786560058594,
+                    "shape": [
+                        331,
+                        30
+                    ],
+                    "text": "THIS MEANT THAT FOR AN ALLEGED MISDEMEANOR FOR WHICH CONGRESS PRESCRIBED A MAXIMUM PENALTY OF SIX MONTHS IMPRISONMENT AND A FINE OF THREE HUNDRED DOLLARS A MAN MIGHT BE IMPRISONED FOR LIFE AYE FOR MANY TERMS OF A MAN'S NATURAL LIFE DID THE COURT'S POWER TO ENFORCE ITS SENTENCES EXTEND SO FAR AND MIGHT BE FINED MILLIONS OF DOLLARS",
+                    "token": "T H I S <space> M E A N T <space> T H A T <space> F O R <space> A N <space> A L L E G E D <space> M I S D E M E A N O R <space> F O R <space> W H I C H <space> C O N G R E S S <space> P R E S C R I B E D <space> A <space> M A X I M U M <space> P E N A L T Y <space> O F <space> S I X <space> M O N T H S <space> I M P R I S O N M E N T <space> A N D <space> A <space> F I N E <space> O F <space> T H R E E <space> H U N D R E D <space> D O L L A R S <space> A <space> M A N <space> M I G H T <space> B E <space> I M P R I S O N E D <space> F O R <space> L I F E <space> A Y E <space> F O R <space> M A N Y <space> T E R M S <space> O F <space> A <space> M A N <unk> S <space> N A T U R A L <space> L I F E <space> D I D <space> T H E <space> C O U R T <unk> S <space> P O W E R <space> T O <space> E N F O R C E <space> I T S <space> S E N T E N C E S <space> E X T E N D <space> S O <space> F A R <space> A N D <space> M I G H T <space> B E <space> F I N E D <space> M I L L I O N S <space> O F <space> D O L L A R S",
+                    "tokenid": "22 10 11 21 2 15 7 3 16 22 2 22 10 3 22 2 8 17 20 2 3 16 2 3 14 14 7 9 7 6 2 15 11 21 6 7 15 7 3 16 17 20 2 8 17 20 2 25 10 11 5 10 2 5 17 16 9 20 7 21 21 2 18 20 7 21 5 20 11 4 7 6 2 3 2 15 3 26 11 15 23 15 2 18 7 16 3 14 22 27 2 17 8 2 21 11 26 2 15 17 16 22 10 21 2 11 15 18 20 11 21 17 16 15 7 16 22 2 3 16 6 2 3 2 8 11 16 7 2 17 8 2 22 10 20 7 7 2 10 23 16 6 20 7 6 2 6 17 14 14 3 20 21 2 3 2 15 3 16 2 15 11 9 10 22 2 4 7 2 11 15 18 20 11 21 17 16 7 6 2 8 17 20 2 14 11 8 7 2 3 27 7 2 8 17 20 2 15 3 16 27 2 22 7 20 15 21 2 17 8 2 3 2 15 3 16 1 21 2 16 3 22 23 20 3 14 2 14 11 8 7 2 6 11 6 2 22 10 7 2 5 17 23 20 22 1 21 2 18 17 25 7 20 2 22 17 2 7 16 8 17 20 5 7 2 11 22 21 2 21 7 16 22 7 16 5 7 21 2 7 26 22 7 16 6 2 21 17 2 8 3 20 2 3 16 6 2 15 11 9 10 22 2 4 7 2 8 11 16 7 6 2 15 11 14 14 11 17 16 21 2 17 8 2 6 17 14 14 3 20 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "4077-13754-0013": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> BEFORE THIS TRAVISTEY ON THE AD MINISTRATION OF LAW COUD BE BROUGHT BEFORE THE COURT OF LAST RESORT AND THEIR MET WITH THE REVERSAL AND REBEUOK IT DESERVED MEN WER EMPRISEND UNDER SENTINTS OF MANY YEARS DRATION<eos>",
+                    "rec_token": "<blank> <space> B E F O R E <space> T H I S <space> T R A V I S T E Y <space> O N <space> T H E <space> A D <space> M I N I S T R A T I O N <space> O F <space> L A W <space> C O U D <space> B E <space> B R O U G H T <space> B E F O R E <space> T H E <space> C O U R T <space> O F <space> L A S T <space> R E S O R T <space> A N D <space> T H E I R <space> M E T <space> W I T H <space> T H E <space> R E V E R S A L <space> A N D <space> R E B E U O K <space> I T <space> D E S E R V E D <space> M E N <space> W E R <space> E M P R I S E N D <space> U N D E R <space> S E N T I N T S <space> O F <space> M A N Y <space> Y E A R S <space> D R A T I O N <eos>",
+                    "rec_tokenid": "0 2 4 7 8 17 20 7 2 22 10 11 21 2 22 20 3 24 11 21 22 7 27 2 17 16 2 22 10 7 2 3 6 2 15 11 16 11 21 22 20 3 22 11 17 16 2 17 8 2 14 3 25 2 5 17 23 6 2 4 7 2 4 20 17 23 9 10 22 2 4 7 8 17 20 7 2 22 10 7 2 5 17 23 20 22 2 17 8 2 14 3 21 22 2 20 7 21 17 20 22 2 3 16 6 2 22 10 7 11 20 2 15 7 22 2 25 11 22 10 2 22 10 7 2 20 7 24 7 20 21 3 14 2 3 16 6 2 20 7 4 7 23 17 13 2 11 22 2 6 7 21 7 20 24 7 6 2 15 7 16 2 25 7 20 2 7 15 18 20 11 21 7 16 6 2 23 16 6 7 20 2 21 7 16 22 11 16 22 21 2 17 8 2 15 3 16 27 2 27 7 3 20 21 2 6 20 3 22 11 17 16 29",
+                    "score": 202.99118041992188,
+                    "shape": [
+                        213,
+                        30
+                    ],
+                    "text": "BEFORE THIS TRAVESTY ON THE ADMINISTRATION OF LAW COULD BE BROUGHT BEFORE THE COURT OF LAST RESORT AND THERE MEET WITH THE REVERSAL AND REBUKE IT DESERVED MEN WERE IMPRISONED UNDER SENTENCES OF MANY YEARS DURATION",
+                    "token": "B E F O R E <space> T H I S <space> T R A V E S T Y <space> O N <space> T H E <space> A D M I N I S T R A T I O N <space> O F <space> L A W <space> C O U L D <space> B E <space> B R O U G H T <space> B E F O R E <space> T H E <space> C O U R T <space> O F <space> L A S T <space> R E S O R T <space> A N D <space> T H E R E <space> M E E T <space> W I T H <space> T H E <space> R E V E R S A L <space> A N D <space> R E B U K E <space> I T <space> D E S E R V E D <space> M E N <space> W E R E <space> I M P R I S O N E D <space> U N D E R <space> S E N T E N C E S <space> O F <space> M A N Y <space> Y E A R S <space> D U R A T I O N",
+                    "tokenid": "4 7 8 17 20 7 2 22 10 11 21 2 22 20 3 24 7 21 22 27 2 17 16 2 22 10 7 2 3 6 15 11 16 11 21 22 20 3 22 11 17 16 2 17 8 2 14 3 25 2 5 17 23 14 6 2 4 7 2 4 20 17 23 9 10 22 2 4 7 8 17 20 7 2 22 10 7 2 5 17 23 20 22 2 17 8 2 14 3 21 22 2 20 7 21 17 20 22 2 3 16 6 2 22 10 7 20 7 2 15 7 7 22 2 25 11 22 10 2 22 10 7 2 20 7 24 7 20 21 3 14 2 3 16 6 2 20 7 4 23 13 7 2 11 22 2 6 7 21 7 20 24 7 6 2 15 7 16 2 25 7 20 7 2 11 15 18 20 11 21 17 16 7 6 2 23 16 6 7 20 2 21 7 16 22 7 16 5 7 21 2 17 8 2 15 3 16 27 2 27 7 3 20 21 2 6 23 20 3 22 11 17 16"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "4077-13754-0014": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THE PEOPLE CONTESTED THESE MEASURS ONE BY ONE AN THE COURTCS PRIESENTING IN CACE AFTER CACE THE DIFRINT FASES OF THE SUBJECT AND ERGING THE UN CONSTITUTINALITY OF THE MEASUR<eos>",
+                    "rec_token": "<blank> <space> T H E <space> P E O P L E <space> C O N T E S T E D <space> T H E S E <space> M E A S U R S <space> O N E <space> B Y <space> O N E <space> A N <space> T H E <space> C O U R T C S <space> P R I E S E N T I N G <space> I N <space> C A C E <space> A F T E R <space> C A C E <space> T H E <space> D I F R I N T <space> F A S E S <space> O F <space> T H E <space> S U B J E C T <space> A N D <space> E R G I N G <space> T H E <space> U N <space> C O N S T I T U T I N A L I T Y <space> O F <space> T H E <space> M E A S U R <eos>",
+                    "rec_tokenid": "0 2 22 10 7 2 18 7 17 18 14 7 2 5 17 16 22 7 21 22 7 6 2 22 10 7 21 7 2 15 7 3 21 23 20 21 2 17 16 7 2 4 27 2 17 16 7 2 3 16 2 22 10 7 2 5 17 23 20 22 5 21 2 18 20 11 7 21 7 16 22 11 16 9 2 11 16 2 5 3 5 7 2 3 8 22 7 20 2 5 3 5 7 2 22 10 7 2 6 11 8 20 11 16 22 2 8 3 21 7 21 2 17 8 2 22 10 7 2 21 23 4 12 7 5 22 2 3 16 6 2 7 20 9 11 16 9 2 22 10 7 2 23 16 2 5 17 16 21 22 11 22 23 22 11 16 3 14 11 22 27 2 17 8 2 22 10 7 2 15 7 3 21 23 20 29",
+                    "score": 169.81602478027344,
+                    "shape": [
+                        176,
+                        30
+                    ],
+                    "text": "THE PEOPLE CONTESTED THESE MEASURES ONE BY ONE IN THE COURTS PRESENTING IN CASE AFTER CASE THE DIFFERENT PHASES OF THE SUBJECT AND URGING THE UNCONSTITUTIONALITY OF THE MEASURE",
+                    "token": "T H E <space> P E O P L E <space> C O N T E S T E D <space> T H E S E <space> M E A S U R E S <space> O N E <space> B Y <space> O N E <space> I N <space> T H E <space> C O U R T S <space> P R E S E N T I N G <space> I N <space> C A S E <space> A F T E R <space> C A S E <space> T H E <space> D I F F E R E N T <space> P H A S E S <space> O F <space> T H E <space> S U B J E C T <space> A N D <space> U R G I N G <space> T H E <space> U N C O N S T I T U T I O N A L I T Y <space> O F <space> T H E <space> M E A S U R E",
+                    "tokenid": "22 10 7 2 18 7 17 18 14 7 2 5 17 16 22 7 21 22 7 6 2 22 10 7 21 7 2 15 7 3 21 23 20 7 21 2 17 16 7 2 4 27 2 17 16 7 2 11 16 2 22 10 7 2 5 17 23 20 22 21 2 18 20 7 21 7 16 22 11 16 9 2 11 16 2 5 3 21 7 2 3 8 22 7 20 2 5 3 21 7 2 22 10 7 2 6 11 8 8 7 20 7 16 22 2 18 10 3 21 7 21 2 17 8 2 22 10 7 2 21 23 4 12 7 5 22 2 3 16 6 2 23 20 9 11 16 9 2 22 10 7 2 23 16 5 17 16 21 22 11 22 23 22 11 17 16 3 14 11 22 27 2 17 8 2 22 10 7 2 15 7 3 21 23 20 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "4077-13754-0015": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>E THEN THE CHERCH WAS DIS INCORPARATED AND ITS PROPERTY BOTH REAL AND PERSINAL CONFISCATED ANDISSHIOATED TO THE GOUVERNMENT OF THE OUNITED STATS AND AL THOUGH THE PERSINAL PROPERTY WAS SOON RESTORED REL ISTATE OF GRATE VALYUW LONG LAY IN THE HANDS OF THE COURTS RECEIVER AND THE MORMEN CHERCH HAD TO PAY THE NATIONAL GOUVERNMENT HIY RENTELE ON ITS OWN PROPERTY<eos>",
+                    "rec_token": "<blank> E <space> T H E N <space> T H E <space> C H E R C H <space> W A S <space> D I S <space> I N C O R P A R A T E D <space> A N D <space> I T S <space> P R O P E R T Y <space> B O T H <space> R E A L <space> A N D <space> P E R S I N A L <space> C O N F I S C A T E D <space> A N D I S S H I O A T E D <space> T O <space> T H E <space> G O U V E R N M E N T <space> O F <space> T H E <space> O U N I T E D <space> S T A T S <space> A N D <space> A L <space> T H O U G H <space> T H E <space> P E R S I N A L <space> P R O P E R T Y <space> W A S <space> S O O N <space> R E S T O R E D <space> R E L <space> I S T A T E <space> O F <space> G R A T E <space> V A L Y U W <space> L O N G <space> L A Y <space> I N <space> T H E <space> H A N D S <space> O F <space> T H E <space> C O U R T S <space> R E C E I V E R <space> A N D <space> T H E <space> M O R M E N <space> C H E R C H <space> H A D <space> T O <space> P A Y <space> T H E <space> N A T I O N A L <space> G O U V E R N M E N T <space> H I Y <space> R E N T E L E <space> O N <space> I T S <space> O W N <space> P R O P E R T Y <eos>",
+                    "rec_tokenid": "0 7 2 22 10 7 16 2 22 10 7 2 5 10 7 20 5 10 2 25 3 21 2 6 11 21 2 11 16 5 17 20 18 3 20 3 22 7 6 2 3 16 6 2 11 22 21 2 18 20 17 18 7 20 22 27 2 4 17 22 10 2 20 7 3 14 2 3 16 6 2 18 7 20 21 11 16 3 14 2 5 17 16 8 11 21 5 3 22 7 6 2 3 16 6 11 21 21 10 11 17 3 22 7 6 2 22 17 2 22 10 7 2 9 17 23 24 7 20 16 15 7 16 22 2 17 8 2 22 10 7 2 17 23 16 11 22 7 6 2 21 22 3 22 21 2 3 16 6 2 3 14 2 22 10 17 23 9 10 2 22 10 7 2 18 7 20 21 11 16 3 14 2 18 20 17 18 7 20 22 27 2 25 3 21 2 21 17 17 16 2 20 7 21 22 17 20 7 6 2 20 7 14 2 11 21 22 3 22 7 2 17 8 2 9 20 3 22 7 2 24 3 14 27 23 25 2 14 17 16 9 2 14 3 27 2 11 16 2 22 10 7 2 10 3 16 6 21 2 17 8 2 22 10 7 2 5 17 23 20 22 21 2 20 7 5 7 11 24 7 20 2 3 16 6 2 22 10 7 2 15 17 20 15 7 16 2 5 10 7 20 5 10 2 10 3 6 2 22 17 2 18 3 27 2 22 10 7 2 16 3 22 11 17 16 3 14 2 9 17 23 24 7 20 16 15 7 16 22 2 10 11 27 2 20 7 16 22 7 14 7 2 17 16 2 11 22 21 2 17 25 16 2 18 20 17 18 7 20 22 27 29",
+                    "score": 346.0316162109375,
+                    "shape": [
+                        355,
+                        30
+                    ],
+                    "text": "THEN THE CHURCH WAS DISINCORPORATED AND ITS PROPERTY BOTH REAL AND PERSONAL CONFISCATED AND ESCHEATED TO THE GOVERNMENT OF THE UNITED STATES AND ALTHOUGH THE PERSONAL PROPERTY WAS SOON RESTORED REAL ESTATE OF GREAT VALUE LONG LAY IN THE HANDS OF THE COURT'S RECEIVER AND THE MORMON CHURCH HAD TO PAY THE NATIONAL GOVERNMENT HIGH RENTAL ON ITS OWN PROPERTY",
+                    "token": "T H E N <space> T H E <space> C H U R C H <space> W A S <space> D I S I N C O R P O R A T E D <space> A N D <space> I T S <space> P R O P E R T Y <space> B O T H <space> R E A L <space> A N D <space> P E R S O N A L <space> C O N F I S C A T E D <space> A N D <space> E S C H E A T E D <space> T O <space> T H E <space> G O V E R N M E N T <space> O F <space> T H E <space> U N I T E D <space> S T A T E S <space> A N D <space> A L T H O U G H <space> T H E <space> P E R S O N A L <space> P R O P E R T Y <space> W A S <space> S O O N <space> R E S T O R E D <space> R E A L <space> E S T A T E <space> O F <space> G R E A T <space> V A L U E <space> L O N G <space> L A Y <space> I N <space> T H E <space> H A N D S <space> O F <space> T H E <space> C O U R T <unk> S <space> R E C E I V E R <space> A N D <space> T H E <space> M O R M O N <space> C H U R C H <space> H A D <space> T O <space> P A Y <space> T H E <space> N A T I O N A L <space> G O V E R N M E N T <space> H I G H <space> R E N T A L <space> O N <space> I T S <space> O W N <space> P R O P E R T Y",
+                    "tokenid": "22 10 7 16 2 22 10 7 2 5 10 23 20 5 10 2 25 3 21 2 6 11 21 11 16 5 17 20 18 17 20 3 22 7 6 2 3 16 6 2 11 22 21 2 18 20 17 18 7 20 22 27 2 4 17 22 10 2 20 7 3 14 2 3 16 6 2 18 7 20 21 17 16 3 14 2 5 17 16 8 11 21 5 3 22 7 6 2 3 16 6 2 7 21 5 10 7 3 22 7 6 2 22 17 2 22 10 7 2 9 17 24 7 20 16 15 7 16 22 2 17 8 2 22 10 7 2 23 16 11 22 7 6 2 21 22 3 22 7 21 2 3 16 6 2 3 14 22 10 17 23 9 10 2 22 10 7 2 18 7 20 21 17 16 3 14 2 18 20 17 18 7 20 22 27 2 25 3 21 2 21 17 17 16 2 20 7 21 22 17 20 7 6 2 20 7 3 14 2 7 21 22 3 22 7 2 17 8 2 9 20 7 3 22 2 24 3 14 23 7 2 14 17 16 9 2 14 3 27 2 11 16 2 22 10 7 2 10 3 16 6 21 2 17 8 2 22 10 7 2 5 17 23 20 22 1 21 2 20 7 5 7 11 24 7 20 2 3 16 6 2 22 10 7 2 15 17 20 15 17 16 2 5 10 23 20 5 10 2 10 3 6 2 22 17 2 18 3 27 2 22 10 7 2 16 3 22 11 17 16 3 14 2 9 17 24 7 20 16 15 7 16 22 2 10 11 9 10 2 20 7 16 22 3 14 2 17 16 2 11 22 21 2 17 25 16 2 18 20 17 18 7 20 22 27"
+                }
+            ],
+            "utt2spk": ""
+        }
+    }
+}

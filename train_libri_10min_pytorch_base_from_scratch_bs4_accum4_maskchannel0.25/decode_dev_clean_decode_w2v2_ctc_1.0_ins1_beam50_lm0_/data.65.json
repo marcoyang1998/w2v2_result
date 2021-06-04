@@ -1,0 +1,517 @@
+{
+    "utts": {
+        "5694-64038-0012": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THE POORE FELLOWS STAID N NAT WELL ALL NITE<eos>",
+                    "rec_token": "<blank> <space> T H E <space> P O O R E <space> F E L L O W S <space> S T A I D <space> N <space> N A T <space> W E L L <space> A L L <space> N I T E <eos>",
+                    "rec_tokenid": "0 2 22 10 7 2 18 17 17 20 7 2 8 7 14 14 17 25 21 2 21 22 3 11 6 2 16 2 16 3 22 2 25 7 14 14 2 3 14 14 2 16 11 22 7 29",
+                    "score": 41.15605926513672,
+                    "shape": [
+                        45,
+                        30
+                    ],
+                    "text": "THE POOR FELLOW STAYED IN THAT WELL ALL NIGHT",
+                    "token": "T H E <space> P O O R <space> F E L L O W <space> S T A Y E D <space> I N <space> T H A T <space> W E L L <space> A L L <space> N I G H T",
+                    "tokenid": "22 10 7 2 18 17 17 20 2 8 7 14 14 17 25 2 21 22 3 27 7 6 2 11 16 2 22 10 3 22 2 25 7 14 14 2 3 14 14 2 16 11 9 10 22"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5694-64038-0013": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> WE LOOKED ALL AROUND AND THOUGHT THAT THE COST WAS CLEAER<eos>",
+                    "rec_token": "<blank> <space> W E <space> L O O K E D <space> A L L <space> A R O U N D <space> A N D <space> T H O U G H T <space> T H A T <space> T H E <space> C O S T <space> W A S <space> C L E A E R <eos>",
+                    "rec_tokenid": "0 2 25 7 2 14 17 17 13 7 6 2 3 14 14 2 3 20 17 23 16 6 2 3 16 6 2 22 10 17 23 9 10 22 2 22 10 3 22 2 22 10 7 2 5 17 21 22 2 25 3 21 2 5 14 7 3 7 20 29",
+                    "score": 57.688720703125,
+                    "shape": [
+                        57,
+                        30
+                    ],
+                    "text": "WE LOOKED ALL AROUND AND THOUGHT THAT THE COAST WAS CLEAR",
+                    "token": "W E <space> L O O K E D <space> A L L <space> A R O U N D <space> A N D <space> T H O U G H T <space> T H A T <space> T H E <space> C O A S T <space> W A S <space> C L E A R",
+                    "tokenid": "25 7 2 14 17 17 13 7 6 2 3 14 14 2 3 20 17 23 16 6 2 3 16 6 2 22 10 17 23 9 10 22 2 22 10 3 22 2 22 10 7 2 5 17 3 21 22 2 25 3 21 2 5 14 7 3 20"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5694-64038-0014": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>PIDONT THINK HIS GUN WAS LOTED THO BECASE WE DID NOT HEAR THE BALL WISAL<eos>",
+                    "rec_token": "<blank> P I D O N T <space> T H I N K <space> H I S <space> G U N <space> W A S <space> L O T E D <space> T H O <space> B E C A S E <space> W E <space> D I D <space> N O T <space> H E A R <space> T H E <space> B A L L <space> W I S A L <eos>",
+                    "rec_tokenid": "0 18 11 6 17 16 22 2 22 10 11 16 13 2 10 11 21 2 9 23 16 2 25 3 21 2 14 17 22 7 6 2 22 10 17 2 4 7 5 3 21 7 2 25 7 2 6 11 6 2 16 17 22 2 10 7 3 20 2 22 10 7 2 4 3 14 14 2 25 11 21 3 14 29",
+                    "score": 70.74740600585938,
+                    "shape": [
+                        80,
+                        30
+                    ],
+                    "text": "I DON'T THINK HIS GUN WAS LOADED THOUGH BECAUSE WE DID NOT HEAR THE BALL WHISTLE",
+                    "token": "I <space> D O N <unk> T <space> T H I N K <space> H I S <space> G U N <space> W A S <space> L O A D E D <space> T H O U G H <space> B E C A U S E <space> W E <space> D I D <space> N O T <space> H E A R <space> T H E <space> B A L L <space> W H I S T L E",
+                    "tokenid": "11 2 6 17 16 1 22 2 22 10 11 16 13 2 10 11 21 2 9 23 16 2 25 3 21 2 14 17 3 6 7 6 2 22 10 17 23 9 10 2 4 7 5 3 23 21 7 2 25 7 2 6 11 6 2 16 17 22 2 10 7 3 20 2 22 10 7 2 4 3 14 14 2 25 10 11 21 22 14 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5694-64038-0015": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> WHE WAKED OVER THIS FLOTING BRIEGE AND SOON FOUND ARSELLVES ON THE TENNISE SID OF TENNICIY RIVER<eos>",
+                    "rec_token": "<blank> <space> W H E <space> W A K E D <space> O V E R <space> T H I S <space> F L O T I N G <space> B R I E G E <space> A N D <space> S O O N <space> F O U N D <space> A R S E L L V E S <space> O N <space> T H E <space> T E N N I S E <space> S I D <space> O F <space> T E N N I C I Y <space> R I V E R <eos>",
+                    "rec_tokenid": "0 2 25 10 7 2 25 3 13 7 6 2 17 24 7 20 2 22 10 11 21 2 8 14 17 22 11 16 9 2 4 20 11 7 9 7 2 3 16 6 2 21 17 17 16 2 8 17 23 16 6 2 3 20 21 7 14 14 24 7 21 2 17 16 2 22 10 7 2 22 7 16 16 11 21 7 2 21 11 6 2 17 8 2 22 7 16 16 11 5 11 27 2 20 11 24 7 20 29",
+                    "score": 92.8801040649414,
+                    "shape": [
+                        101,
+                        30
+                    ],
+                    "text": "WE WALKED OVER THIS FLOATING BRIDGE AND SOON FOUND OURSELVES ON THE TENNESSEE SIDE OF TENNESSEE RIVER",
+                    "token": "W E <space> W A L K E D <space> O V E R <space> T H I S <space> F L O A T I N G <space> B R I D G E <space> A N D <space> S O O N <space> F O U N D <space> O U R S E L V E S <space> O N <space> T H E <space> T E N N E S S E E <space> S I D E <space> O F <space> T E N N E S S E E <space> R I V E R",
+                    "tokenid": "25 7 2 25 3 14 13 7 6 2 17 24 7 20 2 22 10 11 21 2 8 14 17 3 22 11 16 9 2 4 20 11 6 9 7 2 3 16 6 2 21 17 17 16 2 8 17 23 16 6 2 17 23 20 21 7 14 24 7 21 2 17 16 2 22 10 7 2 22 7 16 16 7 21 21 7 7 2 21 11 6 7 2 17 8 2 22 7 16 16 7 21 21 7 7 2 20 11 24 7 20"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5694-64038-0016": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>WUE HAD BEAF FOR SUPER THAT NIT<eos>",
+                    "rec_token": "<blank> <eos> W U E <space> H A D <space> B E A F <space> F O R <space> S U P E R <space> T H A T <space> N I T <eos>",
+                    "rec_tokenid": "0 29 25 23 7 2 10 3 6 2 4 7 3 8 2 8 17 20 2 21 23 18 7 20 2 22 10 3 22 2 16 11 22 29",
+                    "score": 513.3200073242188,
+                    "shape": [
+                        33,
+                        30
+                    ],
+                    "text": "WE HAD BEEF FOR SUPPER THAT NIGHT",
+                    "token": "W E <space> H A D <space> B E E F <space> F O R <space> S U P P E R <space> T H A T <space> N I G H T",
+                    "tokenid": "25 7 2 10 3 6 2 4 7 7 8 2 8 17 20 2 21 23 18 18 7 20 2 22 10 3 22 2 16 11 9 10 22"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5694-64038-0017": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>THOW EVERY POULS DID BEAET AND LEP AND HOW EVERY HART DID THRAB WITH MOTIONS OF GOY WHICH SEMED NEARLY A CIND HEVEN WHEN WE RECEVED THE GLAD ENTELLIGIEANCE OF AR ONWARD MARCH TOWARD THE LAND OF PROMIS AND OF AR LOVED ONES<eos>",
+                    "rec_token": "<blank> T H O W <space> E V E R Y <space> P O U L S <space> D I D <space> B E A E T <space> A N D <space> L E P <space> A N D <space> H O W <space> E V E R Y <space> H A R T <space> D I D <space> T H R A B <space> W I T H <space> M O T I O N S <space> O F <space> G O Y <space> W H I C H <space> S E M E D <space> N E A R L Y <space> A <space> C I N D <space> H E V E N <space> W H E N <space> W E <space> R E C E V E D <space> T H E <space> G L A D <space> E N T E L L I G I E A N C E <space> O F <space> A R <space> O N W A R D <space> M A R C H <space> T O W A R D <space> T H E <space> L A N D <space> O F <space> P R O M I S <space> A N D <space> O F <space> A R <space> L O V E D <space> O N E S <eos>",
+                    "rec_tokenid": "0 22 10 17 25 2 7 24 7 20 27 2 18 17 23 14 21 2 6 11 6 2 4 7 3 7 22 2 3 16 6 2 14 7 18 2 3 16 6 2 10 17 25 2 7 24 7 20 27 2 10 3 20 22 2 6 11 6 2 22 10 20 3 4 2 25 11 22 10 2 15 17 22 11 17 16 21 2 17 8 2 9 17 27 2 25 10 11 5 10 2 21 7 15 7 6 2 16 7 3 20 14 27 2 3 2 5 11 16 6 2 10 7 24 7 16 2 25 10 7 16 2 25 7 2 20 7 5 7 24 7 6 2 22 10 7 2 9 14 3 6 2 7 16 22 7 14 14 11 9 11 7 3 16 5 7 2 17 8 2 3 20 2 17 16 25 3 20 6 2 15 3 20 5 10 2 22 17 25 3 20 6 2 22 10 7 2 14 3 16 6 2 17 8 2 18 20 17 15 11 21 2 3 16 6 2 17 8 2 3 20 2 14 17 24 7 6 2 17 16 7 21 29",
+                    "score": 212.0674285888672,
+                    "shape": [
+                        227,
+                        30
+                    ],
+                    "text": "HOW EVERY PULSE DID BEAT AND LEAP AND HOW EVERY HEART DID THROB WITH EMOTIONS OF JOY WHICH SEEMED NEARLY AKIN TO HEAVEN WHEN WE RECEIVED THE GLAD INTELLIGENCE OF OUR ONWARD MARCH TOWARD THE LAND OF PROMISE AND OF OUR LOVED ONES",
+                    "token": "H O W <space> E V E R Y <space> P U L S E <space> D I D <space> B E A T <space> A N D <space> L E A P <space> A N D <space> H O W <space> E V E R Y <space> H E A R T <space> D I D <space> T H R O B <space> W I T H <space> E M O T I O N S <space> O F <space> J O Y <space> W H I C H <space> S E E M E D <space> N E A R L Y <space> A K I N <space> T O <space> H E A V E N <space> W H E N <space> W E <space> R E C E I V E D <space> T H E <space> G L A D <space> I N T E L L I G E N C E <space> O F <space> O U R <space> O N W A R D <space> M A R C H <space> T O W A R D <space> T H E <space> L A N D <space> O F <space> P R O M I S E <space> A N D <space> O F <space> O U R <space> L O V E D <space> O N E S",
+                    "tokenid": "10 17 25 2 7 24 7 20 27 2 18 23 14 21 7 2 6 11 6 2 4 7 3 22 2 3 16 6 2 14 7 3 18 2 3 16 6 2 10 17 25 2 7 24 7 20 27 2 10 7 3 20 22 2 6 11 6 2 22 10 20 17 4 2 25 11 22 10 2 7 15 17 22 11 17 16 21 2 17 8 2 12 17 27 2 25 10 11 5 10 2 21 7 7 15 7 6 2 16 7 3 20 14 27 2 3 13 11 16 2 22 17 2 10 7 3 24 7 16 2 25 10 7 16 2 25 7 2 20 7 5 7 11 24 7 6 2 22 10 7 2 9 14 3 6 2 11 16 22 7 14 14 11 9 7 16 5 7 2 17 8 2 17 23 20 2 17 16 25 3 20 6 2 15 3 20 5 10 2 22 17 25 3 20 6 2 22 10 7 2 14 3 16 6 2 17 8 2 18 20 17 15 11 21 7 2 3 16 6 2 17 8 2 17 23 20 2 14 17 24 7 6 2 17 16 7 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5694-64038-0018": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>E WHE WERE ENNOURED TO PRIVATIONS IN HARD SHIPS HAD BEEN APON EVERY MARCH IND EVERY BADLE AND EVERY SCERMICH AND EVERY ADVANCE AND EVERY RETRIET AND EVERY VICTORY AND EVERY DEFEET<eos>",
+                    "rec_token": "<blank> E <space> W H E <space> W E R E <space> E N N O U R E D <space> T O <space> P R I V A T I O N S <space> I N <space> H A R D <space> S H I P S <space> H A D <space> B E E N <space> A P O N <space> E V E R Y <space> M A R C H <space> I N D <space> E V E R Y <space> B A D L E <space> A N D <space> E V E R Y <space> S C E R M I C H <space> A N D <space> E V E R Y <space> A D V A N C E <space> A N D <space> E V E R Y <space> R E T R I E T <space> A N D <space> E V E R Y <space> V I C T O R Y <space> A N D <space> E V E R Y <space> D E F E E T <eos>",
+                    "rec_tokenid": "0 7 2 25 10 7 2 25 7 20 7 2 7 16 16 17 23 20 7 6 2 22 17 2 18 20 11 24 3 22 11 17 16 21 2 11 16 2 10 3 20 6 2 21 10 11 18 21 2 10 3 6 2 4 7 7 16 2 3 18 17 16 2 7 24 7 20 27 2 15 3 20 5 10 2 11 16 6 2 7 24 7 20 27 2 4 3 6 14 7 2 3 16 6 2 7 24 7 20 27 2 21 5 7 20 15 11 5 10 2 3 16 6 2 7 24 7 20 27 2 3 6 24 3 16 5 7 2 3 16 6 2 7 24 7 20 27 2 20 7 22 20 11 7 22 2 3 16 6 2 7 24 7 20 27 2 24 11 5 22 17 20 27 2 3 16 6 2 7 24 7 20 27 2 6 7 8 7 7 22 29",
+                    "score": 170.7834930419922,
+                    "shape": [
+                        169,
+                        30
+                    ],
+                    "text": "WE WERE INURED TO PRIVATIONS AND HARDSHIPS HAD BEEN UPON EVERY MARCH IN EVERY BATTLE IN EVERY SKIRMISH IN EVERY ADVANCE IN EVERY RETREAT IN EVERY VICTORY IN EVERY DEFEAT",
+                    "token": "W E <space> W E R E <space> I N U R E D <space> T O <space> P R I V A T I O N S <space> A N D <space> H A R D S H I P S <space> H A D <space> B E E N <space> U P O N <space> E V E R Y <space> M A R C H <space> I N <space> E V E R Y <space> B A T T L E <space> I N <space> E V E R Y <space> S K I R M I S H <space> I N <space> E V E R Y <space> A D V A N C E <space> I N <space> E V E R Y <space> R E T R E A T <space> I N <space> E V E R Y <space> V I C T O R Y <space> I N <space> E V E R Y <space> D E F E A T",
+                    "tokenid": "25 7 2 25 7 20 7 2 11 16 23 20 7 6 2 22 17 2 18 20 11 24 3 22 11 17 16 21 2 3 16 6 2 10 3 20 6 21 10 11 18 21 2 10 3 6 2 4 7 7 16 2 23 18 17 16 2 7 24 7 20 27 2 15 3 20 5 10 2 11 16 2 7 24 7 20 27 2 4 3 22 22 14 7 2 11 16 2 7 24 7 20 27 2 21 13 11 20 15 11 21 10 2 11 16 2 7 24 7 20 27 2 3 6 24 3 16 5 7 2 11 16 2 7 24 7 20 27 2 20 7 22 20 7 3 22 2 11 16 2 7 24 7 20 27 2 24 11 5 22 17 20 27 2 11 16 2 7 24 7 20 27 2 6 7 8 7 3 22"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5694-64038-0019": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> HE WANTED TOGO BIY HOM AND TEL HIS WIFE AND CHILDRIN GOOD BEY AND TO GEAT HIS CLOS IT WAS NO GOW<eos>",
+                    "rec_token": "<blank> <space> H E <space> W A N T E D <space> T O G O <space> B I Y <space> H O M <space> A N D <space> T E L <space> H I S <space> W I F E <space> A N D <space> C H I L D R I N <space> G O O D <space> B E Y <space> A N D <space> T O <space> G E A T <space> H I S <space> C L O S <space> I T <space> W A S <space> N O <space> G O W <eos>",
+                    "rec_tokenid": "0 2 10 7 2 25 3 16 22 7 6 2 22 17 9 17 2 4 11 27 2 10 17 15 2 3 16 6 2 22 7 14 2 10 11 21 2 25 11 8 7 2 3 16 6 2 5 10 11 14 6 20 11 16 2 9 17 17 6 2 4 7 27 2 3 16 6 2 22 17 2 9 7 3 22 2 10 11 21 2 5 14 17 21 2 11 22 2 25 3 21 2 16 17 2 9 17 25 29",
+                    "score": 94.1181869506836,
+                    "shape": [
+                        99,
+                        30
+                    ],
+                    "text": "HE WANTED TO GO BY HOME AND TELL HIS WIFE AND CHILDREN GOOD BYE AND TO GET HIS CLOTHES IT WAS NO GO",
+                    "token": "H E <space> W A N T E D <space> T O <space> G O <space> B Y <space> H O M E <space> A N D <space> T E L L <space> H I S <space> W I F E <space> A N D <space> C H I L D R E N <space> G O O D <space> B Y E <space> A N D <space> T O <space> G E T <space> H I S <space> C L O T H E S <space> I T <space> W A S <space> N O <space> G O",
+                    "tokenid": "10 7 2 25 3 16 22 7 6 2 22 17 2 9 17 2 4 27 2 10 17 15 7 2 3 16 6 2 22 7 14 14 2 10 11 21 2 25 11 8 7 2 3 16 6 2 5 10 11 14 6 20 7 16 2 9 17 17 6 2 4 27 7 2 3 16 6 2 22 17 2 9 7 22 2 10 11 21 2 5 14 17 22 10 7 21 2 11 22 2 25 3 21 2 16 17 2 9 17"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5694-64038-0020": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> BUT AFTER A WHILE JIEM SAEIS JENTLMAN IY GANIY THE LA<eos>",
+                    "rec_token": "<blank> <space> B U T <space> A F T E R <space> A <space> W H I L E <space> J I E M <space> S A E I S <space> J E N T L M A N <space> I Y <space> G A N I Y <space> T H E <space> L A <eos>",
+                    "rec_tokenid": "0 2 4 23 22 2 3 8 22 7 20 2 3 2 25 10 11 14 7 2 12 11 7 15 2 21 3 7 11 21 2 12 7 16 22 14 15 3 16 2 11 27 2 9 3 16 11 27 2 22 10 7 2 14 3 29",
+                    "score": 52.26097106933594,
+                    "shape": [
+                        52,
+                        30
+                    ],
+                    "text": "BUT AFTER AWHILE JIM SAYS GENTLEMEN AY GANNY THE LAW",
+                    "token": "B U T <space> A F T E R <space> A W H I L E <space> J I M <space> S A Y S <space> G E N T L E M E N <space> A Y <space> G A N N Y <space> T H E <space> L A W",
+                    "tokenid": "4 23 22 2 3 8 22 7 20 2 3 25 10 11 14 7 2 12 11 15 2 21 3 27 21 2 9 7 16 22 14 7 15 7 16 2 3 27 2 9 3 16 16 27 2 22 10 7 2 14 3 25"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5694-64038-0021": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>YOU SE JIEM NOWAD THE LA<eos>",
+                    "rec_token": "<blank> <eos> Y O U <space> S E <space> J I E M <space> N O W A D <space> T H E <space> L A <eos>",
+                    "rec_tokenid": "0 29 27 17 23 2 21 7 2 12 11 7 15 2 16 17 25 3 6 2 22 10 7 2 14 3 29",
+                    "score": 450.8079528808594,
+                    "shape": [
+                        26,
+                        30
+                    ],
+                    "text": "YOU SEE JIM KNOWED THE LAW",
+                    "token": "Y O U <space> S E E <space> J I M <space> K N O W E D <space> T H E <space> L A W",
+                    "tokenid": "27 17 23 2 21 7 7 2 12 11 15 2 13 16 17 25 7 6 2 22 10 7 2 14 3 25"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5694-64038-0022": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>ETHOSE OLD SOLDGERS HAD LONG LONG AGOW FOR GOUGHTN ABOUT THAT OLD LAW OF THE LONG GON PASTD BUT GIEM HAD TREASURED ID UP IN HIS MEMARY LOW THES MEANY YEARS AND HE THOUGHT I WOULD SEIRVE HIM NOW AS IT HAD NO DOUT FRECQUANTLY DUN IN THE PASSD<eos>",
+                    "rec_token": "<blank> E T H O S E <space> O L D <space> S O L D G E R S <space> H A D <space> L O N G <space> L O N G <space> A G O W <space> F O R <space> G O U G H T N <space> A B O U T <space> T H A T <space> O L D <space> L A W <space> O F <space> T H E <space> L O N G <space> G O N <space> P A S T D <space> B U T <space> G I E M <space> H A D <space> T R E A S U R E D <space> I D <space> U P <space> I N <space> H I S <space> M E M A R Y <space> L O W <space> T H E S <space> M E A N Y <space> Y E A R S <space> A N D <space> H E <space> T H O U G H T <space> I <space> W O U L D <space> S E I R V E <space> H I M <space> N O W <space> A S <space> I T <space> H A D <space> N O <space> D O U T <space> F R E C Q U A N T L Y <space> D U N <space> I N <space> T H E <space> P A S S D <eos>",
+                    "rec_tokenid": "0 7 22 10 17 21 7 2 17 14 6 2 21 17 14 6 9 7 20 21 2 10 3 6 2 14 17 16 9 2 14 17 16 9 2 3 9 17 25 2 8 17 20 2 9 17 23 9 10 22 16 2 3 4 17 23 22 2 22 10 3 22 2 17 14 6 2 14 3 25 2 17 8 2 22 10 7 2 14 17 16 9 2 9 17 16 2 18 3 21 22 6 2 4 23 22 2 9 11 7 15 2 10 3 6 2 22 20 7 3 21 23 20 7 6 2 11 6 2 23 18 2 11 16 2 10 11 21 2 15 7 15 3 20 27 2 14 17 25 2 22 10 7 21 2 15 7 3 16 27 2 27 7 3 20 21 2 3 16 6 2 10 7 2 22 10 17 23 9 10 22 2 11 2 25 17 23 14 6 2 21 7 11 20 24 7 2 10 11 15 2 16 17 25 2 3 21 2 11 22 2 10 3 6 2 16 17 2 6 17 23 22 2 8 20 7 5 19 23 3 16 22 14 27 2 6 23 16 2 11 16 2 22 10 7 2 18 3 21 21 6 29",
+                    "score": 229.12033081054688,
+                    "shape": [
+                        234,
+                        30
+                    ],
+                    "text": "THOSE OLD SOLDIERS HAD LONG LONG AGO FORGOTTEN ABOUT THAT OLD LAW OF THE LONG GONE PAST BUT JIM HAD TREASURED IT UP IN HIS MEMORY LO THESE MANY YEARS AND HE THOUGHT IT WOULD SERVE HIM NOW AS IT HAD NO DOUBT FREQUENTLY DONE IN THE PAST",
+                    "token": "T H O S E <space> O L D <space> S O L D I E R S <space> H A D <space> L O N G <space> L O N G <space> A G O <space> F O R G O T T E N <space> A B O U T <space> T H A T <space> O L D <space> L A W <space> O F <space> T H E <space> L O N G <space> G O N E <space> P A S T <space> B U T <space> J I M <space> H A D <space> T R E A S U R E D <space> I T <space> U P <space> I N <space> H I S <space> M E M O R Y <space> L O <space> T H E S E <space> M A N Y <space> Y E A R S <space> A N D <space> H E <space> T H O U G H T <space> I T <space> W O U L D <space> S E R V E <space> H I M <space> N O W <space> A S <space> I T <space> H A D <space> N O <space> D O U B T <space> F R E Q U E N T L Y <space> D O N E <space> I N <space> T H E <space> P A S T",
+                    "tokenid": "22 10 17 21 7 2 17 14 6 2 21 17 14 6 11 7 20 21 2 10 3 6 2 14 17 16 9 2 14 17 16 9 2 3 9 17 2 8 17 20 9 17 22 22 7 16 2 3 4 17 23 22 2 22 10 3 22 2 17 14 6 2 14 3 25 2 17 8 2 22 10 7 2 14 17 16 9 2 9 17 16 7 2 18 3 21 22 2 4 23 22 2 12 11 15 2 10 3 6 2 22 20 7 3 21 23 20 7 6 2 11 22 2 23 18 2 11 16 2 10 11 21 2 15 7 15 17 20 27 2 14 17 2 22 10 7 21 7 2 15 3 16 27 2 27 7 3 20 21 2 3 16 6 2 10 7 2 22 10 17 23 9 10 22 2 11 22 2 25 17 23 14 6 2 21 7 20 24 7 2 10 11 15 2 16 17 25 2 3 21 2 11 22 2 10 3 6 2 16 17 2 6 17 23 4 22 2 8 20 7 19 23 7 16 22 14 27 2 6 17 16 7 2 11 16 2 22 10 7 2 18 3 21 22"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5694-64038-0023": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THE THIRD DAY I WAS REPORTED THAT THE YANCKEYS HAD TACON POSITION ON THE MERFRIS BAR A PICK<eos>",
+                    "rec_token": "<blank> <space> T H E <space> T H I R D <space> D A Y <space> I <space> W A S <space> R E P O R T E D <space> T H A T <space> T H E <space> Y A N C K E Y S <space> H A D <space> T A C O N <space> P O S I T I O N <space> O N <space> T H E <space> M E R F R I S <space> B A R <space> A <space> P I C K <eos>",
+                    "rec_tokenid": "0 2 22 10 7 2 22 10 11 20 6 2 6 3 27 2 11 2 25 3 21 2 20 7 18 17 20 22 7 6 2 22 10 3 22 2 22 10 7 2 27 3 16 5 13 7 27 21 2 10 3 6 2 22 3 5 17 16 2 18 17 21 11 22 11 17 16 2 17 16 2 22 10 7 2 15 7 20 8 20 11 21 2 4 3 20 2 3 2 18 11 5 13 29",
+                    "score": 87.01515197753906,
+                    "shape": [
+                        90,
+                        30
+                    ],
+                    "text": "THE THIRD DAY IT WAS REPORTED THAT THE YANKEES HAD TAKEN POSITION ON THE MURFREESBORO PIKE",
+                    "token": "T H E <space> T H I R D <space> D A Y <space> I T <space> W A S <space> R E P O R T E D <space> T H A T <space> T H E <space> Y A N K E E S <space> H A D <space> T A K E N <space> P O S I T I O N <space> O N <space> T H E <space> M U R F R E E S B O R O <space> P I K E",
+                    "tokenid": "22 10 7 2 22 10 11 20 6 2 6 3 27 2 11 22 2 25 3 21 2 20 7 18 17 20 22 7 6 2 22 10 3 22 2 22 10 7 2 27 3 16 13 7 7 21 2 10 3 6 2 22 3 13 7 16 2 18 17 21 11 22 11 17 16 2 17 16 2 22 10 7 2 15 23 20 8 20 7 7 21 4 17 20 17 2 18 11 13 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5694-64038-0024": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> AR REGIMENT WAS SENT TO THE ATTACKE IT WAS GIEMS REGIMENT<eos>",
+                    "rec_token": "<blank> <space> A R <space> R E G I M E N T <space> W A S <space> S E N T <space> T O <space> T H E <space> A T T A C K E <space> I T <space> W A S <space> G I E M S <space> R E G I M E N T <eos>",
+                    "rec_tokenid": "0 2 3 20 2 20 7 9 11 15 7 16 22 2 25 3 21 2 21 7 16 22 2 22 17 2 22 10 7 2 3 22 22 3 5 13 7 2 11 22 2 25 3 21 2 9 11 7 15 21 2 20 7 9 11 15 7 16 22 29",
+                    "score": 57.42733383178711,
+                    "shape": [
+                        55,
+                        30
+                    ],
+                    "text": "A REGIMENT WAS SENT TO THE ATTACK IT WAS JIM'S REGIMENT",
+                    "token": "A <space> R E G I M E N T <space> W A S <space> S E N T <space> T O <space> T H E <space> A T T A C K <space> I T <space> W A S <space> J I M <unk> S <space> R E G I M E N T",
+                    "tokenid": "3 2 20 7 9 11 15 7 16 22 2 25 3 21 2 21 7 16 22 2 22 17 2 22 10 7 2 3 22 22 3 5 13 2 11 22 2 25 3 21 2 12 11 15 1 21 2 20 7 9 11 15 7 16 22"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5694-64038-0025": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>UHE HIDNT SEEN ANYTHING TO SHOT AT BUT HE BLAISED AWAY HE LODED AND FIRED THE SECOND TIME WHAN THEY WERE ORDERD TO RETRIETE<eos>",
+                    "rec_token": "<blank> U H E <space> H I D N T <space> S E E N <space> A N Y T H I N G <space> T O <space> S H O T <space> A T <space> B U T <space> H E <space> B L A I S E D <space> A W A Y <space> H E <space> L O D E D <space> A N D <space> F I R E D <space> T H E <space> S E C O N D <space> T I M E <space> W H A N <space> T H E Y <space> W E R E <space> O R D E R D <space> T O <space> R E T R I E T E <eos>",
+                    "rec_tokenid": "0 23 10 7 2 10 11 6 16 22 2 21 7 7 16 2 3 16 27 22 10 11 16 9 2 22 17 2 21 10 17 22 2 3 22 2 4 23 22 2 10 7 2 4 14 3 11 21 7 6 2 3 25 3 27 2 10 7 2 14 17 6 7 6 2 3 16 6 2 8 11 20 7 6 2 22 10 7 2 21 7 5 17 16 6 2 22 11 15 7 2 25 10 3 16 2 22 10 7 27 2 25 7 20 7 2 17 20 6 7 20 6 2 22 17 2 20 7 22 20 11 7 22 7 29",
+                    "score": 116.88768768310547,
+                    "shape": [
+                        124,
+                        30
+                    ],
+                    "text": "HE HADN'T SEEN ANYTHING TO SHOOT AT BUT HE BLAZED AWAY HE LOADED AND FIRED THE SECOND TIME WHEN THEY WERE ORDERED TO RETREAT",
+                    "token": "H E <space> H A D N <unk> T <space> S E E N <space> A N Y T H I N G <space> T O <space> S H O O T <space> A T <space> B U T <space> H E <space> B L A Z E D <space> A W A Y <space> H E <space> L O A D E D <space> A N D <space> F I R E D <space> T H E <space> S E C O N D <space> T I M E <space> W H E N <space> T H E Y <space> W E R E <space> O R D E R E D <space> T O <space> R E T R E A T",
+                    "tokenid": "10 7 2 10 3 6 16 1 22 2 21 7 7 16 2 3 16 27 22 10 11 16 9 2 22 17 2 21 10 17 17 22 2 3 22 2 4 23 22 2 10 7 2 4 14 3 28 7 6 2 3 25 3 27 2 10 7 2 14 17 3 6 7 6 2 3 16 6 2 8 11 20 7 6 2 22 10 7 2 21 7 5 17 16 6 2 22 11 15 7 2 25 10 7 16 2 22 10 7 27 2 25 7 20 7 2 17 20 6 7 20 7 6 2 22 17 2 20 7 22 20 7 3 22"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34615-0000": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> BUT IS LAFTER A SCEININAME OF GJOY<eos>",
+                    "rec_token": "<blank> <space> B U T <space> I S <space> L A F T E R <space> A <space> S C E I N I N A M E <space> O F <space> G J O Y <eos>",
+                    "rec_tokenid": "0 2 4 23 22 2 11 21 2 14 3 8 22 7 20 2 3 2 21 5 7 11 16 11 16 3 15 7 2 17 8 2 9 12 17 27 29",
+                    "score": 33.65330505371094,
+                    "shape": [
+                        32,
+                        30
+                    ],
+                    "text": "BUT IS LAUGHTER A SYNONYM OF JOY",
+                    "token": "B U T <space> I S <space> L A U G H T E R <space> A <space> S Y N O N Y M <space> O F <space> J O Y",
+                    "tokenid": "4 23 22 2 11 21 2 14 3 23 9 10 22 7 20 2 3 2 21 27 16 17 16 27 15 2 17 8 2 12 17 27"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34615-0001": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> SUCH PERFECT COMPLET NES IS NOT IN NATURE<eos>",
+                    "rec_token": "<blank> <space> S U C H <space> P E R F E C T <space> C O M P L E T <space> N E S <space> I S <space> N O T <space> I N <space> N A T U R E <eos>",
+                    "rec_tokenid": "0 2 21 23 5 10 2 18 7 20 8 7 5 22 2 5 17 15 18 14 7 22 2 16 7 21 2 11 21 2 16 17 22 2 11 16 2 16 3 22 23 20 7 29",
+                    "score": 41.75331115722656,
+                    "shape": [
+                        42,
+                        30
+                    ],
+                    "text": "SUCH PERFECT COMPLETENESS IS NOT IN NATURE",
+                    "token": "S U C H <space> P E R F E C T <space> C O M P L E T E N E S S <space> I S <space> N O T <space> I N <space> N A T U R E",
+                    "tokenid": "21 23 5 10 2 18 7 20 8 7 5 22 2 5 17 15 18 14 7 22 7 16 7 21 21 2 11 21 2 16 17 22 2 11 16 2 16 3 22 23 20 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34615-0002": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> HAD GUENPLAIN WHAEN A CHILD BEEN SO WORTHY OF ATENTION THAT HIS FACE HAD BEEN SUBGJECTED TO TRANSMEUTATION WHY NOT<eos>",
+                    "rec_token": "<blank> <space> H A D <space> G U E N P L A I N <space> W H A E N <space> A <space> C H I L D <space> B E E N <space> S O <space> W O R T H Y <space> O F <space> A T E N T I O N <space> T H A T <space> H I S <space> F A C E <space> H A D <space> B E E N <space> S U B G J E C T E D <space> T O <space> T R A N S M E U T A T I O N <space> W H Y <space> N O T <eos>",
+                    "rec_tokenid": "0 2 10 3 6 2 9 23 7 16 18 14 3 11 16 2 25 10 3 7 16 2 3 2 5 10 11 14 6 2 4 7 7 16 2 21 17 2 25 17 20 22 10 27 2 17 8 2 3 22 7 16 22 11 17 16 2 22 10 3 22 2 10 11 21 2 8 3 5 7 2 10 3 6 2 4 7 7 16 2 21 23 4 9 12 7 5 22 7 6 2 22 17 2 22 20 3 16 21 15 7 23 22 3 22 11 17 16 2 25 10 27 2 16 17 22 29",
+                    "score": 112.61115264892578,
+                    "shape": [
+                        113,
+                        30
+                    ],
+                    "text": "HAD GWYNPLAINE WHEN A CHILD BEEN SO WORTHY OF ATTENTION THAT HIS FACE HAD BEEN SUBJECTED TO TRANSMUTATION WHY NOT",
+                    "token": "H A D <space> G W Y N P L A I N E <space> W H E N <space> A <space> C H I L D <space> B E E N <space> S O <space> W O R T H Y <space> O F <space> A T T E N T I O N <space> T H A T <space> H I S <space> F A C E <space> H A D <space> B E E N <space> S U B J E C T E D <space> T O <space> T R A N S M U T A T I O N <space> W H Y <space> N O T",
+                    "tokenid": "10 3 6 2 9 25 27 16 18 14 3 11 16 7 2 25 10 7 16 2 3 2 5 10 11 14 6 2 4 7 7 16 2 21 17 2 25 17 20 22 10 27 2 17 8 2 3 22 22 7 16 22 11 17 16 2 22 10 3 22 2 10 11 21 2 8 3 5 7 2 10 3 6 2 4 7 7 16 2 21 23 4 12 7 5 22 7 6 2 22 17 2 22 20 3 16 21 15 23 22 3 22 11 17 16 2 25 10 27 2 16 17 22"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34615-0003": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> ACORDING TO ALL APEARAENCE INDUSTRIOUS MANNIPULATERS OF CHILDRAN HAD WORKED APPON HIS FACE<eos>",
+                    "rec_token": "<blank> <space> A C O R D I N G <space> T O <space> A L L <space> A P E A R A E N C E <space> I N D U S T R I O U S <space> M A N N I P U L A T E R S <space> O F <space> C H I L D R A N <space> H A D <space> W O R K E D <space> A P P O N <space> H I S <space> F A C E <eos>",
+                    "rec_tokenid": "0 2 3 5 17 20 6 11 16 9 2 22 17 2 3 14 14 2 3 18 7 3 20 3 7 16 5 7 2 11 16 6 23 21 22 20 11 17 23 21 2 15 3 16 16 11 18 23 14 3 22 7 20 21 2 17 8 2 5 10 11 14 6 20 3 16 2 10 3 6 2 25 17 20 13 7 6 2 3 18 18 17 16 2 10 11 21 2 8 3 5 7 29",
+                    "score": 87.75591278076172,
+                    "shape": [
+                        89,
+                        30
+                    ],
+                    "text": "ACCORDING TO ALL APPEARANCE INDUSTRIOUS MANIPULATORS OF CHILDREN HAD WORKED UPON HIS FACE",
+                    "token": "A C C O R D I N G <space> T O <space> A L L <space> A P P E A R A N C E <space> I N D U S T R I O U S <space> M A N I P U L A T O R S <space> O F <space> C H I L D R E N <space> H A D <space> W O R K E D <space> U P O N <space> H I S <space> F A C E",
+                    "tokenid": "3 5 5 17 20 6 11 16 9 2 22 17 2 3 14 14 2 3 18 18 7 3 20 3 16 5 7 2 11 16 6 23 21 22 20 11 17 23 21 2 15 3 16 11 18 23 14 3 22 17 20 21 2 17 8 2 5 10 11 14 6 20 7 16 2 10 3 6 2 25 17 20 13 7 6 2 23 18 17 16 2 10 11 21 2 8 3 5 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34615-0004": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>HIT SEEMED EVEDEAENT THAT A MISTIRIOUS AND PROBABLY A COLT SONCE WHICH WAS TO SIRGARY WHAT ALCAMI WAS TO CAEMMISTRY HAD CHISELED HIS FLESSH EVIDENTLY AT A VERY TENDER AGE AND MANUFACTURED HIS COUNTINEAENCE WITH PREMEADITATION<eos>",
+                    "rec_token": "<blank> H I T <space> S E E M E D <space> E V E D E A E N T <space> T H A T <space> A <space> M I S T I R I O U S <space> A N D <space> P R O B A B L Y <space> A <space> C O L T <space> S O N C E <space> W H I C H <space> W A S <space> T O <space> S I R G A R Y <space> W H A T <space> A L C A M I <space> W A S <space> T O <space> C A E M M I S T R Y <space> H A D <space> C H I S E L E D <space> H I S <space> F L E S S H <space> E V I D E N T L Y <space> A T <space> A <space> V E R Y <space> T E N D E R <space> A G E <space> A N D <space> M A N U F A C T U R E D <space> H I S <space> C O U N T I N E A E N C E <space> W I T H <space> P R E M E A D I T A T I O N <eos>",
+                    "rec_tokenid": "0 10 11 22 2 21 7 7 15 7 6 2 7 24 7 6 7 3 7 16 22 2 22 10 3 22 2 3 2 15 11 21 22 11 20 11 17 23 21 2 3 16 6 2 18 20 17 4 3 4 14 27 2 3 2 5 17 14 22 2 21 17 16 5 7 2 25 10 11 5 10 2 25 3 21 2 22 17 2 21 11 20 9 3 20 27 2 25 10 3 22 2 3 14 5 3 15 11 2 25 3 21 2 22 17 2 5 3 7 15 15 11 21 22 20 27 2 10 3 6 2 5 10 11 21 7 14 7 6 2 10 11 21 2 8 14 7 21 21 10 2 7 24 11 6 7 16 22 14 27 2 3 22 2 3 2 24 7 20 27 2 22 7 16 6 7 20 2 3 9 7 2 3 16 6 2 15 3 16 23 8 3 5 22 23 20 7 6 2 10 11 21 2 5 17 23 16 22 11 16 7 3 7 16 5 7 2 25 11 22 10 2 18 20 7 15 7 3 6 11 22 3 22 11 17 16 29",
+                    "score": 219.414794921875,
+                    "shape": [
+                        221,
+                        30
+                    ],
+                    "text": "IT SEEMED EVIDENT THAT A MYSTERIOUS AND PROBABLY OCCULT SCIENCE WHICH WAS TO SURGERY WHAT ALCHEMY WAS TO CHEMISTRY HAD CHISELLED HIS FLESH EVIDENTLY AT A VERY TENDER AGE AND MANUFACTURED HIS COUNTENANCE WITH PREMEDITATION",
+                    "token": "I T <space> S E E M E D <space> E V I D E N T <space> T H A T <space> A <space> M Y S T E R I O U S <space> A N D <space> P R O B A B L Y <space> O C C U L T <space> S C I E N C E <space> W H I C H <space> W A S <space> T O <space> S U R G E R Y <space> W H A T <space> A L C H E M Y <space> W A S <space> T O <space> C H E M I S T R Y <space> H A D <space> C H I S E L L E D <space> H I S <space> F L E S H <space> E V I D E N T L Y <space> A T <space> A <space> V E R Y <space> T E N D E R <space> A G E <space> A N D <space> M A N U F A C T U R E D <space> H I S <space> C O U N T E N A N C E <space> W I T H <space> P R E M E D I T A T I O N",
+                    "tokenid": "11 22 2 21 7 7 15 7 6 2 7 24 11 6 7 16 22 2 22 10 3 22 2 3 2 15 27 21 22 7 20 11 17 23 21 2 3 16 6 2 18 20 17 4 3 4 14 27 2 17 5 5 23 14 22 2 21 5 11 7 16 5 7 2 25 10 11 5 10 2 25 3 21 2 22 17 2 21 23 20 9 7 20 27 2 25 10 3 22 2 3 14 5 10 7 15 27 2 25 3 21 2 22 17 2 5 10 7 15 11 21 22 20 27 2 10 3 6 2 5 10 11 21 7 14 14 7 6 2 10 11 21 2 8 14 7 21 10 2 7 24 11 6 7 16 22 14 27 2 3 22 2 3 2 24 7 20 27 2 22 7 16 6 7 20 2 3 9 7 2 3 16 6 2 15 3 16 23 8 3 5 22 23 20 7 6 2 10 11 21 2 5 17 23 16 22 7 16 3 16 5 7 2 25 11 22 10 2 18 20 7 15 7 6 11 22 3 22 11 17 16"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34615-0005": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>GUEIN PLAIN WAS A MOUNTE BANKE<eos>",
+                    "rec_token": "<blank> <eos> G U E I N <space> P L A I N <space> W A S <space> A <space> M O U N T E <space> B A N K E <eos>",
+                    "rec_tokenid": "0 29 9 23 7 11 16 2 18 14 3 11 16 2 25 3 21 2 3 2 15 17 23 16 22 7 2 4 3 16 13 7 29",
+                    "score": 395.359375,
+                    "shape": [
+                        27,
+                        30
+                    ],
+                    "text": "GWYNPLAINE WAS A MOUNTEBANK",
+                    "token": "G W Y N P L A I N E <space> W A S <space> A <space> M O U N T E B A N K",
+                    "tokenid": "9 25 27 16 18 14 3 11 16 7 2 25 3 21 2 3 2 15 17 23 16 22 7 4 3 16 13"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34615-0006": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>CHE SHOWED HIMSELF ON THE PLAT FORM<eos>",
+                    "rec_token": "<blank> C H E <space> S H O W E D <space> H I M S E L F <space> O N <space> T H E <space> P L A T <space> F O R M <eos>",
+                    "rec_tokenid": "0 5 10 7 2 21 10 17 25 7 6 2 10 11 15 21 7 14 8 2 17 16 2 22 10 7 2 18 14 3 22 2 8 17 20 15 29",
+                    "score": 35.550724029541016,
+                    "shape": [
+                        33,
+                        30
+                    ],
+                    "text": "HE SHOWED HIMSELF ON THE PLATFORM",
+                    "token": "H E <space> S H O W E D <space> H I M S E L F <space> O N <space> T H E <space> P L A T F O R M",
+                    "tokenid": "10 7 2 21 10 17 25 7 6 2 10 11 15 21 7 14 8 2 17 16 2 22 10 7 2 18 14 3 22 8 17 20 15"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34615-0007": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>AIT WAS GOUINPLAINE<unk>S LAF WHICH CREATED THE LAFTER OF OTHERS YAT HE DID NOT LAF HIMSELF<eos>",
+                    "rec_token": "<blank> A I T <space> W A S <space> G O U I N P L A I N E <unk> S <space> L A F <space> W H I C H <space> C R E A T E D <space> T H E <space> L A F T E R <space> O F <space> O T H E R S <space> Y A T <space> H E <space> D I D <space> N O T <space> L A F <space> H I M S E L F <eos>",
+                    "rec_tokenid": "0 3 11 22 2 25 3 21 2 9 17 23 11 16 18 14 3 11 16 7 1 21 2 14 3 8 2 25 10 11 5 10 2 5 20 7 3 22 7 6 2 22 10 7 2 14 3 8 22 7 20 2 17 8 2 17 22 10 7 20 21 2 27 3 22 2 10 7 2 6 11 6 2 16 17 22 2 14 3 8 2 10 11 15 21 7 14 8 29",
+                    "score": 86.34265899658203,
+                    "shape": [
+                        91,
+                        30
+                    ],
+                    "text": "IT WAS GWYNPLAINE'S LAUGH WHICH CREATED THE LAUGHTER OF OTHERS YET HE DID NOT LAUGH HIMSELF",
+                    "token": "I T <space> W A S <space> G W Y N P L A I N E <unk> S <space> L A U G H <space> W H I C H <space> C R E A T E D <space> T H E <space> L A U G H T E R <space> O F <space> O T H E R S <space> Y E T <space> H E <space> D I D <space> N O T <space> L A U G H <space> H I M S E L F",
+                    "tokenid": "11 22 2 25 3 21 2 9 25 27 16 18 14 3 11 16 7 1 21 2 14 3 23 9 10 2 25 10 11 5 10 2 5 20 7 3 22 7 6 2 22 10 7 2 14 3 23 9 10 22 7 20 2 17 8 2 17 22 10 7 20 21 2 27 7 22 2 10 7 2 6 11 6 2 16 17 22 2 14 3 23 9 10 2 10 11 15 21 7 14 8"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34615-0008": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>ETHE OUT SID DID NOT DEPEND ON THE EINTERRIER<eos>",
+                    "rec_token": "<blank> E T H E <space> O U T <space> S I D <space> D I D <space> N O T <space> D E P E N D <space> O N <space> T H E <space> E I N T E R R I E R <eos>",
+                    "rec_tokenid": "0 7 22 10 7 2 17 23 22 2 21 11 6 2 6 11 6 2 16 17 22 2 6 7 18 7 16 6 2 17 16 2 22 10 7 2 7 11 16 22 7 20 20 11 7 20 29",
+                    "score": 45.48365020751953,
+                    "shape": [
+                        42,
+                        30
+                    ],
+                    "text": "THE OUTSIDE DID NOT DEPEND ON THE INTERIOR",
+                    "token": "T H E <space> O U T S I D E <space> D I D <space> N O T <space> D E P E N D <space> O N <space> T H E <space> I N T E R I O R",
+                    "tokenid": "22 10 7 2 17 23 22 21 11 6 7 2 6 11 6 2 16 17 22 2 6 7 18 7 16 6 2 17 16 2 22 10 7 2 11 16 22 7 20 11 17 20"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34615-0009": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>KNO WON COULD ESCAPE FROM THISS RECTAS<eos>",
+                    "rec_token": "<blank> K N O <space> W O N <space> C O U L D <space> E S C A P E <space> F R O M <space> T H I S S <space> R E C T A S <eos>",
+                    "rec_tokenid": "0 13 16 17 2 25 17 16 2 5 17 23 14 6 2 7 21 5 3 18 7 2 8 20 17 15 2 22 10 11 21 21 2 20 7 5 22 3 21 29",
+                    "score": 37.35372543334961,
+                    "shape": [
+                        36,
+                        30
+                    ],
+                    "text": "NO ONE COULD ESCAPE FROM THIS RICTUS",
+                    "token": "N O <space> O N E <space> C O U L D <space> E S C A P E <space> F R O M <space> T H I S <space> R I C T U S",
+                    "tokenid": "16 17 2 17 16 7 2 5 17 23 14 6 2 7 21 5 3 18 7 2 8 20 17 15 2 22 10 11 21 2 20 11 5 22 23 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34615-0010": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> ALL HIS AMMOTIONS WHAT EVER THEY MIT HAVE BEEN OUG MENTED HIS STRANGE FATE OF JOY OR TO SPEEKE MOR CARECTLY AGRIVATED IT<eos>",
+                    "rec_token": "<blank> <space> A L L <space> H I S <space> A M M O T I O N S <space> W H A T <space> E V E R <space> T H E Y <space> M I T <space> H A V E <space> B E E N <space> O U G <space> M E N T E D <space> H I S <space> S T R A N G E <space> F A T E <space> O F <space> J O Y <space> O R <space> T O <space> S P E E K E <space> M O R <space> C A R E C T L Y <space> A G R I V A T E D <space> I T <eos>",
+                    "rec_tokenid": "0 2 3 14 14 2 10 11 21 2 3 15 15 17 22 11 17 16 21 2 25 10 3 22 2 7 24 7 20 2 22 10 7 27 2 15 11 22 2 10 3 24 7 2 4 7 7 16 2 17 23 9 2 15 7 16 22 7 6 2 10 11 21 2 21 22 20 3 16 9 7 2 8 3 22 7 2 17 8 2 12 17 27 2 17 20 2 22 17 2 21 18 7 7 13 7 2 15 17 20 2 5 3 20 7 5 22 14 27 2 3 9 20 11 24 3 22 7 6 2 11 22 29",
+                    "score": 118.82369995117188,
+                    "shape": [
+                        121,
+                        30
+                    ],
+                    "text": "ALL HIS EMOTIONS WHATEVER THEY MIGHT HAVE BEEN AUGMENTED HIS STRANGE FACE OF JOY OR TO SPEAK MORE CORRECTLY AGGRAVATED IT",
+                    "token": "A L L <space> H I S <space> E M O T I O N S <space> W H A T E V E R <space> T H E Y <space> M I G H T <space> H A V E <space> B E E N <space> A U G M E N T E D <space> H I S <space> S T R A N G E <space> F A C E <space> O F <space> J O Y <space> O R <space> T O <space> S P E A K <space> M O R E <space> C O R R E C T L Y <space> A G G R A V A T E D <space> I T",
+                    "tokenid": "3 14 14 2 10 11 21 2 7 15 17 22 11 17 16 21 2 25 10 3 22 7 24 7 20 2 22 10 7 27 2 15 11 9 10 22 2 10 3 24 7 2 4 7 7 16 2 3 23 9 15 7 16 22 7 6 2 10 11 21 2 21 22 20 3 16 9 7 2 8 3 5 7 2 17 8 2 12 17 27 2 17 20 2 22 17 2 21 18 7 3 13 2 15 17 20 7 2 5 17 20 20 7 5 22 14 27 2 3 9 9 20 3 24 3 22 7 6 2 11 22"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34615-0011": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>ANDEVER LASTING LAF<eos>",
+                    "rec_token": "<blank> <eos> A N D E V E R <space> L A S T I N G <space> L A F <eos>",
+                    "rec_tokenid": "0 29 3 16 6 7 24 7 20 2 14 3 21 22 11 16 9 2 14 3 8 29",
+                    "score": 443.4205017089844,
+                    "shape": [
+                        20,
+                        30
+                    ],
+                    "text": "AN EVERLASTING LAUGH",
+                    "token": "A N <space> E V E R L A S T I N G <space> L A U G H",
+                    "tokenid": "3 16 2 7 24 7 20 14 3 21 22 11 16 9 2 14 3 23 9 10"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5895-34615-0012": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THE MANICIAONS BELIEVED THE ABSOLOUTE  OCADIONALY GIVS WAY AND THAT GOD HIMSELF SOMETIMES ABDECATES FOR AT TIME SO ALSO OF THE WILL<eos>",
+                    "rec_token": "<blank> <space> T H E <space> M A N I C I A O N S <space> B E L I E V E D <space> T H E <space> A B S O L O U T E <space> <space> O C A D I O N A L Y <space> G I V S <space> W A Y <space> A N D <space> T H A T <space> G O D <space> H I M S E L F <space> S O M E T I M E S <space> A B D E C A T E S <space> F O R <space> A T <space> T I M E <space> S O <space> A L S O <space> O F <space> T H E <space> W I L L <eos>",
+                    "rec_tokenid": "0 2 22 10 7 2 15 3 16 11 5 11 3 17 16 21 2 4 7 14 11 7 24 7 6 2 22 10 7 2 3 4 21 17 14 17 23 22 7 2 2 17 5 3 6 11 17 16 3 14 27 2 9 11 24 21 2 25 3 27 2 3 16 6 2 22 10 3 22 2 9 17 6 2 10 11 15 21 7 14 8 2 21 17 15 7 22 11 15 7 21 2 3 4 6 7 5 3 22 7 21 2 8 17 20 2 3 22 2 22 11 15 7 2 21 17 2 3 14 21 17 2 17 8 2 22 10 7 2 25 11 14 14 29",
+                    "score": 126.47592163085938,
+                    "shape": [
+                        132,
+                        30
+                    ],
+                    "text": "THE MANICHAEANS BELIEVED THE ABSOLUTE OCCASIONALLY GIVES WAY AND THAT GOD HIMSELF SOMETIMES ABDICATES FOR A TIME SO ALSO OF THE WILL",
+                    "token": "T H E <space> M A N I C H A E A N S <space> B E L I E V E D <space> T H E <space> A B S O L U T E <space> O C C A S I O N A L L Y <space> G I V E S <space> W A Y <space> A N D <space> T H A T <space> G O D <space> H I M S E L F <space> S O M E T I M E S <space> A B D I C A T E S <space> F O R <space> A <space> T I M E <space> S O <space> A L S O <space> O F <space> T H E <space> W I L L",
+                    "tokenid": "22 10 7 2 15 3 16 11 5 10 3 7 3 16 21 2 4 7 14 11 7 24 7 6 2 22 10 7 2 3 4 21 17 14 23 22 7 2 17 5 5 3 21 11 17 16 3 14 14 27 2 9 11 24 7 21 2 25 3 27 2 3 16 6 2 22 10 3 22 2 9 17 6 2 10 11 15 21 7 14 8 2 21 17 15 7 22 11 15 7 21 2 3 4 6 11 5 3 22 7 21 2 8 17 20 2 3 2 22 11 15 7 2 21 17 2 3 14 21 17 2 17 8 2 22 10 7 2 25 11 14 14"
+                }
+            ],
+            "utt2spk": ""
+        }
+    }
+}

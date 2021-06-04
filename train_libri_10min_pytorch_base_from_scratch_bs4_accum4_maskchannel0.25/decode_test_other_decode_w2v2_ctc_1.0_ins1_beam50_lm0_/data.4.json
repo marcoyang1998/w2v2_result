@@ -1,0 +1,574 @@
+{
+    "utts": {
+        "1688-142285-0090": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> SHE SOUNDED TO BE SUCH CAREFULL ECANOMICAL PERSON THAT I SHOULD LIKE EANY WON OUT OF THE SAME FAMILY<eos>",
+                    "rec_token": "<blank> <space> S H E <space> S O U N D E D <space> T O <space> B E <space> S U C H <space> C A R E F U L L <space> E C A N O M I C A L <space> P E R S O N <space> T H A T <space> I <space> S H O U L D <space> L I K E <space> E A N Y <space> W O N <space> O U T <space> O F <space> T H E <space> S A M E <space> F A M I L Y <eos>",
+                    "rec_tokenid": "0 2 21 10 7 2 21 17 23 16 6 7 6 2 22 17 2 4 7 2 21 23 5 10 2 5 3 20 7 8 23 14 14 2 7 5 3 16 17 15 11 5 3 14 2 18 7 20 21 17 16 2 22 10 3 22 2 11 2 21 10 17 23 14 6 2 14 11 13 7 2 7 3 16 27 2 25 17 16 2 17 23 22 2 17 8 2 22 10 7 2 21 3 15 7 2 8 3 15 11 14 27 29",
+                    "score": 99.91283416748047,
+                    "shape": [
+                        100,
+                        30
+                    ],
+                    "text": "SHE SOUNDED TO BE SUCH A CAREFUL ECONOMICAL PERSON THAT I SHOULD LIKE ANY ONE OUT OF THE SAME FAMILY",
+                    "token": "S H E <space> S O U N D E D <space> T O <space> B E <space> S U C H <space> A <space> C A R E F U L <space> E C O N O M I C A L <space> P E R S O N <space> T H A T <space> I <space> S H O U L D <space> L I K E <space> A N Y <space> O N E <space> O U T <space> O F <space> T H E <space> S A M E <space> F A M I L Y",
+                    "tokenid": "21 10 7 2 21 17 23 16 6 7 6 2 22 17 2 4 7 2 21 23 5 10 2 3 2 5 3 20 7 8 23 14 2 7 5 17 16 17 15 11 5 3 14 2 18 7 20 21 17 16 2 22 10 3 22 2 11 2 21 10 17 23 14 6 2 14 11 13 7 2 3 16 27 2 17 16 7 2 17 23 22 2 17 8 2 22 10 7 2 21 3 15 7 2 8 3 15 11 14 27"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1688-142285-0091": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> MY DERSAID MISTER HELL ALARMED PRAY DOUNT GO OFF ON THAT I DER<eos>",
+                    "rec_token": "<blank> <space> M Y <space> D E R S A I D <space> M I S T E R <space> H E L L <space> A L A R M E D <space> P R A Y <space> D O U N T <space> G O <space> O F F <space> O N <space> T H A T <space> I <space> D E R <eos>",
+                    "rec_tokenid": "0 2 15 27 2 6 7 20 21 3 11 6 2 15 11 21 22 7 20 2 10 7 14 14 2 3 14 3 20 15 7 6 2 18 20 3 27 2 6 17 23 16 22 2 9 17 2 17 8 8 2 17 16 2 22 10 3 22 2 11 2 6 7 20 29",
+                    "score": 62.27556228637695,
+                    "shape": [
+                        63,
+                        30
+                    ],
+                    "text": "MY DEAR SAID MISTER HALE ALARMED PRAY DON'T GO OFF ON THAT IDEA",
+                    "token": "M Y <space> D E A R <space> S A I D <space> M I S T E R <space> H A L E <space> A L A R M E D <space> P R A Y <space> D O N <unk> T <space> G O <space> O F F <space> O N <space> T H A T <space> I D E A",
+                    "tokenid": "15 27 2 6 7 3 20 2 21 3 11 6 2 15 11 21 22 7 20 2 10 3 14 7 2 3 14 3 20 15 7 6 2 18 20 3 27 2 6 17 16 1 22 2 9 17 2 17 8 8 2 17 16 2 22 10 3 22 2 11 6 7 3"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1688-142285-0092": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>E IM SHOOR AT EANY RAT SHE WOULD NOT LIKE STRANERS TO NOW ANYTHING ABOUT IT<eos>",
+                    "rec_token": "<blank> E <space> I M <space> S H O O R <space> A T <space> E A N Y <space> R A T <space> S H E <space> W O U L D <space> N O T <space> L I K E <space> S T R A N E R S <space> T O <space> N O W <space> A N Y T H I N G <space> A B O U T <space> I T <eos>",
+                    "rec_tokenid": "0 7 2 11 15 2 21 10 17 17 20 2 3 22 2 7 3 16 27 2 20 3 22 2 21 10 7 2 25 17 23 14 6 2 16 17 22 2 14 11 13 7 2 21 22 20 3 16 7 20 21 2 22 17 2 16 17 25 2 3 16 27 22 10 11 16 9 2 3 4 17 23 22 2 11 22 29",
+                    "score": 73.67379760742188,
+                    "shape": [
+                        76,
+                        30
+                    ],
+                    "text": "I AM SURE AT ANY RATE SHE WOULD NOT LIKE STRANGERS TO KNOW ANYTHING ABOUT IT",
+                    "token": "I <space> A M <space> S U R E <space> A T <space> A N Y <space> R A T E <space> S H E <space> W O U L D <space> N O T <space> L I K E <space> S T R A N G E R S <space> T O <space> K N O W <space> A N Y T H I N G <space> A B O U T <space> I T",
+                    "tokenid": "11 2 3 15 2 21 23 20 7 2 3 22 2 3 16 27 2 20 3 22 7 2 21 10 7 2 25 17 23 14 6 2 16 17 22 2 14 11 13 7 2 21 22 20 3 16 9 7 20 21 2 22 17 2 13 16 17 25 2 3 16 27 22 10 11 16 9 2 3 4 17 23 22 2 11 22"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1688-142285-0093": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> TEGK NOUTEISD THAT THIS IS NOT MIY CIMNED OF FORTINA<unk>S POPAR IF I HAVE ANY AT ALL WHICH I D ON<unk>T AGRE TO THO YOU ALWAS ACUSING ME OF IT<eos>",
+                    "rec_token": "<blank> <space> T E G K <space> N O U T E I S D <space> T H A T <space> T H I S <space> I S <space> N O T <space> M I Y <space> C I M N E D <space> O F <space> F O R T I N A <unk> S <space> P O P A R <space> I F <space> I <space> H A V E <space> A N Y <space> A T <space> A L L <space> W H I C H <space> I <space> D <space> O N <unk> T <space> A G R E <space> T O <space> T H O <space> Y O U <space> A L W A S <space> A C U S I N G <space> M E <space> O F <space> I T <eos>",
+                    "rec_tokenid": "0 2 22 7 9 13 2 16 17 23 22 7 11 21 6 2 22 10 3 22 2 22 10 11 21 2 11 21 2 16 17 22 2 15 11 27 2 5 11 15 16 7 6 2 17 8 2 8 17 20 22 11 16 3 1 21 2 18 17 18 3 20 2 11 8 2 11 2 10 3 24 7 2 3 16 27 2 3 22 2 3 14 14 2 25 10 11 5 10 2 11 2 6 2 17 16 1 22 2 3 9 20 7 2 22 17 2 22 10 17 2 27 17 23 2 3 14 25 3 21 2 3 5 23 21 11 16 9 2 15 7 2 17 8 2 11 22 29",
+                    "score": 124.9129409790039,
+                    "shape": [
+                        134,
+                        30
+                    ],
+                    "text": "TAKE NOTICE THAT IS NOT MY KIND OF HAUGHTINESS PAPA IF I HAVE ANY AT ALL WHICH I DON'T AGREE TO THOUGH YOU'RE ALWAYS ACCUSING ME OF IT",
+                    "token": "T A K E <space> N O T I C E <space> T H A T <space> I S <space> N O T <space> M Y <space> K I N D <space> O F <space> H A U G H T I N E S S <space> P A P A <space> I F <space> I <space> H A V E <space> A N Y <space> A T <space> A L L <space> W H I C H <space> I <space> D O N <unk> T <space> A G R E E <space> T O <space> T H O U G H <space> Y O U <unk> R E <space> A L W A Y S <space> A C C U S I N G <space> M E <space> O F <space> I T",
+                    "tokenid": "22 3 13 7 2 16 17 22 11 5 7 2 22 10 3 22 2 11 21 2 16 17 22 2 15 27 2 13 11 16 6 2 17 8 2 10 3 23 9 10 22 11 16 7 21 21 2 18 3 18 3 2 11 8 2 11 2 10 3 24 7 2 3 16 27 2 3 22 2 3 14 14 2 25 10 11 5 10 2 11 2 6 17 16 1 22 2 3 9 20 7 7 2 22 17 2 22 10 17 23 9 10 2 27 17 23 1 20 7 2 3 14 25 3 27 21 2 3 5 5 23 21 11 16 9 2 15 7 2 17 8 2 11 22"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1688-142285-0094": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> I DON<unk>T NO POSATIVELY THAT IT IS HERS ITHER BUT FROME LITTL THINGS I HAVE GATHED FROM HIM I FANSY SO<eos>",
+                    "rec_token": "<blank> <space> I <space> D O N <unk> T <space> N O <space> P O S A T I V E L Y <space> T H A T <space> I T <space> I S <space> H E R S <space> I T H E R <space> B U T <space> F R O M E <space> L I T T L <space> T H I N G S <space> I <space> H A V E <space> G A T H E D <space> F R O M <space> H I M <space> I <space> F A N S Y <space> S O <eos>",
+                    "rec_tokenid": "0 2 11 2 6 17 16 1 22 2 16 17 2 18 17 21 3 22 11 24 7 14 27 2 22 10 3 22 2 11 22 2 11 21 2 10 7 20 21 2 11 22 10 7 20 2 4 23 22 2 8 20 17 15 7 2 14 11 22 22 14 2 22 10 11 16 9 21 2 11 2 10 3 24 7 2 9 3 22 10 7 6 2 8 20 17 15 2 10 11 15 2 11 2 8 3 16 21 27 2 21 17 29",
+                    "score": 100.19878387451172,
+                    "shape": [
+                        105,
+                        30
+                    ],
+                    "text": "I DON'T KNOW POSITIVELY THAT IT IS HERS EITHER BUT FROM LITTLE THINGS I HAVE GATHERED FROM HIM I FANCY SO",
+                    "token": "I <space> D O N <unk> T <space> K N O W <space> P O S I T I V E L Y <space> T H A T <space> I T <space> I S <space> H E R S <space> E I T H E R <space> B U T <space> F R O M <space> L I T T L E <space> T H I N G S <space> I <space> H A V E <space> G A T H E R E D <space> F R O M <space> H I M <space> I <space> F A N C Y <space> S O",
+                    "tokenid": "11 2 6 17 16 1 22 2 13 16 17 25 2 18 17 21 11 22 11 24 7 14 27 2 22 10 3 22 2 11 22 2 11 21 2 10 7 20 21 2 7 11 22 10 7 20 2 4 23 22 2 8 20 17 15 2 14 11 22 22 14 7 2 22 10 11 16 9 21 2 11 2 10 3 24 7 2 9 3 22 10 7 20 7 6 2 8 20 17 15 2 10 11 15 2 11 2 8 3 16 5 27 2 21 17"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1688-142285-0095": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THEY CARED TO LITTL TO ASKE IN WHAT MANER HER SOUN HAD SPOQKON ABOUT HER<eos>",
+                    "rec_token": "<blank> <space> T H E Y <space> C A R E D <space> T O <space> L I T T L <space> T O <space> A S K E <space> I N <space> W H A T <space> M A N E R <space> H E R <space> S O U N <space> H A D <space> S P O Q K O N <space> A B O U T <space> H E R <eos>",
+                    "rec_tokenid": "0 2 22 10 7 27 2 5 3 20 7 6 2 22 17 2 14 11 22 22 14 2 22 17 2 3 21 13 7 2 11 16 2 25 10 3 22 2 15 3 16 7 20 2 10 7 20 2 21 17 23 16 2 10 3 6 2 21 18 17 19 13 17 16 2 3 4 17 23 22 2 10 7 20 29",
+                    "score": 71.04745483398438,
+                    "shape": [
+                        72,
+                        30
+                    ],
+                    "text": "THEY CARED TOO LITTLE TO ASK IN WHAT MANNER HER SON HAD SPOKEN ABOUT HER",
+                    "token": "T H E Y <space> C A R E D <space> T O O <space> L I T T L E <space> T O <space> A S K <space> I N <space> W H A T <space> M A N N E R <space> H E R <space> S O N <space> H A D <space> S P O K E N <space> A B O U T <space> H E R",
+                    "tokenid": "22 10 7 27 2 5 3 20 7 6 2 22 17 17 2 14 11 22 22 14 7 2 22 17 2 3 21 13 2 11 16 2 25 10 3 22 2 15 3 16 16 7 20 2 10 7 20 2 21 17 16 2 10 3 6 2 21 18 17 13 7 16 2 3 4 17 23 22 2 10 7 20"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1998-15444-0000": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>HIF CARDS ORE CAS SAPOSED ASUSPECTER TO BE WRUNE OF POISEONING THE MEDECOAN MAN HAS TO DUTYS TO PERFORME TO SAVE THE PATIANCS LIVE AND TO PLACE HIMSELF IN A POSITION TO GIVE EVIDANCE OF CARD AON TO DO SO<eos>",
+                    "rec_token": "<blank> H I F <space> C A R D S <space> O R E <space> C A S <space> S A P O S E D <space> A S U S P E C T E R <space> T O <space> B E <space> W R U N E <space> O F <space> P O I S E O N I N G <space> T H E <space> M E D E C O A N <space> M A N <space> H A S <space> T O <space> D U T Y S <space> T O <space> P E R F O R M E <space> T O <space> S A V E <space> T H E <space> P A T I A N C S <space> L I V E <space> A N D <space> T O <space> P L A C E <space> H I M S E L F <space> I N <space> A <space> P O S I T I O N <space> T O <space> G I V E <space> E V I D A N C E <space> O F <space> C A R D <space> A O N <space> T O <space> D O <space> S O <eos>",
+                    "rec_tokenid": "0 10 11 8 2 5 3 20 6 21 2 17 20 7 2 5 3 21 2 21 3 18 17 21 7 6 2 3 21 23 21 18 7 5 22 7 20 2 22 17 2 4 7 2 25 20 23 16 7 2 17 8 2 18 17 11 21 7 17 16 11 16 9 2 22 10 7 2 15 7 6 7 5 17 3 16 2 15 3 16 2 10 3 21 2 22 17 2 6 23 22 27 21 2 22 17 2 18 7 20 8 17 20 15 7 2 22 17 2 21 3 24 7 2 22 10 7 2 18 3 22 11 3 16 5 21 2 14 11 24 7 2 3 16 6 2 22 17 2 18 14 3 5 7 2 10 11 15 21 7 14 8 2 11 16 2 3 2 18 17 21 11 22 11 17 16 2 22 17 2 9 11 24 7 2 7 24 11 6 3 16 5 7 2 17 8 2 5 3 20 6 2 3 17 16 2 22 17 2 6 17 2 21 17 29",
+                    "score": 194.10508728027344,
+                    "shape": [
+                        207,
+                        30
+                    ],
+                    "text": "IF CALLED TO A CASE SUPPOSED OR SUSPECTED TO BE ONE OF POISONING THE MEDICAL MAN HAS TWO DUTIES TO PERFORM TO SAVE THE PATIENT'S LIFE AND TO PLACE HIMSELF IN A POSITION TO GIVE EVIDENCE IF CALLED ON TO DO SO",
+                    "token": "I F <space> C A L L E D <space> T O <space> A <space> C A S E <space> S U P P O S E D <space> O R <space> S U S P E C T E D <space> T O <space> B E <space> O N E <space> O F <space> P O I S O N I N G <space> T H E <space> M E D I C A L <space> M A N <space> H A S <space> T W O <space> D U T I E S <space> T O <space> P E R F O R M <space> T O <space> S A V E <space> T H E <space> P A T I E N T <unk> S <space> L I F E <space> A N D <space> T O <space> P L A C E <space> H I M S E L F <space> I N <space> A <space> P O S I T I O N <space> T O <space> G I V E <space> E V I D E N C E <space> I F <space> C A L L E D <space> O N <space> T O <space> D O <space> S O",
+                    "tokenid": "11 8 2 5 3 14 14 7 6 2 22 17 2 3 2 5 3 21 7 2 21 23 18 18 17 21 7 6 2 17 20 2 21 23 21 18 7 5 22 7 6 2 22 17 2 4 7 2 17 16 7 2 17 8 2 18 17 11 21 17 16 11 16 9 2 22 10 7 2 15 7 6 11 5 3 14 2 15 3 16 2 10 3 21 2 22 25 17 2 6 23 22 11 7 21 2 22 17 2 18 7 20 8 17 20 15 2 22 17 2 21 3 24 7 2 22 10 7 2 18 3 22 11 7 16 22 1 21 2 14 11 8 7 2 3 16 6 2 22 17 2 18 14 3 5 7 2 10 11 15 21 7 14 8 2 11 16 2 3 2 18 17 21 11 22 11 17 16 2 22 17 2 9 11 24 7 2 7 24 11 6 7 16 5 7 2 11 8 2 5 3 14 14 7 6 2 17 16 2 22 17 2 6 17 2 21 17"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1998-15444-0001": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>WHE SHOULD MAK INQUAIRYS AS TO SIMTAMS AND TIME AT WHICH FROUD A MEADISON WAS LAST TACON<eos>",
+                    "rec_token": "<blank> W H E <space> S H O U L D <space> M A K <space> I N Q U A I R Y S <space> A S <space> T O <space> S I M T A M S <space> A N D <space> T I M E <space> A T <space> W H I C H <space> F R O U D <space> A <space> M E A D I S O N <space> W A S <space> L A S T <space> T A C O N <eos>",
+                    "rec_tokenid": "0 25 10 7 2 21 10 17 23 14 6 2 15 3 13 2 11 16 19 23 3 11 20 27 21 2 3 21 2 22 17 2 21 11 15 22 3 15 21 2 3 16 6 2 22 11 15 7 2 3 22 2 25 10 11 5 10 2 8 20 17 23 6 2 3 2 15 7 3 6 11 21 17 16 2 25 3 21 2 14 3 21 22 2 22 3 5 17 16 29",
+                    "score": 82.79256439208984,
+                    "shape": [
+                        89,
+                        30
+                    ],
+                    "text": "HE SHOULD MAKE INQUIRIES AS TO SYMPTOMS AND TIME AT WHICH FOOD OR MEDICINE WAS LAST TAKEN",
+                    "token": "H E <space> S H O U L D <space> M A K E <space> I N Q U I R I E S <space> A S <space> T O <space> S Y M P T O M S <space> A N D <space> T I M E <space> A T <space> W H I C H <space> F O O D <space> O R <space> M E D I C I N E <space> W A S <space> L A S T <space> T A K E N",
+                    "tokenid": "10 7 2 21 10 17 23 14 6 2 15 3 13 7 2 11 16 19 23 11 20 11 7 21 2 3 21 2 22 17 2 21 27 15 18 22 17 15 21 2 3 16 6 2 22 11 15 7 2 3 22 2 25 10 11 5 10 2 8 17 17 6 2 17 20 2 15 7 6 11 5 11 16 7 2 25 3 21 2 14 3 21 22 2 22 3 13 7 16"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1998-15444-0002": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> HE SHOUD NOUTESE THE POSITION AND TEMPEATERE OF THE BOUDDY THE CONDITION OF RIGAN MORTARS MARKS OF VIRLINS APPERENCS OF LIPS AND MOWUTH<eos>",
+                    "rec_token": "<blank> <space> H E <space> S H O U D <space> N O U T E S E <space> T H E <space> P O S I T I O N <space> A N D <space> T E M P E A T E R E <space> O F <space> T H E <space> B O U D D Y <space> T H E <space> C O N D I T I O N <space> O F <space> R I G A N <space> M O R T A R S <space> M A R K S <space> O F <space> V I R L I N S <space> A P P E R E N C S <space> O F <space> L I P S <space> A N D <space> M O W U T H <eos>",
+                    "rec_tokenid": "0 2 10 7 2 21 10 17 23 6 2 16 17 23 22 7 21 7 2 22 10 7 2 18 17 21 11 22 11 17 16 2 3 16 6 2 22 7 15 18 7 3 22 7 20 7 2 17 8 2 22 10 7 2 4 17 23 6 6 27 2 22 10 7 2 5 17 16 6 11 22 11 17 16 2 17 8 2 20 11 9 3 16 2 15 17 20 22 3 20 21 2 15 3 20 13 21 2 17 8 2 24 11 20 14 11 16 21 2 3 18 18 7 20 7 16 5 21 2 17 8 2 14 11 18 21 2 3 16 6 2 15 17 25 23 22 10 29",
+                    "score": 127.42352294921875,
+                    "shape": [
+                        134,
+                        30
+                    ],
+                    "text": "HE SHOULD NOTICE THE POSITION AND TEMPERATURE OF THE BODY THE CONDITION OF RIGOR MORTIS MARKS OF VIOLENCE APPEARANCE OF LIPS AND MOUTH",
+                    "token": "H E <space> S H O U L D <space> N O T I C E <space> T H E <space> P O S I T I O N <space> A N D <space> T E M P E R A T U R E <space> O F <space> T H E <space> B O D Y <space> T H E <space> C O N D I T I O N <space> O F <space> R I G O R <space> M O R T I S <space> M A R K S <space> O F <space> V I O L E N C E <space> A P P E A R A N C E <space> O F <space> L I P S <space> A N D <space> M O U T H",
+                    "tokenid": "10 7 2 21 10 17 23 14 6 2 16 17 22 11 5 7 2 22 10 7 2 18 17 21 11 22 11 17 16 2 3 16 6 2 22 7 15 18 7 20 3 22 23 20 7 2 17 8 2 22 10 7 2 4 17 6 27 2 22 10 7 2 5 17 16 6 11 22 11 17 16 2 17 8 2 20 11 9 17 20 2 15 17 20 22 11 21 2 15 3 20 13 21 2 17 8 2 24 11 17 14 7 16 5 7 2 3 18 18 7 3 20 3 16 5 7 2 17 8 2 14 11 18 21 2 3 16 6 2 15 17 23 22 10"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1998-15444-0003": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> IN MAKING APHOST MARDAM EXSAMINATION THE ELAMENTRY CANOWL SHOULD BE REMOVED AND PRESERVED FOR FIRTHER NVESTIGATION<eos>",
+                    "rec_token": "<blank> <space> I N <space> M A K I N G <space> A P H O S T <space> M A R D A M <space> E X S A M I N A T I O N <space> T H E <space> E L A M E N T R Y <space> C A N O W L <space> S H O U L D <space> B E <space> R E M O V E D <space> A N D <space> P R E S E R V E D <space> F O R <space> F I R T H E R <space> N V E S T I G A T I O N <eos>",
+                    "rec_tokenid": "0 2 11 16 2 15 3 13 11 16 9 2 3 18 10 17 21 22 2 15 3 20 6 3 15 2 7 26 21 3 15 11 16 3 22 11 17 16 2 22 10 7 2 7 14 3 15 7 16 22 20 27 2 5 3 16 17 25 14 2 21 10 17 23 14 6 2 4 7 2 20 7 15 17 24 7 6 2 3 16 6 2 18 20 7 21 7 20 24 7 6 2 8 17 20 2 8 11 20 22 10 7 20 2 16 24 7 21 22 11 9 3 22 11 17 16 29",
+                    "score": 107.94648742675781,
+                    "shape": [
+                        114,
+                        30
+                    ],
+                    "text": "IN MAKING A POST MORTEM EXAMINATION THE ALIMENTARY CANAL SHOULD BE REMOVED AND PRESERVED FOR FURTHER INVESTIGATION",
+                    "token": "I N <space> M A K I N G <space> A <space> P O S T <space> M O R T E M <space> E X A M I N A T I O N <space> T H E <space> A L I M E N T A R Y <space> C A N A L <space> S H O U L D <space> B E <space> R E M O V E D <space> A N D <space> P R E S E R V E D <space> F O R <space> F U R T H E R <space> I N V E S T I G A T I O N",
+                    "tokenid": "11 16 2 15 3 13 11 16 9 2 3 2 18 17 21 22 2 15 17 20 22 7 15 2 7 26 3 15 11 16 3 22 11 17 16 2 22 10 7 2 3 14 11 15 7 16 22 3 20 27 2 5 3 16 3 14 2 21 10 17 23 14 6 2 4 7 2 20 7 15 17 24 7 6 2 3 16 6 2 18 20 7 21 7 20 24 7 6 2 8 17 20 2 8 23 20 22 10 7 20 2 11 16 24 7 21 22 11 9 3 22 11 17 16"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1998-15444-0004": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THE GAD ONF THE GALET BEING CUT A CROSS BETWEEN THESE LIGOACTURS THE STUMIC MA BE REMOVED ANTIIERED WITHOUT SPINING ITS CONTENCE<eos>",
+                    "rec_token": "<blank> <space> T H E <space> G A D <space> O N F <space> T H E <space> G A L E T <space> B E I N G <space> C U T <space> A <space> C R O S S <space> B E T W E E N <space> T H E S E <space> L I G O A C T U R S <space> T H E <space> S T U M I C <space> M A <space> B E <space> R E M O V E D <space> A N T I I E R E D <space> W I T H O U T <space> S P I N I N G <space> I T S <space> C O N T E N C E <eos>",
+                    "rec_tokenid": "0 2 22 10 7 2 9 3 6 2 17 16 8 2 22 10 7 2 9 3 14 7 22 2 4 7 11 16 9 2 5 23 22 2 3 2 5 20 17 21 21 2 4 7 22 25 7 7 16 2 22 10 7 21 7 2 14 11 9 17 3 5 22 23 20 21 2 22 10 7 2 21 22 23 15 11 5 2 15 3 2 4 7 2 20 7 15 17 24 7 6 2 3 16 22 11 11 7 20 7 6 2 25 11 22 10 17 23 22 2 21 18 11 16 11 16 9 2 11 22 21 2 5 17 16 22 7 16 5 7 29",
+                    "score": 121.82601165771484,
+                    "shape": [
+                        127,
+                        30
+                    ],
+                    "text": "THE GUT AND THE GULLET BEING CUT ACROSS BETWEEN THESE LIGATURES THE STOMACH MAY BE REMOVED ENTIRE WITHOUT SPILLING ITS CONTENTS",
+                    "token": "T H E <space> G U T <space> A N D <space> T H E <space> G U L L E T <space> B E I N G <space> C U T <space> A C R O S S <space> B E T W E E N <space> T H E S E <space> L I G A T U R E S <space> T H E <space> S T O M A C H <space> M A Y <space> B E <space> R E M O V E D <space> E N T I R E <space> W I T H O U T <space> S P I L L I N G <space> I T S <space> C O N T E N T S",
+                    "tokenid": "22 10 7 2 9 23 22 2 3 16 6 2 22 10 7 2 9 23 14 14 7 22 2 4 7 11 16 9 2 5 23 22 2 3 5 20 17 21 21 2 4 7 22 25 7 7 16 2 22 10 7 21 7 2 14 11 9 3 22 23 20 7 21 2 22 10 7 2 21 22 17 15 3 5 10 2 15 3 27 2 4 7 2 20 7 15 17 24 7 6 2 7 16 22 11 20 7 2 25 11 22 10 17 23 22 2 21 18 11 14 14 11 16 9 2 11 22 21 2 5 17 16 22 7 16 22 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1998-15444-0005": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> IFF THE MEDECER PRECTISION HAS INDOWERED ON ANY POINT HE SHOULD OBTAINE TECNICAL ASISTANCE FROM SAMOARIN WHO HAS PAID ATTEAENTION TO THE SUBJECTT<eos>",
+                    "rec_token": "<blank> <space> I F F <space> T H E <space> M E D E C E R <space> P R E C T I S I O N <space> H A S <space> I N D O W E R E D <space> O N <space> A N Y <space> P O I N T <space> H E <space> S H O U L D <space> O B T A I N E <space> T E C N I C A L <space> A S I S T A N C E <space> F R O M <space> S A M O A R I N <space> W H O <space> H A S <space> P A I D <space> A T T E A E N T I O N <space> T O <space> T H E <space> S U B J E C T T <eos>",
+                    "rec_tokenid": "0 2 11 8 8 2 22 10 7 2 15 7 6 7 5 7 20 2 18 20 7 5 22 11 21 11 17 16 2 10 3 21 2 11 16 6 17 25 7 20 7 6 2 17 16 2 3 16 27 2 18 17 11 16 22 2 10 7 2 21 10 17 23 14 6 2 17 4 22 3 11 16 7 2 22 7 5 16 11 5 3 14 2 3 21 11 21 22 3 16 5 7 2 8 20 17 15 2 21 3 15 17 3 20 11 16 2 25 10 17 2 10 3 21 2 18 3 11 6 2 3 22 22 7 3 7 16 22 11 17 16 2 22 17 2 22 10 7 2 21 23 4 12 7 5 22 22 29",
+                    "score": 137.47842407226562,
+                    "shape": [
+                        141,
+                        30
+                    ],
+                    "text": "IF THE MEDICAL PRACTITIONER IS IN DOUBT ON ANY POINT HE SHOULD OBTAIN TECHNICAL ASSISTANCE FROM SOMEONE WHO HAS PAID ATTENTION TO THE SUBJECT",
+                    "token": "I F <space> T H E <space> M E D I C A L <space> P R A C T I T I O N E R <space> I S <space> I N <space> D O U B T <space> O N <space> A N Y <space> P O I N T <space> H E <space> S H O U L D <space> O B T A I N <space> T E C H N I C A L <space> A S S I S T A N C E <space> F R O M <space> S O M E O N E <space> W H O <space> H A S <space> P A I D <space> A T T E N T I O N <space> T O <space> T H E <space> S U B J E C T",
+                    "tokenid": "11 8 2 22 10 7 2 15 7 6 11 5 3 14 2 18 20 3 5 22 11 22 11 17 16 7 20 2 11 21 2 11 16 2 6 17 23 4 22 2 17 16 2 3 16 27 2 18 17 11 16 22 2 10 7 2 21 10 17 23 14 6 2 17 4 22 3 11 16 2 22 7 5 10 16 11 5 3 14 2 3 21 21 11 21 22 3 16 5 7 2 8 20 17 15 2 21 17 15 7 17 16 7 2 25 10 17 2 10 3 21 2 18 3 11 6 2 3 22 22 7 16 22 11 17 16 2 22 17 2 22 10 7 2 21 23 4 12 7 5 22"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1998-15444-0006": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> IN A CAS OF A TEMTED SOISIDED BY POISONING IS IT THE DUTY OF THE DOUCTER TO ENFORME THE POLICS<eos>",
+                    "rec_token": "<blank> <space> I N <space> A <space> C A S <space> O F <space> A <space> T E M T E D <space> S O I S I D E D <space> B Y <space> P O I S O N I N G <space> I S <space> I T <space> T H E <space> D U T Y <space> O F <space> T H E <space> D O U C T E R <space> T O <space> E N F O R M E <space> T H E <space> P O L I C S <eos>",
+                    "rec_tokenid": "0 2 11 16 2 3 2 5 3 21 2 17 8 2 3 2 22 7 15 22 7 6 2 21 17 11 21 11 6 7 6 2 4 27 2 18 17 11 21 17 16 11 16 9 2 11 21 2 11 22 2 22 10 7 2 6 23 22 27 2 17 8 2 22 10 7 2 6 17 23 5 22 7 20 2 22 17 2 7 16 8 17 20 15 7 2 22 10 7 2 18 17 14 11 5 21 29",
+                    "score": 92.38176727294922,
+                    "shape": [
+                        93,
+                        30
+                    ],
+                    "text": "IN A CASE OF ATTEMPTED SUICIDE BY POISONING IS IT THE DUTY OF THE DOCTOR TO INFORM THE POLICE",
+                    "token": "I N <space> A <space> C A S E <space> O F <space> A T T E M P T E D <space> S U I C I D E <space> B Y <space> P O I S O N I N G <space> I S <space> I T <space> T H E <space> D U T Y <space> O F <space> T H E <space> D O C T O R <space> T O <space> I N F O R M <space> T H E <space> P O L I C E",
+                    "tokenid": "11 16 2 3 2 5 3 21 7 2 17 8 2 3 22 22 7 15 18 22 7 6 2 21 23 11 5 11 6 7 2 4 27 2 18 17 11 21 17 16 11 16 9 2 11 21 2 11 22 2 22 10 7 2 6 23 22 27 2 17 8 2 22 10 7 2 6 17 5 22 17 20 2 22 17 2 11 16 8 17 20 15 2 22 10 7 2 18 17 14 11 5 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1998-15444-0007": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THE BEST RMMADIK IS THAT WICH IS AT HAND<eos>",
+                    "rec_token": "<blank> <space> T H E <space> B E S T <space> R M M A D I K <space> I S <space> T H A T <space> W I C H <space> I S <space> A T <space> H A N D <eos>",
+                    "rec_tokenid": "0 2 22 10 7 2 4 7 21 22 2 20 15 15 3 6 11 13 2 11 21 2 22 10 3 22 2 25 11 5 10 2 11 21 2 3 22 2 10 3 16 6 29",
+                    "score": 39.88703155517578,
+                    "shape": [
+                        40,
+                        30
+                    ],
+                    "text": "THE BEST EMETIC IS THAT WHICH IS AT HAND",
+                    "token": "T H E <space> B E S T <space> E M E T I C <space> I S <space> T H A T <space> W H I C H <space> I S <space> A T <space> H A N D",
+                    "tokenid": "22 10 7 2 4 7 21 22 2 7 15 7 22 11 5 2 11 21 2 22 10 3 22 2 25 10 11 5 10 2 11 21 2 3 22 2 10 3 16 6"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1998-15444-0008": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>THE DAS FOREN ADALT IS TEN MINNARNMS<eos>",
+                    "rec_token": "<blank> <eos> T H E <space> D A S <space> F O R E N <space> A D A L T <space> I S <space> T E N <space> M I N N A R N M S <eos>",
+                    "rec_tokenid": "0 29 22 10 7 2 6 3 21 2 8 17 20 7 16 2 3 6 3 14 22 2 11 21 2 22 7 16 2 15 11 16 16 3 20 16 15 21 29",
+                    "score": 431.8033447265625,
+                    "shape": [
+                        35,
+                        30
+                    ],
+                    "text": "THE DOSE FOR AN ADULT IS TEN MINIMS",
+                    "token": "T H E <space> D O S E <space> F O R <space> A N <space> A D U L T <space> I S <space> T E N <space> M I N I M S",
+                    "tokenid": "22 10 7 2 6 17 21 7 2 8 17 20 2 3 16 2 3 6 23 14 22 2 11 21 2 22 7 16 2 15 11 16 11 15 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1998-15444-0009": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> APEMORFIN IS NOT ALYD IN FERSILOUDGECAL ACTION TO MOREFIN AND MA BE GIVEN IN CACES OF NAKARTIC POISONING<eos>",
+                    "rec_token": "<blank> <space> A P E M O R F I N <space> I S <space> N O T <space> A L Y D <space> I N <space> F E R S I L O U D G E C A L <space> A C T I O N <space> T O <space> M O R E F I N <space> A N D <space> M A <space> B E <space> G I V E N <space> I N <space> C A C E S <space> O F <space> N A K A R T I C <space> P O I S O N I N G <eos>",
+                    "rec_tokenid": "0 2 3 18 7 15 17 20 8 11 16 2 11 21 2 16 17 22 2 3 14 27 6 2 11 16 2 8 7 20 21 11 14 17 23 6 9 7 5 3 14 2 3 5 22 11 17 16 2 22 17 2 15 17 20 7 8 11 16 2 3 16 6 2 15 3 2 4 7 2 9 11 24 7 16 2 11 16 2 5 3 5 7 21 2 17 8 2 16 3 13 3 20 22 11 5 2 18 17 11 21 17 16 11 16 9 29",
+                    "score": 99.50719451904297,
+                    "shape": [
+                        109,
+                        30
+                    ],
+                    "text": "APOMORPHINE IS NOT ALLIED IN PHYSIOLOGICAL ACTION TO MORPHINE AND MAY BE GIVEN IN CASES OF NARCOTIC POISONING",
+                    "token": "A P O M O R P H I N E <space> I S <space> N O T <space> A L L I E D <space> I N <space> P H Y S I O L O G I C A L <space> A C T I O N <space> T O <space> M O R P H I N E <space> A N D <space> M A Y <space> B E <space> G I V E N <space> I N <space> C A S E S <space> O F <space> N A R C O T I C <space> P O I S O N I N G",
+                    "tokenid": "3 18 17 15 17 20 18 10 11 16 7 2 11 21 2 16 17 22 2 3 14 14 11 7 6 2 11 16 2 18 10 27 21 11 17 14 17 9 11 5 3 14 2 3 5 22 11 17 16 2 22 17 2 15 17 20 18 10 11 16 7 2 3 16 6 2 15 3 27 2 4 7 2 9 11 24 7 16 2 11 16 2 5 3 21 7 21 2 17 8 2 16 3 20 5 17 22 11 5 2 18 17 11 21 17 16 11 16 9"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1998-15444-0010": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> TICLING THE FOSES WITH A FEASER MAKE SIDE WORMETING<eos>",
+                    "rec_token": "<blank> <space> T I C L I N G <space> T H E <space> F O S E S <space> W I T H <space> A <space> F E A S E R <space> M A K E <space> S I D E <space> W O R M E T I N G <eos>",
+                    "rec_tokenid": "0 2 22 11 5 14 11 16 9 2 22 10 7 2 8 17 21 7 21 2 25 11 22 10 2 3 2 8 7 3 21 7 20 2 15 3 13 7 2 21 11 6 7 2 25 17 20 15 7 22 11 16 9 29",
+                    "score": 50.2960205078125,
+                    "shape": [
+                        54,
+                        30
+                    ],
+                    "text": "TICKLING THE FAUCES WITH A FEATHER MAY EXCITE VOMITING",
+                    "token": "T I C K L I N G <space> T H E <space> F A U C E S <space> W I T H <space> A <space> F E A T H E R <space> M A Y <space> E X C I T E <space> V O M I T I N G",
+                    "tokenid": "22 11 5 13 14 11 16 9 2 22 10 7 2 8 3 23 5 7 21 2 25 11 22 10 2 3 2 8 7 3 22 10 7 20 2 15 3 27 2 7 26 5 11 22 7 2 24 17 15 11 22 11 16 9"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1998-15444-0011": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> IN YUSING THE ALEUSTRECK STAMIC TUB SEMFROIDT SHOULD BE ENTRADUSED INTO THE STUMICK BEFORE ATTEMTING TO EMTI IT ORE A PORTION OF THE UCAS MAMERAN MA BE SANKED IN TO THE APATCTHEOR<eos>",
+                    "rec_token": "<blank> <space> I N <space> Y U S I N G <space> T H E <space> A L E U S T R E C K <space> S T A M I C <space> T U B <space> S E M F R O I D T <space> S H O U L D <space> B E <space> E N T R A D U S E D <space> I N T O <space> T H E <space> S T U M I C K <space> B E F O R E <space> A T T E M T I N G <space> T O <space> E M T I <space> I T <space> O R E <space> A <space> P O R T I O N <space> O F <space> T H E <space> U C A S <space> M A M E R A N <space> M A <space> B E <space> S A N K E D <space> I N <space> T O <space> T H E <space> A P A T C T H E O R <eos>",
+                    "rec_tokenid": "0 2 11 16 2 27 23 21 11 16 9 2 22 10 7 2 3 14 7 23 21 22 20 7 5 13 2 21 22 3 15 11 5 2 22 23 4 2 21 7 15 8 20 17 11 6 22 2 21 10 17 23 14 6 2 4 7 2 7 16 22 20 3 6 23 21 7 6 2 11 16 22 17 2 22 10 7 2 21 22 23 15 11 5 13 2 4 7 8 17 20 7 2 3 22 22 7 15 22 11 16 9 2 22 17 2 7 15 22 11 2 11 22 2 17 20 7 2 3 2 18 17 20 22 11 17 16 2 17 8 2 22 10 7 2 23 5 3 21 2 15 3 15 7 20 3 16 2 15 3 2 4 7 2 21 3 16 13 7 6 2 11 16 2 22 17 2 22 10 7 2 3 18 3 22 5 22 10 7 17 20 29",
+                    "score": 164.47067260742188,
+                    "shape": [
+                        180,
+                        30
+                    ],
+                    "text": "IN USING THE ELASTIC STOMACH TUBE SOME FLUID SHOULD BE INTRODUCED INTO THE STOMACH BEFORE ATTEMPTING TO EMPTY IT OR A PORTION OF THE MUCOUS MEMBRANE MAY BE SUCKED INTO THE APERTURE",
+                    "token": "I N <space> U S I N G <space> T H E <space> E L A S T I C <space> S T O M A C H <space> T U B E <space> S O M E <space> F L U I D <space> S H O U L D <space> B E <space> I N T R O D U C E D <space> I N T O <space> T H E <space> S T O M A C H <space> B E F O R E <space> A T T E M P T I N G <space> T O <space> E M P T Y <space> I T <space> O R <space> A <space> P O R T I O N <space> O F <space> T H E <space> M U C O U S <space> M E M B R A N E <space> M A Y <space> B E <space> S U C K E D <space> I N T O <space> T H E <space> A P E R T U R E",
+                    "tokenid": "11 16 2 23 21 11 16 9 2 22 10 7 2 7 14 3 21 22 11 5 2 21 22 17 15 3 5 10 2 22 23 4 7 2 21 17 15 7 2 8 14 23 11 6 2 21 10 17 23 14 6 2 4 7 2 11 16 22 20 17 6 23 5 7 6 2 11 16 22 17 2 22 10 7 2 21 22 17 15 3 5 10 2 4 7 8 17 20 7 2 3 22 22 7 15 18 22 11 16 9 2 22 17 2 7 15 18 22 27 2 11 22 2 17 20 2 3 2 18 17 20 22 11 17 16 2 17 8 2 22 10 7 2 15 23 5 17 23 21 2 15 7 15 4 20 3 16 7 2 15 3 27 2 4 7 2 21 23 5 13 7 6 2 11 16 22 17 2 22 10 7 2 3 18 7 20 22 23 20 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1998-15444-0012": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THE TEB SHOULD BE EGSAMINED TO SEE THAT IT HIS NOT BROCON A CRECED AS AXCOUDANTS HAVE HAPENED FROM NEAGLECTING THIS PROCOURTION<eos>",
+                    "rec_token": "<blank> <space> T H E <space> T E B <space> S H O U L D <space> B E <space> E G S A M I N E D <space> T O <space> S E E <space> T H A T <space> I T <space> H I S <space> N O T <space> B R O C O N <space> A <space> C R E C E D <space> A S <space> A X C O U D A N T S <space> H A V E <space> H A P E N E D <space> F R O M <space> N E A G L E C T I N G <space> T H I S <space> P R O C O U R T I O N <eos>",
+                    "rec_tokenid": "0 2 22 10 7 2 22 7 4 2 21 10 17 23 14 6 2 4 7 2 7 9 21 3 15 11 16 7 6 2 22 17 2 21 7 7 2 22 10 3 22 2 11 22 2 10 11 21 2 16 17 22 2 4 20 17 5 17 16 2 3 2 5 20 7 5 7 6 2 3 21 2 3 26 5 17 23 6 3 16 22 21 2 10 3 24 7 2 10 3 18 7 16 7 6 2 8 20 17 15 2 16 7 3 9 14 7 5 22 11 16 9 2 22 10 11 21 2 18 20 17 5 17 23 20 22 11 17 16 29",
+                    "score": 119.74372100830078,
+                    "shape": [
+                        126,
+                        30
+                    ],
+                    "text": "THE TUBE SHOULD BE EXAMINED TO SEE THAT IT IS NOT BROKEN OR CRACKED AS ACCIDENTS HAVE HAPPENED FROM NEGLECTING THIS PRECAUTION",
+                    "token": "T H E <space> T U B E <space> S H O U L D <space> B E <space> E X A M I N E D <space> T O <space> S E E <space> T H A T <space> I T <space> I S <space> N O T <space> B R O K E N <space> O R <space> C R A C K E D <space> A S <space> A C C I D E N T S <space> H A V E <space> H A P P E N E D <space> F R O M <space> N E G L E C T I N G <space> T H I S <space> P R E C A U T I O N",
+                    "tokenid": "22 10 7 2 22 23 4 7 2 21 10 17 23 14 6 2 4 7 2 7 26 3 15 11 16 7 6 2 22 17 2 21 7 7 2 22 10 3 22 2 11 22 2 11 21 2 16 17 22 2 4 20 17 13 7 16 2 17 20 2 5 20 3 5 13 7 6 2 3 21 2 3 5 5 11 6 7 16 22 21 2 10 3 24 7 2 10 3 18 18 7 16 7 6 2 8 20 17 15 2 16 7 9 14 7 5 22 11 16 9 2 22 10 11 21 2 18 20 7 5 3 23 22 11 17 16"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1998-15444-0013": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> AND HE DOUTS A USUALY GIVEN HIPADERMICALLY ORE IFT TWERE MOWUS IND THE FORME OF TABLEAETS<eos>",
+                    "rec_token": "<blank> <space> A N D <space> H E <space> D O U T S <space> A <space> U S U A L Y <space> G I V E N <space> H I P A D E R M I C A L L Y <space> O R E <space> I F T <space> T W E R E <space> M O W U S <space> I N D <space> T H E <space> F O R M E <space> O F <space> T A B L E A E T S <eos>",
+                    "rec_tokenid": "0 2 3 16 6 2 10 7 2 6 17 23 22 21 2 3 2 23 21 23 3 14 27 2 9 11 24 7 16 2 10 11 18 3 6 7 20 15 11 5 3 14 14 27 2 17 20 7 2 11 8 22 2 22 25 7 20 7 2 15 17 25 23 21 2 11 16 6 2 22 10 7 2 8 17 20 15 7 2 17 8 2 22 3 4 14 7 3 7 22 21 29",
+                    "score": 81.7952880859375,
+                    "shape": [
+                        80,
+                        30
+                    ],
+                    "text": "ANTIDOTES ARE USUALLY GIVEN HYPODERMICALLY OR IF BY MOUTH IN THE FORM OF TABLETS",
+                    "token": "A N T I D O T E S <space> A R E <space> U S U A L L Y <space> G I V E N <space> H Y P O D E R M I C A L L Y <space> O R <space> I F <space> B Y <space> M O U T H <space> I N <space> T H E <space> F O R M <space> O F <space> T A B L E T S",
+                    "tokenid": "3 16 22 11 6 17 22 7 21 2 3 20 7 2 23 21 23 3 14 14 27 2 9 11 24 7 16 2 10 27 18 17 6 7 20 15 11 5 3 14 14 27 2 17 20 2 11 8 2 4 27 2 15 17 23 22 10 2 11 16 2 22 10 7 2 8 17 20 15 2 17 8 2 22 3 4 14 7 22 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1998-15444-0014": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> IN THE ABSANCE OF HA HIPODARMIC SARRANGE THE REMADY MA BE GIVEN BY THE RECTAM<eos>",
+                    "rec_token": "<blank> <space> I N <space> T H E <space> A B S A N C E <space> O F <space> H A <space> H I P O D A R M I C <space> S A R R A N G E <space> T H E <space> R E M A D Y <space> M A <space> B E <space> G I V E N <space> B Y <space> T H E <space> R E C T A M <eos>",
+                    "rec_tokenid": "0 2 11 16 2 22 10 7 2 3 4 21 3 16 5 7 2 17 8 2 10 3 2 10 11 18 17 6 3 20 15 11 5 2 21 3 20 20 3 16 9 7 2 22 10 7 2 20 7 15 3 6 27 2 15 3 2 4 7 2 9 11 24 7 16 2 4 27 2 22 10 7 2 20 7 5 22 3 15 29",
+                    "score": 75.17601776123047,
+                    "shape": [
+                        76,
+                        30
+                    ],
+                    "text": "IN THE ABSENCE OF A HYPODERMIC SYRINGE THE REMEDY MAY BE GIVEN BY THE RECTUM",
+                    "token": "I N <space> T H E <space> A B S E N C E <space> O F <space> A <space> H Y P O D E R M I C <space> S Y R I N G E <space> T H E <space> R E M E D Y <space> M A Y <space> B E <space> G I V E N <space> B Y <space> T H E <space> R E C T U M",
+                    "tokenid": "11 16 2 22 10 7 2 3 4 21 7 16 5 7 2 17 8 2 3 2 10 27 18 17 6 7 20 15 11 5 2 21 27 20 11 16 9 7 2 22 10 7 2 20 7 15 7 6 27 2 15 3 27 2 4 7 2 9 11 24 7 16 2 4 27 2 22 10 7 2 20 7 5 22 23 15"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1998-15444-0015": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>H NOTEISED THE SMAR CAULER AND JENIRAL APPEARAENCE OF THE MATERS SOBMITED FOR EXSAMINATION<eos>",
+                    "rec_token": "<blank> H <space> N O T E I S E D <space> T H E <space> S M A R <space> C A U L E R <space> A N D <space> J E N I R A L <space> A P P E A R A E N C E <space> O F <space> T H E <space> M A T E R S <space> S O B M I T E D <space> F O R <space> E X S A M I N A T I O N <eos>",
+                    "rec_tokenid": "0 10 2 16 17 22 7 11 21 7 6 2 22 10 7 2 21 15 3 20 2 5 3 23 14 7 20 2 3 16 6 2 12 7 16 11 20 3 14 2 3 18 18 7 3 20 3 7 16 5 7 2 17 8 2 22 10 7 2 15 3 22 7 20 21 2 21 17 4 15 11 22 7 6 2 8 17 20 2 7 26 21 3 15 11 16 3 22 11 17 16 29",
+                    "score": 84.10252380371094,
+                    "shape": [
+                        86,
+                        30
+                    ],
+                    "text": "NOTICE THE SMELL COLOUR AND GENERAL APPEARANCE OF THE MATTER SUBMITTED FOR EXAMINATION",
+                    "token": "N O T I C E <space> T H E <space> S M E L L <space> C O L O U R <space> A N D <space> G E N E R A L <space> A P P E A R A N C E <space> O F <space> T H E <space> M A T T E R <space> S U B M I T T E D <space> F O R <space> E X A M I N A T I O N",
+                    "tokenid": "16 17 22 11 5 7 2 22 10 7 2 21 15 7 14 14 2 5 17 14 17 23 20 2 3 16 6 2 9 7 16 7 20 3 14 2 3 18 18 7 3 20 3 16 5 7 2 17 8 2 22 10 7 2 15 3 22 22 7 20 2 21 23 4 15 11 22 22 7 6 2 8 17 20 2 7 26 3 15 11 16 3 22 11 17 16"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1998-15444-0016": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> FOR THE SEPARATION OF AN ARCULOYD THE FOLOING AS THE PROUSSESS OF SHDAFS ARTO<eos>",
+                    "rec_token": "<blank> <space> F O R <space> T H E <space> S E P A R A T I O N <space> O F <space> A N <space> A R C U L O Y D <space> T H E <space> F O L O I N G <space> A S <space> T H E <space> P R O U S S E S S <space> O F <space> S H D A F S <space> A R T O <eos>",
+                    "rec_tokenid": "0 2 8 17 20 2 22 10 7 2 21 7 18 3 20 3 22 11 17 16 2 17 8 2 3 16 2 3 20 5 23 14 17 27 6 2 22 10 7 2 8 17 14 17 11 16 9 2 3 21 2 22 10 7 2 18 20 17 23 21 21 7 21 21 2 17 8 2 21 10 6 3 8 21 2 3 20 22 17 29",
+                    "score": 75.47662353515625,
+                    "shape": [
+                        75,
+                        30
+                    ],
+                    "text": "FOR THE SEPARATION OF AN ALKALOID THE FOLLOWING IS THE PROCESS OF STAS OTTO",
+                    "token": "F O R <space> T H E <space> S E P A R A T I O N <space> O F <space> A N <space> A L K A L O I D <space> T H E <space> F O L L O W I N G <space> I S <space> T H E <space> P R O C E S S <space> O F <space> S T A S <space> O T T O",
+                    "tokenid": "8 17 20 2 22 10 7 2 21 7 18 3 20 3 22 11 17 16 2 17 8 2 3 16 2 3 14 13 3 14 17 11 6 2 22 10 7 2 8 17 14 14 17 25 11 16 9 2 11 21 2 22 10 7 2 18 20 17 5 7 21 21 2 17 8 2 21 22 3 21 2 17 22 22 17"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1998-15444-0017": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THIS PROSSESS WAS BACED APON THE PRINCSIPL THAT THE SOLTS OF THE ACOULIDES AS SOLIUBAL IN ACKOUL AND WAGHTER AND IN SOULIUABLE AN EATHER<eos>",
+                    "rec_token": "<blank> <space> T H I S <space> P R O S S E S S <space> W A S <space> B A C E D <space> A P O N <space> T H E <space> P R I N C S I P L <space> T H A T <space> T H E <space> S O L T S <space> O F <space> T H E <space> A C O U L I D E S <space> A S <space> S O L I U B A L <space> I N <space> A C K O U L <space> A N D <space> W A G H T E R <space> A N D <space> I N <space> S O U L I U A B L E <space> A N <space> E A T H E R <eos>",
+                    "rec_tokenid": "0 2 22 10 11 21 2 18 20 17 21 21 7 21 21 2 25 3 21 2 4 3 5 7 6 2 3 18 17 16 2 22 10 7 2 18 20 11 16 5 21 11 18 14 2 22 10 3 22 2 22 10 7 2 21 17 14 22 21 2 17 8 2 22 10 7 2 3 5 17 23 14 11 6 7 21 2 3 21 2 21 17 14 11 23 4 3 14 2 11 16 2 3 5 13 17 23 14 2 3 16 6 2 25 3 9 10 22 7 20 2 3 16 6 2 11 16 2 21 17 23 14 11 23 3 4 14 7 2 3 16 2 7 3 22 10 7 20 29",
+                    "score": 127.70197296142578,
+                    "shape": [
+                        128,
+                        30
+                    ],
+                    "text": "THIS PROCESS IS BASED UPON THE PRINCIPLE THAT THE SALTS OF THE ALKALOIDS ARE SOLUBLE IN ALCOHOL AND WATER AND INSOLUBLE IN ETHER",
+                    "token": "T H I S <space> P R O C E S S <space> I S <space> B A S E D <space> U P O N <space> T H E <space> P R I N C I P L E <space> T H A T <space> T H E <space> S A L T S <space> O F <space> T H E <space> A L K A L O I D S <space> A R E <space> S O L U B L E <space> I N <space> A L C O H O L <space> A N D <space> W A T E R <space> A N D <space> I N S O L U B L E <space> I N <space> E T H E R",
+                    "tokenid": "22 10 11 21 2 18 20 17 5 7 21 21 2 11 21 2 4 3 21 7 6 2 23 18 17 16 2 22 10 7 2 18 20 11 16 5 11 18 14 7 2 22 10 3 22 2 22 10 7 2 21 3 14 22 21 2 17 8 2 22 10 7 2 3 14 13 3 14 17 11 6 21 2 3 20 7 2 21 17 14 23 4 14 7 2 11 16 2 3 14 5 17 10 17 14 2 3 16 6 2 25 3 22 7 20 2 3 16 6 2 11 16 21 17 14 23 4 14 7 2 11 16 2 7 22 10 7 20"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1998-15444-0018": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THE PURE ACOULOITS WAS THE ECCEPSION OF MORFIN IN ITS CRISTAILINFORM AS SOULDIUBLE IN EATHER<eos>",
+                    "rec_token": "<blank> <space> T H E <space> P U R E <space> A C O U L O I T S <space> W A S <space> T H E <space> E C C E P S I O N <space> O F <space> M O R F I N <space> I N <space> I T S <space> C R I S T A I L I N F O R M <space> A S <space> S O U L D I U B L E <space> I N <space> E A T H E R <eos>",
+                    "rec_tokenid": "0 2 22 10 7 2 18 23 20 7 2 3 5 17 23 14 17 11 22 21 2 25 3 21 2 22 10 7 2 7 5 5 7 18 21 11 17 16 2 17 8 2 15 17 20 8 11 16 2 11 16 2 11 22 21 2 5 20 11 21 22 3 11 14 11 16 8 17 20 15 2 3 21 2 21 17 23 14 6 11 23 4 14 7 2 11 16 2 7 3 22 10 7 20 29",
+                    "score": 89.0732650756836,
+                    "shape": [
+                        94,
+                        30
+                    ],
+                    "text": "THE PURE ALKALOIDS WITH THE EXCEPTION OF MORPHINE IN ITS CRYSTALLINE FORM ARE SOLUBLE IN ETHER",
+                    "token": "T H E <space> P U R E <space> A L K A L O I D S <space> W I T H <space> T H E <space> E X C E P T I O N <space> O F <space> M O R P H I N E <space> I N <space> I T S <space> C R Y S T A L L I N E <space> F O R M <space> A R E <space> S O L U B L E <space> I N <space> E T H E R",
+                    "tokenid": "22 10 7 2 18 23 20 7 2 3 14 13 3 14 17 11 6 21 2 25 11 22 10 2 22 10 7 2 7 26 5 7 18 22 11 17 16 2 17 8 2 15 17 20 18 10 11 16 7 2 11 16 2 11 22 21 2 5 20 27 21 22 3 14 14 11 16 7 2 8 17 20 15 2 3 20 7 2 21 17 14 23 4 14 7 2 11 16 2 7 22 10 7 20"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1998-15444-0019": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><unk>TO COUL THE MIXTIR AND FEULTER WASHE THE REVEDERE WITH STRAUNG ACOHOL AND MIXED THE FEURTRAIDES<eos>",
+                    "rec_token": "<blank> <unk> T O <space> C O U L <space> T H E <space> M I X T I R <space> A N D <space> F E U L T E R <space> W A S H E <space> T H E <space> R E V E D E R E <space> W I T H <space> S T R A U N G <space> A C O H O L <space> A N D <space> M I X E D <space> T H E <space> F E U R T R A I D E S <eos>",
+                    "rec_tokenid": "0 1 22 17 2 5 17 23 14 2 22 10 7 2 15 11 26 22 11 20 2 3 16 6 2 8 7 23 14 22 7 20 2 25 3 21 10 7 2 22 10 7 2 20 7 24 7 6 7 20 7 2 25 11 22 10 2 21 22 20 3 23 16 9 2 3 5 17 10 17 14 2 3 16 6 2 15 11 26 7 6 2 22 10 7 2 8 7 23 20 22 20 3 11 6 7 21 29",
+                    "score": 89.97452545166016,
+                    "shape": [
+                        90,
+                        30
+                    ],
+                    "text": "TWO COOL THE MIXTURE AND FILTER WASH THE RESIDUE WITH STRONG ALCOHOL AND MIX THE FILTRATES",
+                    "token": "T W O <space> C O O L <space> T H E <space> M I X T U R E <space> A N D <space> F I L T E R <space> W A S H <space> T H E <space> R E S I D U E <space> W I T H <space> S T R O N G <space> A L C O H O L <space> A N D <space> M I X <space> T H E <space> F I L T R A T E S",
+                    "tokenid": "22 25 17 2 5 17 17 14 2 22 10 7 2 15 11 26 22 23 20 7 2 3 16 6 2 8 11 14 22 7 20 2 25 3 21 10 2 22 10 7 2 20 7 21 11 6 23 7 2 25 11 22 10 2 21 22 20 17 16 9 2 3 14 5 17 10 17 14 2 3 16 6 2 15 11 26 2 22 10 7 2 8 11 14 22 20 3 22 7 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1998-15444-0020": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THE REDEDEUM MA BE SATT ASID FOR THE DETACTION OF THE MATARLICK POISONS HOF SOSPECTED EXPELED THE ACKOHOL BY CAREFUL EVEPARATION<eos>",
+                    "rec_token": "<blank> <space> T H E <space> R E D E D E U M <space> M A <space> B E <space> S A T T <space> A S I D <space> F O R <space> T H E <space> D E T A C T I O N <space> O F <space> T H E <space> M A T A R L I C K <space> P O I S O N S <space> H O F <space> S O S P E C T E D <space> E X P E L E D <space> T H E <space> A C K O H O L <space> B Y <space> C A R E F U L <space> E V E P A R A T I O N <eos>",
+                    "rec_tokenid": "0 2 22 10 7 2 20 7 6 7 6 7 23 15 2 15 3 2 4 7 2 21 3 22 22 2 3 21 11 6 2 8 17 20 2 22 10 7 2 6 7 22 3 5 22 11 17 16 2 17 8 2 22 10 7 2 15 3 22 3 20 14 11 5 13 2 18 17 11 21 17 16 21 2 10 17 8 2 21 17 21 18 7 5 22 7 6 2 7 26 18 7 14 7 6 2 22 10 7 2 3 5 13 17 10 17 14 2 4 27 2 5 3 20 7 8 23 14 2 7 24 7 18 3 20 3 22 11 17 16 29",
+                    "score": 118.47077941894531,
+                    "shape": [
+                        124,
+                        30
+                    ],
+                    "text": "THE RESIDUE MAY BE SET ASIDE FOR THE DETECTION OF THE METALLIC POISONS IF SUSPECTED EXPEL THE ALCOHOL BY CAREFUL EVAPORATION",
+                    "token": "T H E <space> R E S I D U E <space> M A Y <space> B E <space> S E T <space> A S I D E <space> F O R <space> T H E <space> D E T E C T I O N <space> O F <space> T H E <space> M E T A L L I C <space> P O I S O N S <space> I F <space> S U S P E C T E D <space> E X P E L <space> T H E <space> A L C O H O L <space> B Y <space> C A R E F U L <space> E V A P O R A T I O N",
+                    "tokenid": "22 10 7 2 20 7 21 11 6 23 7 2 15 3 27 2 4 7 2 21 7 22 2 3 21 11 6 7 2 8 17 20 2 22 10 7 2 6 7 22 7 5 22 11 17 16 2 17 8 2 22 10 7 2 15 7 22 3 14 14 11 5 2 18 17 11 21 17 16 21 2 11 8 2 21 23 21 18 7 5 22 7 6 2 7 26 18 7 14 2 22 10 7 2 3 14 5 17 10 17 14 2 4 27 2 5 3 20 7 8 23 14 2 7 24 3 18 17 20 3 22 11 17 16"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1998-15444-0021": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> UN THE A VREPARATION OF THE AKOUHALE THE VESINERS AND FADY MATERS SEPARATTE<eos>",
+                    "rec_token": "<blank> <space> U N <space> T H E <space> A <space> V R E P A R A T I O N <space> O F <space> T H E <space> A K O U H A L E <space> T H E <space> V E S I N E R S <space> A N D <space> F A D Y <space> M A T E R S <space> S E P A R A T T E <eos>",
+                    "rec_tokenid": "0 2 23 16 2 22 10 7 2 3 2 24 20 7 18 3 20 3 22 11 17 16 2 17 8 2 22 10 7 2 3 13 17 23 10 3 14 7 2 22 10 7 2 24 7 21 11 16 7 20 21 2 3 16 6 2 8 3 6 27 2 15 3 22 7 20 21 2 21 7 18 3 20 3 22 22 7 29",
+                    "score": 71.90573120117188,
+                    "shape": [
+                        73,
+                        30
+                    ],
+                    "text": "ON THE EVAPORATION OF THE ALCOHOL THE RESINOUS AND FATTY MATTERS SEPARATE",
+                    "token": "O N <space> T H E <space> E V A P O R A T I O N <space> O F <space> T H E <space> A L C O H O L <space> T H E <space> R E S I N O U S <space> A N D <space> F A T T Y <space> M A T T E R S <space> S E P A R A T E",
+                    "tokenid": "17 16 2 22 10 7 2 7 24 3 18 17 20 3 22 11 17 16 2 17 8 2 22 10 7 2 3 14 5 17 10 17 14 2 22 10 7 2 20 7 21 11 16 17 23 21 2 3 16 6 2 8 3 22 22 27 2 15 3 22 22 7 20 21 2 21 7 18 3 20 3 22 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1998-15444-0022": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>HAVAPORAT THE FEDRED TO A CIROUP AND EXSTRACT WERE SUCCESSIVF PORTIONS OF ABPSIART AGOHORE<eos>",
+                    "rec_token": "<blank> H A V A P O R A T <space> T H E <space> F E D R E D <space> T O <space> A <space> C I R O U P <space> A N D <space> E X S T R A C T <space> W E R E <space> S U C C E S S I V F <space> P O R T I O N S <space> O F <space> A B P S I A R T <space> A G O H O R E <eos>",
+                    "rec_tokenid": "0 10 3 24 3 18 17 20 3 22 2 22 10 7 2 8 7 6 20 7 6 2 22 17 2 3 2 5 11 20 17 23 18 2 3 16 6 2 7 26 21 22 20 3 5 22 2 25 7 20 7 2 21 23 5 5 7 21 21 11 24 8 2 18 17 20 22 11 17 16 21 2 17 8 2 3 4 18 21 11 3 20 22 2 3 9 17 10 17 20 7 29",
+                    "score": 81.1246566772461,
+                    "shape": [
+                        90,
+                        30
+                    ],
+                    "text": "EVAPORATE THE FILTRATE TO A SYRUP AND EXTRACT WITH SUCCESSIVE PORTIONS OF ABSOLUTE ALCOHOL",
+                    "token": "E V A P O R A T E <space> T H E <space> F I L T R A T E <space> T O <space> A <space> S Y R U P <space> A N D <space> E X T R A C T <space> W I T H <space> S U C C E S S I V E <space> P O R T I O N S <space> O F <space> A B S O L U T E <space> A L C O H O L",
+                    "tokenid": "7 24 3 18 17 20 3 22 7 2 22 10 7 2 8 11 14 22 20 3 22 7 2 22 17 2 3 2 21 27 20 23 18 2 3 16 6 2 7 26 22 20 3 5 22 2 25 11 22 10 2 21 23 5 5 7 21 21 11 24 7 2 18 17 20 22 11 17 16 21 2 17 8 2 3 4 21 17 14 23 22 7 2 3 14 5 17 10 17 14"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1998-15444-0023": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> SEPRATE THE ATHERIRAL SALLUTION AND A REPFRAD<eos>",
+                    "rec_token": "<blank> <space> S E P R A T E <space> T H E <space> A T H E R I R A L <space> S A L L U T I O N <space> A N D <space> A <space> R E P F R A D <eos>",
+                    "rec_tokenid": "0 2 21 7 18 20 3 22 7 2 22 10 7 2 3 22 10 7 20 11 20 3 14 2 21 3 14 14 23 22 11 17 16 2 3 16 6 2 3 2 20 7 18 8 20 3 6 29",
+                    "score": 42.58575439453125,
+                    "shape": [
+                        44,
+                        30
+                    ],
+                    "text": "SEPARATE THE ETHEREAL SOLUTION AND EVAPORATE",
+                    "token": "S E P A R A T E <space> T H E <space> E T H E R E A L <space> S O L U T I O N <space> A N D <space> E V A P O R A T E",
+                    "tokenid": "21 7 18 3 20 3 22 7 2 22 10 7 2 7 22 10 7 20 7 3 14 2 21 17 14 23 22 11 17 16 2 3 16 6 2 7 24 3 18 17 20 3 22 7"
+                }
+            ],
+            "utt2spk": ""
+        }
+    }
+}

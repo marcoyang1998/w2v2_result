@@ -1,0 +1,555 @@
+{
+    "utts": {
+        "5764-299665-0004": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>W WHY DID HE CRIEATE THE DEFORMA TAND HARAPLAS WHY DID HE CRIEAIE THE CRIMINAL THE IDIOUTICQK THE INSAIN<eos>",
+                    "rec_token": "<blank> W <space> W H Y <space> D I D <space> H E <space> C R I E A T E <space> T H E <space> D E F O R M A <space> T A N D <space> H A R A P L A S <space> W H Y <space> D I D <space> H E <space> C R I E A I E <space> T H E <space> C R I M I N A L <space> T H E <space> I D I O U T I C Q K <space> T H E <space> I N S A I N <eos>",
+                    "rec_tokenid": "0 25 2 25 10 27 2 6 11 6 2 10 7 2 5 20 11 7 3 22 7 2 22 10 7 2 6 7 8 17 20 15 3 2 22 3 16 6 2 10 3 20 3 18 14 3 21 2 25 10 27 2 6 11 6 2 10 7 2 5 20 11 7 3 11 7 2 22 10 7 2 5 20 11 15 11 16 3 14 2 22 10 7 2 11 6 11 17 23 22 11 5 19 13 2 22 10 7 2 11 16 21 3 11 16 29",
+                    "score": 99.35009002685547,
+                    "shape": [
+                        97,
+                        30
+                    ],
+                    "text": "WHY DID HE CREATE THE DEFORMED AND HELPLESS WHY DID HE CREATE THE CRIMINAL THE IDIOTIC THE INSANE",
+                    "token": "W H Y <space> D I D <space> H E <space> C R E A T E <space> T H E <space> D E F O R M E D <space> A N D <space> H E L P L E S S <space> W H Y <space> D I D <space> H E <space> C R E A T E <space> T H E <space> C R I M I N A L <space> T H E <space> I D I O T I C <space> T H E <space> I N S A N E",
+                    "tokenid": "25 10 27 2 6 11 6 2 10 7 2 5 20 7 3 22 7 2 22 10 7 2 6 7 8 17 20 15 7 6 2 3 16 6 2 10 7 14 18 14 7 21 21 2 25 10 27 2 6 11 6 2 10 7 2 5 20 7 3 22 7 2 22 10 7 2 5 20 11 15 11 16 3 14 2 22 10 7 2 11 6 11 17 22 11 5 2 22 10 7 2 11 16 21 3 16 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0005": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>E ARE THE FAILORS UNDER OBLIGACTION TO THEIRE CRIATER<eos>",
+                    "rec_token": "<blank> E <space> A R E <space> T H E <space> F A I L O R S <space> U N D E R <space> O B L I G A C T I O N <space> T O <space> T H E I R E <space> C R I A T E R <eos>",
+                    "rec_tokenid": "0 7 2 3 20 7 2 22 10 7 2 8 3 11 14 17 20 21 2 23 16 6 7 20 2 17 4 14 11 9 3 5 22 11 17 16 2 22 17 2 22 10 7 11 20 7 2 5 20 11 3 22 7 20 29",
+                    "score": 49.125179290771484,
+                    "shape": [
+                        50,
+                        30
+                    ],
+                    "text": "ARE THE FAILURES UNDER OBLIGATION TO THEIR CREATOR",
+                    "token": "A R E <space> T H E <space> F A I L U R E S <space> U N D E R <space> O B L I G A T I O N <space> T O <space> T H E I R <space> C R E A T O R",
+                    "tokenid": "3 20 7 2 22 10 7 2 8 3 11 14 23 20 7 21 2 23 16 6 7 20 2 17 4 14 11 9 3 22 11 17 16 2 22 17 2 22 10 7 11 20 2 5 20 7 3 22 17 20"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0006": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> HIS IR RESPONSABUL FORE ALL THE WALLS THAT HAVE BEEN RAGED FORE ALL THE INOCSANT BLUD THAT HAS BEEN SHEAD<eos>",
+                    "rec_token": "<blank> <space> H I S <space> I R <space> R E S P O N S A B U L <space> F O R E <space> A L L <space> T H E <space> W A L L S <space> T H A T <space> H A V E <space> B E E N <space> R A G E D <space> F O R E <space> A L L <space> T H E <space> I N O C S A N T <space> B L U D <space> T H A T <space> H A S <space> B E E N <space> S H E A D <eos>",
+                    "rec_tokenid": "0 2 10 11 21 2 11 20 2 20 7 21 18 17 16 21 3 4 23 14 2 8 17 20 7 2 3 14 14 2 22 10 7 2 25 3 14 14 21 2 22 10 3 22 2 10 3 24 7 2 4 7 7 16 2 20 3 9 7 6 2 8 17 20 7 2 3 14 14 2 22 10 7 2 11 16 17 5 21 3 16 22 2 4 14 23 6 2 22 10 3 22 2 10 3 21 2 4 7 7 16 2 21 10 7 3 6 29",
+                    "score": 102.39356994628906,
+                    "shape": [
+                        101,
+                        30
+                    ],
+                    "text": "IS HE RESPONSIBLE FOR ALL THE WARS THAT HAVE BEEN WAGED FOR ALL THE INNOCENT BLOOD THAT HAS BEEN SHED",
+                    "token": "I S <space> H E <space> R E S P O N S I B L E <space> F O R <space> A L L <space> T H E <space> W A R S <space> T H A T <space> H A V E <space> B E E N <space> W A G E D <space> F O R <space> A L L <space> T H E <space> I N N O C E N T <space> B L O O D <space> T H A T <space> H A S <space> B E E N <space> S H E D",
+                    "tokenid": "11 21 2 10 7 2 20 7 21 18 17 16 21 11 4 14 7 2 8 17 20 2 3 14 14 2 22 10 7 2 25 3 20 21 2 22 10 3 22 2 10 3 24 7 2 4 7 7 16 2 25 3 9 7 6 2 8 17 20 2 3 14 14 2 22 10 7 2 11 16 16 17 5 7 16 22 2 4 14 17 17 6 2 22 10 3 22 2 10 3 21 2 4 7 7 16 2 21 10 7 6"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0007": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>HIS HIR RESPONSIBULE FOR THE SENTRYS OF SLAVERIY FOR THE BAKS THAT HAVE BEEN SCARED WITH A LASH  FOR THE BAIBS THAT HAVE BEEN SOLD FROM THE BRESSTS OF MOTHERS FOR THE FAMIULYS THAT HAVE BEEN SSEPORATED AND DISTRORYED<eos>",
+                    "rec_token": "<blank> H I S <space> H I R <space> R E S P O N S I B U L E <space> F O R <space> T H E <space> S E N T R Y S <space> O F <space> S L A V E R I Y <space> F O R <space> T H E <space> B A K S <space> T H A T <space> H A V E <space> B E E N <space> S C A R E D <space> W I T H <space> A <space> L A S H <space> <space> F O R <space> T H E <space> B A I B S <space> T H A T <space> H A V E <space> B E E N <space> S O L D <space> F R O M <space> T H E <space> B R E S S T S <space> O F <space> M O T H E R S <space> F O R <space> T H E <space> F A M I U L Y S <space> T H A T <space> H A V E <space> B E E N <space> S S E P O R A T E D <space> A N D <space> D I S T R O R Y E D <eos>",
+                    "rec_tokenid": "0 10 11 21 2 10 11 20 2 20 7 21 18 17 16 21 11 4 23 14 7 2 8 17 20 2 22 10 7 2 21 7 16 22 20 27 21 2 17 8 2 21 14 3 24 7 20 11 27 2 8 17 20 2 22 10 7 2 4 3 13 21 2 22 10 3 22 2 10 3 24 7 2 4 7 7 16 2 21 5 3 20 7 6 2 25 11 22 10 2 3 2 14 3 21 10 2 2 8 17 20 2 22 10 7 2 4 3 11 4 21 2 22 10 3 22 2 10 3 24 7 2 4 7 7 16 2 21 17 14 6 2 8 20 17 15 2 22 10 7 2 4 20 7 21 21 22 21 2 17 8 2 15 17 22 10 7 20 21 2 8 17 20 2 22 10 7 2 8 3 15 11 23 14 27 21 2 22 10 3 22 2 10 3 24 7 2 4 7 7 16 2 21 21 7 18 17 20 3 22 7 6 2 3 16 6 2 6 11 21 22 20 17 20 27 7 6 29",
+                    "score": 206.27197265625,
+                    "shape": [
+                        215,
+                        30
+                    ],
+                    "text": "IS HE RESPONSIBLE FOR THE CENTURIES OF SLAVERY FOR THE BACKS THAT HAVE BEEN SCARRED WITH THE LASH FOR THE BABES THAT HAVE BEEN SOLD FROM THE BREASTS OF MOTHERS FOR THE FAMILIES THAT HAVE BEEN SEPARATED AND DESTROYED",
+                    "token": "I S <space> H E <space> R E S P O N S I B L E <space> F O R <space> T H E <space> C E N T U R I E S <space> O F <space> S L A V E R Y <space> F O R <space> T H E <space> B A C K S <space> T H A T <space> H A V E <space> B E E N <space> S C A R R E D <space> W I T H <space> T H E <space> L A S H <space> F O R <space> T H E <space> B A B E S <space> T H A T <space> H A V E <space> B E E N <space> S O L D <space> F R O M <space> T H E <space> B R E A S T S <space> O F <space> M O T H E R S <space> F O R <space> T H E <space> F A M I L I E S <space> T H A T <space> H A V E <space> B E E N <space> S E P A R A T E D <space> A N D <space> D E S T R O Y E D",
+                    "tokenid": "11 21 2 10 7 2 20 7 21 18 17 16 21 11 4 14 7 2 8 17 20 2 22 10 7 2 5 7 16 22 23 20 11 7 21 2 17 8 2 21 14 3 24 7 20 27 2 8 17 20 2 22 10 7 2 4 3 5 13 21 2 22 10 3 22 2 10 3 24 7 2 4 7 7 16 2 21 5 3 20 20 7 6 2 25 11 22 10 2 22 10 7 2 14 3 21 10 2 8 17 20 2 22 10 7 2 4 3 4 7 21 2 22 10 3 22 2 10 3 24 7 2 4 7 7 16 2 21 17 14 6 2 8 20 17 15 2 22 10 7 2 4 20 7 3 21 22 21 2 17 8 2 15 17 22 10 7 20 21 2 8 17 20 2 22 10 7 2 8 3 15 11 14 11 7 21 2 22 10 3 22 2 10 3 24 7 2 4 7 7 16 2 21 7 18 3 20 3 22 7 6 2 3 16 6 2 6 7 21 22 20 17 27 7 6"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0008": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>EIS THES GOUD RESPONCSIBULE FORE REILIGCHEUSPESICCUSIAN FORE THE INCQUISITION FORE THE TAMTS CRO AND WRACKE AND FORE ALL THE INSTRAMENTS OFF TORTURE<eos>",
+                    "rec_token": "<blank> E I S <space> T H E S <space> G O U D <space> R E S P O N C S I B U L E <space> F O R E <space> R E I L I G C H E U S P E S I C C U S I A N <space> F O R E <space> T H E <space> I N C Q U I S I T I O N <space> F O R E <space> T H E <space> T A M T S <space> C R O <space> A N D <space> W R A C K E <space> A N D <space> F O R E <space> A L L <space> T H E <space> I N S T R A M E N T S <space> O F F <space> T O R T U R E <eos>",
+                    "rec_tokenid": "0 7 11 21 2 22 10 7 21 2 9 17 23 6 2 20 7 21 18 17 16 5 21 11 4 23 14 7 2 8 17 20 7 2 20 7 11 14 11 9 5 10 7 23 21 18 7 21 11 5 5 23 21 11 3 16 2 8 17 20 7 2 22 10 7 2 11 16 5 19 23 11 21 11 22 11 17 16 2 8 17 20 7 2 22 10 7 2 22 3 15 22 21 2 5 20 17 2 3 16 6 2 25 20 3 5 13 7 2 3 16 6 2 8 17 20 7 2 3 14 14 2 22 10 7 2 11 16 21 22 20 3 15 7 16 22 21 2 17 8 8 2 22 17 20 22 23 20 7 29",
+                    "score": 131.1648406982422,
+                    "shape": [
+                        137,
+                        30
+                    ],
+                    "text": "IS THIS GOD RESPONSIBLE FOR RELIGIOUS PERSECUTION FOR THE INQUISITION FOR THE THUMB SCREW AND RACK AND FOR ALL THE INSTRUMENTS OF TORTURE",
+                    "token": "I S <space> T H I S <space> G O D <space> R E S P O N S I B L E <space> F O R <space> R E L I G I O U S <space> P E R S E C U T I O N <space> F O R <space> T H E <space> I N Q U I S I T I O N <space> F O R <space> T H E <space> T H U M B <space> S C R E W <space> A N D <space> R A C K <space> A N D <space> F O R <space> A L L <space> T H E <space> I N S T R U M E N T S <space> O F <space> T O R T U R E",
+                    "tokenid": "11 21 2 22 10 11 21 2 9 17 6 2 20 7 21 18 17 16 21 11 4 14 7 2 8 17 20 2 20 7 14 11 9 11 17 23 21 2 18 7 20 21 7 5 23 22 11 17 16 2 8 17 20 2 22 10 7 2 11 16 19 23 11 21 11 22 11 17 16 2 8 17 20 2 22 10 7 2 22 10 23 15 4 2 21 5 20 7 25 2 3 16 6 2 20 3 5 13 2 3 16 6 2 8 17 20 2 3 14 14 2 22 10 7 2 11 16 21 22 20 23 15 7 16 22 21 2 17 8 2 22 17 20 22 23 20 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0009": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>A DID THIS GOT THE LOAD THE CROAL AND VILED TO DESTROYE THE BRAIVE AND VERTUOASE<eos>",
+                    "rec_token": "<blank> A <space> D I D <space> T H I S <space> G O T <space> T H E <space> L O A D <space> T H E <space> C R O A L <space> A N D <space> V I L E D <space> T O <space> D E S T R O Y E <space> T H E <space> B R A I V E <space> A N D <space> V E R T U O A S E <eos>",
+                    "rec_tokenid": "0 3 2 6 11 6 2 22 10 11 21 2 9 17 22 2 22 10 7 2 14 17 3 6 2 22 10 7 2 5 20 17 3 14 2 3 16 6 2 24 11 14 7 6 2 22 17 2 6 7 21 22 20 17 27 7 2 22 10 7 2 4 20 3 11 24 7 2 3 16 6 2 24 7 20 22 23 17 3 21 7 29",
+                    "score": 71.86956024169922,
+                    "shape": [
+                        71,
+                        30
+                    ],
+                    "text": "DID THIS GOD ALLOW THE CRUEL AND VILE TO DESTROY THE BRAVE AND VIRTUOUS",
+                    "token": "D I D <space> T H I S <space> G O D <space> A L L O W <space> T H E <space> C R U E L <space> A N D <space> V I L E <space> T O <space> D E S T R O Y <space> T H E <space> B R A V E <space> A N D <space> V I R T U O U S",
+                    "tokenid": "6 11 6 2 22 10 11 21 2 9 17 6 2 3 14 14 17 25 2 22 10 7 2 5 20 23 7 14 2 3 16 6 2 24 11 14 7 2 22 17 2 6 7 21 22 20 17 27 2 22 10 7 2 4 20 3 24 7 2 3 16 6 2 24 11 20 22 23 17 23 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0010": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> DID HE A LOIED TAIGRANTS TO SHEADTHE BLUDD OF PATRIATES<eos>",
+                    "rec_token": "<blank> <space> D I D <space> H E <space> A <space> L O I E D <space> T A I G R A N T S <space> T O <space> S H E A D T H E <space> B L U D D <space> O F <space> P A T R I A T E S <eos>",
+                    "rec_tokenid": "0 2 6 11 6 2 10 7 2 3 2 14 17 11 7 6 2 22 3 11 9 20 3 16 22 21 2 22 17 2 21 10 7 3 6 22 10 7 2 4 14 23 6 6 2 17 8 2 18 3 22 20 11 3 22 7 21 29",
+                    "score": 49.98659896850586,
+                    "shape": [
+                        50,
+                        30
+                    ],
+                    "text": "DID HE ALLOW TYRANTS TO SHED THE BLOOD OF PATRIOTS",
+                    "token": "D I D <space> H E <space> A L L O W <space> T Y R A N T S <space> T O <space> S H E D <space> T H E <space> B L O O D <space> O F <space> P A T R I O T S",
+                    "tokenid": "6 11 6 2 10 7 2 3 14 14 17 25 2 22 27 20 3 16 22 21 2 22 17 2 21 10 7 6 2 22 10 7 2 4 14 17 17 6 2 17 8 2 18 3 22 20 11 17 22 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0011": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> CAN WE CONSCSEVE OF A DEVIL BACS ANOUF   TO PRIEFEARE HIS ENIMEYS TO HIS FRIENDES<eos>",
+                    "rec_token": "<blank> <space> C A N <space> W E <space> C O N S C S E V E <space> O F <space> A <space> D E V I L <space> B A C S <space> A N O U F <space> <space> <space> T O <space> P R I E F E A R E <space> H I S <space> E N I M E Y S <space> T O <space> H I S <space> F R I E N D E S <eos>",
+                    "rec_tokenid": "0 2 5 3 16 2 25 7 2 5 17 16 21 5 21 7 24 7 2 17 8 2 3 2 6 7 24 11 14 2 4 3 5 21 2 3 16 17 23 8 2 2 2 22 17 2 18 20 11 7 8 7 3 20 7 2 10 11 21 2 7 16 11 15 7 27 21 2 22 17 2 10 11 21 2 8 20 11 7 16 6 7 21 29",
+                    "score": 76.40359497070312,
+                    "shape": [
+                        75,
+                        30
+                    ],
+                    "text": "CAN WE CONCEIVE OF A DEVIL BASE ENOUGH TO PREFER HIS ENEMIES TO HIS FRIENDS",
+                    "token": "C A N <space> W E <space> C O N C E I V E <space> O F <space> A <space> D E V I L <space> B A S E <space> E N O U G H <space> T O <space> P R E F E R <space> H I S <space> E N E M I E S <space> T O <space> H I S <space> F R I E N D S",
+                    "tokenid": "5 3 16 2 25 7 2 5 17 16 5 7 11 24 7 2 17 8 2 3 2 6 7 24 11 14 2 4 3 21 7 2 7 16 17 23 9 10 2 22 17 2 18 20 7 8 7 20 2 10 11 21 2 7 16 7 15 11 7 21 2 22 17 2 10 11 21 2 8 20 11 7 16 6 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0012": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> HOW CAN WE ACCOUNT FORE THE WILD BEASSTS THAT DI VIVOURE HUMAN BEINGS FORE THE FANKED SCERPANTS WHOS BIT IS DEIETH<eos>",
+                    "rec_token": "<blank> <space> H O W <space> C A N <space> W E <space> A C C O U N T <space> F O R E <space> T H E <space> W I L D <space> B E A S S T S <space> T H A T <space> D I <space> V I V O U R E <space> H U M A N <space> B E I N G S <space> F O R E <space> T H E <space> F A N K E D <space> S C E R P A N T S <space> W H O S <space> B I T <space> I S <space> D E I E T H <eos>",
+                    "rec_tokenid": "0 2 10 17 25 2 5 3 16 2 25 7 2 3 5 5 17 23 16 22 2 8 17 20 7 2 22 10 7 2 25 11 14 6 2 4 7 3 21 21 22 21 2 22 10 3 22 2 6 11 2 24 11 24 17 23 20 7 2 10 23 15 3 16 2 4 7 11 16 9 21 2 8 17 20 7 2 22 10 7 2 8 3 16 13 7 6 2 21 5 7 20 18 3 16 22 21 2 25 10 17 21 2 4 11 22 2 11 21 2 6 7 11 7 22 10 29",
+                    "score": 103.54963684082031,
+                    "shape": [
+                        107,
+                        30
+                    ],
+                    "text": "HOW CAN WE ACCOUNT FOR THE WILD BEASTS THAT DEVOUR HUMAN BEINGS FOR THE FANGED SERPENTS WHOSE BITE IS DEATH",
+                    "token": "H O W <space> C A N <space> W E <space> A C C O U N T <space> F O R <space> T H E <space> W I L D <space> B E A S T S <space> T H A T <space> D E V O U R <space> H U M A N <space> B E I N G S <space> F O R <space> T H E <space> F A N G E D <space> S E R P E N T S <space> W H O S E <space> B I T E <space> I S <space> D E A T H",
+                    "tokenid": "10 17 25 2 5 3 16 2 25 7 2 3 5 5 17 23 16 22 2 8 17 20 2 22 10 7 2 25 11 14 6 2 4 7 3 21 22 21 2 22 10 3 22 2 6 7 24 17 23 20 2 10 23 15 3 16 2 4 7 11 16 9 21 2 8 17 20 2 22 10 7 2 8 3 16 9 7 6 2 21 7 20 18 7 16 22 21 2 25 10 17 21 7 2 4 11 22 7 2 11 21 2 6 7 3 22 10"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0013": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>WHOW CAN WE ACOWNT FOR HOA WORLD WOIRE LIVE FEAETES ON LIFE<eos>",
+                    "rec_token": "<blank> W H O W <space> C A N <space> W E <space> A C O W N T <space> F O R <space> H O A <space> W O R L D <space> W O I R E <space> L I V E <space> F E A E T E S <space> O N <space> L I F E <eos>",
+                    "rec_tokenid": "0 25 10 17 25 2 5 3 16 2 25 7 2 3 5 17 25 16 22 2 8 17 20 2 10 17 3 2 25 17 20 14 6 2 25 17 11 20 7 2 14 11 24 7 2 8 7 3 7 22 7 21 2 17 16 2 14 11 8 7 29",
+                    "score": 56.449562072753906,
+                    "shape": [
+                        55,
+                        30
+                    ],
+                    "text": "HOW CAN WE ACCOUNT FOR A WORLD WHERE LIFE FEEDS ON LIFE",
+                    "token": "H O W <space> C A N <space> W E <space> A C C O U N T <space> F O R <space> A <space> W O R L D <space> W H E R E <space> L I F E <space> F E E D S <space> O N <space> L I F E",
+                    "tokenid": "10 17 25 2 5 3 16 2 25 7 2 3 5 5 17 23 16 22 2 8 17 20 2 3 2 25 17 20 14 6 2 25 10 7 20 7 2 14 11 8 7 2 8 7 7 6 21 2 17 16 2 14 11 8 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0014": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> DID INFINAT WISDTEUM INTENTUALY PRODUSED THE MICKEROSCOPICK BEASTS THAT FET APON THE OPTICK NERSE THINK OF BLINDING A MAN TO SATISFIE THE APITID OF OR MY CROBE<eos>",
+                    "rec_token": "<blank> <space> D I D <space> I N F I N A T <space> W I S D T E U M <space> I N T E N T U A L Y <space> P R O D U S E D <space> T H E <space> M I C K E R O S C O P I C K <space> B E A S T S <space> T H A T <space> F E T <space> A P O N <space> T H E <space> O P T I C K <space> N E R S E <space> T H I N K <space> O F <space> B L I N D I N G <space> A <space> M A N <space> T O <space> S A T I S F I E <space> T H E <space> A P I T I D <space> O F <space> O R <space> M Y <space> C R O B E <eos>",
+                    "rec_tokenid": "0 2 6 11 6 2 11 16 8 11 16 3 22 2 25 11 21 6 22 7 23 15 2 11 16 22 7 16 22 23 3 14 27 2 18 20 17 6 23 21 7 6 2 22 10 7 2 15 11 5 13 7 20 17 21 5 17 18 11 5 13 2 4 7 3 21 22 21 2 22 10 3 22 2 8 7 22 2 3 18 17 16 2 22 10 7 2 17 18 22 11 5 13 2 16 7 20 21 7 2 22 10 11 16 13 2 17 8 2 4 14 11 16 6 11 16 9 2 3 2 15 3 16 2 22 17 2 21 3 22 11 21 8 11 7 2 22 10 7 2 3 18 11 22 11 6 2 17 8 2 17 20 2 15 27 2 5 20 17 4 7 29",
+                    "score": 150.9153594970703,
+                    "shape": [
+                        156,
+                        30
+                    ],
+                    "text": "DID INFINITE WISDOM INTENTIONALLY PRODUCE THE MICROSCOPIC BEASTS THAT FEED UPON THE OPTIC NERVE THINK OF BLINDING A MAN TO SATISFY THE APPETITE OF A MICROBE",
+                    "token": "D I D <space> I N F I N I T E <space> W I S D O M <space> I N T E N T I O N A L L Y <space> P R O D U C E <space> T H E <space> M I C R O S C O P I C <space> B E A S T S <space> T H A T <space> F E E D <space> U P O N <space> T H E <space> O P T I C <space> N E R V E <space> T H I N K <space> O F <space> B L I N D I N G <space> A <space> M A N <space> T O <space> S A T I S F Y <space> T H E <space> A P P E T I T E <space> O F <space> A <space> M I C R O B E",
+                    "tokenid": "6 11 6 2 11 16 8 11 16 11 22 7 2 25 11 21 6 17 15 2 11 16 22 7 16 22 11 17 16 3 14 14 27 2 18 20 17 6 23 5 7 2 22 10 7 2 15 11 5 20 17 21 5 17 18 11 5 2 4 7 3 21 22 21 2 22 10 3 22 2 8 7 7 6 2 23 18 17 16 2 22 10 7 2 17 18 22 11 5 2 16 7 20 24 7 2 22 10 11 16 13 2 17 8 2 4 14 11 16 6 11 16 9 2 3 2 15 3 16 2 22 17 2 21 3 22 11 21 8 27 2 22 10 7 2 3 18 18 7 22 11 22 7 2 17 8 2 3 2 15 11 5 20 17 4 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0015": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>L  FIEARE BILT SIOLE DAUR AND OFFERS TOE SACTRIFEYESE<eos>",
+                    "rec_token": "<blank> L <space> <space> F I E A R E <space> B I L T <space> S I O L E <space> D A U R <space> A N D <space> O F F E R S <space> T O E <space> S A C T R I F E Y E S E <eos>",
+                    "rec_tokenid": "0 14 2 2 8 11 7 3 20 7 2 4 11 14 22 2 21 11 17 14 7 2 6 3 23 20 2 3 16 6 2 17 8 8 7 20 21 2 22 17 7 2 21 3 5 22 20 11 8 7 27 7 21 7 29",
+                    "score": 48.31290054321289,
+                    "shape": [
+                        46,
+                        30
+                    ],
+                    "text": "FEAR BUILDS THE ALTAR AND OFFERS THE SACRIFICE",
+                    "token": "F E A R <space> B U I L D S <space> T H E <space> A L T A R <space> A N D <space> O F F E R S <space> T H E <space> S A C R I F I C E",
+                    "tokenid": "8 7 3 20 2 4 23 11 14 6 21 2 22 10 7 2 3 14 22 3 20 2 3 16 6 2 17 8 8 7 20 21 2 22 10 7 2 21 3 5 20 11 8 11 5 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0016": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> SIVIEEAR EARRECTS TO CUTEADRIAL AND BOWSE THE HAD DOFF MAN IN WORTH SHIP<eos>",
+                    "rec_token": "<blank> <space> S I V I E E A R <space> E A R R E C T S <space> T O <space> C U T E A D R I A L <space> A N D <space> B O W S E <space> T H E <space> H A D <space> D O F F <space> M A N <space> I N <space> W O R T H <space> S H I P <eos>",
+                    "rec_tokenid": "0 2 21 11 24 11 7 7 3 20 2 7 3 20 20 7 5 22 21 2 22 17 2 5 23 22 7 3 6 20 11 3 14 2 3 16 6 2 4 17 25 21 7 2 22 10 7 2 10 3 6 2 6 17 8 8 2 15 3 16 2 11 16 2 25 17 20 22 10 2 21 10 11 18 29",
+                    "score": 65.68881225585938,
+                    "shape": [
+                        61,
+                        30
+                    ],
+                    "text": "FEAR ERECTS THE CATHEDRAL AND BOWS THE HEAD OF MAN IN WORSHIP",
+                    "token": "F E A R <space> E R E C T S <space> T H E <space> C A T H E D R A L <space> A N D <space> B O W S <space> T H E <space> H E A D <space> O F <space> M A N <space> I N <space> W O R S H I P",
+                    "tokenid": "8 7 3 20 2 7 20 7 5 22 21 2 22 10 7 2 5 3 22 10 7 6 20 3 14 2 3 16 6 2 4 17 25 21 2 22 10 7 2 10 7 3 6 2 17 8 2 15 3 16 2 11 16 2 25 17 20 21 10 11 18"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0017": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> LITHES QRUILIECHOS ENTER FEERE FILLD TRAMBLINGLEY REPEAID THEIS PASSAGE THO HE SLA ME YETTT WEL I TRUSTE HIM<eos>",
+                    "rec_token": "<blank> <space> L I T H E S <space> Q R U I L I E C H O S <space> E N T E R <space> F E E R E <space> F I L L D <space> T R A M B L I N G L E Y <space> R E P E A I D <space> T H E I S <space> P A S S A G E <space> T H O <space> H E <space> S L A <space> M E <space> Y E T T T <space> W E L <space> I <space> T R U S T E <space> H I M <eos>",
+                    "rec_tokenid": "0 2 14 11 22 10 7 21 2 19 20 23 11 14 11 7 5 10 17 21 2 7 16 22 7 20 2 8 7 7 20 7 2 8 11 14 14 6 2 22 20 3 15 4 14 11 16 9 14 7 27 2 20 7 18 7 3 11 6 2 22 10 7 11 21 2 18 3 21 21 3 9 7 2 22 10 17 2 10 7 2 21 14 3 2 15 7 2 27 7 22 22 22 2 25 7 14 2 11 2 22 20 23 21 22 7 2 10 11 15 29",
+                    "score": 98.03751373291016,
+                    "shape": [
+                        97,
+                        30
+                    ],
+                    "text": "LIPS RELIGIOUS AND FEARFUL TREMBLINGLY REPEAT THIS PASSAGE THOUGH HE SLAY ME YET WILL I TRUST HIM",
+                    "token": "L I P S <space> R E L I G I O U S <space> A N D <space> F E A R F U L <space> T R E M B L I N G L Y <space> R E P E A T <space> T H I S <space> P A S S A G E <space> T H O U G H <space> H E <space> S L A Y <space> M E <space> Y E T <space> W I L L <space> I <space> T R U S T <space> H I M",
+                    "tokenid": "14 11 18 21 2 20 7 14 11 9 11 17 23 21 2 3 16 6 2 8 7 3 20 8 23 14 2 22 20 7 15 4 14 11 16 9 14 27 2 20 7 18 7 3 22 2 22 10 11 21 2 18 3 21 21 3 9 7 2 22 10 17 23 9 10 2 10 7 2 21 14 3 27 2 15 7 2 27 7 22 2 25 11 14 14 2 11 2 22 20 23 21 22 2 10 11 15"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0018": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>ECAN WHE SAY THAT HE CARED FOR THE CHUILDRIN OF MAN<eos>",
+                    "rec_token": "<blank> E C A N <space> W H E <space> S A Y <space> T H A T <space> H E <space> C A R E D <space> F O R <space> T H E <space> C H U I L D R I N <space> O F <space> M A N <eos>",
+                    "rec_tokenid": "0 7 5 3 16 2 25 10 7 2 21 3 27 2 22 10 3 22 2 10 7 2 5 3 20 7 6 2 8 17 20 2 22 10 7 2 5 10 23 11 14 6 20 11 16 2 17 8 2 15 3 16 29",
+                    "score": 50.58433151245117,
+                    "shape": [
+                        48,
+                        30
+                    ],
+                    "text": "CAN WE SAY THAT HE CARED FOR THE CHILDREN OF MEN",
+                    "token": "C A N <space> W E <space> S A Y <space> T H A T <space> H E <space> C A R E D <space> F O R <space> T H E <space> C H I L D R E N <space> O F <space> M E N",
+                    "tokenid": "5 3 16 2 25 7 2 21 3 27 2 22 10 3 22 2 10 7 2 5 3 20 7 6 2 8 17 20 2 22 10 7 2 5 10 11 14 6 20 7 16 2 17 8 2 15 7 16"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0019": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> CAN WE SAY THAT THE SMUERSE AENDGUOR ACH FOR EVER<eos>",
+                    "rec_token": "<blank> <space> C A N <space> W E <space> S A Y <space> T H A T <space> T H E <space> S M U E R S E <space> A E N D G U O R <space> A C H <space> F O R <space> E V E R <eos>",
+                    "rec_tokenid": "0 2 5 3 16 2 25 7 2 21 3 27 2 22 10 3 22 2 22 10 7 2 21 15 23 7 20 21 7 2 3 7 16 6 9 23 17 20 2 3 5 10 2 8 17 20 2 7 24 7 20 29",
+                    "score": 45.117279052734375,
+                    "shape": [
+                        42,
+                        30
+                    ],
+                    "text": "CAN WE SAY THAT HIS MERCY ENDURETH FOREVER",
+                    "token": "C A N <space> W E <space> S A Y <space> T H A T <space> H I S <space> M E R C Y <space> E N D U R E T H <space> F O R E V E R",
+                    "tokenid": "5 3 16 2 25 7 2 21 3 27 2 22 10 3 22 2 10 11 21 2 15 7 20 5 27 2 7 16 6 23 20 7 22 10 2 8 17 20 7 24 7 20"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0020": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>A DO WE PROVE HIS GOOD NESS BY SHOWING THAT HE HAS OPENED THE ARSET AND SWAUOADTO BTOWSANT OFF HIS HERLTEWITHS CHILDRIAN ORE THAT WHIT THE VOULCANOS HE HEITH OVER WELMED THEM WHITHE RIVERS OF FAORE<eos>",
+                    "rec_token": "<blank> A <space> D O <space> W E <space> P R O V E <space> H I S <space> G O O D <space> N E S S <space> B Y <space> S H O W I N G <space> T H A T <space> H E <space> H A S <space> O P E N E D <space> T H E <space> A R S E T <space> A N D <space> S W A U O A D T O <space> B T O W S A N T <space> O F F <space> H I S <space> H E R L T E W I T H S <space> C H I L D R I A N <space> O R E <space> T H A T <space> W H I T <space> T H E <space> V O U L C A N O S <space> H E <space> H E I T H <space> O V E R <space> W E L M E D <space> T H E M <space> W H I T H E <space> R I V E R S <space> O F <space> F A O R E <eos>",
+                    "rec_tokenid": "0 3 2 6 17 2 25 7 2 18 20 17 24 7 2 10 11 21 2 9 17 17 6 2 16 7 21 21 2 4 27 2 21 10 17 25 11 16 9 2 22 10 3 22 2 10 7 2 10 3 21 2 17 18 7 16 7 6 2 22 10 7 2 3 20 21 7 22 2 3 16 6 2 21 25 3 23 17 3 6 22 17 2 4 22 17 25 21 3 16 22 2 17 8 8 2 10 11 21 2 10 7 20 14 22 7 25 11 22 10 21 2 5 10 11 14 6 20 11 3 16 2 17 20 7 2 22 10 3 22 2 25 10 11 22 2 22 10 7 2 24 17 23 14 5 3 16 17 21 2 10 7 2 10 7 11 22 10 2 17 24 7 20 2 25 7 14 15 7 6 2 22 10 7 15 2 25 10 11 22 10 7 2 20 11 24 7 20 21 2 17 8 2 8 3 17 20 7 29",
+                    "score": 183.52325439453125,
+                    "shape": [
+                        184,
+                        30
+                    ],
+                    "text": "DO WE PROVE HIS GOODNESS BY SHOWING THAT HE HAS OPENED THE EARTH AND SWALLOWED THOUSANDS OF HIS HELPLESS CHILDREN OR THAT WITH THE VOLCANOES HE HAS OVERWHELMED THEM WITH RIVERS OF FIRE",
+                    "token": "D O <space> W E <space> P R O V E <space> H I S <space> G O O D N E S S <space> B Y <space> S H O W I N G <space> T H A T <space> H E <space> H A S <space> O P E N E D <space> T H E <space> E A R T H <space> A N D <space> S W A L L O W E D <space> T H O U S A N D S <space> O F <space> H I S <space> H E L P L E S S <space> C H I L D R E N <space> O R <space> T H A T <space> W I T H <space> T H E <space> V O L C A N O E S <space> H E <space> H A S <space> O V E R W H E L M E D <space> T H E M <space> W I T H <space> R I V E R S <space> O F <space> F I R E",
+                    "tokenid": "6 17 2 25 7 2 18 20 17 24 7 2 10 11 21 2 9 17 17 6 16 7 21 21 2 4 27 2 21 10 17 25 11 16 9 2 22 10 3 22 2 10 7 2 10 3 21 2 17 18 7 16 7 6 2 22 10 7 2 7 3 20 22 10 2 3 16 6 2 21 25 3 14 14 17 25 7 6 2 22 10 17 23 21 3 16 6 21 2 17 8 2 10 11 21 2 10 7 14 18 14 7 21 21 2 5 10 11 14 6 20 7 16 2 17 20 2 22 10 3 22 2 25 11 22 10 2 22 10 7 2 24 17 14 5 3 16 17 7 21 2 10 7 2 10 3 21 2 17 24 7 20 25 10 7 14 15 7 6 2 22 10 7 15 2 25 11 22 10 2 20 11 24 7 20 21 2 17 8 2 8 11 20 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0021": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>EWHATS TE A GOUDTNESS WHATS TEY AL RESDOM IN THISSE<eos>",
+                    "rec_token": "<blank> E W H A T S <space> T E <space> A <space> G O U D T N E S S <space> W H A T S <space> T E Y <space> A L <space> R E S D O M <space> I N <space> T H I S S E <eos>",
+                    "rec_tokenid": "0 7 25 10 3 22 21 2 22 7 2 3 2 9 17 23 6 22 16 7 21 21 2 25 10 3 22 21 2 22 7 27 2 3 14 2 20 7 21 6 17 15 2 11 16 2 22 10 11 21 21 7 29",
+                    "score": 42.389442443847656,
+                    "shape": [
+                        43,
+                        30
+                    ],
+                    "text": "WAS THERE GOODNESS WAS THERE WISDOM IN THIS",
+                    "token": "W A S <space> T H E R E <space> G O O D N E S S <space> W A S <space> T H E R E <space> W I S D O M <space> I N <space> T H I S",
+                    "tokenid": "25 3 21 2 22 10 7 20 7 2 9 17 17 6 16 7 21 21 2 25 3 21 2 22 10 7 20 7 2 25 11 21 6 17 15 2 11 16 2 22 10 11 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0022": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> ALL THE SOUPERIEOR RAIS TO THANGKG GOD THAT THEY ARE NOT THE INFERIOR<eos>",
+                    "rec_token": "<blank> <space> A L L <space> T H E <space> S O U P E R I E O R <space> R A I S <space> T O <space> T H A N G K G <space> G O D <space> T H A T <space> T H E Y <space> A R E <space> N O T <space> T H E <space> I N F E R I O R <eos>",
+                    "rec_tokenid": "0 2 3 14 14 2 22 10 7 2 21 17 23 18 7 20 11 7 17 20 2 20 3 11 21 2 22 17 2 22 10 3 16 9 13 9 2 9 17 6 2 22 10 3 22 2 22 10 7 27 2 3 20 7 2 16 17 22 2 22 10 7 2 11 16 8 7 20 11 17 20 29",
+                    "score": 67.53201293945312,
+                    "shape": [
+                        68,
+                        30
+                    ],
+                    "text": "OUGHT THE SUPERIOR RACES TO THANK GOD THAT THEY ARE NOT THE INFERIOR",
+                    "token": "O U G H T <space> T H E <space> S U P E R I O R <space> R A C E S <space> T O <space> T H A N K <space> G O D <space> T H A T <space> T H E Y <space> A R E <space> N O T <space> T H E <space> I N F E R I O R",
+                    "tokenid": "17 23 9 10 22 2 22 10 7 2 21 23 18 7 20 11 17 20 2 20 3 5 7 21 2 22 17 2 22 10 3 16 13 2 9 17 6 2 22 10 3 22 2 22 10 7 27 2 3 20 7 2 16 17 22 2 22 10 7 2 11 16 8 7 20 11 17 20"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0023": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>U MOST PEOPLLE CLINGKED TO THE SUPANATSHOLE<eos>",
+                    "rec_token": "<blank> U <space> M O S T <space> P E O P L L E <space> C L I N G K E D <space> T O <space> T H E <space> S U P A N A T S H O L E <eos>",
+                    "rec_tokenid": "0 23 2 15 17 21 22 2 18 7 17 18 14 14 7 2 5 14 11 16 9 13 7 6 2 22 17 2 22 10 7 2 21 23 18 3 16 3 22 21 10 17 14 7 29",
+                    "score": 39.80552673339844,
+                    "shape": [
+                        37,
+                        30
+                    ],
+                    "text": "MOST PEOPLE CLING TO THE SUPERNATURAL",
+                    "token": "M O S T <space> P E O P L E <space> C L I N G <space> T O <space> T H E <space> S U P E R N A T U R A L",
+                    "tokenid": "15 17 21 22 2 18 7 17 18 14 7 2 5 14 11 16 9 2 22 17 2 22 10 7 2 21 23 18 7 20 16 3 22 23 20 3 14"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0024": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>HIF THEY GIVE UP WONE GOD THEAY EMADGEIN AN OTHER<eos>",
+                    "rec_token": "<blank> H I F <space> T H E Y <space> G I V E <space> U P <space> W O N E <space> G O D <space> T H E A Y <space> E M A D G E I N <space> A N <space> O T H E R <eos>",
+                    "rec_tokenid": "0 10 11 8 2 22 10 7 27 2 9 11 24 7 2 23 18 2 25 17 16 7 2 9 17 6 2 22 10 7 3 27 2 7 15 3 6 9 7 11 16 2 3 16 2 17 22 10 7 20 29",
+                    "score": 47.24741744995117,
+                    "shape": [
+                        44,
+                        30
+                    ],
+                    "text": "IF THEY GIVE UP ONE GOD THEY IMAGINE ANOTHER",
+                    "token": "I F <space> T H E Y <space> G I V E <space> U P <space> O N E <space> G O D <space> T H E Y <space> I M A G I N E <space> A N O T H E R",
+                    "tokenid": "11 8 2 22 10 7 27 2 9 11 24 7 2 23 18 2 17 16 7 2 9 17 6 2 22 10 7 27 2 11 15 3 9 11 16 7 2 3 16 17 22 10 7 20"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0025": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>WHATT IS DES PAOWORERE<eos>",
+                    "rec_token": "<blank> <eos> W H A T T <space> I S <space> D E S <space> P A O W O R E R E <eos>",
+                    "rec_tokenid": "0 29 25 10 3 22 22 2 11 21 2 6 7 21 2 18 3 17 25 17 20 7 20 7 29",
+                    "score": 289.8398742675781,
+                    "shape": [
+                        18,
+                        30
+                    ],
+                    "text": "WHAT IS THIS POWER",
+                    "token": "W H A T <space> I S <space> T H I S <space> P O W E R",
+                    "tokenid": "25 10 3 22 2 11 21 2 22 10 11 21 2 18 17 25 7 20"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0026": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>W MAN AD VANCES AND NECESSEROIRIGLY ADVANCES TO EXPERIONCTE<eos>",
+                    "rec_token": "<blank> W <space> M A N <space> A D <space> V A N C E S <space> A N D <space> N E C E S S E R O I R I G L Y <space> A D V A N C E S <space> T O <space> E X P E R I O N C T E <eos>",
+                    "rec_tokenid": "0 25 2 15 3 16 2 3 6 2 24 3 16 5 7 21 2 3 16 6 2 16 7 5 7 21 21 7 20 17 11 20 11 9 14 27 2 3 6 24 3 16 5 7 21 2 22 17 2 7 26 18 7 20 11 17 16 5 22 7 29",
+                    "score": 51.8256721496582,
+                    "shape": [
+                        56,
+                        30
+                    ],
+                    "text": "MAN ADVANCES AND NECESSARILY ADVANCES THROUGH EXPERIENCE",
+                    "token": "M A N <space> A D V A N C E S <space> A N D <space> N E C E S S A R I L Y <space> A D V A N C E S <space> T H R O U G H <space> E X P E R I E N C E",
+                    "tokenid": "15 3 16 2 3 6 24 3 16 5 7 21 2 3 16 6 2 16 7 5 7 21 21 3 20 11 14 27 2 3 6 24 3 16 5 7 21 2 22 10 20 17 23 9 10 2 7 26 18 7 20 11 7 16 5 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0027": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> A MAN WISH SHING TO GO TO A SOUTAN PLAYS SCONETH TO WHER THE ROAD DEIVIDES<eos>",
+                    "rec_token": "<blank> <space> A <space> M A N <space> W I S H <space> S H I N G <space> T O <space> G O <space> T O <space> A <space> S O U T A N <space> P L A Y S <space> S C O N E T H <space> T O <space> W H E R <space> T H E <space> R O A D <space> D E I V I D E S <eos>",
+                    "rec_tokenid": "0 2 3 2 15 3 16 2 25 11 21 10 2 21 10 11 16 9 2 22 17 2 9 17 2 22 17 2 3 2 21 17 23 22 3 16 2 18 14 3 27 21 2 21 5 17 16 7 22 10 2 22 17 2 25 10 7 20 2 22 10 7 2 20 17 3 6 2 6 7 11 24 11 6 7 21 29",
+                    "score": 71.87689971923828,
+                    "shape": [
+                        70,
+                        30
+                    ],
+                    "text": "A MAN WISHING TO GO TO A CERTAIN PLACE COMES TO WHERE THE ROAD DIVIDES",
+                    "token": "A <space> M A N <space> W I S H I N G <space> T O <space> G O <space> T O <space> A <space> C E R T A I N <space> P L A C E <space> C O M E S <space> T O <space> W H E R E <space> T H E <space> R O A D <space> D I V I D E S",
+                    "tokenid": "3 2 15 3 16 2 25 11 21 10 11 16 9 2 22 17 2 9 17 2 22 17 2 3 2 5 7 20 22 3 11 16 2 18 14 3 5 7 2 5 17 15 7 21 2 22 17 2 25 10 7 20 7 2 22 10 7 2 20 17 3 6 2 6 11 24 11 6 7 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0028": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>CHE HAS TRIED THAT ROAD AND NOSETHAT IT IS IST A RONGK ROAD<eos>",
+                    "rec_token": "<blank> C H E <space> H A S <space> T R I E D <space> T H A T <space> R O A D <space> A N D <space> N O S E T H A T <space> I T <space> I S <space> I S T <space> A <space> R O N G K <space> R O A D <eos>",
+                    "rec_tokenid": "0 5 10 7 2 10 3 21 2 22 20 11 7 6 2 22 10 3 22 2 20 17 3 6 2 3 16 6 2 16 17 21 7 22 10 3 22 2 11 22 2 11 21 2 11 21 22 2 3 2 20 17 16 9 13 2 20 17 3 6 29",
+                    "score": 55.24777603149414,
+                    "shape": [
+                        58,
+                        30
+                    ],
+                    "text": "HE HAS TRIED THAT ROAD AND KNOWS THAT IT IS THE WRONG ROAD",
+                    "token": "H E <space> H A S <space> T R I E D <space> T H A T <space> R O A D <space> A N D <space> K N O W S <space> T H A T <space> I T <space> I S <space> T H E <space> W R O N G <space> R O A D",
+                    "tokenid": "10 7 2 10 3 21 2 22 20 11 7 6 2 22 10 3 22 2 20 17 3 6 2 3 16 6 2 13 16 17 25 21 2 22 10 3 22 2 11 22 2 11 21 2 22 10 7 2 25 20 17 16 9 2 20 17 3 6"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0029": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> A CHARINLE SHAOWNED BY THE BEUTY OF THE FLAME GRASSED ITOIT HIS DIMPULT ANDD<eos>",
+                    "rec_token": "<blank> <space> A <space> C H A R I N L E <space> S H A O W N E D <space> B Y <space> T H E <space> B E U T Y <space> O F <space> T H E <space> F L A M E <space> G R A S S E D <space> I T O I T <space> H I S <space> D I M P U L T <space> A N D D <eos>",
+                    "rec_tokenid": "0 2 3 2 5 10 3 20 11 16 14 7 2 21 10 3 17 25 16 7 6 2 4 27 2 22 10 7 2 4 7 23 22 27 2 17 8 2 22 10 7 2 8 14 3 15 7 2 9 20 3 21 21 7 6 2 11 22 17 11 22 2 10 11 21 2 6 11 15 18 23 14 22 2 3 16 6 6 29",
+                    "score": 68.52690124511719,
+                    "shape": [
+                        74,
+                        30
+                    ],
+                    "text": "A CHILD CHARMED BY THE BEAUTY OF THE FLAME GRASPS IT WITH ITS DIMPLED HAND",
+                    "token": "A <space> C H I L D <space> C H A R M E D <space> B Y <space> T H E <space> B E A U T Y <space> O F <space> T H E <space> F L A M E <space> G R A S P S <space> I T <space> W I T H <space> I T S <space> D I M P L E D <space> H A N D",
+                    "tokenid": "3 2 5 10 11 14 6 2 5 10 3 20 15 7 6 2 4 27 2 22 10 7 2 4 7 3 23 22 27 2 17 8 2 22 10 7 2 8 14 3 15 7 2 9 20 3 21 18 21 2 11 22 2 25 11 22 10 2 11 22 21 2 6 11 15 18 14 7 6 2 10 3 16 6"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0030": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THE PORE WERE THAT WOURBS FOR RITHIOUS NESS HAD TOUGHT THE CHILD A LESSEON<eos>",
+                    "rec_token": "<blank> <space> T H E <space> P O R E <space> W E R E <space> T H A T <space> W O U R B S <space> F O R <space> R I T H I O U S <space> N E S S <space> H A D <space> T O U G H T <space> T H E <space> C H I L D <space> A <space> L E S S E O N <eos>",
+                    "rec_tokenid": "0 2 22 10 7 2 18 17 20 7 2 25 7 20 7 2 22 10 3 22 2 25 17 23 20 4 21 2 8 17 20 2 20 11 22 10 11 17 23 21 2 16 7 21 21 2 10 3 6 2 22 17 23 9 10 22 2 22 10 7 2 5 10 11 14 6 2 3 2 14 7 21 21 7 17 16 29",
+                    "score": 72.43572998046875,
+                    "shape": [
+                        68,
+                        30
+                    ],
+                    "text": "THE POWER THAT WORKS FOR RIGHTEOUSNESS HAS TAUGHT THE CHILD A LESSON",
+                    "token": "T H E <space> P O W E R <space> T H A T <space> W O R K S <space> F O R <space> R I G H T E O U S N E S S <space> H A S <space> T A U G H T <space> T H E <space> C H I L D <space> A <space> L E S S O N",
+                    "tokenid": "22 10 7 2 18 17 25 7 20 2 22 10 3 22 2 25 17 20 13 21 2 8 17 20 2 20 11 9 10 22 7 17 23 21 16 7 21 21 2 10 3 21 2 22 3 23 9 10 22 2 22 10 7 2 5 10 11 14 6 2 3 2 14 7 21 21 17 16"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0031": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>ITIS AU RIESANT<eos>",
+                    "rec_token": "<blank> <eos> I T I S <space> A U <space> R I E S A N T <eos>",
+                    "rec_tokenid": "0 29 11 22 11 21 2 3 23 2 20 11 7 21 3 16 22 29",
+                    "score": 209.1787567138672,
+                    "shape": [
+                        14,
+                        30
+                    ],
+                    "text": "IT IS A RESULT",
+                    "token": "I T <space> I S <space> A <space> R E S U L T",
+                    "tokenid": "11 22 2 11 21 2 3 2 20 7 21 23 14 22"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0032": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>HIT IS ENSCISTED BY THESE THEOULODGIAONS AND BY MEANY OF THE SOLE CALLED FILOSSIFIARS THAT THIS MORAL SENCE THIS SENCE OF DUTY OFFE OBLIGATION WAS IMPORTERT AND THAT CONCIAONCE IS AN EGSOULTICK<eos>",
+                    "rec_token": "<blank> H I T <space> I S <space> E N S C I S T E D <space> B Y <space> T H E S E <space> T H E O U L O D G I A O N S <space> A N D <space> B Y <space> M E A N Y <space> O F <space> T H E <space> S O L E <space> C A L L E D <space> F I L O S S I F I A R S <space> T H A T <space> T H I S <space> M O R A L <space> S E N C E <space> T H I S <space> S E N C E <space> O F <space> D U T Y <space> O F F E <space> O B L I G A T I O N <space> W A S <space> I M P O R T E R T <space> A N D <space> T H A T <space> C O N C I A O N C E <space> I S <space> A N <space> E G S O U L T I C K <eos>",
+                    "rec_tokenid": "0 10 11 22 2 11 21 2 7 16 21 5 11 21 22 7 6 2 4 27 2 22 10 7 21 7 2 22 10 7 17 23 14 17 6 9 11 3 17 16 21 2 3 16 6 2 4 27 2 15 7 3 16 27 2 17 8 2 22 10 7 2 21 17 14 7 2 5 3 14 14 7 6 2 8 11 14 17 21 21 11 8 11 3 20 21 2 22 10 3 22 2 22 10 11 21 2 15 17 20 3 14 2 21 7 16 5 7 2 22 10 11 21 2 21 7 16 5 7 2 17 8 2 6 23 22 27 2 17 8 8 7 2 17 4 14 11 9 3 22 11 17 16 2 25 3 21 2 11 15 18 17 20 22 7 20 22 2 3 16 6 2 22 10 3 22 2 5 17 16 5 11 3 17 16 5 7 2 11 21 2 3 16 2 7 9 21 17 23 14 22 11 5 13 29",
+                    "score": 179.92636108398438,
+                    "shape": [
+                        178,
+                        30
+                    ],
+                    "text": "IT IS INSISTED BY THESE THEOLOGIANS AND BY MANY OF THE SO CALLED PHILOSOPHERS THAT THIS MORAL SENSE THIS SENSE OF DUTY OF OBLIGATION WAS IMPORTED AND THAT CONSCIENCE IS AN EXOTIC",
+                    "token": "I T <space> I S <space> I N S I S T E D <space> B Y <space> T H E S E <space> T H E O L O G I A N S <space> A N D <space> B Y <space> M A N Y <space> O F <space> T H E <space> S O <space> C A L L E D <space> P H I L O S O P H E R S <space> T H A T <space> T H I S <space> M O R A L <space> S E N S E <space> T H I S <space> S E N S E <space> O F <space> D U T Y <space> O F <space> O B L I G A T I O N <space> W A S <space> I M P O R T E D <space> A N D <space> T H A T <space> C O N S C I E N C E <space> I S <space> A N <space> E X O T I C",
+                    "tokenid": "11 22 2 11 21 2 11 16 21 11 21 22 7 6 2 4 27 2 22 10 7 21 7 2 22 10 7 17 14 17 9 11 3 16 21 2 3 16 6 2 4 27 2 15 3 16 27 2 17 8 2 22 10 7 2 21 17 2 5 3 14 14 7 6 2 18 10 11 14 17 21 17 18 10 7 20 21 2 22 10 3 22 2 22 10 11 21 2 15 17 20 3 14 2 21 7 16 21 7 2 22 10 11 21 2 21 7 16 21 7 2 17 8 2 6 23 22 27 2 17 8 2 17 4 14 11 9 3 22 11 17 16 2 25 3 21 2 11 15 18 17 20 22 7 6 2 3 16 6 2 22 10 3 22 2 5 17 16 21 5 11 7 16 5 7 2 11 21 2 3 16 2 7 26 17 22 11 5"
+                }
+            ],
+            "utt2spk": ""
+        }
+    }
+}
