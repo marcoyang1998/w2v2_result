@@ -1,0 +1,555 @@
+{
+    "utts": {
+        "3915-98647-0007": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> FOR THE GRATER AVVENCE OF FAMLY LIF THE HOME PROFISEYS AR FELT TO BE TOUW UN SERTON AND THE SERVEISES OF THE FORCIANTALLEAR MOUST BE CALED HIM <eos>",
+                    "rec_token": "<blank> <space> F O R <space> T H E <space> G R A T E R <space> A V V E N C E <space> O F <space> F A M L Y <space> L I F <space> T H E <space> H O M E <space> P R O F I S E Y S <space> A R <space> F E L T <space> T O <space> B E <space> T O U W <space> U N <space> S E R T O N <space> A N D <space> T H E <space> S E R V E I S E S <space> O F <space> T H E <space> F O R C I A N T A L L E A R <space> M O U S T <space> B E <space> C A L E D <space> H I M <space> <eos>",
+                    "rec_tokenid": "0 4 20 8 13 4 6 11 5 4 21 13 7 6 5 13 4 7 25 25 5 9 19 5 4 8 20 4 20 7 17 15 22 4 15 10 20 4 6 11 5 4 11 8 17 5 4 23 13 8 20 10 12 5 22 12 4 7 13 4 20 5 15 6 4 6 8 4 24 5 4 6 8 16 18 4 16 9 4 12 5 13 6 8 9 4 7 9 14 4 6 11 5 4 12 5 13 25 5 10 12 5 12 4 8 20 4 6 11 5 4 20 8 13 19 10 7 9 6 7 15 15 5 7 13 4 17 8 16 12 6 4 24 5 4 19 7 15 5 14 4 11 10 17 4 2",
+                    "score": 128.41000366210938,
+                    "shape": [
+                        143,
+                        30
+                    ],
+                    "text": "FOR THE GREATER EVENTS OF FAMILY LIFE THE HOME PROPHECIES ARE FELT TO BE TOO UNCERTAIN AND THE SERVICES OF THE FORTUNE TELLER MUST BE CALLED IN",
+                    "token": "F O R <space> T H E <space> G R E A T E R <space> E V E N T S <space> O F <space> F A M I L Y <space> L I F E <space> T H E <space> H O M E <space> P R O P H E C I E S <space> A R E <space> F E L T <space> T O <space> B E <space> T O O <space> U N C E R T A I N <space> A N D <space> T H E <space> S E R V I C E S <space> O F <space> T H E <space> F O R T U N E <space> T E L L E R <space> M U S T <space> B E <space> C A L L E D <space> I N",
+                    "tokenid": "8 17 20 2 22 10 7 2 9 20 7 3 22 7 20 2 7 24 7 16 22 21 2 17 8 2 8 3 15 11 14 27 2 14 11 8 7 2 22 10 7 2 10 17 15 7 2 18 20 17 18 10 7 5 11 7 21 2 3 20 7 2 8 7 14 22 2 22 17 2 4 7 2 22 17 17 2 23 16 5 7 20 22 3 11 16 2 3 16 6 2 22 10 7 2 21 7 20 24 11 5 7 21 2 17 8 2 22 10 7 2 8 17 20 22 23 16 7 2 22 7 14 14 7 20 2 15 23 21 22 2 4 7 2 5 3 14 14 7 6 2 11 16"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "3915-98647-0008": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>WNO WEL MANESED FAMALY WOULD THINK OF BILDING A NE HOWS WITHOUT FINDING IN WHAT DERECTION TO PAS THE FRUNT DORE <eos>",
+                    "rec_token": "<blank> W N O <space> W E L <space> M A N E S E D <space> F A M A L Y <space> W O U L D <space> T H I N K <space> O F <space> B I L D I N G <space> A <space> N E <space> H O W S <space> W I T H O U T <space> F I N D I N G <space> I N <space> W H A T <space> D E R E C T I O N <space> T O <space> P A S <space> T H E <space> F R U N T <space> D O R E <space> <eos>",
+                    "rec_tokenid": "0 18 9 8 4 18 5 15 4 17 7 9 5 12 5 14 4 20 7 17 7 15 22 4 18 8 16 15 14 4 6 11 10 9 26 4 8 20 4 24 10 15 14 10 9 21 4 7 4 9 5 4 11 8 18 12 4 18 10 6 11 8 16 6 4 20 10 9 14 10 9 21 4 10 9 4 18 11 7 6 4 14 5 13 5 19 6 10 8 9 4 6 8 4 23 7 12 4 6 11 5 4 20 13 16 9 6 4 14 8 13 5 4 2",
+                    "score": 103.7752914428711,
+                    "shape": [
+                        115,
+                        30
+                    ],
+                    "text": "NO WELL MANAGED FAMILY WOULD THINK OF BUILDING A NEW HOUSE WITHOUT FINDING IN WHAT DIRECTION TO FACE THE FRONT DOOR",
+                    "token": "N O <space> W E L L <space> M A N A G E D <space> F A M I L Y <space> W O U L D <space> T H I N K <space> O F <space> B U I L D I N G <space> A <space> N E W <space> H O U S E <space> W I T H O U T <space> F I N D I N G <space> I N <space> W H A T <space> D I R E C T I O N <space> T O <space> F A C E <space> T H E <space> F R O N T <space> D O O R",
+                    "tokenid": "16 17 2 25 7 14 14 2 15 3 16 3 9 7 6 2 8 3 15 11 14 27 2 25 17 23 14 6 2 22 10 11 16 13 2 17 8 2 4 23 11 14 6 11 16 9 2 3 2 16 7 25 2 10 17 23 21 7 2 25 11 22 10 17 23 22 2 8 11 16 6 11 16 9 2 11 16 2 25 10 3 22 2 6 11 20 7 5 22 11 17 16 2 22 17 2 8 3 5 7 2 22 10 7 2 8 20 17 16 22 2 6 17 17 20"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "3915-98647-0009": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "AFTER THIS MANER HAS BEEN SETTLED AND THE HOWSE HAS FARELY BEGOUN THER AR ACASIONAL CRISES IND ITS CONSTRUCTION APONE WHICH MUCH DEPENDS <eos>",
+                    "rec_token": "A F T E R <space> T H I S <space> M A N E R <space> H A S <space> B E E N <space> S E T T L E D <space> A N D <space> T H E <space> H O W S E <space> H A S <space> F A R E L Y <space> B E G O U N <space> T H E R <space> A R <space> A C A S I O N A L <space> C R I S E S <space> I N D <space> I T S <space> C O N S T R U C T I O N <space> A P O N E <space> W H I C H <space> M U C H <space> D E P E N D S <space> <eos>",
+                    "rec_tokenid": "7 20 6 5 13 4 6 11 10 12 4 17 7 9 5 13 4 11 7 12 4 24 5 5 9 4 12 5 6 6 15 5 14 4 7 9 14 4 6 11 5 4 11 8 18 12 5 4 11 7 12 4 20 7 13 5 15 22 4 24 5 21 8 16 9 4 6 11 5 13 4 7 13 4 7 19 7 12 10 8 9 7 15 4 19 13 10 12 5 12 4 10 9 14 4 10 6 12 4 19 8 9 12 6 13 16 19 6 10 8 9 4 7 23 8 9 5 4 18 11 10 19 11 4 17 16 19 11 4 14 5 23 5 9 14 12 4 2",
+                    "score": 124.96754455566406,
+                    "shape": [
+                        136,
+                        30
+                    ],
+                    "text": "AFTER THIS MATTER HAS BEEN SETTLED AND THE HOUSE IS FAIRLY BEGUN THERE ARE OCCASIONAL CRISES IN ITS CONSTRUCTION UPON WHICH MUCH DEPENDS",
+                    "token": "A F T E R <space> T H I S <space> M A T T E R <space> H A S <space> B E E N <space> S E T T L E D <space> A N D <space> T H E <space> H O U S E <space> I S <space> F A I R L Y <space> B E G U N <space> T H E R E <space> A R E <space> O C C A S I O N A L <space> C R I S E S <space> I N <space> I T S <space> C O N S T R U C T I O N <space> U P O N <space> W H I C H <space> M U C H <space> D E P E N D S",
+                    "tokenid": "3 8 22 7 20 2 22 10 11 21 2 15 3 22 22 7 20 2 10 3 21 2 4 7 7 16 2 21 7 22 22 14 7 6 2 3 16 6 2 22 10 7 2 10 17 23 21 7 2 11 21 2 8 3 11 20 14 27 2 4 7 9 23 16 2 22 10 7 20 7 2 3 20 7 2 17 5 5 3 21 11 17 16 3 14 2 5 20 11 21 7 21 2 11 16 2 11 22 21 2 5 17 16 21 22 20 23 5 22 11 17 16 2 23 18 17 16 2 25 10 11 5 10 2 15 23 5 10 2 6 7 18 7 16 6 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "3915-98647-0010": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>AOF THEIS THE MOST EMPORTNT IS THE DAY WHEN THE WROF IS RAISED <eos>",
+                    "rec_token": "<blank> A O F <space> T H E I S <space> T H E <space> M O S T <space> E M P O R T N T <space> I S <space> T H E <space> D A Y <space> W H E N <space> T H E <space> W R O F <space> I S <space> R A I S E D <space> <eos>",
+                    "rec_tokenid": "0 7 8 20 4 6 11 5 10 12 4 6 11 5 4 17 8 12 6 4 5 17 23 8 13 6 9 6 4 10 12 4 6 11 5 4 14 7 22 4 18 11 5 9 4 6 11 5 4 18 13 8 20 4 10 12 4 13 7 10 12 5 14 4 2",
+                    "score": 58.07133483886719,
+                    "shape": [
+                        62,
+                        30
+                    ],
+                    "text": "OF THESE THE MOST IMPORTANT IS THE DAY WHEN THE ROOF IS RAISED",
+                    "token": "O F <space> T H E S E <space> T H E <space> M O S T <space> I M P O R T A N T <space> I S <space> T H E <space> D A Y <space> W H E N <space> T H E <space> R O O F <space> I S <space> R A I S E D",
+                    "tokenid": "17 8 2 22 10 7 21 7 2 22 10 7 2 15 17 21 22 2 11 15 18 17 20 22 3 16 22 2 11 21 2 22 10 7 2 6 3 27 2 25 10 7 16 2 22 10 7 2 20 17 17 8 2 11 21 2 20 3 11 21 7 6"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "3915-98647-0011": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THA HOWS OWNER THEN DBESIDS WHETHER THE DAY SETT BY THE BILDER AS A LECKY WONE FOR HIMSEALF AND HIS FAMALY <eos>",
+                    "rec_token": "<blank> <space> T H A <space> H O W S <space> O W N E R <space> T H E N <space> D B E S I D S <space> W H E T H E R <space> T H E <space> D A Y <space> S E T T <space> B Y <space> T H E <space> B I L D E R <space> A S <space> A <space> L E C K Y <space> W O N E <space> F O R <space> H I M S E A L F <space> A N D <space> H I S <space> F A M A L Y <space> <eos>",
+                    "rec_tokenid": "0 4 6 11 7 4 11 8 18 12 4 8 18 9 5 13 4 6 11 5 9 4 14 24 5 12 10 14 12 4 18 11 5 6 11 5 13 4 6 11 5 4 14 7 22 4 12 5 6 6 4 24 22 4 6 11 5 4 24 10 15 14 5 13 4 7 12 4 7 4 15 5 19 26 22 4 18 8 9 5 4 20 8 13 4 11 10 17 12 5 7 15 20 4 7 9 14 4 11 10 12 4 20 7 17 7 15 22 4 2",
+                    "score": 99.26309204101562,
+                    "shape": [
+                        105,
+                        30
+                    ],
+                    "text": "THE HOUSE OWNER THEN DECIDES WHETHER THE DAY SET BY THE BUILDER IS A LUCKY ONE FOR HIMSELF AND HIS FAMILY",
+                    "token": "T H E <space> H O U S E <space> O W N E R <space> T H E N <space> D E C I D E S <space> W H E T H E R <space> T H E <space> D A Y <space> S E T <space> B Y <space> T H E <space> B U I L D E R <space> I S <space> A <space> L U C K Y <space> O N E <space> F O R <space> H I M S E L F <space> A N D <space> H I S <space> F A M I L Y",
+                    "tokenid": "22 10 7 2 10 17 23 21 7 2 17 25 16 7 20 2 22 10 7 16 2 6 7 5 11 6 7 21 2 25 10 7 22 10 7 20 2 22 10 7 2 6 3 27 2 21 7 22 2 4 27 2 22 10 7 2 4 23 11 14 6 7 20 2 11 21 2 3 2 14 23 5 13 27 2 17 16 7 2 8 17 20 2 10 11 15 21 7 14 8 2 3 16 6 2 10 11 21 2 8 3 15 11 14 27"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "3915-98647-0012": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>TA PRESENT OF MNEY TO EACHE WORKMAN IS ALSO IN ORDER AND WL CONDUS TO THE RAPED AND FAITHFUL EXSICUTION OF THE GJOB AT HAND WHEN AT LAST THE HOWS IS FINISHED IN CARPENTERS AND PLASTERRS AR REDY TO LEAVE IT THE LOCAL FIARMEN WHO HAVE ASISTDED ALL ALONG IN THE BILDING AS UN SILD LABERS OFFEN ASEND TO THE ROOF AND FROM THE BRIGE PULL CASST DOUN CAKXS FOR WHICH THE CHILDEREN IN THE NABER WHOD SCRAMBLD JOYFOLY <eos>",
+                    "rec_token": "<blank> T A <space> P R E S E N T <space> O F <space> M N E Y <space> T O <space> E A C H E <space> W O R K M A N <space> I S <space> A L S O <space> I N <space> O R D E R <space> A N D <space> W L <space> C O N D U S <space> T O <space> T H E <space> R A P E D <space> A N D <space> F A I T H F U L <space> E X S I C U T I O N <space> O F <space> T H E <space> G J O B <space> A T <space> H A N D <space> W H E N <space> A T <space> L A S T <space> T H E <space> H O W S <space> I S <space> F I N I S H E D <space> I N <space> C A R P E N T E R S <space> A N D <space> P L A S T E R R S <space> A R <space> R E D Y <space> T O <space> L E A V E <space> I T <space> T H E <space> L O C A L <space> F I A R M E N <space> W H O <space> H A V E <space> A S I S T D E D <space> A L L <space> A L O N G <space> I N <space> T H E <space> B I L D I N G <space> A S <space> U N <space> S I L D <space> L A B E R S <space> O F F E N <space> A S E N D <space> T O <space> T H E <space> R O O F <space> A N D <space> F R O M <space> T H E <space> B R I G E <space> P U L L <space> C A S S T <space> D O U N <space> C A K X S <space> F O R <space> W H I C H <space> T H E <space> C H I L D E R E N <space> I N <space> T H E <space> N A B E R <space> W H O D <space> S C R A M B L D <space> J O Y F O L Y <space> <eos>",
+                    "rec_tokenid": "0 6 7 4 23 13 5 12 5 9 6 4 8 20 4 17 9 5 22 4 6 8 4 5 7 19 11 5 4 18 8 13 26 17 7 9 4 10 12 4 7 15 12 8 4 10 9 4 8 13 14 5 13 4 7 9 14 4 18 15 4 19 8 9 14 16 12 4 6 8 4 6 11 5 4 13 7 23 5 14 4 7 9 14 4 20 7 10 6 11 20 16 15 4 5 28 12 10 19 16 6 10 8 9 4 8 20 4 6 11 5 4 21 29 8 24 4 7 6 4 11 7 9 14 4 18 11 5 9 4 7 6 4 15 7 12 6 4 6 11 5 4 11 8 18 12 4 10 12 4 20 10 9 10 12 11 5 14 4 10 9 4 19 7 13 23 5 9 6 5 13 12 4 7 9 14 4 23 15 7 12 6 5 13 13 12 4 7 13 4 13 5 14 22 4 6 8 4 15 5 7 25 5 4 10 6 4 6 11 5 4 15 8 19 7 15 4 20 10 7 13 17 5 9 4 18 11 8 4 11 7 25 5 4 7 12 10 12 6 14 5 14 4 7 15 15 4 7 15 8 9 21 4 10 9 4 6 11 5 4 24 10 15 14 10 9 21 4 7 12 4 16 9 4 12 10 15 14 4 15 7 24 5 13 12 4 8 20 20 5 9 4 7 12 5 9 14 4 6 8 4 6 11 5 4 13 8 8 20 4 7 9 14 4 20 13 8 17 4 6 11 5 4 24 13 10 21 5 4 23 16 15 15 4 19 7 12 12 6 4 14 8 16 9 4 19 7 26 28 12 4 20 8 13 4 18 11 10 19 11 4 6 11 5 4 19 11 10 15 14 5 13 5 9 4 10 9 4 6 11 5 4 9 7 24 5 13 4 18 11 8 14 4 12 19 13 7 17 24 15 14 4 29 8 22 20 8 15 22 4 2",
+                    "score": 370.3798828125,
+                    "shape": [
+                        420,
+                        30
+                    ],
+                    "text": "A PRESENT OF MONEY TO EACH WORKMAN IS ALSO IN ORDER AND WILL CONDUCE TO THE RAPID AND FAITHFUL EXECUTION OF THE JOB IN HAND WHEN AT LAST THE HOUSE IS FINISHED AND CARPENTERS AND PLASTERERS ARE READY TO LEAVE IT THE LOCAL FIREMEN WHO HAVE ASSISTED ALL ALONG IN THE BUILDING AS UNSKILLED LABORERS OFTEN ASCEND TO THE ROOF AND FROM THE RIDGE POLE CAST DOWN CAKES FOR WHICH THE CHILDREN OF THE NEIGHBORHOOD SCRAMBLE JOYFULLY",
+                    "token": "A <space> P R E S E N T <space> O F <space> M O N E Y <space> T O <space> E A C H <space> W O R K M A N <space> I S <space> A L S O <space> I N <space> O R D E R <space> A N D <space> W I L L <space> C O N D U C E <space> T O <space> T H E <space> R A P I D <space> A N D <space> F A I T H F U L <space> E X E C U T I O N <space> O F <space> T H E <space> J O B <space> I N <space> H A N D <space> W H E N <space> A T <space> L A S T <space> T H E <space> H O U S E <space> I S <space> F I N I S H E D <space> A N D <space> C A R P E N T E R S <space> A N D <space> P L A S T E R E R S <space> A R E <space> R E A D Y <space> T O <space> L E A V E <space> I T <space> T H E <space> L O C A L <space> F I R E M E N <space> W H O <space> H A V E <space> A S S I S T E D <space> A L L <space> A L O N G <space> I N <space> T H E <space> B U I L D I N G <space> A S <space> U N S K I L L E D <space> L A B O R E R S <space> O F T E N <space> A S C E N D <space> T O <space> T H E <space> R O O F <space> A N D <space> F R O M <space> T H E <space> R I D G E <space> P O L E <space> C A S T <space> D O W N <space> C A K E S <space> F O R <space> W H I C H <space> T H E <space> C H I L D R E N <space> O F <space> T H E <space> N E I G H B O R H O O D <space> S C R A M B L E <space> J O Y F U L L Y",
+                    "tokenid": "3 2 18 20 7 21 7 16 22 2 17 8 2 15 17 16 7 27 2 22 17 2 7 3 5 10 2 25 17 20 13 15 3 16 2 11 21 2 3 14 21 17 2 11 16 2 17 20 6 7 20 2 3 16 6 2 25 11 14 14 2 5 17 16 6 23 5 7 2 22 17 2 22 10 7 2 20 3 18 11 6 2 3 16 6 2 8 3 11 22 10 8 23 14 2 7 26 7 5 23 22 11 17 16 2 17 8 2 22 10 7 2 12 17 4 2 11 16 2 10 3 16 6 2 25 10 7 16 2 3 22 2 14 3 21 22 2 22 10 7 2 10 17 23 21 7 2 11 21 2 8 11 16 11 21 10 7 6 2 3 16 6 2 5 3 20 18 7 16 22 7 20 21 2 3 16 6 2 18 14 3 21 22 7 20 7 20 21 2 3 20 7 2 20 7 3 6 27 2 22 17 2 14 7 3 24 7 2 11 22 2 22 10 7 2 14 17 5 3 14 2 8 11 20 7 15 7 16 2 25 10 17 2 10 3 24 7 2 3 21 21 11 21 22 7 6 2 3 14 14 2 3 14 17 16 9 2 11 16 2 22 10 7 2 4 23 11 14 6 11 16 9 2 3 21 2 23 16 21 13 11 14 14 7 6 2 14 3 4 17 20 7 20 21 2 17 8 22 7 16 2 3 21 5 7 16 6 2 22 17 2 22 10 7 2 20 17 17 8 2 3 16 6 2 8 20 17 15 2 22 10 7 2 20 11 6 9 7 2 18 17 14 7 2 5 3 21 22 2 6 17 25 16 2 5 3 13 7 21 2 8 17 20 2 25 10 11 5 10 2 22 10 7 2 5 10 11 14 6 20 7 16 2 17 8 2 22 10 7 2 16 7 11 9 10 4 17 20 10 17 17 6 2 21 5 20 3 15 4 14 7 2 12 17 27 8 23 14 14 27"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "3915-98647-0013": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "ALL COME WHO CAN AND THEOSE WHO CANOT COME SEND SERVEANCE OR PROVISIONS <eos>",
+                    "rec_token": "A L L <space> C O M E <space> W H O <space> C A N <space> A N D <space> T H E O S E <space> W H O <space> C A N O T <space> C O M E <space> S E N D <space> S E R V E A N C E <space> O R <space> P R O V I S I O N S <space> <eos>",
+                    "rec_tokenid": "7 15 15 4 19 8 17 5 4 18 11 8 4 19 7 9 4 7 9 14 4 6 11 5 8 12 5 4 18 11 8 4 19 7 9 8 6 4 19 8 17 5 4 12 5 9 14 4 12 5 13 25 5 7 9 19 5 4 8 13 4 23 13 8 25 10 12 10 8 9 12 4 2",
+                    "score": 64.25460815429688,
+                    "shape": [
+                        70,
+                        30
+                    ],
+                    "text": "ALL COME WHO CAN AND THOSE WHO CANNOT COME SEND SERVANTS OR PROVISIONS",
+                    "token": "A L L <space> C O M E <space> W H O <space> C A N <space> A N D <space> T H O S E <space> W H O <space> C A N N O T <space> C O M E <space> S E N D <space> S E R V A N T S <space> O R <space> P R O V I S I O N S",
+                    "tokenid": "3 14 14 2 5 17 15 7 2 25 10 17 2 5 3 16 2 3 16 6 2 22 10 17 21 7 2 25 10 17 2 5 3 16 16 17 22 2 5 17 15 7 2 21 7 16 6 2 21 7 20 24 3 16 22 21 2 17 20 2 18 20 17 24 11 21 11 17 16 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "3915-98647-0014": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>CON THE DEY AFTERE THE DETTH OFFEN IN THE EVENING THE BADY MUST BE PLASED IN A CASSKE SHAPED COFFAN THAT UNTILL RESENTLY WAS THE STILE COMNLY INEWS IN GAPAN <eos>",
+                    "rec_token": "<blank> C O N <space> T H E <space> D E Y <space> A F T E R E <space> T H E <space> D E T T H <space> O F F E N <space> I N <space> T H E <space> E V E N I N G <space> T H E <space> B A D Y <space> M U S T <space> B E <space> P L A S E D <space> I N <space> A <space> C A S S K E <space> S H A P E D <space> C O F F A N <space> T H A T <space> U N T I L L <space> R E S E N T L Y <space> W A S <space> T H E <space> S T I L E <space> C O M N L Y <space> I N E W S <space> I N <space> G A P A N <space> <eos>",
+                    "rec_tokenid": "0 19 8 9 4 6 11 5 4 14 5 22 4 7 20 6 5 13 5 4 6 11 5 4 14 5 6 6 11 4 8 20 20 5 9 4 10 9 4 6 11 5 4 5 25 5 9 10 9 21 4 6 11 5 4 24 7 14 22 4 17 16 12 6 4 24 5 4 23 15 7 12 5 14 4 10 9 4 7 4 19 7 12 12 26 5 4 12 11 7 23 5 14 4 19 8 20 20 7 9 4 6 11 7 6 4 16 9 6 10 15 15 4 13 5 12 5 9 6 15 22 4 18 7 12 4 6 11 5 4 12 6 10 15 5 4 19 8 17 9 15 22 4 10 9 5 18 12 4 10 9 4 21 7 23 7 9 4 2",
+                    "score": 139.9586639404297,
+                    "shape": [
+                        156,
+                        30
+                    ],
+                    "text": "ON THE DAY AFTER THE DEATH OFTEN IN THE EVENING THE BODY MUST BE PLACED IN THE CASK SHAPED COFFIN THAT UNTIL RECENTLY WAS THE STYLE COMMONLY IN USE IN JAPAN",
+                    "token": "O N <space> T H E <space> D A Y <space> A F T E R <space> T H E <space> D E A T H <space> O F T E N <space> I N <space> T H E <space> E V E N I N G <space> T H E <space> B O D Y <space> M U S T <space> B E <space> P L A C E D <space> I N <space> T H E <space> C A S K <space> S H A P E D <space> C O F F I N <space> T H A T <space> U N T I L <space> R E C E N T L Y <space> W A S <space> T H E <space> S T Y L E <space> C O M M O N L Y <space> I N <space> U S E <space> I N <space> J A P A N",
+                    "tokenid": "17 16 2 22 10 7 2 6 3 27 2 3 8 22 7 20 2 22 10 7 2 6 7 3 22 10 2 17 8 22 7 16 2 11 16 2 22 10 7 2 7 24 7 16 11 16 9 2 22 10 7 2 4 17 6 27 2 15 23 21 22 2 4 7 2 18 14 3 5 7 6 2 11 16 2 22 10 7 2 5 3 21 13 2 21 10 3 18 7 6 2 5 17 8 8 11 16 2 22 10 3 22 2 23 16 22 11 14 2 20 7 5 7 16 22 14 27 2 25 3 21 2 22 10 7 2 21 22 27 14 7 2 5 17 15 15 17 16 14 27 2 11 16 2 23 21 7 2 11 16 2 12 3 18 3 16"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "3915-98647-0015": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>KNOW AMONG THE WELTHEYAR CLASAS THE LAONG COFFAN HAS SOUPERSEADED THE SMALL SQUAIRE ORE ROUND WUN BUT THE SMALLER EXPENCE CONECTED WITH A BARIL IN THE OALD WAY MAKXS IS SERVIVEAL OF AN OLD TIP ON NESEITY FOR THE MAGORITY OF GJAPENEEES <eos>",
+                    "rec_token": "<blank> K N O W <space> A M O N G <space> T H E <space> W E L T H E Y A R <space> C L A S A S <space> T H E <space> L A O N G <space> C O F F A N <space> H A S <space> S O U P E R S E A D E D <space> T H E <space> S M A L L <space> S Q U A I R E <space> O R E <space> R O U N D <space> W U N <space> B U T <space> T H E <space> S M A L L E R <space> E X P E N C E <space> C O N E C T E D <space> W I T H <space> A <space> B A R I L <space> I N <space> T H E <space> O A L D <space> W A Y <space> M A K X S <space> I S <space> S E R V I V E A L <space> O F <space> A N <space> O L D <space> T I P <space> O N <space> N E S E I T Y <space> F O R <space> T H E <space> M A G O R I T Y <space> O F <space> G J A P E N E E E S <space> <eos>",
+                    "rec_tokenid": "0 26 9 8 18 4 7 17 8 9 21 4 6 11 5 4 18 5 15 6 11 5 22 7 13 4 19 15 7 12 7 12 4 6 11 5 4 15 7 8 9 21 4 19 8 20 20 7 9 4 11 7 12 4 12 8 16 23 5 13 12 5 7 14 5 14 4 6 11 5 4 12 17 7 15 15 4 12 30 16 7 10 13 5 4 8 13 5 4 13 8 16 9 14 4 18 16 9 4 24 16 6 4 6 11 5 4 12 17 7 15 15 5 13 4 5 28 23 5 9 19 5 4 19 8 9 5 19 6 5 14 4 18 10 6 11 4 7 4 24 7 13 10 15 4 10 9 4 6 11 5 4 8 7 15 14 4 18 7 22 4 17 7 26 28 12 4 10 12 4 12 5 13 25 10 25 5 7 15 4 8 20 4 7 9 4 8 15 14 4 6 10 23 4 8 9 4 9 5 12 5 10 6 22 4 20 8 13 4 6 11 5 4 17 7 21 8 13 10 6 22 4 8 20 4 21 29 7 23 5 9 5 5 5 12 4 2",
+                    "score": 201.86903381347656,
+                    "shape": [
+                        229,
+                        30
+                    ],
+                    "text": "NOW AMONG THE WEALTHIER CLASSES THE LONG COFFIN HAS SUPERSEDED THE SMALL SQUARE OR ROUND ONE BUT THE SMALLER EXPENSE CONNECTED WITH BURIAL IN THE OLD WAY MAKES THE SURVIVAL OF THE OLD TYPE A NECESSITY FOR THE MAJORITY OF JAPANESE",
+                    "token": "N O W <space> A M O N G <space> T H E <space> W E A L T H I E R <space> C L A S S E S <space> T H E <space> L O N G <space> C O F F I N <space> H A S <space> S U P E R S E D E D <space> T H E <space> S M A L L <space> S Q U A R E <space> O R <space> R O U N D <space> O N E <space> B U T <space> T H E <space> S M A L L E R <space> E X P E N S E <space> C O N N E C T E D <space> W I T H <space> B U R I A L <space> I N <space> T H E <space> O L D <space> W A Y <space> M A K E S <space> T H E <space> S U R V I V A L <space> O F <space> T H E <space> O L D <space> T Y P E <space> A <space> N E C E S S I T Y <space> F O R <space> T H E <space> M A J O R I T Y <space> O F <space> J A P A N E S E",
+                    "tokenid": "16 17 25 2 3 15 17 16 9 2 22 10 7 2 25 7 3 14 22 10 11 7 20 2 5 14 3 21 21 7 21 2 22 10 7 2 14 17 16 9 2 5 17 8 8 11 16 2 10 3 21 2 21 23 18 7 20 21 7 6 7 6 2 22 10 7 2 21 15 3 14 14 2 21 19 23 3 20 7 2 17 20 2 20 17 23 16 6 2 17 16 7 2 4 23 22 2 22 10 7 2 21 15 3 14 14 7 20 2 7 26 18 7 16 21 7 2 5 17 16 16 7 5 22 7 6 2 25 11 22 10 2 4 23 20 11 3 14 2 11 16 2 22 10 7 2 17 14 6 2 25 3 27 2 15 3 13 7 21 2 22 10 7 2 21 23 20 24 11 24 3 14 2 17 8 2 22 10 7 2 17 14 6 2 22 27 18 7 2 3 2 16 7 5 7 21 21 11 22 27 2 8 17 20 2 22 10 7 2 15 3 12 17 20 11 22 27 2 17 8 2 12 3 18 3 16 7 21 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "3915-98647-0016": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "AT AN APOINTED TIME AL THE RELLITIVS AS SEMBLD IN THE DETTH CHAMBER AND PREPERACTIONS AR MAD FOR THE BAIVHING OF THE CORPS <eos>",
+                    "rec_token": "A T <space> A N <space> A P O I N T E D <space> T I M E <space> A L <space> T H E <space> R E L L I T I V S <space> A S <space> S E M B L D <space> I N <space> T H E <space> D E T T H <space> C H A M B E R <space> A N D <space> P R E P E R A C T I O N S <space> A R <space> M A D <space> F O R <space> T H E <space> B A I V H I N G <space> O F <space> T H E <space> C O R P S <space> <eos>",
+                    "rec_tokenid": "7 6 4 7 9 4 7 23 8 10 9 6 5 14 4 6 10 17 5 4 7 15 4 6 11 5 4 13 5 15 15 10 6 10 25 12 4 7 12 4 12 5 17 24 15 14 4 10 9 4 6 11 5 4 14 5 6 6 11 4 19 11 7 17 24 5 13 4 7 9 14 4 23 13 5 23 5 13 7 19 6 10 8 9 12 4 7 13 4 17 7 14 4 20 8 13 4 6 11 5 4 24 7 10 25 11 10 9 21 4 8 20 4 6 11 5 4 19 8 13 23 12 4 2",
+                    "score": 110.83008575439453,
+                    "shape": [
+                        124,
+                        30
+                    ],
+                    "text": "AT AN APPOINTED TIME ALL THE RELATIVES ASSEMBLE IN THE DEATH CHAMBER AND PREPARATIONS ARE MADE FOR THE BATHING OF THE CORPSE",
+                    "token": "A T <space> A N <space> A P P O I N T E D <space> T I M E <space> A L L <space> T H E <space> R E L A T I V E S <space> A S S E M B L E <space> I N <space> T H E <space> D E A T H <space> C H A M B E R <space> A N D <space> P R E P A R A T I O N S <space> A R E <space> M A D E <space> F O R <space> T H E <space> B A T H I N G <space> O F <space> T H E <space> C O R P S E",
+                    "tokenid": "3 22 2 3 16 2 3 18 18 17 11 16 22 7 6 2 22 11 15 7 2 3 14 14 2 22 10 7 2 20 7 14 3 22 11 24 7 21 2 3 21 21 7 15 4 14 7 2 11 16 2 22 10 7 2 6 7 3 22 10 2 5 10 3 15 4 7 20 2 3 16 6 2 18 20 7 18 3 20 3 22 11 17 16 21 2 3 20 7 2 15 3 6 7 2 8 17 20 2 22 10 7 2 4 3 22 10 11 16 9 2 17 8 2 22 10 7 2 5 17 20 18 21 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "3915-98647-0017": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>PHERIS NOW AOFFISHL SERIMONIOAL MORNING OF PARNCE FOR THER CHILDRIN NOR DAS COUSTOME REQHIARE THEM TO PRFORM ANY OF THE LASTD WRIAGTS OR ATEN THE FUNOROAL <eos>",
+                    "rec_token": "<blank> P H E R I S <space> N O W <space> A O F F I S H L <space> S E R I M O N I O A L <space> M O R N I N G <space> O F <space> P A R N C E <space> F O R <space> T H E R <space> C H I L D R I N <space> N O R <space> D A S <space> C O U S T O M E <space> R E Q H I A R E <space> T H E M <space> T O <space> P R F O R M <space> A N Y <space> O F <space> T H E <space> L A S T D <space> W R I A G T S <space> O R <space> A T E N <space> T H E <space> F U N O R O A L <space> <eos>",
+                    "rec_tokenid": "0 23 11 5 13 10 12 4 9 8 18 4 7 8 20 20 10 12 11 15 4 12 5 13 10 17 8 9 10 8 7 15 4 17 8 13 9 10 9 21 4 8 20 4 23 7 13 9 19 5 4 20 8 13 4 6 11 5 13 4 19 11 10 15 14 13 10 9 4 9 8 13 4 14 7 12 4 19 8 16 12 6 8 17 5 4 13 5 30 11 10 7 13 5 4 6 11 5 17 4 6 8 4 23 13 20 8 13 17 4 7 9 22 4 8 20 4 6 11 5 4 15 7 12 6 14 4 18 13 10 7 21 6 12 4 8 13 4 7 6 5 9 4 6 11 5 4 20 16 9 8 13 8 7 15 4 2",
+                    "score": 127.46095275878906,
+                    "shape": [
+                        154,
+                        30
+                    ],
+                    "text": "THERE IS NO OFFICIAL CEREMONIAL MOURNING OF PARENTS FOR THEIR CHILDREN NOR DOES CUSTOM REQUIRE THEM TO PERFORM ANY OF THE LAST RITES OR ATTEND THE FUNERAL",
+                    "token": "T H E R E <space> I S <space> N O <space> O F F I C I A L <space> C E R E M O N I A L <space> M O U R N I N G <space> O F <space> P A R E N T S <space> F O R <space> T H E I R <space> C H I L D R E N <space> N O R <space> D O E S <space> C U S T O M <space> R E Q U I R E <space> T H E M <space> T O <space> P E R F O R M <space> A N Y <space> O F <space> T H E <space> L A S T <space> R I T E S <space> O R <space> A T T E N D <space> T H E <space> F U N E R A L",
+                    "tokenid": "22 10 7 20 7 2 11 21 2 16 17 2 17 8 8 11 5 11 3 14 2 5 7 20 7 15 17 16 11 3 14 2 15 17 23 20 16 11 16 9 2 17 8 2 18 3 20 7 16 22 21 2 8 17 20 2 22 10 7 11 20 2 5 10 11 14 6 20 7 16 2 16 17 20 2 6 17 7 21 2 5 23 21 22 17 15 2 20 7 19 23 11 20 7 2 22 10 7 15 2 22 17 2 18 7 20 8 17 20 15 2 3 16 27 2 17 8 2 22 10 7 2 14 3 21 22 2 20 11 22 7 21 2 17 20 2 3 22 22 7 16 6 2 22 10 7 2 8 23 16 7 20 3 14"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "3915-98647-0018": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "APPONE THE YOUNGER BROTHERS AND SISTERS FALLES THE DUTY OF A TENDING TO ALL OF THE LASTD SAD MINISTRACHIONS <eos>",
+                    "rec_token": "A P P O N E <space> T H E <space> Y O U N G E R <space> B R O T H E R S <space> A N D <space> S I S T E R S <space> F A L L E S <space> T H E <space> D U T Y <space> O F <space> A <space> T E N D I N G <space> T O <space> A L L <space> O F <space> T H E <space> L A S T D <space> S A D <space> M I N I S T R A C H I O N S <space> <eos>",
+                    "rec_tokenid": "7 23 23 8 9 5 4 6 11 5 4 22 8 16 9 21 5 13 4 24 13 8 6 11 5 13 12 4 7 9 14 4 12 10 12 6 5 13 12 4 20 7 15 15 5 12 4 6 11 5 4 14 16 6 22 4 8 20 4 7 4 6 5 9 14 10 9 21 4 6 8 4 7 15 15 4 8 20 4 6 11 5 4 15 7 12 6 14 4 12 7 14 4 17 10 9 10 12 6 13 7 19 11 10 8 9 12 4 2",
+                    "score": 99.86671447753906,
+                    "shape": [
+                        99,
+                        30
+                    ],
+                    "text": "UPON THE YOUNGER BROTHERS AND SISTERS FALLS THE DUTY OF ATTENDING TO ALL THE LAST SAD MINISTRATIONS",
+                    "token": "U P O N <space> T H E <space> Y O U N G E R <space> B R O T H E R S <space> A N D <space> S I S T E R S <space> F A L L S <space> T H E <space> D U T Y <space> O F <space> A T T E N D I N G <space> T O <space> A L L <space> T H E <space> L A S T <space> S A D <space> M I N I S T R A T I O N S",
+                    "tokenid": "23 18 17 16 2 22 10 7 2 27 17 23 16 9 7 20 2 4 20 17 22 10 7 20 21 2 3 16 6 2 21 11 21 22 7 20 21 2 8 3 14 14 21 2 22 10 7 2 6 23 22 27 2 17 8 2 3 22 22 7 16 6 11 16 9 2 22 17 2 3 14 14 2 22 10 7 2 14 3 21 22 2 21 3 6 2 15 11 16 11 21 22 20 3 22 11 17 16 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "3915-98647-0019": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>SWHEN THE BODY HAS BEN WAUSHED AS IS DRESSED IN WHAT AND SILKCABO TINE WHEN EVERE THE FAMLY CAN AFFORED EAT <eos>",
+                    "rec_token": "<blank> S W H E N <space> T H E <space> B O D Y <space> H A S <space> B E N <space> W A U S H E D <space> A S <space> I S <space> D R E S S E D <space> I N <space> W H A T <space> A N D <space> S I L K C A B O <space> T I N E <space> W H E N <space> E V E R E <space> T H E <space> F A M L Y <space> C A N <space> A F F O R E D <space> E A T <space> <eos>",
+                    "rec_tokenid": "0 12 18 11 5 9 4 6 11 5 4 24 8 14 22 4 11 7 12 4 24 5 9 4 18 7 16 12 11 5 14 4 7 12 4 10 12 4 14 13 5 12 12 5 14 4 10 9 4 18 11 7 6 4 7 9 14 4 12 10 15 26 19 7 24 8 4 6 10 9 5 4 18 11 5 9 4 5 25 5 13 5 4 6 11 5 4 20 7 17 15 22 4 19 7 9 4 7 20 20 8 13 5 14 4 5 7 6 4 2",
+                    "score": 95.87234497070312,
+                    "shape": [
+                        102,
+                        30
+                    ],
+                    "text": "WHEN THE BODY HAS BEEN WASHED IT IS DRESSED IN WHITE IN SILK HABUTAI WHENEVER THE FAMILY CAN AFFORD IT",
+                    "token": "W H E N <space> T H E <space> B O D Y <space> H A S <space> B E E N <space> W A S H E D <space> I T <space> I S <space> D R E S S E D <space> I N <space> W H I T E <space> I N <space> S I L K <space> H A B U T A I <space> W H E N E V E R <space> T H E <space> F A M I L Y <space> C A N <space> A F F O R D <space> I T",
+                    "tokenid": "25 10 7 16 2 22 10 7 2 4 17 6 27 2 10 3 21 2 4 7 7 16 2 25 3 21 10 7 6 2 11 22 2 11 21 2 6 20 7 21 21 7 6 2 11 16 2 25 10 11 22 7 2 11 16 2 21 11 14 13 2 10 3 4 23 22 3 11 2 25 10 7 16 7 24 7 20 2 22 10 7 2 8 3 15 11 14 27 2 5 3 16 2 3 8 8 17 20 6 2 11 22"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "3915-98647-0020": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THE BADY TO BE PLASED IN TE COFFEN MUST BE FOLLDED INTO A SITING PASTUR THE CHIEN WRESTING APPON THE NEEAS THE POASISTION OF THE MONMY'S FOUND IN MANY ABERIGINAL AMARCAN TOMS <eos>",
+                    "rec_token": "<blank> <space> T H E <space> B A D Y <space> T O <space> B E <space> P L A S E D <space> I N <space> T E <space> C O F F E N <space> M U S T <space> B E <space> F O L L D E D <space> I N T O <space> A <space> S I T I N G <space> P A S T U R <space> T H E <space> C H I E N <space> W R E S T I N G <space> A P P O N <space> T H E <space> N E E A S <space> T H E <space> P O A S I S T I O N <space> O F <space> T H E <space> M O N M Y ' S <space> F O U N D <space> I N <space> M A N Y <space> A B E R I G I N A L <space> A M A R C A N <space> T O M S <space> <eos>",
+                    "rec_tokenid": "0 4 6 11 5 4 24 7 14 22 4 6 8 4 24 5 4 23 15 7 12 5 14 4 10 9 4 6 5 4 19 8 20 20 5 9 4 17 16 12 6 4 24 5 4 20 8 15 15 14 5 14 4 10 9 6 8 4 7 4 12 10 6 10 9 21 4 23 7 12 6 16 13 4 6 11 5 4 19 11 10 5 9 4 18 13 5 12 6 10 9 21 4 7 23 23 8 9 4 6 11 5 4 9 5 5 7 12 4 6 11 5 4 23 8 7 12 10 12 6 10 8 9 4 8 20 4 6 11 5 4 17 8 9 17 22 27 12 4 20 8 16 9 14 4 10 9 4 17 7 9 22 4 7 24 5 13 10 21 10 9 7 15 4 7 17 7 13 19 7 9 4 6 8 17 12 4 2",
+                    "score": 151.7080841064453,
+                    "shape": [
+                        173,
+                        30
+                    ],
+                    "text": "THE BODY TO BE PLACED IN THE COFFIN MUST BE FOLDED INTO A SITTING POSTURE THE CHIN RESTING UPON THE KNEES THE POSITION OF THE MUMMIES FOUND IN MANY ABORIGINAL AMERICAN TOMBS",
+                    "token": "T H E <space> B O D Y <space> T O <space> B E <space> P L A C E D <space> I N <space> T H E <space> C O F F I N <space> M U S T <space> B E <space> F O L D E D <space> I N T O <space> A <space> S I T T I N G <space> P O S T U R E <space> T H E <space> C H I N <space> R E S T I N G <space> U P O N <space> T H E <space> K N E E S <space> T H E <space> P O S I T I O N <space> O F <space> T H E <space> M U M M I E S <space> F O U N D <space> I N <space> M A N Y <space> A B O R I G I N A L <space> A M E R I C A N <space> T O M B S",
+                    "tokenid": "22 10 7 2 4 17 6 27 2 22 17 2 4 7 2 18 14 3 5 7 6 2 11 16 2 22 10 7 2 5 17 8 8 11 16 2 15 23 21 22 2 4 7 2 8 17 14 6 7 6 2 11 16 22 17 2 3 2 21 11 22 22 11 16 9 2 18 17 21 22 23 20 7 2 22 10 7 2 5 10 11 16 2 20 7 21 22 11 16 9 2 23 18 17 16 2 22 10 7 2 13 16 7 7 21 2 22 10 7 2 18 17 21 11 22 11 17 16 2 17 8 2 22 10 7 2 15 23 15 15 11 7 21 2 8 17 23 16 6 2 11 16 2 15 3 16 27 2 3 4 17 20 11 9 11 16 3 14 2 3 15 7 20 11 5 3 16 2 22 17 15 4 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "3915-98647-0021": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THIS DIFUCALT TO USS APPARANTLY MPOSSIBL FEETE SAFLY ACOMPLISHED THEIRE AR PLAIED IN THE COFFEN AN NUMBER OF SMAL THINGS THAT THE DEAD TAKES WITH HIM TO THE NEXTD WORLD <eos>",
+                    "rec_token": "<blank> <space> T H I S <space> D I F U C A L T <space> T O <space> U S S <space> A P P A R A N T L Y <space> M P O S S I B L <space> F E E T E <space> S A F L Y <space> A C O M P L I S H E D <space> T H E I R E <space> A R <space> P L A I E D <space> I N <space> T H E <space> C O F F E N <space> A N <space> N U M B E R <space> O F <space> S M A L <space> T H I N G S <space> T H A T <space> T H E <space> D E A D <space> T A K E S <space> W I T H <space> H I M <space> T O <space> T H E <space> N E X T D <space> W O R L D <space> <eos>",
+                    "rec_tokenid": "0 4 6 11 10 12 4 14 10 20 16 19 7 15 6 4 6 8 4 16 12 12 4 7 23 23 7 13 7 9 6 15 22 4 17 23 8 12 12 10 24 15 4 20 5 5 6 5 4 12 7 20 15 22 4 7 19 8 17 23 15 10 12 11 5 14 4 6 11 5 10 13 5 4 7 13 4 23 15 7 10 5 14 4 10 9 4 6 11 5 4 19 8 20 20 5 9 4 7 9 4 9 16 17 24 5 13 4 8 20 4 12 17 7 15 4 6 11 10 9 21 12 4 6 11 7 6 4 6 11 5 4 14 5 7 14 4 6 7 26 5 12 4 18 10 6 11 4 11 10 17 4 6 8 4 6 11 5 4 9 5 28 6 14 4 18 8 13 15 14 4 2",
+                    "score": 153.70838928222656,
+                    "shape": [
+                        170,
+                        30
+                    ],
+                    "text": "THIS DIFFICULT TO US APPARENTLY IMPOSSIBLE FEAT SAFELY ACCOMPLISHED THERE ARE PLACED IN THE COFFIN A NUMBER OF SMALL THINGS THAT THE DEAD TAKES WITH HIM TO THE NEXT WORLD",
+                    "token": "T H I S <space> D I F F I C U L T <space> T O <space> U S <space> A P P A R E N T L Y <space> I M P O S S I B L E <space> F E A T <space> S A F E L Y <space> A C C O M P L I S H E D <space> T H E R E <space> A R E <space> P L A C E D <space> I N <space> T H E <space> C O F F I N <space> A <space> N U M B E R <space> O F <space> S M A L L <space> T H I N G S <space> T H A T <space> T H E <space> D E A D <space> T A K E S <space> W I T H <space> H I M <space> T O <space> T H E <space> N E X T <space> W O R L D",
+                    "tokenid": "22 10 11 21 2 6 11 8 8 11 5 23 14 22 2 22 17 2 23 21 2 3 18 18 3 20 7 16 22 14 27 2 11 15 18 17 21 21 11 4 14 7 2 8 7 3 22 2 21 3 8 7 14 27 2 3 5 5 17 15 18 14 11 21 10 7 6 2 22 10 7 20 7 2 3 20 7 2 18 14 3 5 7 6 2 11 16 2 22 10 7 2 5 17 8 8 11 16 2 3 2 16 23 15 4 7 20 2 17 8 2 21 15 3 14 14 2 22 10 11 16 9 21 2 22 10 3 22 2 22 10 7 2 6 7 3 6 2 22 3 13 7 21 2 25 11 22 10 2 10 11 15 2 22 17 2 22 10 7 2 16 7 26 22 2 25 17 20 14 6"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "3915-98647-0022": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "THE SINGL ECCEPSION TO THIS WROL ABOUT MEADL IS THAT SMAL COPER COINS MAY BE POUTIN TO FEAD THE OLLD HAG WHO GARDS THE BANCK OF THE WREIVER OFE DETTH <eos>",
+                    "rec_token": "T H E <space> S I N G L <space> E C C E P S I O N <space> T O <space> T H I S <space> W R O L <space> A B O U T <space> M E A D L <space> I S <space> T H A T <space> S M A L <space> C O P E R <space> C O I N S <space> M A Y <space> B E <space> P O U T I N <space> T O <space> F E A D <space> T H E <space> O L L D <space> H A G <space> W H O <space> G A R D S <space> T H E <space> B A N C K <space> O F <space> T H E <space> W R E I V E R <space> O F E <space> D E T T H <space> <eos>",
+                    "rec_tokenid": "6 11 5 4 12 10 9 21 15 4 5 19 19 5 23 12 10 8 9 4 6 8 4 6 11 10 12 4 18 13 8 15 4 7 24 8 16 6 4 17 5 7 14 15 4 10 12 4 6 11 7 6 4 12 17 7 15 4 19 8 23 5 13 4 19 8 10 9 12 4 17 7 22 4 24 5 4 23 8 16 6 10 9 4 6 8 4 20 5 7 14 4 6 11 5 4 8 15 15 14 4 11 7 21 4 18 11 8 4 21 7 13 14 12 4 6 11 5 4 24 7 9 19 26 4 8 20 4 6 11 5 4 18 13 5 10 25 5 13 4 8 20 5 4 14 5 6 6 11 4 2",
+                    "score": 134.21066284179688,
+                    "shape": [
+                        147,
+                        30
+                    ],
+                    "text": "THE SINGLE EXCEPTION TO THIS RULE ABOUT METAL IS THAT SMALL COPPER COINS MAY BE PUT IN TO FEE THE OLD HAG WHO GUARDS THE BANK OF THE RIVER OF DEATH",
+                    "token": "T H E <space> S I N G L E <space> E X C E P T I O N <space> T O <space> T H I S <space> R U L E <space> A B O U T <space> M E T A L <space> I S <space> T H A T <space> S M A L L <space> C O P P E R <space> C O I N S <space> M A Y <space> B E <space> P U T <space> I N <space> T O <space> F E E <space> T H E <space> O L D <space> H A G <space> W H O <space> G U A R D S <space> T H E <space> B A N K <space> O F <space> T H E <space> R I V E R <space> O F <space> D E A T H",
+                    "tokenid": "22 10 7 2 21 11 16 9 14 7 2 7 26 5 7 18 22 11 17 16 2 22 17 2 22 10 11 21 2 20 23 14 7 2 3 4 17 23 22 2 15 7 22 3 14 2 11 21 2 22 10 3 22 2 21 15 3 14 14 2 5 17 18 18 7 20 2 5 17 11 16 21 2 15 3 27 2 4 7 2 18 23 22 2 11 16 2 22 17 2 8 7 7 2 22 10 7 2 17 14 6 2 10 3 9 2 25 10 17 2 9 23 3 20 6 21 2 22 10 7 2 4 3 16 13 2 17 8 2 22 10 7 2 20 11 24 7 20 2 17 8 2 6 7 3 22 10"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "3915-98647-0023": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>TLASST OF AL THE VACKOENT SPASES IN THE COFFEN AR FILD IT IN WITH BAGS OF TEE <eos>",
+                    "rec_token": "<blank> T L A S S T <space> O F <space> A L <space> T H E <space> V A C K O E N T <space> S P A S E S <space> I N <space> T H E <space> C O F F E N <space> A R <space> F I L D <space> I T <space> I N <space> W I T H <space> B A G S <space> O F <space> T E E <space> <eos>",
+                    "rec_tokenid": "0 6 15 7 12 12 6 4 8 20 4 7 15 4 6 11 5 4 25 7 19 26 8 5 9 6 4 12 23 7 12 5 12 4 10 9 4 6 11 5 4 19 8 20 20 5 9 4 7 13 4 20 10 15 14 4 10 6 4 10 9 4 18 10 6 11 4 24 7 21 12 4 8 20 4 6 5 5 4 2",
+                    "score": 67.20377349853516,
+                    "shape": [
+                        74,
+                        30
+                    ],
+                    "text": "LAST OF ALL THE VACANT SPACES IN THE COFFIN ARE FILLED IN WITH BAGS OF TEA",
+                    "token": "L A S T <space> O F <space> A L L <space> T H E <space> V A C A N T <space> S P A C E S <space> I N <space> T H E <space> C O F F I N <space> A R E <space> F I L L E D <space> I N <space> W I T H <space> B A G S <space> O F <space> T E A",
+                    "tokenid": "14 3 21 22 2 17 8 2 3 14 14 2 22 10 7 2 24 3 5 3 16 22 2 21 18 3 5 7 21 2 11 16 2 22 10 7 2 5 17 8 8 11 16 2 3 20 7 2 8 11 14 14 7 6 2 11 16 2 25 11 22 10 2 4 3 9 21 2 17 8 2 22 7 3"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "3915-98647-0024": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>RSO LONG AS THE COFEN IS IN THE HOWS IT MOUST  BE WACHED OVER CONTINOALY <eos>",
+                    "rec_token": "<blank> R S O <space> L O N G <space> A S <space> T H E <space> C O F E N <space> I S <space> I N <space> T H E <space> H O W S <space> I T <space> M O U S T <space> <space> B E <space> W A C H E D <space> O V E R <space> C O N T I N O A L Y <space> <eos>",
+                    "rec_tokenid": "0 13 12 8 4 15 8 9 21 4 7 12 4 6 11 5 4 19 8 20 5 9 4 10 12 4 10 9 4 6 11 5 4 11 8 18 12 4 10 6 4 17 8 16 12 6 4 4 24 5 4 18 7 19 11 5 14 4 8 25 5 13 4 19 8 9 6 10 9 8 7 15 22 4 2",
+                    "score": 69.03868103027344,
+                    "shape": [
+                        73,
+                        30
+                    ],
+                    "text": "SO LONG AS THE COFFIN IS IN THE HOUSE IT MUST BE WATCHED OVER CONTINUALLY",
+                    "token": "S O <space> L O N G <space> A S <space> T H E <space> C O F F I N <space> I S <space> I N <space> T H E <space> H O U S E <space> I T <space> M U S T <space> B E <space> W A T C H E D <space> O V E R <space> C O N T I N U A L L Y",
+                    "tokenid": "21 17 2 14 17 16 9 2 3 21 2 22 10 7 2 5 17 8 8 11 16 2 11 21 2 11 16 2 22 10 7 2 10 17 23 21 7 2 11 22 2 15 23 21 22 2 4 7 2 25 3 22 5 10 7 6 2 17 24 7 20 2 5 17 16 22 11 16 23 3 14 14 27"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "3915-98647-0025": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>AIT IS THER DUTY TO SE THAT THE INSENCE BEARNING BEFORE THE COFFEN IS NEVER ALOUD TO GOW OUT WHL THE FOOD FOR THE DED IS RENEWED A REGULAR INTERVALES BI THE MORNERS THEMSEALVES <eos>",
+                    "rec_token": "<blank> A I T <space> I S <space> T H E R <space> D U T Y <space> T O <space> S E <space> T H A T <space> T H E <space> I N S E N C E <space> B E A R N I N G <space> B E F O R E <space> T H E <space> C O F F E N <space> I S <space> N E V E R <space> A L O U D <space> T O <space> G O W <space> O U T <space> W H L <space> T H E <space> F O O D <space> F O R <space> T H E <space> D E D <space> I S <space> R E N E W E D <space> A <space> R E G U L A R <space> I N T E R V A L E S <space> B I <space> T H E <space> M O R N E R S <space> T H E M S E A L V E S <space> <eos>",
+                    "rec_tokenid": "0 7 10 6 4 10 12 4 6 11 5 13 4 14 16 6 22 4 6 8 4 12 5 4 6 11 7 6 4 6 11 5 4 10 9 12 5 9 19 5 4 24 5 7 13 9 10 9 21 4 24 5 20 8 13 5 4 6 11 5 4 19 8 20 20 5 9 4 10 12 4 9 5 25 5 13 4 7 15 8 16 14 4 6 8 4 21 8 18 4 8 16 6 4 18 11 15 4 6 11 5 4 20 8 8 14 4 20 8 13 4 6 11 5 4 14 5 14 4 10 12 4 13 5 9 5 18 5 14 4 7 4 13 5 21 16 15 7 13 4 10 9 6 5 13 25 7 15 5 12 4 24 10 4 6 11 5 4 17 8 13 9 5 13 12 4 6 11 5 17 12 5 7 15 25 5 12 4 2",
+                    "score": 161.72491455078125,
+                    "shape": [
+                        180,
+                        30
+                    ],
+                    "text": "IT IS THEIR DUTY TO SEE THAT THE INCENSE BURNING BEFORE THE COFFIN IS NEVER ALLOWED TO GO OUT WHILE THE FOOD FOR THE DEAD IS RENEWED AT REGULAR INTERVALS BY THE MOURNERS THEMSELVES",
+                    "token": "I T <space> I S <space> T H E I R <space> D U T Y <space> T O <space> S E E <space> T H A T <space> T H E <space> I N C E N S E <space> B U R N I N G <space> B E F O R E <space> T H E <space> C O F F I N <space> I S <space> N E V E R <space> A L L O W E D <space> T O <space> G O <space> O U T <space> W H I L E <space> T H E <space> F O O D <space> F O R <space> T H E <space> D E A D <space> I S <space> R E N E W E D <space> A T <space> R E G U L A R <space> I N T E R V A L S <space> B Y <space> T H E <space> M O U R N E R S <space> T H E M S E L V E S",
+                    "tokenid": "11 22 2 11 21 2 22 10 7 11 20 2 6 23 22 27 2 22 17 2 21 7 7 2 22 10 3 22 2 22 10 7 2 11 16 5 7 16 21 7 2 4 23 20 16 11 16 9 2 4 7 8 17 20 7 2 22 10 7 2 5 17 8 8 11 16 2 11 21 2 16 7 24 7 20 2 3 14 14 17 25 7 6 2 22 17 2 9 17 2 17 23 22 2 25 10 11 14 7 2 22 10 7 2 8 17 17 6 2 8 17 20 2 22 10 7 2 6 7 3 6 2 11 21 2 20 7 16 7 25 7 6 2 3 22 2 20 7 9 23 14 3 20 2 11 16 22 7 20 24 3 14 21 2 4 27 2 22 10 7 2 15 17 23 20 16 7 20 21 2 22 10 7 15 21 7 14 24 7 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "3915-98647-0026": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "THERE AR FEU IND LIGHTON GAPENEESE WHO WL DEFFEND THE PRESENT SISTAM OF CROLTY TO THE AFFLICTED OR WHO DO NOT LONG FOR SOME CHANGE BUT SO GRATE AS THE FORS OF CONSERVEITISOM IN THIS REGARD SOW HANTING THE FEARE THAT ANEY CHANGE MAY INDICATE A LAK OF RESPECT FOR THE DEAD THAT REFORM ADVANCAES SLOWLY <eos>",
+                    "rec_token": "T H E R E <space> A R <space> F E U <space> I N D <space> L I G H T O N <space> G A P E N E E S E <space> W H O <space> W L <space> D E F F E N D <space> T H E <space> P R E S E N T <space> S I S T A M <space> O F <space> C R O L T Y <space> T O <space> T H E <space> A F F L I C T E D <space> O R <space> W H O <space> D O <space> N O T <space> L O N G <space> F O R <space> S O M E <space> C H A N G E <space> B U T <space> S O <space> G R A T E <space> A S <space> T H E <space> F O R S <space> O F <space> C O N S E R V E I T I S O M <space> I N <space> T H I S <space> R E G A R D <space> S O W <space> H A N T I N G <space> T H E <space> F E A R E <space> T H A T <space> A N E Y <space> C H A N G E <space> M A Y <space> I N D I C A T E <space> A <space> L A K <space> O F <space> R E S P E C T <space> F O R <space> T H E <space> D E A D <space> T H A T <space> R E F O R M <space> A D V A N C A E S <space> S L O W L Y <space> <eos>",
+                    "rec_tokenid": "6 11 5 13 5 4 7 13 4 20 5 16 4 10 9 14 4 15 10 21 11 6 8 9 4 21 7 23 5 9 5 5 12 5 4 18 11 8 4 18 15 4 14 5 20 20 5 9 14 4 6 11 5 4 23 13 5 12 5 9 6 4 12 10 12 6 7 17 4 8 20 4 19 13 8 15 6 22 4 6 8 4 6 11 5 4 7 20 20 15 10 19 6 5 14 4 8 13 4 18 11 8 4 14 8 4 9 8 6 4 15 8 9 21 4 20 8 13 4 12 8 17 5 4 19 11 7 9 21 5 4 24 16 6 4 12 8 4 21 13 7 6 5 4 7 12 4 6 11 5 4 20 8 13 12 4 8 20 4 19 8 9 12 5 13 25 5 10 6 10 12 8 17 4 10 9 4 6 11 10 12 4 13 5 21 7 13 14 4 12 8 18 4 11 7 9 6 10 9 21 4 6 11 5 4 20 5 7 13 5 4 6 11 7 6 4 7 9 5 22 4 19 11 7 9 21 5 4 17 7 22 4 10 9 14 10 19 7 6 5 4 7 4 15 7 26 4 8 20 4 13 5 12 23 5 19 6 4 20 8 13 4 6 11 5 4 14 5 7 14 4 6 11 7 6 4 13 5 20 8 13 17 4 7 14 25 7 9 19 7 5 12 4 12 15 8 18 15 22 4 2",
+                    "score": 267.5616760253906,
+                    "shape": [
+                        298,
+                        30
+                    ],
+                    "text": "THERE ARE FEW ENLIGHTENED JAPANESE WHO WILL DEFEND THE PRESENT SYSTEM OF CRUELTY TO THE AFFLICTED OR WHO DO NOT LONG FOR SOME CHANGE BUT SO GREAT IS THE FORCE OF CONSERVATISM IN THIS REGARD SO HAUNTING THE FEAR THAT ANY CHANGE MAY INDICATE A LACK OF RESPECT FOR THE DEAD THAT REFORM ADVANCES SLOWLY",
+                    "token": "T H E R E <space> A R E <space> F E W <space> E N L I G H T E N E D <space> J A P A N E S E <space> W H O <space> W I L L <space> D E F E N D <space> T H E <space> P R E S E N T <space> S Y S T E M <space> O F <space> C R U E L T Y <space> T O <space> T H E <space> A F F L I C T E D <space> O R <space> W H O <space> D O <space> N O T <space> L O N G <space> F O R <space> S O M E <space> C H A N G E <space> B U T <space> S O <space> G R E A T <space> I S <space> T H E <space> F O R C E <space> O F <space> C O N S E R V A T I S M <space> I N <space> T H I S <space> R E G A R D <space> S O <space> H A U N T I N G <space> T H E <space> F E A R <space> T H A T <space> A N Y <space> C H A N G E <space> M A Y <space> I N D I C A T E <space> A <space> L A C K <space> O F <space> R E S P E C T <space> F O R <space> T H E <space> D E A D <space> T H A T <space> R E F O R M <space> A D V A N C E S <space> S L O W L Y",
+                    "tokenid": "22 10 7 20 7 2 3 20 7 2 8 7 25 2 7 16 14 11 9 10 22 7 16 7 6 2 12 3 18 3 16 7 21 7 2 25 10 17 2 25 11 14 14 2 6 7 8 7 16 6 2 22 10 7 2 18 20 7 21 7 16 22 2 21 27 21 22 7 15 2 17 8 2 5 20 23 7 14 22 27 2 22 17 2 22 10 7 2 3 8 8 14 11 5 22 7 6 2 17 20 2 25 10 17 2 6 17 2 16 17 22 2 14 17 16 9 2 8 17 20 2 21 17 15 7 2 5 10 3 16 9 7 2 4 23 22 2 21 17 2 9 20 7 3 22 2 11 21 2 22 10 7 2 8 17 20 5 7 2 17 8 2 5 17 16 21 7 20 24 3 22 11 21 15 2 11 16 2 22 10 11 21 2 20 7 9 3 20 6 2 21 17 2 10 3 23 16 22 11 16 9 2 22 10 7 2 8 7 3 20 2 22 10 3 22 2 3 16 27 2 5 10 3 16 9 7 2 15 3 27 2 11 16 6 11 5 3 22 7 2 3 2 14 3 5 13 2 17 8 2 20 7 21 18 7 5 22 2 8 17 20 2 22 10 7 2 6 7 3 6 2 22 10 3 22 2 20 7 8 17 20 15 2 3 6 24 3 16 5 7 21 2 21 14 17 25 14 27"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "3915-98647-0027": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>TINDEVIGUAL INSTENCS HAS A CER IN WHICH SOM OF THE WORST FEACTERS OF THESE CUSSTOMNS  AR MODIFIED <eos>",
+                    "rec_token": "<blank> T I N D E V I G U A L <space> I N S T E N C S <space> H A S <space> A <space> C E R <space> I N <space> W H I C H <space> S O M <space> O F <space> T H E <space> W O R S T <space> F E A C T E R S <space> O F <space> T H E S E <space> C U S S T O M N S <space> <space> A R <space> M O D I F I E D <space> <eos>",
+                    "rec_tokenid": "0 6 10 9 14 5 25 10 21 16 7 15 4 10 9 12 6 5 9 19 12 4 11 7 12 4 7 4 19 5 13 4 10 9 4 18 11 10 19 11 4 12 8 17 4 8 20 4 6 11 5 4 18 8 13 12 6 4 20 5 7 19 6 5 13 12 4 8 20 4 6 11 5 12 5 4 19 16 12 12 6 8 17 9 12 4 4 7 13 4 17 8 14 10 20 10 5 14 4 2",
+                    "score": 87.72769927978516,
+                    "shape": [
+                        92,
+                        30
+                    ],
+                    "text": "INDIVIDUAL INSTANCES OCCUR IN WHICH SOME OF THE WORST FEATURES OF THESE CUSTOMS ARE MODIFIED",
+                    "token": "I N D I V I D U A L <space> I N S T A N C E S <space> O C C U R <space> I N <space> W H I C H <space> S O M E <space> O F <space> T H E <space> W O R S T <space> F E A T U R E S <space> O F <space> T H E S E <space> C U S T O M S <space> A R E <space> M O D I F I E D",
+                    "tokenid": "11 16 6 11 24 11 6 23 3 14 2 11 16 21 22 3 16 5 7 21 2 17 5 5 23 20 2 11 16 2 25 10 11 5 10 2 21 17 15 7 2 17 8 2 22 10 7 2 25 17 20 21 22 2 8 7 3 22 23 20 7 21 2 17 8 2 22 10 7 21 7 2 5 23 21 22 17 15 21 2 3 20 7 2 15 17 6 11 8 11 7 6"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "3915-98647-0028": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>FA CAS ON POINT IS THAT OF THE LATE MISTER FOCOSOWA A MAN HOWS LIFE WAS DEVOUTED TO THE ADVANCEMENT OF HIS CUNTRYMAN IN MODERN WAYS AND WHO IN HIS DETTH CONTINUED HIS TEACHING <eos>",
+                    "rec_token": "<blank> F A <space> C A S <space> O N <space> P O I N T <space> I S <space> T H A T <space> O F <space> T H E <space> L A T E <space> M I S T E R <space> F O C O S O W A <space> A <space> M A N <space> H O W S <space> L I F E <space> W A S <space> D E V O U T E D <space> T O <space> T H E <space> A D V A N C E M E N T <space> O F <space> H I S <space> C U N T R Y M A N <space> I N <space> M O D E R N <space> W A Y S <space> A N D <space> W H O <space> I N <space> H I S <space> D E T T H <space> C O N T I N U E D <space> H I S <space> T E A C H I N G <space> <eos>",
+                    "rec_tokenid": "0 20 7 4 19 7 12 4 8 9 4 23 8 10 9 6 4 10 12 4 6 11 7 6 4 8 20 4 6 11 5 4 15 7 6 5 4 17 10 12 6 5 13 4 20 8 19 8 12 8 18 7 4 7 4 17 7 9 4 11 8 18 12 4 15 10 20 5 4 18 7 12 4 14 5 25 8 16 6 5 14 4 6 8 4 6 11 5 4 7 14 25 7 9 19 5 17 5 9 6 4 8 20 4 11 10 12 4 19 16 9 6 13 22 17 7 9 4 10 9 4 17 8 14 5 13 9 4 18 7 22 12 4 7 9 14 4 18 11 8 4 10 9 4 11 10 12 4 14 5 6 6 11 4 19 8 9 6 10 9 16 5 14 4 11 10 12 4 6 5 7 19 11 10 9 21 4 2",
+                    "score": 163.19912719726562,
+                    "shape": [
+                        176,
+                        30
+                    ],
+                    "text": "A CASE IN POINT IS THAT OF THE LATE MISTER FUKUZAWA A MAN WHOSE LIFE WAS DEVOTED TO THE ADVANCEMENT OF HIS COUNTRYMEN IN MODERN WAYS AND WHO IN HIS DEATH CONTINUED HIS TEACHING",
+                    "token": "A <space> C A S E <space> I N <space> P O I N T <space> I S <space> T H A T <space> O F <space> T H E <space> L A T E <space> M I S T E R <space> F U K U Z A W A <space> A <space> M A N <space> W H O S E <space> L I F E <space> W A S <space> D E V O T E D <space> T O <space> T H E <space> A D V A N C E M E N T <space> O F <space> H I S <space> C O U N T R Y M E N <space> I N <space> M O D E R N <space> W A Y S <space> A N D <space> W H O <space> I N <space> H I S <space> D E A T H <space> C O N T I N U E D <space> H I S <space> T E A C H I N G",
+                    "tokenid": "3 2 5 3 21 7 2 11 16 2 18 17 11 16 22 2 11 21 2 22 10 3 22 2 17 8 2 22 10 7 2 14 3 22 7 2 15 11 21 22 7 20 2 8 23 13 23 28 3 25 3 2 3 2 15 3 16 2 25 10 17 21 7 2 14 11 8 7 2 25 3 21 2 6 7 24 17 22 7 6 2 22 17 2 22 10 7 2 3 6 24 3 16 5 7 15 7 16 22 2 17 8 2 10 11 21 2 5 17 23 16 22 20 27 15 7 16 2 11 16 2 15 17 6 7 20 16 2 25 3 27 21 2 3 16 6 2 25 10 17 2 11 16 2 10 11 21 2 6 7 3 22 10 2 5 17 16 22 11 16 23 7 6 2 10 11 21 2 22 7 3 5 10 11 16 9"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "3915-98647-0029": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>PIN HIS WELL HE PROVIDED THAT HIS BADY WAS TO BE BARYEDE WITH OUT WACHING AN THE CLOTHING IN WHICH HE DIED <eos>",
+                    "rec_token": "<blank> P I N <space> H I S <space> W E L L <space> H E <space> P R O V I D E D <space> T H A T <space> H I S <space> B A D Y <space> W A S <space> T O <space> B E <space> B A R Y E D E <space> W I T H <space> O U T <space> W A C H I N G <space> A N <space> T H E <space> C L O T H I N G <space> I N <space> W H I C H <space> H E <space> D I E D <space> <eos>",
+                    "rec_tokenid": "0 23 10 9 4 11 10 12 4 18 5 15 15 4 11 5 4 23 13 8 25 10 14 5 14 4 6 11 7 6 4 11 10 12 4 24 7 14 22 4 18 7 12 4 6 8 4 24 5 4 24 7 13 22 5 14 5 4 18 10 6 11 4 8 16 6 4 18 7 19 11 10 9 21 4 7 9 4 6 11 5 4 19 15 8 6 11 10 9 21 4 10 9 4 18 11 10 19 11 4 11 5 4 14 10 5 14 4 2",
+                    "score": 100.68418884277344,
+                    "shape": [
+                        103,
+                        30
+                    ],
+                    "text": "IN HIS WILL HE PROVIDED THAT HIS BODY WAS TO BE BURIED WITHOUT WASHING IN THE CLOTHING IN WHICH HE DIED",
+                    "token": "I N <space> H I S <space> W I L L <space> H E <space> P R O V I D E D <space> T H A T <space> H I S <space> B O D Y <space> W A S <space> T O <space> B E <space> B U R I E D <space> W I T H O U T <space> W A S H I N G <space> I N <space> T H E <space> C L O T H I N G <space> I N <space> W H I C H <space> H E <space> D I E D",
+                    "tokenid": "11 16 2 10 11 21 2 25 11 14 14 2 10 7 2 18 20 17 24 11 6 7 6 2 22 10 3 22 2 10 11 21 2 4 17 6 27 2 25 3 21 2 22 17 2 4 7 2 4 23 20 11 7 6 2 25 11 22 10 17 23 22 2 25 3 21 10 11 16 9 2 11 16 2 22 10 7 2 5 14 17 22 10 11 16 9 2 11 16 2 25 10 11 5 10 2 10 7 2 6 11 7 6"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "3915-98647-0030": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "THROGH THIS GROWING FEALING AND THE UN SELFISH NESS OF MATARNAL AFFECTION MA COM IN TIME THE RELECE FROM THEZS MORNFOLE SARIMONEYESS <eos>",
+                    "rec_token": "T H R O G H <space> T H I S <space> G R O W I N G <space> F E A L I N G <space> A N D <space> T H E <space> U N <space> S E L F I S H <space> N E S S <space> O F <space> M A T A R N A L <space> A F F E C T I O N <space> M A <space> C O M <space> I N <space> T I M E <space> T H E <space> R E L E C E <space> F R O M <space> T H E Z S <space> M O R N F O L E <space> S A R I M O N E Y E S S <space> <eos>",
+                    "rec_tokenid": "6 11 13 8 21 11 4 6 11 10 12 4 21 13 8 18 10 9 21 4 20 5 7 15 10 9 21 4 7 9 14 4 6 11 5 4 16 9 4 12 5 15 20 10 12 11 4 9 5 12 12 4 8 20 4 17 7 6 7 13 9 7 15 4 7 20 20 5 19 6 10 8 9 4 17 7 4 19 8 17 4 10 9 4 6 10 17 5 4 6 11 5 4 13 5 15 5 19 5 4 20 13 8 17 4 6 11 5 31 12 4 17 8 13 9 20 8 15 5 4 12 7 13 10 17 8 9 5 22 5 12 12 4 2",
+                    "score": 117.5578842163086,
+                    "shape": [
+                        132,
+                        30
+                    ],
+                    "text": "THROUGH THIS GROWING FEELING AND THE UNSELFISHNESS OF MATERNAL AFFECTION MAY COME IN TIME THE RELEASE FROM THESE MOURNFUL CEREMONIES",
+                    "token": "T H R O U G H <space> T H I S <space> G R O W I N G <space> F E E L I N G <space> A N D <space> T H E <space> U N S E L F I S H N E S S <space> O F <space> M A T E R N A L <space> A F F E C T I O N <space> M A Y <space> C O M E <space> I N <space> T I M E <space> T H E <space> R E L E A S E <space> F R O M <space> T H E S E <space> M O U R N F U L <space> C E R E M O N I E S",
+                    "tokenid": "22 10 20 17 23 9 10 2 22 10 11 21 2 9 20 17 25 11 16 9 2 8 7 7 14 11 16 9 2 3 16 6 2 22 10 7 2 23 16 21 7 14 8 11 21 10 16 7 21 21 2 17 8 2 15 3 22 7 20 16 3 14 2 3 8 8 7 5 22 11 17 16 2 15 3 27 2 5 17 15 7 2 11 16 2 22 11 15 7 2 22 10 7 2 20 7 14 7 3 21 7 2 8 20 17 15 2 22 10 7 21 7 2 15 17 23 20 16 8 23 14 2 5 7 20 7 15 17 16 11 7 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "3915-98647-0031": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> JUSKT BEFORE THE PROSESION STARTS A WRELIGOUS SERIMONEY IS HEALD AT THE HOWS WHICH IS ATENDED BY THE FRENDS OF THE DESET AND WHICH IS SOPSTANCHULY THE SAME AS THAT PERFORMED AT THE SEMATARY <eos>",
+                    "rec_token": "<blank> <space> J U S K T <space> B E F O R E <space> T H E <space> P R O S E S I O N <space> S T A R T S <space> A <space> W R E L I G O U S <space> S E R I M O N E Y <space> I S <space> H E A L D <space> A T <space> T H E <space> H O W S <space> W H I C H <space> I S <space> A T E N D E D <space> B Y <space> T H E <space> F R E N D S <space> O F <space> T H E <space> D E S E T <space> A N D <space> W H I C H <space> I S <space> S O P S T A N C H U L Y <space> T H E <space> S A M E <space> A S <space> T H A T <space> P E R F O R M E D <space> A T <space> T H E <space> S E M A T A R Y <space> <eos>",
+                    "rec_tokenid": "0 4 29 16 12 26 6 4 24 5 20 8 13 5 4 6 11 5 4 23 13 8 12 5 12 10 8 9 4 12 6 7 13 6 12 4 7 4 18 13 5 15 10 21 8 16 12 4 12 5 13 10 17 8 9 5 22 4 10 12 4 11 5 7 15 14 4 7 6 4 6 11 5 4 11 8 18 12 4 18 11 10 19 11 4 10 12 4 7 6 5 9 14 5 14 4 24 22 4 6 11 5 4 20 13 5 9 14 12 4 8 20 4 6 11 5 4 14 5 12 5 6 4 7 9 14 4 18 11 10 19 11 4 10 12 4 12 8 23 12 6 7 9 19 11 16 15 22 4 6 11 5 4 12 7 17 5 4 7 12 4 6 11 7 6 4 23 5 13 20 8 13 17 5 14 4 7 6 4 6 11 5 4 12 5 17 7 6 7 13 22 4 2",
+                    "score": 174.59317016601562,
+                    "shape": [
+                        194,
+                        30
+                    ],
+                    "text": "JUST BEFORE THE PROCESSION STARTS A RELIGIOUS CEREMONY IS HELD AT THE HOUSE WHICH IS ATTENDED BY THE FRIENDS OF THE DECEASED AND WHICH IS SUBSTANTIALLY THE SAME AS THAT PERFORMED AT THE CEMETERY",
+                    "token": "J U S T <space> B E F O R E <space> T H E <space> P R O C E S S I O N <space> S T A R T S <space> A <space> R E L I G I O U S <space> C E R E M O N Y <space> I S <space> H E L D <space> A T <space> T H E <space> H O U S E <space> W H I C H <space> I S <space> A T T E N D E D <space> B Y <space> T H E <space> F R I E N D S <space> O F <space> T H E <space> D E C E A S E D <space> A N D <space> W H I C H <space> I S <space> S U B S T A N T I A L L Y <space> T H E <space> S A M E <space> A S <space> T H A T <space> P E R F O R M E D <space> A T <space> T H E <space> C E M E T E R Y",
+                    "tokenid": "12 23 21 22 2 4 7 8 17 20 7 2 22 10 7 2 18 20 17 5 7 21 21 11 17 16 2 21 22 3 20 22 21 2 3 2 20 7 14 11 9 11 17 23 21 2 5 7 20 7 15 17 16 27 2 11 21 2 10 7 14 6 2 3 22 2 22 10 7 2 10 17 23 21 7 2 25 10 11 5 10 2 11 21 2 3 22 22 7 16 6 7 6 2 4 27 2 22 10 7 2 8 20 11 7 16 6 21 2 17 8 2 22 10 7 2 6 7 5 7 3 21 7 6 2 3 16 6 2 25 10 11 5 10 2 11 21 2 21 23 4 21 22 3 16 22 11 3 14 14 27 2 22 10 7 2 21 3 15 7 2 3 21 2 22 10 3 22 2 18 7 20 8 17 20 15 7 6 2 3 22 2 22 10 7 2 5 7 15 7 22 7 20 27"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "3915-98647-0032": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>CON THE DAY OF THE BARIL GRATE BUNCHEAS OF NATRAL FLOWRS AR SENT TO THE DEAD EACH BUNCH SO LARG AS TO RECQWIRE THE SERVESSAS OF AN MAN TO CARY IAT <eos>",
+                    "rec_token": "<blank> C O N <space> T H E <space> D A Y <space> O F <space> T H E <space> B A R I L <space> G R A T E <space> B U N C H E A S <space> O F <space> N A T R A L <space> F L O W R S <space> A R <space> S E N T <space> T O <space> T H E <space> D E A D <space> E A C H <space> B U N C H <space> S O <space> L A R G <space> A S <space> T O <space> R E C Q W I R E <space> T H E <space> S E R V E S S A S <space> O F <space> A N <space> M A N <space> T O <space> C A R Y <space> I A T <space> <eos>",
+                    "rec_tokenid": "0 19 8 9 4 6 11 5 4 14 7 22 4 8 20 4 6 11 5 4 24 7 13 10 15 4 21 13 7 6 5 4 24 16 9 19 11 5 7 12 4 8 20 4 9 7 6 13 7 15 4 20 15 8 18 13 12 4 7 13 4 12 5 9 6 4 6 8 4 6 11 5 4 14 5 7 14 4 5 7 19 11 4 24 16 9 19 11 4 12 8 4 15 7 13 21 4 7 12 4 6 8 4 13 5 19 30 18 10 13 5 4 6 11 5 4 12 5 13 25 5 12 12 7 12 4 8 20 4 7 9 4 17 7 9 4 6 8 4 19 7 13 22 4 10 7 6 4 2",
+                    "score": 131.18722534179688,
+                    "shape": [
+                        148,
+                        30
+                    ],
+                    "text": "ON THE DAY OF THE BURIAL GREAT BUNCHES OF NATURAL FLOWERS ARE SENT TO THE DEAD EACH BUNCH SO LARGE AS TO REQUIRE THE SERVICES OF ONE MAN TO CARRY IT",
+                    "token": "O N <space> T H E <space> D A Y <space> O F <space> T H E <space> B U R I A L <space> G R E A T <space> B U N C H E S <space> O F <space> N A T U R A L <space> F L O W E R S <space> A R E <space> S E N T <space> T O <space> T H E <space> D E A D <space> E A C H <space> B U N C H <space> S O <space> L A R G E <space> A S <space> T O <space> R E Q U I R E <space> T H E <space> S E R V I C E S <space> O F <space> O N E <space> M A N <space> T O <space> C A R R Y <space> I T",
+                    "tokenid": "17 16 2 22 10 7 2 6 3 27 2 17 8 2 22 10 7 2 4 23 20 11 3 14 2 9 20 7 3 22 2 4 23 16 5 10 7 21 2 17 8 2 16 3 22 23 20 3 14 2 8 14 17 25 7 20 21 2 3 20 7 2 21 7 16 22 2 22 17 2 22 10 7 2 6 7 3 6 2 7 3 5 10 2 4 23 16 5 10 2 21 17 2 14 3 20 9 7 2 3 21 2 22 17 2 20 7 19 23 11 20 7 2 22 10 7 2 21 7 20 24 11 5 7 21 2 17 8 2 17 16 7 2 15 3 16 2 22 17 2 5 3 20 20 27 2 11 22"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "3915-98647-0033": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> SOME TIMES WITH THE GGIFFT A MAN IS SENT TO TAK PARET I THE PROSESSHION BUT IF THE GIVER FEILS TO PORE TO HIER A MAN THIS BERDN TO FALS APON THE BRAVED HOS HALD FORE EDECUTE REQWHIARS THAT ALL FLOWERS SENT BE BORNE TO THE GRAVE BY YUNIFORMED COLLIESE WHO MARCH IN THE FUNORAL TRAINE <eos>",
+                    "rec_token": "<blank> <space> S O M E <space> T I M E S <space> W I T H <space> T H E <space> G G I F F T <space> A <space> M A N <space> I S <space> S E N T <space> T O <space> T A K <space> P A R E T <space> I <space> T H E <space> P R O S E S S H I O N <space> B U T <space> I F <space> T H E <space> G I V E R <space> F E I L S <space> T O <space> P O R E <space> T O <space> H I E R <space> A <space> M A N <space> T H I S <space> B E R D N <space> T O <space> F A L S <space> A P O N <space> T H E <space> B R A V E D <space> H O S <space> H A L D <space> F O R E <space> E D E C U T E <space> R E Q W H I A R S <space> T H A T <space> A L L <space> F L O W E R S <space> S E N T <space> B E <space> B O R N E <space> T O <space> T H E <space> G R A V E <space> B Y <space> Y U N I F O R M E D <space> C O L L I E S E <space> W H O <space> M A R C H <space> I N <space> T H E <space> F U N O R A L <space> T R A I N E <space> <eos>",
+                    "rec_tokenid": "0 4 12 8 17 5 4 6 10 17 5 12 4 18 10 6 11 4 6 11 5 4 21 21 10 20 20 6 4 7 4 17 7 9 4 10 12 4 12 5 9 6 4 6 8 4 6 7 26 4 23 7 13 5 6 4 10 4 6 11 5 4 23 13 8 12 5 12 12 11 10 8 9 4 24 16 6 4 10 20 4 6 11 5 4 21 10 25 5 13 4 20 5 10 15 12 4 6 8 4 23 8 13 5 4 6 8 4 11 10 5 13 4 7 4 17 7 9 4 6 11 10 12 4 24 5 13 14 9 4 6 8 4 20 7 15 12 4 7 23 8 9 4 6 11 5 4 24 13 7 25 5 14 4 11 8 12 4 11 7 15 14 4 20 8 13 5 4 5 14 5 19 16 6 5 4 13 5 30 18 11 10 7 13 12 4 6 11 7 6 4 7 15 15 4 20 15 8 18 5 13 12 4 12 5 9 6 4 24 5 4 24 8 13 9 5 4 6 8 4 6 11 5 4 21 13 7 25 5 4 24 22 4 22 16 9 10 20 8 13 17 5 14 4 19 8 15 15 10 5 12 5 4 18 11 8 4 17 7 13 19 11 4 10 9 4 6 11 5 4 20 16 9 8 13 7 15 4 6 13 7 10 9 5 4 2",
+                    "score": 246.9828643798828,
+                    "shape": [
+                        283,
+                        30
+                    ],
+                    "text": "SOMETIMES WITH THE GIFT A MAN IS SENT TO TAKE PART IN THE PROCESSION BUT IF THE GIVER FEELS TOO POOR TO HIRE A MAN THIS BURDEN TOO FALLS UPON THE BEREAVED HOUSEHOLD FOR ETIQUETTE REQUIRES THAT ALL FLOWERS SENT BE BORNE TO THE GRAVE BY UNIFORMED COOLIES WHO MARCH IN THE FUNERAL TRAIN",
+                    "token": "S O M E T I M E S <space> W I T H <space> T H E <space> G I F T <space> A <space> M A N <space> I S <space> S E N T <space> T O <space> T A K E <space> P A R T <space> I N <space> T H E <space> P R O C E S S I O N <space> B U T <space> I F <space> T H E <space> G I V E R <space> F E E L S <space> T O O <space> P O O R <space> T O <space> H I R E <space> A <space> M A N <space> T H I S <space> B U R D E N <space> T O O <space> F A L L S <space> U P O N <space> T H E <space> B E R E A V E D <space> H O U S E H O L D <space> F O R <space> E T I Q U E T T E <space> R E Q U I R E S <space> T H A T <space> A L L <space> F L O W E R S <space> S E N T <space> B E <space> B O R N E <space> T O <space> T H E <space> G R A V E <space> B Y <space> U N I F O R M E D <space> C O O L I E S <space> W H O <space> M A R C H <space> I N <space> T H E <space> F U N E R A L <space> T R A I N",
+                    "tokenid": "21 17 15 7 22 11 15 7 21 2 25 11 22 10 2 22 10 7 2 9 11 8 22 2 3 2 15 3 16 2 11 21 2 21 7 16 22 2 22 17 2 22 3 13 7 2 18 3 20 22 2 11 16 2 22 10 7 2 18 20 17 5 7 21 21 11 17 16 2 4 23 22 2 11 8 2 22 10 7 2 9 11 24 7 20 2 8 7 7 14 21 2 22 17 17 2 18 17 17 20 2 22 17 2 10 11 20 7 2 3 2 15 3 16 2 22 10 11 21 2 4 23 20 6 7 16 2 22 17 17 2 8 3 14 14 21 2 23 18 17 16 2 22 10 7 2 4 7 20 7 3 24 7 6 2 10 17 23 21 7 10 17 14 6 2 8 17 20 2 7 22 11 19 23 7 22 22 7 2 20 7 19 23 11 20 7 21 2 22 10 3 22 2 3 14 14 2 8 14 17 25 7 20 21 2 21 7 16 22 2 4 7 2 4 17 20 16 7 2 22 17 2 22 10 7 2 9 20 3 24 7 2 4 27 2 23 16 11 8 17 20 15 7 6 2 5 17 17 14 11 7 21 2 25 10 17 2 15 3 20 5 10 2 11 16 2 22 10 7 2 8 23 16 7 20 3 14 2 22 20 3 11 16"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "3915-98647-0034": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>TANOTHER FAVERT PRESEDENAT THIS TIME AMONG BOTISTS IS A CAGE OF LIVING BBRDS TOO BE BORNE TO THE GRAIVE AND RELEED THEAR OAN <eos>",
+                    "rec_token": "<blank> T A N O T H E R <space> F A V E R T <space> P R E S E D E N A T <space> T H I S <space> T I M E <space> A M O N G <space> B O T I S T S <space> I S <space> A <space> C A G E <space> O F <space> L I V I N G <space> B B R D S <space> T O O <space> B E <space> B O R N E <space> T O <space> T H E <space> G R A I V E <space> A N D <space> R E L E E D <space> T H E A R <space> O A N <space> <eos>",
+                    "rec_tokenid": "0 6 7 9 8 6 11 5 13 4 20 7 25 5 13 6 4 23 13 5 12 5 14 5 9 7 6 4 6 11 10 12 4 6 10 17 5 4 7 17 8 9 21 4 24 8 6 10 12 6 12 4 10 12 4 7 4 19 7 21 5 4 8 20 4 15 10 25 10 9 21 4 24 24 13 14 12 4 6 8 8 4 24 5 4 24 8 13 9 5 4 6 8 4 6 11 5 4 21 13 7 10 25 5 4 7 9 14 4 13 5 15 5 5 14 4 6 11 5 7 13 4 8 7 9 4 2",
+                    "score": 110.0318374633789,
+                    "shape": [
+                        125,
+                        30
+                    ],
+                    "text": "ANOTHER FAVORITE PRESENT AT THIS TIME AMONG BUDDHISTS IS A CAGE OF LIVING BIRDS TO BE BORNE TO THE GRAVE AND RELEASED THEREON",
+                    "token": "A N O T H E R <space> F A V O R I T E <space> P R E S E N T <space> A T <space> T H I S <space> T I M E <space> A M O N G <space> B U D D H I S T S <space> I S <space> A <space> C A G E <space> O F <space> L I V I N G <space> B I R D S <space> T O <space> B E <space> B O R N E <space> T O <space> T H E <space> G R A V E <space> A N D <space> R E L E A S E D <space> T H E R E O N",
+                    "tokenid": "3 16 17 22 10 7 20 2 8 3 24 17 20 11 22 7 2 18 20 7 21 7 16 22 2 3 22 2 22 10 11 21 2 22 11 15 7 2 3 15 17 16 9 2 4 23 6 6 10 11 21 22 21 2 11 21 2 3 2 5 3 9 7 2 17 8 2 14 11 24 11 16 9 2 4 11 20 6 21 2 22 17 2 4 7 2 4 17 20 16 7 2 22 17 2 22 10 7 2 9 20 3 24 7 2 3 16 6 2 20 7 14 7 3 21 7 6 2 22 10 7 20 7 17 16"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "3915-98647-0035": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>IT SEMES MOR LIK A BRIADEOLL THAN A BARIAL <eos>",
+                    "rec_token": "<blank> <eos> I T <space> S E M E S <space> M O R <space> L I K <space> A <space> B R I A D E O L L <space> T H A N <space> A <space> B A R I A L <space> <eos>",
+                    "rec_tokenid": "0 2 10 6 4 12 5 17 5 12 4 17 8 13 4 15 10 26 4 7 4 24 13 10 7 14 5 8 15 15 4 6 11 7 9 4 7 4 24 7 13 10 7 15 4 2",
+                    "score": 523.3736572265625,
+                    "shape": [
+                        41,
+                        30
+                    ],
+                    "text": "IT SEEMS MORE LIKE A BRIDAL THAN A BURIAL",
+                    "token": "I T <space> S E E M S <space> M O R E <space> L I K E <space> A <space> B R I D A L <space> T H A N <space> A <space> B U R I A L",
+                    "tokenid": "11 22 2 21 7 7 15 21 2 15 17 20 7 2 14 11 13 7 2 3 2 4 20 11 6 3 14 2 22 10 3 16 2 3 2 4 23 20 11 3 14"
+                }
+            ],
+            "utt2spk": ""
+        }
+    }
+}

@@ -1,0 +1,555 @@
+{
+    "utts": {
+        "5764-299665-0033": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "RE LIFE TO GETHER IN FAMILLY'S TRIBESS AND NACTIONSS <eos>",
+                    "rec_token": "R E <space> L I F E <space> T O <space> G E T H E R <space> I N <space> F A M I L L Y ' S <space> T R I B E S S <space> A N D <space> N A C T I O N S S <space> <eos>",
+                    "rec_tokenid": "13 5 4 15 10 20 5 4 6 8 4 21 5 6 11 5 13 4 10 9 4 20 7 17 10 15 15 22 27 12 4 6 13 10 24 5 12 12 4 7 9 14 4 9 7 19 6 10 8 9 12 12 4 2",
+                    "score": 43.86759948730469,
+                    "shape": [
+                        47,
+                        30
+                    ],
+                    "text": "WE LIVE TOGETHER IN FAMILIES TRIBES AND NATIONS",
+                    "token": "W E <space> L I V E <space> T O G E T H E R <space> I N <space> F A M I L I E S <space> T R I B E S <space> A N D <space> N A T I O N S",
+                    "tokenid": "25 7 2 14 11 24 7 2 22 17 9 7 22 10 7 20 2 11 16 2 8 3 15 11 14 11 7 21 2 22 20 11 4 7 21 2 3 16 6 2 16 3 22 11 17 16 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0034": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THEY ARE PPRAISED AD MIARED AND RESPECTEEDD <eos>",
+                    "rec_token": "<blank> <space> T H E Y <space> A R E <space> P P R A I S E D <space> A D <space> M I A R E D <space> A N D <space> R E S P E C T E E D D <space> <eos>",
+                    "rec_tokenid": "0 4 6 11 5 22 4 7 13 5 4 23 23 13 7 10 12 5 14 4 7 14 4 17 10 7 13 5 14 4 7 9 14 4 13 5 12 23 5 19 6 5 5 14 14 4 2",
+                    "score": 36.29328536987305,
+                    "shape": [
+                        38,
+                        30
+                    ],
+                    "text": "THEY ARE PRAISED ADMIRED AND RESPECTED",
+                    "token": "T H E Y <space> A R E <space> P R A I S E D <space> A D M I R E D <space> A N D <space> R E S P E C T E D",
+                    "tokenid": "22 10 7 27 2 3 20 7 2 18 20 3 11 21 7 6 2 3 6 15 11 20 7 6 2 3 16 6 2 20 7 21 18 7 5 22 7 6"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0035": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THEY ARE REGAD OD THIAS GOD THAT DIS TOSAY ESS MORRRL <eos>",
+                    "rec_token": "<blank> <space> T H E Y <space> A R E <space> R E G A D <space> O D <space> T H I A S <space> G O D <space> T H A T <space> D I S <space> T O S A Y <space> E S S <space> M O R R R L <space> <eos>",
+                    "rec_tokenid": "0 4 6 11 5 22 4 7 13 5 4 13 5 21 7 14 4 8 14 4 6 11 10 7 12 4 21 8 14 4 6 11 7 6 4 14 10 12 4 6 8 12 7 22 4 5 12 12 4 17 8 13 13 13 15 4 2",
+                    "score": 45.63018798828125,
+                    "shape": [
+                        49,
+                        30
+                    ],
+                    "text": "THEY ARE REGARDED AS GOOD THAT IS TO SAY AS MORAL",
+                    "token": "T H E Y <space> A R E <space> R E G A R D E D <space> A S <space> G O O D <space> T H A T <space> I S <space> T O <space> S A Y <space> A S <space> M O R A L",
+                    "tokenid": "22 10 7 27 2 3 20 7 2 20 7 9 3 20 6 7 6 2 3 21 2 9 17 17 6 2 22 10 3 22 2 11 21 2 22 17 2 21 3 27 2 3 21 2 15 17 20 3 14"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0036": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "THE MEMBERS HOH ADD TOH THE MISIORY OFE THE FAMILY THE TRIBE OF THE NASHION ARE CONSIDERED BAD MANDERSE <eos>",
+                    "rec_token": "T H E <space> M E M B E R S <space> H O H <space> A D D <space> T O H <space> T H E <space> M I S I O R Y <space> O F E <space> T H E <space> F A M I L Y <space> T H E <space> T R I B E <space> O F <space> T H E <space> N A S H I O N <space> A R E <space> C O N S I D E R E D <space> B A D <space> M A N D E R S E <space> <eos>",
+                    "rec_tokenid": "6 11 5 4 17 5 17 24 5 13 12 4 11 8 11 4 7 14 14 4 6 8 11 4 6 11 5 4 17 10 12 10 8 13 22 4 8 20 5 4 6 11 5 4 20 7 17 10 15 22 4 6 11 5 4 6 13 10 24 5 4 8 20 4 6 11 5 4 9 7 12 11 10 8 9 4 7 13 5 4 19 8 9 12 10 14 5 13 5 14 4 24 7 14 4 17 7 9 14 5 13 12 5 4 2",
+                    "score": 89.46456909179688,
+                    "shape": [
+                        98,
+                        30
+                    ],
+                    "text": "THE MEMBERS WHO ADD TO THE MISERY OF THE FAMILY THE TRIBE OR THE NATION ARE CONSIDERED BAD MEMBERS",
+                    "token": "T H E <space> M E M B E R S <space> W H O <space> A D D <space> T O <space> T H E <space> M I S E R Y <space> O F <space> T H E <space> F A M I L Y <space> T H E <space> T R I B E <space> O R <space> T H E <space> N A T I O N <space> A R E <space> C O N S I D E R E D <space> B A D <space> M E M B E R S",
+                    "tokenid": "22 10 7 2 15 7 15 4 7 20 21 2 25 10 17 2 3 6 6 2 22 17 2 22 10 7 2 15 11 21 7 20 27 2 17 8 2 22 10 7 2 8 3 15 11 14 27 2 22 10 7 2 22 20 11 4 7 2 17 20 2 22 10 7 2 16 3 22 11 17 16 2 3 20 7 2 5 17 16 21 11 6 7 20 7 6 2 4 3 6 2 15 7 15 4 7 20 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0037": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THE GRATAST OF HOUOMAN BEINGS HAD SSED CONCSHIONCS IS BORNE OFF LOVEVE <eos>",
+                    "rec_token": "<blank> <space> T H E <space> G R A T A S T <space> O F <space> H O U O M A N <space> B E I N G S <space> H A D <space> S S E D <space> C O N C S H I O N C S <space> I S <space> B O R N E <space> O F F <space> L O V E V E <space> <eos>",
+                    "rec_tokenid": "0 4 6 11 5 4 21 13 7 6 7 12 6 4 8 20 4 11 8 16 8 17 7 9 4 24 5 10 9 21 12 4 11 7 14 4 12 12 5 14 4 19 8 9 19 12 11 10 8 9 19 12 4 10 12 4 24 8 13 9 5 4 8 20 20 4 15 8 25 5 25 5 4 2",
+                    "score": 58.95146942138672,
+                    "shape": [
+                        64,
+                        30
+                    ],
+                    "text": "THE GREATEST OF HUMAN BEINGS HAS SAID CONSCIENCE IS BORN OF LOVE",
+                    "token": "T H E <space> G R E A T E S T <space> O F <space> H U M A N <space> B E I N G S <space> H A S <space> S A I D <space> C O N S C I E N C E <space> I S <space> B O R N <space> O F <space> L O V E",
+                    "tokenid": "22 10 7 2 9 20 7 3 22 7 21 22 2 17 8 2 10 23 15 3 16 2 4 7 11 16 9 21 2 10 3 21 2 21 3 11 6 2 5 17 16 21 5 11 7 16 5 7 2 11 21 2 4 17 20 16 2 17 8 2 14 17 24 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0038": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>TAS PEPL ADVANCSEE TO REMOT CONSECQUENIS AR PERSEIVED <eos>",
+                    "rec_token": "<blank> T A S <space> P E P L <space> A D V A N C S E E <space> T O <space> R E M O T <space> C O N S E C Q U E N I S <space> A R <space> P E R S E I V E D <space> <eos>",
+                    "rec_tokenid": "0 6 7 12 4 23 5 23 15 4 7 14 25 7 9 19 12 5 5 4 6 8 4 13 5 17 8 6 4 19 8 9 12 5 19 30 16 5 9 10 12 4 7 13 4 23 5 13 12 5 10 25 5 14 4 2",
+                    "score": 41.569950103759766,
+                    "shape": [
+                        55,
+                        30
+                    ],
+                    "text": "AS PEOPLE ADVANCE THE REMOTE CONSEQUENCES ARE PERCEIVED",
+                    "token": "A S <space> P E O P L E <space> A D V A N C E <space> T H E <space> R E M O T E <space> C O N S E Q U E N C E S <space> A R E <space> P E R C E I V E D",
+                    "tokenid": "3 21 2 18 7 17 18 14 7 2 3 6 24 3 16 5 7 2 22 10 7 2 20 7 15 17 22 7 2 5 17 16 21 7 19 23 7 16 5 7 21 2 3 20 7 2 18 7 20 5 7 11 24 7 6"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0039": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos> THE IMADGINASCSTON IS COULTIVEATEDD <eos>",
+                    "rec_token": "<blank> <eos> <space> T H E <space> I M A D G I N A S C S T O N <space> I S <space> C O U L T I V E A T E D D <space> <eos>",
+                    "rec_tokenid": "0 2 4 6 11 5 4 10 17 7 14 21 10 9 7 12 19 12 6 8 9 4 10 12 4 19 8 16 15 6 10 25 5 7 6 5 14 14 4 2",
+                    "score": 440.4272155761719,
+                    "shape": [
+                        29,
+                        30
+                    ],
+                    "text": "THE IMAGINATION IS CULTIVATED",
+                    "token": "T H E <space> I M A G I N A T I O N <space> I S <space> C U L T I V A T E D",
+                    "tokenid": "22 10 7 2 11 15 3 9 11 16 3 22 11 17 16 2 11 21 2 5 23 14 22 11 24 3 22 7 6"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0040": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "A MAN BURTS SHEMED SELF IN THE BLAIS OF ANOTHER T<eos>",
+                    "rec_token": "A <space> M A N <space> B U R T S <space> S H E M E D <space> S E L F <space> I N <space> T H E <space> B L A I S <space> O F <space> A N O T H E R <space> T <eos>",
+                    "rec_tokenid": "7 4 17 7 9 4 24 16 13 6 12 4 12 11 5 17 5 14 4 12 5 15 20 4 10 9 4 6 11 5 4 24 15 7 10 12 4 8 20 4 7 9 8 6 11 5 13 4 6 2",
+                    "score": 40.052978515625,
+                    "shape": [
+                        42,
+                        30
+                    ],
+                    "text": "A MAN PUTS HIMSELF IN THE PLACE OF ANOTHER",
+                    "token": "A <space> M A N <space> P U T S <space> H I M S E L F <space> I N <space> T H E <space> P L A C E <space> O F <space> A N O T H E R",
+                    "tokenid": "3 2 15 3 16 2 18 23 22 21 2 10 11 15 21 7 14 8 2 11 16 2 22 10 7 2 18 14 3 5 7 2 17 8 2 3 16 17 22 10 7 20"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0041": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>WTHE SENCS OF DJOULTTY BECOMES STRONGER MORE IMPARATIVE <eos>",
+                    "rec_token": "<blank> W T H E <space> S E N C S <space> O F <space> D J O U L T T Y <space> B E C O M E S <space> S T R O N G E R <space> M O R E <space> I M P A R A T I V E <space> <eos>",
+                    "rec_tokenid": "0 18 6 11 5 4 12 5 9 19 12 4 8 20 4 14 29 8 16 15 6 6 22 4 24 5 19 8 17 5 12 4 12 6 13 8 9 21 5 13 4 17 8 13 5 4 10 17 23 7 13 7 6 10 25 5 4 2",
+                    "score": 47.80200958251953,
+                    "shape": [
+                        50,
+                        30
+                    ],
+                    "text": "THE SENSE OF DUTY BECOMES STRONGER MORE IMPERATIVE",
+                    "token": "T H E <space> S E N S E <space> O F <space> D U T Y <space> B E C O M E S <space> S T R O N G E R <space> M O R E <space> I M P E R A T I V E",
+                    "tokenid": "22 10 7 2 21 7 16 21 7 2 17 8 2 6 23 22 27 2 4 7 5 17 15 7 21 2 21 22 20 17 16 9 7 20 2 15 17 20 7 2 11 15 18 7 20 3 22 11 24 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0042": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>MAN GJUDEDGDOST HIMSELFFE <eos>",
+                    "rec_token": "<blank> <eos> M A N <space> G J U D E D G D O S T <space> H I M S E L F F E <space> <eos>",
+                    "rec_tokenid": "0 2 17 7 9 4 21 29 16 14 5 14 21 14 8 12 6 4 11 10 17 12 5 15 20 20 5 4 2",
+                    "score": 354.1844787597656,
+                    "shape": [
+                        18,
+                        30
+                    ],
+                    "text": "MAN JUDGES HIMSELF",
+                    "token": "M A N <space> J U D G E S <space> H I M S E L F",
+                    "tokenid": "15 3 16 2 12 23 6 9 7 21 2 10 11 15 21 7 14 8"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0043": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>EIN ALL DTHISS THER IS S NARTAING FEPPER NATROAOAL <eos>",
+                    "rec_token": "<blank> E I N <space> A L L <space> D T H I S S <space> T H E R <space> I S <space> S <space> N A R T A I N G <space> F E P P E R <space> N A T R O A O A L <space> <eos>",
+                    "rec_tokenid": "0 5 10 9 4 7 15 15 4 14 6 11 10 12 12 4 6 11 5 13 4 10 12 4 12 4 9 7 13 6 7 10 9 21 4 20 5 23 23 5 13 4 9 7 6 13 8 7 8 7 15 4 2",
+                    "score": 37.944061279296875,
+                    "shape": [
+                        41,
+                        30
+                    ],
+                    "text": "IN ALL THIS THERE IS NOTHING SUPERNATURAL",
+                    "token": "I N <space> A L L <space> T H I S <space> T H E R E <space> I S <space> N O T H I N G <space> S U P E R N A T U R A L",
+                    "tokenid": "11 16 2 3 14 14 2 22 10 11 21 2 22 10 7 20 7 2 11 21 2 16 17 22 10 11 16 9 2 21 23 18 7 20 16 3 22 23 20 3 14"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0044": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>MAN HAS DECSEAVED HIMSELLFFF <eos>",
+                    "rec_token": "<blank> <eos> M A N <space> H A S <space> D E C S E A V E D <space> H I M S E L L F F F <space> <eos>",
+                    "rec_tokenid": "0 2 17 7 9 4 11 7 12 4 14 5 19 12 5 7 25 5 14 4 11 10 17 12 5 15 15 20 20 20 4 2",
+                    "score": 460.8448486328125,
+                    "shape": [
+                        24,
+                        30
+                    ],
+                    "text": "MAN HAS DECEIVED HIMSELF",
+                    "token": "M A N <space> H A S <space> D E C E I V E D <space> H I M S E L F",
+                    "tokenid": "15 3 16 2 10 3 21 2 6 7 5 7 11 24 7 6 2 10 11 15 21 7 14 8"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0045": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>HESSS CRISSTIEANITY DANE GOOD <eos>",
+                    "rec_token": "<blank> <eos> H E S S S <space> C R I S S T I E A N I T Y <space> D A N E <space> G O O D <space> <eos>",
+                    "rec_tokenid": "0 2 11 5 12 12 12 4 19 13 10 12 12 6 10 5 7 9 10 6 22 4 14 7 9 5 4 21 8 8 14 4 2",
+                    "score": 273.369384765625,
+                    "shape": [
+                        26,
+                        30
+                    ],
+                    "text": "HAS CHRISTIANITY DONE GOOD",
+                    "token": "H A S <space> C H R I S T I A N I T Y <space> D O N E <space> G O O D",
+                    "tokenid": "10 3 21 2 5 10 20 11 21 22 11 3 16 11 22 27 2 6 17 16 7 2 9 17 17 6"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0046": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> WHEN THE CHERCH HAD CONTROLE WERE MEN MADE BETTER AND HAPEYIEAR <eos>",
+                    "rec_token": "<blank> <space> W H E N <space> T H E <space> C H E R C H <space> H A D <space> C O N T R O L E <space> W E R E <space> M E N <space> M A D E <space> B E T T E R <space> A N D <space> H A P E Y I E A R <space> <eos>",
+                    "rec_tokenid": "0 4 18 11 5 9 4 6 11 5 4 19 11 5 13 19 11 4 11 7 14 4 19 8 9 6 13 8 15 5 4 18 5 13 5 4 17 5 9 4 17 7 14 5 4 24 5 6 6 5 13 4 7 9 14 4 11 7 23 5 22 10 5 7 13 4 2",
+                    "score": 57.27520751953125,
+                    "shape": [
+                        60,
+                        30
+                    ],
+                    "text": "WHEN THE CHURCH HAD CONTROL WERE MEN MADE BETTER AND HAPPIER",
+                    "token": "W H E N <space> T H E <space> C H U R C H <space> H A D <space> C O N T R O L <space> W E R E <space> M E N <space> M A D E <space> B E T T E R <space> A N D <space> H A P P I E R",
+                    "tokenid": "25 10 7 16 2 22 10 7 2 5 10 23 20 5 10 2 10 3 6 2 5 17 16 22 20 17 14 2 25 7 20 7 2 15 7 16 2 15 3 6 7 2 4 7 22 22 7 20 2 3 16 6 2 10 3 18 18 11 7 20"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0047": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "WHAT TESS RELIGEN DONMNE FOR HANGORE ORE OSSTRIA <eos>",
+                    "rec_token": "W H A T <space> T E S S <space> R E L I G E N <space> D O N M N E <space> F O R <space> H A N G O R E <space> O R E <space> O S S T R I A <space> <eos>",
+                    "rec_tokenid": "18 11 7 6 4 6 5 12 12 4 13 5 15 10 21 5 9 4 14 8 9 17 9 5 4 20 8 13 4 11 7 9 21 8 13 5 4 8 13 5 4 8 12 12 6 13 10 7 4 2",
+                    "score": 40.42340087890625,
+                    "shape": [
+                        45,
+                        30
+                    ],
+                    "text": "WHAT HAS RELIGION DONE FOR HUNGARY OR AUSTRIA",
+                    "token": "W H A T <space> H A S <space> R E L I G I O N <space> D O N E <space> F O R <space> H U N G A R Y <space> O R <space> A U S T R I A",
+                    "tokenid": "25 10 3 22 2 10 3 21 2 20 7 14 11 9 11 17 16 2 6 17 16 7 2 8 17 20 2 10 23 16 9 3 20 27 2 17 20 2 3 23 21 22 20 11 3"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0048": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> GOLD DEAST CONTRES  HAVE BEEN WOERS WITHOUT RELIGIOAON <eos>",
+                    "rec_token": "<blank> <space> G O L D <space> D E A S T <space> C O N T R E S <space> <space> H A V E <space> B E E N <space> W O E R S <space> W I T H O U T <space> R E L I G I O A O N <space> <eos>",
+                    "rec_tokenid": "0 4 21 8 15 14 4 14 5 7 12 6 4 19 8 9 6 13 5 12 4 4 11 7 25 5 4 24 5 5 9 4 18 8 5 13 12 4 18 10 6 11 8 16 6 4 13 5 15 10 21 10 8 7 8 9 4 2",
+                    "score": 43.31999588012695,
+                    "shape": [
+                        54,
+                        30
+                    ],
+                    "text": "COULD THESE COUNTRIES HAVE BEEN WORSE WITHOUT RELIGION",
+                    "token": "C O U L D <space> T H E S E <space> C O U N T R I E S <space> H A V E <space> B E E N <space> W O R S E <space> W I T H O U T <space> R E L I G I O N",
+                    "tokenid": "5 17 23 14 6 2 22 10 7 21 7 2 5 17 23 16 22 20 11 7 21 2 10 3 24 7 2 4 7 7 16 2 25 17 20 21 7 2 25 11 22 10 17 23 22 2 20 7 14 11 9 11 17 16"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0049": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>VCOULD THEY HAVE BEENE WOERS HAD THEY HAD ANEY OTHER RIELIGON THAN CRISTIANITIY <eos>",
+                    "rec_token": "<blank> V C O U L D <space> T H E Y <space> H A V E <space> B E E N E <space> W O E R S <space> H A D <space> T H E Y <space> H A D <space> A N E Y <space> O T H E R <space> R I E L I G O N <space> T H A N <space> C R I S T I A N I T I Y <space> <eos>",
+                    "rec_tokenid": "0 25 19 8 16 15 14 4 6 11 5 22 4 11 7 25 5 4 24 5 5 9 5 4 18 8 5 13 12 4 11 7 14 4 6 11 5 22 4 11 7 14 4 7 9 5 22 4 8 6 11 5 13 4 13 10 5 15 10 21 8 9 4 6 11 7 9 4 19 13 10 12 6 10 7 9 10 6 10 22 4 2",
+                    "score": 69.97636413574219,
+                    "shape": [
+                        76,
+                        30
+                    ],
+                    "text": "COULD THEY HAVE BEEN WORSE HAD THEY HAD ANY OTHER RELIGION THAN CHRISTIANITY",
+                    "token": "C O U L D <space> T H E Y <space> H A V E <space> B E E N <space> W O R S E <space> H A D <space> T H E Y <space> H A D <space> A N Y <space> O T H E R <space> R E L I G I O N <space> T H A N <space> C H R I S T I A N I T Y",
+                    "tokenid": "5 17 23 14 6 2 22 10 7 27 2 10 3 24 7 2 4 7 7 16 2 25 17 20 21 7 2 10 3 6 2 22 10 7 27 2 10 3 6 2 3 16 27 2 17 22 10 7 20 2 20 7 14 11 9 11 17 16 2 22 10 3 16 2 5 10 20 11 21 22 11 3 16 11 22 27"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0050": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " WHAT BID CRISTIANITY DOLID FOLD THEM <eos>",
+                    "rec_token": "<space> W H A T <space> B I D <space> C R I S T I A N I T Y <space> D O L I D <space> F O L D <space> T H E M <space> <eos>",
+                    "rec_tokenid": "4 18 11 7 6 4 24 10 14 4 19 13 10 12 6 10 7 9 10 6 22 4 14 8 15 10 14 4 20 8 15 14 4 6 11 5 17 4 2",
+                    "score": 30.564407348632812,
+                    "shape": [
+                        33,
+                        30
+                    ],
+                    "text": "WHAT DID CHRISTIANITY DO FOR THEM",
+                    "token": "W H A T <space> D I D <space> C H R I S T I A N I T Y <space> D O <space> F O R <space> T H E M",
+                    "tokenid": "25 10 3 22 2 6 11 6 2 5 10 20 11 21 22 11 3 16 11 22 27 2 6 17 2 8 17 20 2 22 10 7 15"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0051": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos> THEAY HAECTED D PPLEASER <eos>",
+                    "rec_token": "<blank> <eos> <space> T H E A Y <space> H A E C T E D <space> D <space> P P L E A S E R <space> <eos>",
+                    "rec_tokenid": "0 2 4 6 11 5 7 22 4 11 7 5 19 6 5 14 4 14 4 23 23 15 5 7 12 5 13 4 2",
+                    "score": 338.7112121582031,
+                    "shape": [
+                        19,
+                        30
+                    ],
+                    "text": "THEY HATED PLEASURE",
+                    "token": "T H E Y <space> H A T E D <space> P L E A S U R E",
+                    "tokenid": "22 10 7 27 2 10 3 22 7 6 2 18 14 7 3 21 23 20 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0052": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos> THEAY MOUFOLED ALL DE BELLES OFE GLADNESS <eos>",
+                    "rec_token": "<blank> <eos> <space> T H E A Y <space> M O U F O L E D <space> A L L <space> D E <space> B E L L E S <space> O F E <space> G L A D N E S S <space> <eos>",
+                    "rec_tokenid": "0 2 4 6 11 5 7 22 4 17 8 16 20 8 15 5 14 4 7 15 15 4 14 5 4 24 5 15 15 5 12 4 8 20 5 4 21 15 7 14 9 5 12 12 4 2",
+                    "score": 430.16162109375,
+                    "shape": [
+                        38,
+                        30
+                    ],
+                    "text": "THEY MUFFLED ALL THE BELLS OF GLADNESS",
+                    "token": "T H E Y <space> M U F F L E D <space> A L L <space> T H E <space> B E L L S <space> O F <space> G L A D N E S S",
+                    "tokenid": "22 10 7 27 2 15 23 8 8 14 7 6 2 3 14 14 2 22 10 7 2 4 7 14 14 21 2 17 8 2 9 14 3 6 16 7 21 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0053": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THE RE LIGION OF THE PUORITAN  WAS AN AND ADDOULTORATAID CERSSSE <eos>",
+                    "rec_token": "<blank> <space> T H E <space> R E <space> L I G I O N <space> O F <space> T H E <space> P U O R I T A N <space> <space> W A S <space> A N <space> A N D <space> A D D O U L T O R A T A I D <space> C E R S S S E <space> <eos>",
+                    "rec_tokenid": "0 4 6 11 5 4 13 5 4 15 10 21 10 8 9 4 8 20 4 6 11 5 4 23 16 8 13 10 6 7 9 4 4 18 7 12 4 7 9 4 7 9 14 4 7 14 14 8 16 15 6 8 13 7 6 7 10 14 4 19 5 13 12 12 12 5 4 2",
+                    "score": 52.76747512817383,
+                    "shape": [
+                        54,
+                        30
+                    ],
+                    "text": "THE RELIGION OF THE PURITAN WAS AN UNADULTERATED CURSE",
+                    "token": "T H E <space> R E L I G I O N <space> O F <space> T H E <space> P U R I T A N <space> W A S <space> A N <space> U N A D U L T E R A T E D <space> C U R S E",
+                    "tokenid": "22 10 7 2 20 7 14 11 9 11 17 16 2 17 8 2 22 10 7 2 18 23 20 11 22 3 16 2 25 3 21 2 3 16 2 23 16 3 6 23 14 22 7 20 3 22 7 6 2 5 23 20 21 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0054": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>BTHE PUORITAN BELEF THE BIBLE TO BE THE WORT OFE GODD AND THES BELEEFE HAS ALLWAS MAD THOS WHOH HELD ITT CROILL AND RECHIET <eos>",
+                    "rec_token": "<blank> B T H E <space> P U O R I T A N <space> B E L E F <space> T H E <space> B I B L E <space> T O <space> B E <space> T H E <space> W O R T <space> O F E <space> G O D D <space> A N D <space> T H E S <space> B E L E E F E <space> H A S <space> A L L W A S <space> M A D <space> T H O S <space> W H O H <space> H E L D <space> I T T <space> C R O I L L <space> A N D <space> R E C H I E T <space> <eos>",
+                    "rec_tokenid": "0 24 6 11 5 4 23 16 8 13 10 6 7 9 4 24 5 15 5 20 4 6 11 5 4 24 10 24 15 5 4 6 8 4 24 5 4 6 11 5 4 18 8 13 6 4 8 20 5 4 21 8 14 14 4 7 9 14 4 6 11 5 12 4 24 5 15 5 5 20 5 4 11 7 12 4 7 15 15 18 7 12 4 17 7 14 4 6 11 8 12 4 18 11 8 11 4 11 5 15 14 4 10 6 6 4 19 13 8 10 15 15 4 7 9 14 4 13 5 19 11 10 5 6 4 2",
+                    "score": 102.67906951904297,
+                    "shape": [
+                        121,
+                        30
+                    ],
+                    "text": "THE PURITAN BELIEVED THE BIBLE TO BE THE WORD OF GOD AND THIS BELIEF HAS ALWAYS MADE THOSE WHO HELD IT CRUEL AND WRETCHED",
+                    "token": "T H E <space> P U R I T A N <space> B E L I E V E D <space> T H E <space> B I B L E <space> T O <space> B E <space> T H E <space> W O R D <space> O F <space> G O D <space> A N D <space> T H I S <space> B E L I E F <space> H A S <space> A L W A Y S <space> M A D E <space> T H O S E <space> W H O <space> H E L D <space> I T <space> C R U E L <space> A N D <space> W R E T C H E D",
+                    "tokenid": "22 10 7 2 18 23 20 11 22 3 16 2 4 7 14 11 7 24 7 6 2 22 10 7 2 4 11 4 14 7 2 22 17 2 4 7 2 22 10 7 2 25 17 20 6 2 17 8 2 9 17 6 2 3 16 6 2 22 10 11 21 2 4 7 14 11 7 8 2 10 3 21 2 3 14 25 3 27 21 2 15 3 6 7 2 22 10 17 21 7 2 25 10 17 2 10 7 14 6 2 11 22 2 5 20 23 7 14 2 3 16 6 2 25 20 7 22 5 10 7 6"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0055": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "LETT ME REFER TO GJUST WAONE FACKTT SHOWING THE IMFLOWENCS OF A BELEF IN THE BIBAL ON HOUOMAN BEEINGSS  <eos>",
+                    "rec_token": "L E T T <space> M E <space> R E F E R <space> T O <space> G J U S T <space> W A O N E <space> F A C K T T <space> S H O W I N G <space> T H E <space> I M F L O W E N C S <space> O F <space> A <space> B E L E F <space> I N <space> T H E <space> B I B A L <space> O N <space> H O U O M A N <space> B E E I N G S S <space> <space> <eos>",
+                    "rec_tokenid": "15 5 6 6 4 17 5 4 13 5 20 5 13 4 6 8 4 21 29 16 12 6 4 18 7 8 9 5 4 20 7 19 26 6 6 4 12 11 8 18 10 9 21 4 6 11 5 4 10 17 20 15 8 18 5 9 19 12 4 8 20 4 7 4 24 5 15 5 20 4 10 9 4 6 11 5 4 24 10 24 7 15 4 8 9 4 11 8 16 8 17 7 9 4 24 5 5 10 9 21 12 12 4 4 2",
+                    "score": 83.99137878417969,
+                    "shape": [
+                        92,
+                        30
+                    ],
+                    "text": "LET ME REFER TO JUST ONE FACT SHOWING THE INFLUENCE OF A BELIEF IN THE BIBLE ON HUMAN BEINGS",
+                    "token": "L E T <space> M E <space> R E F E R <space> T O <space> J U S T <space> O N E <space> F A C T <space> S H O W I N G <space> T H E <space> I N F L U E N C E <space> O F <space> A <space> B E L I E F <space> I N <space> T H E <space> B I B L E <space> O N <space> H U M A N <space> B E I N G S",
+                    "tokenid": "14 7 22 2 15 7 2 20 7 8 7 20 2 22 17 2 12 23 21 22 2 17 16 7 2 8 3 5 22 2 21 10 17 25 11 16 9 2 22 10 7 2 11 16 8 14 23 7 16 5 7 2 17 8 2 3 2 4 7 14 11 7 8 2 11 16 2 22 10 7 2 4 11 4 14 7 2 17 16 2 10 23 15 3 16 2 4 7 11 16 9 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0056": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "THE QUEENE RECSEVED THE BIBLE CIFST IT AND PLEDGERD HER SELLFESE TO DEILIGENTLY REATE BEIRIN <eos>",
+                    "rec_token": "T H E <space> Q U E E N E <space> R E C S E V E D <space> T H E <space> B I B L E <space> C I F S T <space> I T <space> A N D <space> P L E D G E R D <space> H E R <space> S E L L F E S E <space> T O <space> D E I L I G E N T L Y <space> R E A T E <space> B E I R I N <space> <eos>",
+                    "rec_tokenid": "6 11 5 4 30 16 5 5 9 5 4 13 5 19 12 5 25 5 14 4 6 11 5 4 24 10 24 15 5 4 19 10 20 12 6 4 10 6 4 7 9 14 4 23 15 5 14 21 5 13 14 4 11 5 13 4 12 5 15 15 20 5 12 5 4 6 8 4 14 5 10 15 10 21 5 9 6 15 22 4 13 5 7 6 5 4 24 5 10 13 10 9 4 2",
+                    "score": 71.20913696289062,
+                    "shape": [
+                        85,
+                        30
+                    ],
+                    "text": "THE QUEEN RECEIVED THE BIBLE KISSED IT AND PLEDGED HERSELF TO DILIGENTLY READ THEREIN",
+                    "token": "T H E <space> Q U E E N <space> R E C E I V E D <space> T H E <space> B I B L E <space> K I S S E D <space> I T <space> A N D <space> P L E D G E D <space> H E R S E L F <space> T O <space> D I L I G E N T L Y <space> R E A D <space> T H E R E I N",
+                    "tokenid": "22 10 7 2 19 23 7 7 16 2 20 7 5 7 11 24 7 6 2 22 10 7 2 4 11 4 14 7 2 13 11 21 21 7 6 2 11 22 2 3 16 6 2 18 14 7 6 9 7 6 2 10 7 20 21 7 14 8 2 22 17 2 6 11 14 11 9 7 16 22 14 27 2 20 7 3 6 2 22 10 7 20 7 11 16"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0057": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " IN OTHER WOERDS IT WAS JUSST AS FEIANDISHE JUSST AS INFAMOAS AS THE CATORLICKESPIRITT <eos>",
+                    "rec_token": "<space> I N <space> O T H E R <space> W O E R D S <space> I T <space> W A S <space> J U S S T <space> A S <space> F E I A N D I S H E <space> J U S S T <space> A S <space> I N F A M O A S <space> A S <space> T H E <space> C A T O R L I C K E S P I R I T T <space> <eos>",
+                    "rec_tokenid": "4 10 9 4 8 6 11 5 13 4 18 8 5 13 14 12 4 10 6 4 18 7 12 4 29 16 12 12 6 4 7 12 4 20 5 10 7 9 14 10 12 11 5 4 29 16 12 12 6 4 7 12 4 10 9 20 7 17 8 7 12 4 7 12 4 6 11 5 4 19 7 6 8 13 15 10 19 26 5 12 23 10 13 10 6 6 4 2",
+                    "score": 68.63731384277344,
+                    "shape": [
+                        78,
+                        30
+                    ],
+                    "text": "IN OTHER WORDS IT WAS JUST AS FIENDISH JUST AS INFAMOUS AS THE CATHOLIC SPIRIT",
+                    "token": "I N <space> O T H E R <space> W O R D S <space> I T <space> W A S <space> J U S T <space> A S <space> F I E N D I S H <space> J U S T <space> A S <space> I N F A M O U S <space> A S <space> T H E <space> C A T H O L I C <space> S P I R I T",
+                    "tokenid": "11 16 2 17 22 10 7 20 2 25 17 20 6 21 2 11 22 2 25 3 21 2 12 23 21 22 2 3 21 2 8 11 7 16 6 11 21 10 2 12 23 21 22 2 3 21 2 11 16 8 3 15 17 23 21 2 3 21 2 22 10 7 2 5 3 22 10 17 14 11 5 2 21 18 11 20 11 22"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0058": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>THAS THE BE IBLE MADE THE PEPLE OFE GJORADGE O CINT AND MERSIFOLE <eos>",
+                    "rec_token": "<blank> T H A S <space> T H E <space> B E <space> I B L E <space> M A D E <space> T H E <space> P E P L E <space> O F E <space> G J O R A D G E <space> O <space> C I N T <space> A N D <space> M E R S I F O L E <space> <eos>",
+                    "rec_tokenid": "0 6 11 7 12 4 6 11 5 4 24 5 4 10 24 15 5 4 17 7 14 5 4 6 11 5 4 23 5 23 15 5 4 8 20 5 4 21 29 8 13 7 14 21 5 4 8 4 19 10 9 6 4 7 9 14 4 17 5 13 12 10 20 8 15 5 4 2",
+                    "score": 55.73475646972656,
+                    "shape": [
+                        58,
+                        30
+                    ],
+                    "text": "HAS THE BIBLE MADE THE PEOPLE OF GEORGIA KIND AND MERCIFUL",
+                    "token": "H A S <space> T H E <space> B I B L E <space> M A D E <space> T H E <space> P E O P L E <space> O F <space> G E O R G I A <space> K I N D <space> A N D <space> M E R C I F U L",
+                    "tokenid": "10 3 21 2 22 10 7 2 4 11 4 14 7 2 15 3 6 7 2 22 10 7 2 18 7 17 18 14 7 2 17 8 2 9 7 17 20 9 11 3 2 13 11 16 6 2 3 16 6 2 15 7 20 5 11 8 23 14"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0059": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "RE LEGON HAS BEN TRIED AND IN ALL COUNTRIYSEE IN ALL TIMSE NHAS IT FAILELED <eos>",
+                    "rec_token": "R E <space> L E G O N <space> H A S <space> B E N <space> T R I E D <space> A N D <space> I N <space> A L L <space> C O U N T R I Y S E E <space> I N <space> A L L <space> T I M S E <space> N H A S <space> I T <space> F A I L E L E D <space> <eos>",
+                    "rec_tokenid": "13 5 4 15 5 21 8 9 4 11 7 12 4 24 5 9 4 6 13 10 5 14 4 7 9 14 4 10 9 4 7 15 15 4 19 8 16 9 6 13 10 22 12 5 5 4 10 9 4 7 15 15 4 6 10 17 12 5 4 9 11 7 12 4 10 6 4 20 7 10 15 5 15 5 14 4 2",
+                    "score": 58.36481475830078,
+                    "shape": [
+                        68,
+                        30
+                    ],
+                    "text": "RELIGION HAS BEEN TRIED AND IN ALL COUNTRIES IN ALL TIMES HAS FAILED",
+                    "token": "R E L I G I O N <space> H A S <space> B E E N <space> T R I E D <space> A N D <space> I N <space> A L L <space> C O U N T R I E S <space> I N <space> A L L <space> T I M E S <space> H A S <space> F A I L E D",
+                    "tokenid": "20 7 14 11 9 11 17 16 2 10 3 21 2 4 7 7 16 2 22 20 11 7 6 2 3 16 6 2 11 16 2 3 14 14 2 5 17 23 16 22 20 11 7 21 2 11 16 2 3 14 14 2 22 11 15 7 21 2 10 3 21 2 8 3 11 14 7 6"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0060": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "RE LIGON HAS AL WAS BEN THE ENIMEY OF SIANCESE OFF ITS VESTDIGASTIAON AND THOLWGT <eos>",
+                    "rec_token": "R E <space> L I G O N <space> H A S <space> A L <space> W A S <space> B E N <space> T H E <space> E N I M E Y <space> O F <space> S I A N C E S E <space> O F F <space> I T S <space> V E S T D I G A S T I A O N <space> A N D <space> T H O L W G T <space> <eos>",
+                    "rec_tokenid": "13 5 4 15 10 21 8 9 4 11 7 12 4 7 15 4 18 7 12 4 24 5 9 4 6 11 5 4 5 9 10 17 5 22 4 8 20 4 12 10 7 9 19 5 12 5 4 8 20 20 4 10 6 12 4 25 5 12 6 14 10 21 7 12 6 10 7 8 9 4 7 9 14 4 6 11 8 15 18 21 6 4 2",
+                    "score": 61.240482330322266,
+                    "shape": [
+                        74,
+                        30
+                    ],
+                    "text": "RELIGION HAS ALWAYS BEEN THE ENEMY OF SCIENCE OF INVESTIGATION AND THOUGHT",
+                    "token": "R E L I G I O N <space> H A S <space> A L W A Y S <space> B E E N <space> T H E <space> E N E M Y <space> O F <space> S C I E N C E <space> O F <space> I N V E S T I G A T I O N <space> A N D <space> T H O U G H T",
+                    "tokenid": "20 7 14 11 9 11 17 16 2 10 3 21 2 3 14 25 3 27 21 2 4 7 7 16 2 22 10 7 2 7 16 7 15 27 2 17 8 2 21 5 11 7 16 5 7 2 17 8 2 11 16 24 7 21 22 11 9 3 22 11 17 16 2 3 16 6 2 22 10 17 23 9 10 22"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "5764-299665-0061": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>RE LIGON HAS NEVHER MADE MEN FREY <eos>",
+                    "rec_token": "<blank> <eos> R E <space> L I G O N <space> H A S <space> N E V H E R <space> M A D E <space> M E N <space> F R E Y <space> <eos>",
+                    "rec_tokenid": "0 2 13 5 4 15 10 21 8 9 4 11 7 12 4 9 5 25 11 5 13 4 17 7 14 5 4 17 5 9 4 20 13 5 22 4 2",
+                    "score": 469.34228515625,
+                    "shape": [
+                        32,
+                        30
+                    ],
+                    "text": "RELIGION HAS NEVER MADE MAN FREE",
+                    "token": "R E L I G I O N <space> H A S <space> N E V E R <space> M A D E <space> M A N <space> F R E E",
+                    "tokenid": "20 7 14 11 9 11 17 16 2 10 3 21 2 16 7 24 7 20 2 15 3 6 7 2 15 3 16 2 8 20 7 7"
+                }
+            ],
+            "utt2spk": ""
+        }
+    }
+}

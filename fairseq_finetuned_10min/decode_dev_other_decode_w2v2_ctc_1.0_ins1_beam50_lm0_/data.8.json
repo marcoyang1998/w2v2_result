@@ -1,0 +1,555 @@
+{
+    "utts": {
+        "1255-90413-0023": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>SHE HAD BEEN THE FIRST ARIVEALE <eos>",
+                    "rec_token": "<blank> <eos> S H E <space> H A D <space> B E E N <space> T H E <space> F I R S T <space> A R I V E A L E <space> <eos>",
+                    "rec_tokenid": "0 2 12 11 5 4 11 7 14 4 24 5 5 9 4 6 11 5 4 20 10 13 12 6 4 7 13 10 25 5 7 15 5 4 2",
+                    "score": 417.2732849121094,
+                    "shape": [
+                        30,
+                        30
+                    ],
+                    "text": "SHE HAD BEEN THE FIRST ARRIVAL",
+                    "token": "S H E <space> H A D <space> B E E N <space> T H E <space> F I R S T <space> A R R I V A L",
+                    "tokenid": "21 10 7 2 10 3 6 2 4 7 7 16 2 22 10 7 2 8 11 20 21 22 2 3 20 20 11 24 3 14"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1255-90413-0024": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "AS THY OTHER GESS DROPETD IN THE PERE RETRETED INTO A SHADY CORNER AND SHE TOAOKED BESIEDE HIM TIL ALL MOOVED OFFE FOR THE EATING AND DRINCKING <eos>",
+                    "rec_token": "A S <space> T H Y <space> O T H E R <space> G E S S <space> D R O P E T D <space> I N <space> T H E <space> P E R E <space> R E T R E T E D <space> I N T O <space> A <space> S H A D Y <space> C O R N E R <space> A N D <space> S H E <space> T O A O K E D <space> B E S I E D E <space> H I M <space> T I L <space> A L L <space> M O O V E D <space> O F F E <space> F O R <space> T H E <space> E A T I N G <space> A N D <space> D R I N C K I N G <space> <eos>",
+                    "rec_tokenid": "7 12 4 6 11 22 4 8 6 11 5 13 4 21 5 12 12 4 14 13 8 23 5 6 14 4 10 9 4 6 11 5 4 23 5 13 5 4 13 5 6 13 5 6 5 14 4 10 9 6 8 4 7 4 12 11 7 14 22 4 19 8 13 9 5 13 4 7 9 14 4 12 11 5 4 6 8 7 8 26 5 14 4 24 5 12 10 5 14 5 4 11 10 17 4 6 10 15 4 7 15 15 4 17 8 8 25 5 14 4 8 20 20 5 4 20 8 13 4 6 11 5 4 5 7 6 10 9 21 4 7 9 14 4 14 13 10 9 19 26 10 9 21 4 2",
+                    "score": 131.70590209960938,
+                    "shape": [
+                        142,
+                        30
+                    ],
+                    "text": "AS THE OTHER GUESTS DROPPED IN THE PAIR RETREATED INTO A SHADY CORNER AND SHE TALKED BESIDE HIM TILL ALL MOVED OFF FOR THE EATING AND DRINKING",
+                    "token": "A S <space> T H E <space> O T H E R <space> G U E S T S <space> D R O P P E D <space> I N <space> T H E <space> P A I R <space> R E T R E A T E D <space> I N T O <space> A <space> S H A D Y <space> C O R N E R <space> A N D <space> S H E <space> T A L K E D <space> B E S I D E <space> H I M <space> T I L L <space> A L L <space> M O V E D <space> O F F <space> F O R <space> T H E <space> E A T I N G <space> A N D <space> D R I N K I N G",
+                    "tokenid": "3 21 2 22 10 7 2 17 22 10 7 20 2 9 23 7 21 22 21 2 6 20 17 18 18 7 6 2 11 16 2 22 10 7 2 18 3 11 20 2 20 7 22 20 7 3 22 7 6 2 11 16 22 17 2 3 2 21 10 3 6 27 2 5 17 20 16 7 20 2 3 16 6 2 21 10 7 2 22 3 14 13 7 6 2 4 7 21 11 6 7 2 10 11 15 2 22 11 14 14 2 3 14 14 2 15 17 24 7 6 2 17 8 8 2 8 17 20 2 22 10 7 2 7 3 22 11 16 9 2 3 16 6 2 6 20 11 16 13 11 16 9"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1255-90413-0025": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>CHE HAD NOT BEN APPOINTED TO TAKE HER A CROS TO THE DINING ROM BUT AT THE TABLE FOUND HER EGSACTLY OPOSITT <eos>",
+                    "rec_token": "<blank> C H E <space> H A D <space> N O T <space> B E N <space> A P P O I N T E D <space> T O <space> T A K E <space> H E R <space> A <space> C R O S <space> T O <space> T H E <space> D I N I N G <space> R O M <space> B U T <space> A T <space> T H E <space> T A B L E <space> F O U N D <space> H E R <space> E G S A C T L Y <space> O P O S I T T <space> <eos>",
+                    "rec_tokenid": "0 19 11 5 4 11 7 14 4 9 8 6 4 24 5 9 4 7 23 23 8 10 9 6 5 14 4 6 8 4 6 7 26 5 4 11 5 13 4 7 4 19 13 8 12 4 6 8 4 6 11 5 4 14 10 9 10 9 21 4 13 8 17 4 24 16 6 4 7 6 4 6 11 5 4 6 7 24 15 5 4 20 8 16 9 14 4 11 5 13 4 5 21 12 7 19 6 15 22 4 8 23 8 12 10 6 6 4 2",
+                    "score": 103.1855697631836,
+                    "shape": [
+                        107,
+                        30
+                    ],
+                    "text": "HE HAD NOT BEEN APPOINTED TO TAKE HER ACROSS TO THE DINING ROOM BUT AT THE TABLE FOUND HER EXACTLY OPPOSITE",
+                    "token": "H E <space> H A D <space> N O T <space> B E E N <space> A P P O I N T E D <space> T O <space> T A K E <space> H E R <space> A C R O S S <space> T O <space> T H E <space> D I N I N G <space> R O O M <space> B U T <space> A T <space> T H E <space> T A B L E <space> F O U N D <space> H E R <space> E X A C T L Y <space> O P P O S I T E",
+                    "tokenid": "10 7 2 10 3 6 2 16 17 22 2 4 7 7 16 2 3 18 18 17 11 16 22 7 6 2 22 17 2 22 3 13 7 2 10 7 20 2 3 5 20 17 21 21 2 22 17 2 22 10 7 2 6 11 16 11 16 9 2 20 17 17 15 2 4 23 22 2 3 22 2 22 10 7 2 22 3 4 14 7 2 8 17 23 16 6 2 10 7 20 2 7 26 3 5 22 14 27 2 17 18 18 17 21 11 22 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1255-90413-0026": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THE SPRING IN THE PRESENT CAS WAS THE ARTISTICK COMENDACTION T SHE DESERVED AND CRAVED <eos>",
+                    "rec_token": "<blank> <space> T H E <space> S P R I N G <space> I N <space> T H E <space> P R E S E N T <space> C A S <space> W A S <space> T H E <space> A R T I S T I C K <space> C O M E N D A C T I O N <space> T <space> S H E <space> D E S E R V E D <space> A N D <space> C R A V E D <space> <eos>",
+                    "rec_tokenid": "0 4 6 11 5 4 12 23 13 10 9 21 4 10 9 4 6 11 5 4 23 13 5 12 5 9 6 4 19 7 12 4 18 7 12 4 6 11 5 4 7 13 6 10 12 6 10 19 26 4 19 8 17 5 9 14 7 19 6 10 8 9 4 6 4 12 11 5 4 14 5 12 5 13 25 5 14 4 7 9 14 4 19 13 7 25 5 14 4 2",
+                    "score": 81.89054107666016,
+                    "shape": [
+                        84,
+                        30
+                    ],
+                    "text": "THE SPRING IN THE PRESENT CASE WAS THE ARTISTIC COMMENDATION SHE DESERVED AND CRAVED",
+                    "token": "T H E <space> S P R I N G <space> I N <space> T H E <space> P R E S E N T <space> C A S E <space> W A S <space> T H E <space> A R T I S T I C <space> C O M M E N D A T I O N <space> S H E <space> D E S E R V E D <space> A N D <space> C R A V E D",
+                    "tokenid": "22 10 7 2 21 18 20 11 16 9 2 11 16 2 22 10 7 2 18 20 7 21 7 16 22 2 5 3 21 7 2 25 3 21 2 22 10 7 2 3 20 22 11 21 22 11 5 2 5 17 15 15 7 16 6 3 22 11 17 16 2 21 10 7 2 6 7 21 7 20 24 7 6 2 3 16 6 2 5 20 3 24 7 6"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1255-90413-0027": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THE LADY ON DOSIINS LEFT WIFE OF A LWRD JGUSTES OF APPEL WAS IN LIK MANER TOKING TO HER COMPANION ON THE OUTER SID SO THAT FOR THE TIME HE WAS LEFT TO HIMSELFE <eos>",
+                    "rec_token": "<blank> <space> T H E <space> L A D Y <space> O N <space> D O S I I N S <space> L E F T <space> W I F E <space> O F <space> A <space> L W R D <space> J G U S T E S <space> O F <space> A P P E L <space> W A S <space> I N <space> L I K <space> M A N E R <space> T O K I N G <space> T O <space> H E R <space> C O M P A N I O N <space> O N <space> T H E <space> O U T E R <space> S I D <space> S O <space> T H A T <space> F O R <space> T H E <space> T I M E <space> H E <space> W A S <space> L E F T <space> T O <space> H I M S E L F E <space> <eos>",
+                    "rec_tokenid": "0 4 6 11 5 4 15 7 14 22 4 8 9 4 14 8 12 10 10 9 12 4 15 5 20 6 4 18 10 20 5 4 8 20 4 7 4 15 18 13 14 4 29 21 16 12 6 5 12 4 8 20 4 7 23 23 5 15 4 18 7 12 4 10 9 4 15 10 26 4 17 7 9 5 13 4 6 8 26 10 9 21 4 6 8 4 11 5 13 4 19 8 17 23 7 9 10 8 9 4 8 9 4 6 11 5 4 8 16 6 5 13 4 12 10 14 4 12 8 4 6 11 7 6 4 20 8 13 4 6 11 5 4 6 10 17 5 4 11 5 4 18 7 12 4 15 5 20 6 4 6 8 4 11 10 17 12 5 15 20 5 4 2",
+                    "score": 150.0670928955078,
+                    "shape": [
+                        165,
+                        30
+                    ],
+                    "text": "THE LADY ON JOCELYN'S LEFT WIFE OF A LORD JUSTICE OF APPEAL WAS IN LIKE MANNER TALKING TO HER COMPANION ON THE OUTER SIDE SO THAT FOR THE TIME HE WAS LEFT TO HIMSELF",
+                    "token": "T H E <space> L A D Y <space> O N <space> J O C E L Y N <unk> S <space> L E F T <space> W I F E <space> O F <space> A <space> L O R D <space> J U S T I C E <space> O F <space> A P P E A L <space> W A S <space> I N <space> L I K E <space> M A N N E R <space> T A L K I N G <space> T O <space> H E R <space> C O M P A N I O N <space> O N <space> T H E <space> O U T E R <space> S I D E <space> S O <space> T H A T <space> F O R <space> T H E <space> T I M E <space> H E <space> W A S <space> L E F T <space> T O <space> H I M S E L F",
+                    "tokenid": "22 10 7 2 14 3 6 27 2 17 16 2 12 17 5 7 14 27 16 1 21 2 14 7 8 22 2 25 11 8 7 2 17 8 2 3 2 14 17 20 6 2 12 23 21 22 11 5 7 2 17 8 2 3 18 18 7 3 14 2 25 3 21 2 11 16 2 14 11 13 7 2 15 3 16 16 7 20 2 22 3 14 13 11 16 9 2 22 17 2 10 7 20 2 5 17 15 18 3 16 11 17 16 2 17 16 2 22 10 7 2 17 23 22 7 20 2 21 11 6 7 2 21 17 2 22 10 3 22 2 8 17 20 2 22 10 7 2 22 11 15 7 2 10 7 2 25 3 21 2 14 7 8 22 2 22 17 2 10 11 15 21 7 14 8"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1255-90413-0028": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>HIT CAME FROM THE WIFE OF ONE OF HIS FATHERS FORMER WORKEMAN AND WAS CONSERNING HER SON WHOME SHE BEGED JOSLIN TO RECOMEND AS CANDEDEITS FOR SOME POST IN TOWN THAT SHE WISHED HIM TO FILL <eos>",
+                    "rec_token": "<blank> H I T <space> C A M E <space> F R O M <space> T H E <space> W I F E <space> O F <space> O N E <space> O F <space> H I S <space> F A T H E R S <space> F O R M E R <space> W O R K E M A N <space> A N D <space> W A S <space> C O N S E R N I N G <space> H E R <space> S O N <space> W H O M E <space> S H E <space> B E G E D <space> J O S L I N <space> T O <space> R E C O M E N D <space> A S <space> C A N D E D E I T S <space> F O R <space> S O M E <space> P O S T <space> I N <space> T O W N <space> T H A T <space> S H E <space> W I S H E D <space> H I M <space> T O <space> F I L L <space> <eos>",
+                    "rec_tokenid": "0 11 10 6 4 19 7 17 5 4 20 13 8 17 4 6 11 5 4 18 10 20 5 4 8 20 4 8 9 5 4 8 20 4 11 10 12 4 20 7 6 11 5 13 12 4 20 8 13 17 5 13 4 18 8 13 26 5 17 7 9 4 7 9 14 4 18 7 12 4 19 8 9 12 5 13 9 10 9 21 4 11 5 13 4 12 8 9 4 18 11 8 17 5 4 12 11 5 4 24 5 21 5 14 4 29 8 12 15 10 9 4 6 8 4 13 5 19 8 17 5 9 14 4 7 12 4 19 7 9 14 5 14 5 10 6 12 4 20 8 13 4 12 8 17 5 4 23 8 12 6 4 10 9 4 6 8 18 9 4 6 11 7 6 4 12 11 5 4 18 10 12 11 5 14 4 11 10 17 4 6 8 4 20 10 15 15 4 2",
+                    "score": 176.8705291748047,
+                    "shape": [
+                        186,
+                        30
+                    ],
+                    "text": "IT CAME FROM THE WIFE OF ONE OF HIS FATHER'S FORMER WORKMEN AND WAS CONCERNING HER SON WHOM SHE BEGGED JOCELYN TO RECOMMEND AS CANDIDATE FOR SOME POST IN TOWN THAT SHE WISHED HIM TO FILL",
+                    "token": "I T <space> C A M E <space> F R O M <space> T H E <space> W I F E <space> O F <space> O N E <space> O F <space> H I S <space> F A T H E R <unk> S <space> F O R M E R <space> W O R K M E N <space> A N D <space> W A S <space> C O N C E R N I N G <space> H E R <space> S O N <space> W H O M <space> S H E <space> B E G G E D <space> J O C E L Y N <space> T O <space> R E C O M M E N D <space> A S <space> C A N D I D A T E <space> F O R <space> S O M E <space> P O S T <space> I N <space> T O W N <space> T H A T <space> S H E <space> W I S H E D <space> H I M <space> T O <space> F I L L",
+                    "tokenid": "11 22 2 5 3 15 7 2 8 20 17 15 2 22 10 7 2 25 11 8 7 2 17 8 2 17 16 7 2 17 8 2 10 11 21 2 8 3 22 10 7 20 1 21 2 8 17 20 15 7 20 2 25 17 20 13 15 7 16 2 3 16 6 2 25 3 21 2 5 17 16 5 7 20 16 11 16 9 2 10 7 20 2 21 17 16 2 25 10 17 15 2 21 10 7 2 4 7 9 9 7 6 2 12 17 5 7 14 27 16 2 22 17 2 20 7 5 17 15 15 7 16 6 2 3 21 2 5 3 16 6 11 6 3 22 7 2 8 17 20 2 21 17 15 7 2 18 17 21 22 2 11 16 2 22 17 25 16 2 22 10 3 22 2 21 10 7 2 25 11 21 10 7 6 2 10 11 15 2 22 17 2 8 11 14 14"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1585-131718-0000": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "WHAT IS NESESEARY TO THE COMPLETENESSE OF THE STARY AT THISTAGE IS NOAT TO RED CAPITILLATE BUT TO TAK UP SOME OF THE LOS ANCS OF THE THRATS WOVE ENING AND FALOD THEM THRO UN TIL THE CLEARE AND COMPREHENDE IHE PICTURE OF THEVENCE CAN BE SEN <eos>",
+                    "rec_token": "W H A T <space> I S <space> N E S E S E A R Y <space> T O <space> T H E <space> C O M P L E T E N E S S E <space> O F <space> T H E <space> S T A R Y <space> A T <space> T H I S T A G E <space> I S <space> N O A T <space> T O <space> R E D <space> C A P I T I L L A T E <space> B U T <space> T O <space> T A K <space> U P <space> S O M E <space> O F <space> T H E <space> L O S <space> A N C S <space> O F <space> T H E <space> T H R A T S <space> W O V E <space> E N I N G <space> A N D <space> F A L O D <space> T H E M <space> T H R O <space> U N <space> T I L <space> T H E <space> C L E A R E <space> A N D <space> C O M P R E H E N D E <space> I H E <space> P I C T U R E <space> O F <space> T H E V E N C E <space> C A N <space> B E <space> S E N <space> <eos>",
+                    "rec_tokenid": "18 11 7 6 4 10 12 4 9 5 12 5 12 5 7 13 22 4 6 8 4 6 11 5 4 19 8 17 23 15 5 6 5 9 5 12 12 5 4 8 20 4 6 11 5 4 12 6 7 13 22 4 7 6 4 6 11 10 12 6 7 21 5 4 10 12 4 9 8 7 6 4 6 8 4 13 5 14 4 19 7 23 10 6 10 15 15 7 6 5 4 24 16 6 4 6 8 4 6 7 26 4 16 23 4 12 8 17 5 4 8 20 4 6 11 5 4 15 8 12 4 7 9 19 12 4 8 20 4 6 11 5 4 6 11 13 7 6 12 4 18 8 25 5 4 5 9 10 9 21 4 7 9 14 4 20 7 15 8 14 4 6 11 5 17 4 6 11 13 8 4 16 9 4 6 10 15 4 6 11 5 4 19 15 5 7 13 5 4 7 9 14 4 19 8 17 23 13 5 11 5 9 14 5 4 10 11 5 4 23 10 19 6 16 13 5 4 8 20 4 6 11 5 25 5 9 19 5 4 19 7 9 4 24 5 4 12 5 9 4 2",
+                    "score": 206.6057891845703,
+                    "shape": [
+                        233,
+                        30
+                    ],
+                    "text": "WHAT IS NECESSARY TO THE COMPLETENESS OF THE STORY AT THIS STAGE IS NOT TO RECAPITULATE BUT TO TAKE UP SOME OF THE LOOSE ENDS OF THREADS WOVEN IN AND FOLLOW THEM THROUGH UNTIL THE CLEAR AND COMPREHENSIVE PICTURE OF EVENTS CAN BE SEEN",
+                    "token": "W H A T <space> I S <space> N E C E S S A R Y <space> T O <space> T H E <space> C O M P L E T E N E S S <space> O F <space> T H E <space> S T O R Y <space> A T <space> T H I S <space> S T A G E <space> I S <space> N O T <space> T O <space> R E C A P I T U L A T E <space> B U T <space> T O <space> T A K E <space> U P <space> S O M E <space> O F <space> T H E <space> L O O S E <space> E N D S <space> O F <space> T H R E A D S <space> W O V E N <space> I N <space> A N D <space> F O L L O W <space> T H E M <space> T H R O U G H <space> U N T I L <space> T H E <space> C L E A R <space> A N D <space> C O M P R E H E N S I V E <space> P I C T U R E <space> O F <space> E V E N T S <space> C A N <space> B E <space> S E E N",
+                    "tokenid": "25 10 3 22 2 11 21 2 16 7 5 7 21 21 3 20 27 2 22 17 2 22 10 7 2 5 17 15 18 14 7 22 7 16 7 21 21 2 17 8 2 22 10 7 2 21 22 17 20 27 2 3 22 2 22 10 11 21 2 21 22 3 9 7 2 11 21 2 16 17 22 2 22 17 2 20 7 5 3 18 11 22 23 14 3 22 7 2 4 23 22 2 22 17 2 22 3 13 7 2 23 18 2 21 17 15 7 2 17 8 2 22 10 7 2 14 17 17 21 7 2 7 16 6 21 2 17 8 2 22 10 20 7 3 6 21 2 25 17 24 7 16 2 11 16 2 3 16 6 2 8 17 14 14 17 25 2 22 10 7 15 2 22 10 20 17 23 9 10 2 23 16 22 11 14 2 22 10 7 2 5 14 7 3 20 2 3 16 6 2 5 17 15 18 20 7 10 7 16 21 11 24 7 2 18 11 5 22 23 20 7 2 17 8 2 7 24 7 16 22 21 2 5 3 16 2 4 7 2 21 7 7 16"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1585-131718-0001": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank><eos>THE WAY OF THE IMVENTERE IS HARD <eos>",
+                    "rec_token": "<blank> <eos> T H E <space> W A Y <space> O F <space> T H E <space> I M V E N T E R E <space> I S <space> H A R D <space> <eos>",
+                    "rec_tokenid": "0 2 6 11 5 4 18 7 22 4 8 20 4 6 11 5 4 10 17 25 5 9 6 5 13 5 4 10 12 4 11 7 13 14 4 2",
+                    "score": 447.6130065917969,
+                    "shape": [
+                        31,
+                        30
+                    ],
+                    "text": "THE WAY OF THE INVENTOR IS HARD",
+                    "token": "T H E <space> W A Y <space> O F <space> T H E <space> I N V E N T O R <space> I S <space> H A R D",
+                    "tokenid": "22 10 7 2 25 3 27 2 17 8 2 22 10 7 2 11 16 24 7 16 22 17 20 2 11 21 2 10 3 20 6"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1585-131718-0002": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>ZHE CAN SOMETIMES RAIS CABEDOL TO HELP HIM THE WORCKING OUT HIS CROD CONSCEPTIONS BAT IN THEN IT IS FRECQUANTELY DUN AND A DISTRESSE FOL COFT A PURSIONOL SERENDER <eos>",
+                    "rec_token": "<blank> Z H E <space> C A N <space> S O M E T I M E S <space> R A I S <space> C A B E D O L <space> T O <space> H E L P <space> H I M <space> T H E <space> W O R C K I N G <space> O U T <space> H I S <space> C R O D <space> C O N S C E P T I O N S <space> B A T <space> I N <space> T H E N <space> I T <space> I S <space> F R E C Q U A N T E L Y <space> D U N <space> A N D <space> A <space> D I S T R E S S E <space> F O L <space> C O F T <space> A <space> P U R S I O N O L <space> S E R E N D E R <space> <eos>",
+                    "rec_tokenid": "0 31 11 5 4 19 7 9 4 12 8 17 5 6 10 17 5 12 4 13 7 10 12 4 19 7 24 5 14 8 15 4 6 8 4 11 5 15 23 4 11 10 17 4 6 11 5 4 18 8 13 19 26 10 9 21 4 8 16 6 4 11 10 12 4 19 13 8 14 4 19 8 9 12 19 5 23 6 10 8 9 12 4 24 7 6 4 10 9 4 6 11 5 9 4 10 6 4 10 12 4 20 13 5 19 30 16 7 9 6 5 15 22 4 14 16 9 4 7 9 14 4 7 4 14 10 12 6 13 5 12 12 5 4 20 8 15 4 19 8 20 6 4 7 4 23 16 13 12 10 8 9 8 15 4 12 5 13 5 9 14 5 13 4 2",
+                    "score": 140.42564392089844,
+                    "shape": [
+                        159,
+                        30
+                    ],
+                    "text": "HE CAN SOMETIMES RAISE CAPITAL TO HELP HIM IN WORKING OUT HIS CRUDE CONCEPTIONS BUT EVEN THEN IT IS FREQUENTLY DONE AT A DISTRESSFUL COST OF PERSONAL SURRENDER",
+                    "token": "H E <space> C A N <space> S O M E T I M E S <space> R A I S E <space> C A P I T A L <space> T O <space> H E L P <space> H I M <space> I N <space> W O R K I N G <space> O U T <space> H I S <space> C R U D E <space> C O N C E P T I O N S <space> B U T <space> E V E N <space> T H E N <space> I T <space> I S <space> F R E Q U E N T L Y <space> D O N E <space> A T <space> A <space> D I S T R E S S F U L <space> C O S T <space> O F <space> P E R S O N A L <space> S U R R E N D E R",
+                    "tokenid": "10 7 2 5 3 16 2 21 17 15 7 22 11 15 7 21 2 20 3 11 21 7 2 5 3 18 11 22 3 14 2 22 17 2 10 7 14 18 2 10 11 15 2 11 16 2 25 17 20 13 11 16 9 2 17 23 22 2 10 11 21 2 5 20 23 6 7 2 5 17 16 5 7 18 22 11 17 16 21 2 4 23 22 2 7 24 7 16 2 22 10 7 16 2 11 22 2 11 21 2 8 20 7 19 23 7 16 22 14 27 2 6 17 16 7 2 3 22 2 3 2 6 11 21 22 20 7 21 21 8 23 14 2 5 17 21 22 2 17 8 2 18 7 20 21 17 16 3 14 2 21 23 20 20 7 16 6 7 20"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1585-131718-0003": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>WHN HE REOUNT IS ACHEVED THE IVENTINE MICXS  ITS TAPIL ON THE SCORE OF ECONIMY AOMITRA AOE OFF EAFRD AND THEN LAY WER LFIN T E WAYVES WITH CRUSSHING AND TARRANICOW SPIRIT DISMACHE THE IPPARRADUS OR FORBID ITS VERY YUS <eos>",
+                    "rec_token": "<blank> W H N <space> H E <space> R E O U N T <space> I S <space> A C H E V E D <space> T H E <space> I V E N T I N E <space> M I C X S <space> <space> I T S <space> T A P I L <space> O N <space> T H E <space> S C O R E <space> O F <space> E C O N I M Y <space> A O M I T R A <space> A O E <space> O F F <space> E A F R D <space> A N D <space> T H E N <space> L A Y <space> W E R <space> L F I N <space> T <space> E <space> W A Y V E S <space> W I T H <space> C R U S S H I N G <space> A N D <space> T A R R A N I C O W <space> S P I R I T <space> D I S M A C H E <space> T H E <space> I P P A R R A D U S <space> O R <space> F O R B I D <space> I T S <space> V E R Y <space> Y U S <space> <eos>",
+                    "rec_tokenid": "0 18 11 9 4 11 5 4 13 5 8 16 9 6 4 10 12 4 7 19 11 5 25 5 14 4 6 11 5 4 10 25 5 9 6 10 9 5 4 17 10 19 28 12 4 4 10 6 12 4 6 7 23 10 15 4 8 9 4 6 11 5 4 12 19 8 13 5 4 8 20 4 5 19 8 9 10 17 22 4 7 8 17 10 6 13 7 4 7 8 5 4 8 20 20 4 5 7 20 13 14 4 7 9 14 4 6 11 5 9 4 15 7 22 4 18 5 13 4 15 20 10 9 4 6 4 5 4 18 7 22 25 5 12 4 18 10 6 11 4 19 13 16 12 12 11 10 9 21 4 7 9 14 4 6 7 13 13 7 9 10 19 8 18 4 12 23 10 13 10 6 4 14 10 12 17 7 19 11 5 4 6 11 5 4 10 23 23 7 13 13 7 14 16 12 4 8 13 4 20 8 13 24 10 14 4 10 6 12 4 25 5 13 22 4 22 16 12 4 2",
+                    "score": 176.53610229492188,
+                    "shape": [
+                        217,
+                        30
+                    ],
+                    "text": "WHEN THE RESULT IS ACHIEVED THE INVENTION MAKES ITS APPEAL ON THE SCORE OF ECONOMY OF MATERIAL OR OF EFFORT AND THEN LABOR OFTEN AWAITS WITH CRUSHING AND TYRANNICAL SPIRIT TO SMASH THE APPARATUS OR FORBID ITS VERY USE",
+                    "token": "W H E N <space> T H E <space> R E S U L T <space> I S <space> A C H I E V E D <space> T H E <space> I N V E N T I O N <space> M A K E S <space> I T S <space> A P P E A L <space> O N <space> T H E <space> S C O R E <space> O F <space> E C O N O M Y <space> O F <space> M A T E R I A L <space> O R <space> O F <space> E F F O R T <space> A N D <space> T H E N <space> L A B O R <space> O F T E N <space> A W A I T S <space> W I T H <space> C R U S H I N G <space> A N D <space> T Y R A N N I C A L <space> S P I R I T <space> T O <space> S M A S H <space> T H E <space> A P P A R A T U S <space> O R <space> F O R B I D <space> I T S <space> V E R Y <space> U S E",
+                    "tokenid": "25 10 7 16 2 22 10 7 2 20 7 21 23 14 22 2 11 21 2 3 5 10 11 7 24 7 6 2 22 10 7 2 11 16 24 7 16 22 11 17 16 2 15 3 13 7 21 2 11 22 21 2 3 18 18 7 3 14 2 17 16 2 22 10 7 2 21 5 17 20 7 2 17 8 2 7 5 17 16 17 15 27 2 17 8 2 15 3 22 7 20 11 3 14 2 17 20 2 17 8 2 7 8 8 17 20 22 2 3 16 6 2 22 10 7 16 2 14 3 4 17 20 2 17 8 22 7 16 2 3 25 3 11 22 21 2 25 11 22 10 2 5 20 23 21 10 11 16 9 2 3 16 6 2 22 27 20 3 16 16 11 5 3 14 2 21 18 11 20 11 22 2 22 17 2 21 15 3 21 10 2 22 10 7 2 3 18 18 3 20 3 22 23 21 2 17 20 2 8 17 20 4 11 6 2 11 22 21 2 24 7 20 27 2 23 21 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1585-131718-0004": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>BPOSSIBULY OR NATIONAL OPTERSAM AS WRE VEUD IN THE VENTION THE SECKING THE HIY A GOD ANIT SOME CHACKK <eos>",
+                    "rec_token": "<blank> B P O S S I B U L Y <space> O R <space> N A T I O N A L <space> O P T E R S A M <space> A S <space> W R E <space> V E U D <space> I N <space> T H E <space> V E N T I O N <space> T H E <space> S E C K I N G <space> T H E <space> H I Y <space> A <space> G O D <space> A N I T <space> S O M E <space> C H A C K K <space> <eos>",
+                    "rec_tokenid": "0 24 23 8 12 12 10 24 16 15 22 4 8 13 4 9 7 6 10 8 9 7 15 4 8 23 6 5 13 12 7 17 4 7 12 4 18 13 5 4 25 5 16 14 4 10 9 4 6 11 5 4 25 5 9 6 10 8 9 4 6 11 5 4 12 5 19 26 10 9 21 4 6 11 5 4 11 10 22 4 7 4 21 8 14 4 7 9 10 6 4 12 8 17 5 4 19 11 7 19 26 26 4 2",
+                    "score": 86.01272583007812,
+                    "shape": [
+                        98,
+                        30
+                    ],
+                    "text": "POSSIBLY OUR NATIONAL OPTIMISM AS REVEALED IN INVENTION THE SEEKING A HIGHER GOOD NEEDS SOME CHECK",
+                    "token": "P O S S I B L Y <space> O U R <space> N A T I O N A L <space> O P T I M I S M <space> A S <space> R E V E A L E D <space> I N <space> I N V E N T I O N <space> T H E <space> S E E K I N G <space> A <space> H I G H E R <space> G O O D <space> N E E D S <space> S O M E <space> C H E C K",
+                    "tokenid": "18 17 21 21 11 4 14 27 2 17 23 20 2 16 3 22 11 17 16 3 14 2 17 18 22 11 15 11 21 15 2 3 21 2 20 7 24 7 3 14 7 6 2 11 16 2 11 16 24 7 16 22 11 17 16 2 22 10 7 2 21 7 7 13 11 16 9 2 3 2 10 11 9 10 7 20 2 9 17 17 6 2 16 7 7 6 21 2 21 17 15 7 2 5 10 7 5 13"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1585-131718-0005": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>'SSIBLY THE LETERS WULD TRAVELE TO FASTD AND TOO FAR ON THE ROUD TO PRO FECTION IF CONSIRVEDESAN DID NOT ALSO PLAT SILOUTOARY PART AND INSISTING THAT THE PRORSESSION MOVE FARWEARED AS A HOW <eos>",
+                    "rec_token": "<blank> ' S S I B L Y <space> T H E <space> L E T E R S <space> W U L D <space> T R A V E L E <space> T O <space> F A S T D <space> A N D <space> T O O <space> F A R <space> O N <space> T H E <space> R O U D <space> T O <space> P R O <space> F E C T I O N <space> I F <space> C O N S I R V E D E S A N <space> D I D <space> N O T <space> A L S O <space> P L A T <space> S I L O U T O A R Y <space> P A R T <space> A N D <space> I N S I S T I N G <space> T H A T <space> T H E <space> P R O R S E S S I O N <space> M O V E <space> F A R W E A R E D <space> A S <space> A <space> H O W <space> <eos>",
+                    "rec_tokenid": "0 27 12 12 10 24 15 22 4 6 11 5 4 15 5 6 5 13 12 4 18 16 15 14 4 6 13 7 25 5 15 5 4 6 8 4 20 7 12 6 14 4 7 9 14 4 6 8 8 4 20 7 13 4 8 9 4 6 11 5 4 13 8 16 14 4 6 8 4 23 13 8 4 20 5 19 6 10 8 9 4 10 20 4 19 8 9 12 10 13 25 5 14 5 12 7 9 4 14 10 14 4 9 8 6 4 7 15 12 8 4 23 15 7 6 4 12 10 15 8 16 6 8 7 13 22 4 23 7 13 6 4 7 9 14 4 10 9 12 10 12 6 10 9 21 4 6 11 7 6 4 6 11 5 4 23 13 8 13 12 5 12 12 10 8 9 4 17 8 25 5 4 20 7 13 18 5 7 13 5 14 4 7 12 4 7 4 11 8 18 4 2",
+                    "score": 163.0404510498047,
+                    "shape": [
+                        189,
+                        30
+                    ],
+                    "text": "POSSIBLY THE LEADERS WOULD TRAVEL TOO FAST AND TOO FAR ON THE ROAD TO PERFECTION IF CONSERVATISM DID NOT ALSO PLAY ITS SALUTARY PART IN INSISTING THAT THE PROCESSION MOVE FORWARD AS A WHOLE",
+                    "token": "P O S S I B L Y <space> T H E <space> L E A D E R S <space> W O U L D <space> T R A V E L <space> T O O <space> F A S T <space> A N D <space> T O O <space> F A R <space> O N <space> T H E <space> R O A D <space> T O <space> P E R F E C T I O N <space> I F <space> C O N S E R V A T I S M <space> D I D <space> N O T <space> A L S O <space> P L A Y <space> I T S <space> S A L U T A R Y <space> P A R T <space> I N <space> I N S I S T I N G <space> T H A T <space> T H E <space> P R O C E S S I O N <space> M O V E <space> F O R W A R D <space> A S <space> A <space> W H O L E",
+                    "tokenid": "18 17 21 21 11 4 14 27 2 22 10 7 2 14 7 3 6 7 20 21 2 25 17 23 14 6 2 22 20 3 24 7 14 2 22 17 17 2 8 3 21 22 2 3 16 6 2 22 17 17 2 8 3 20 2 17 16 2 22 10 7 2 20 17 3 6 2 22 17 2 18 7 20 8 7 5 22 11 17 16 2 11 8 2 5 17 16 21 7 20 24 3 22 11 21 15 2 6 11 6 2 16 17 22 2 3 14 21 17 2 18 14 3 27 2 11 22 21 2 21 3 14 23 22 3 20 27 2 18 3 20 22 2 11 16 2 11 16 21 11 21 22 11 16 9 2 22 10 3 22 2 22 10 7 2 18 20 17 5 7 21 21 11 17 16 2 15 17 24 7 2 8 17 20 25 3 20 6 2 3 21 2 3 2 25 10 17 14 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1585-131718-0006": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "ON THE CONTRERY THE CONDOULSTIONS FOR ITS ECSEPSIONS HAVE BMEY RIT LE FASSTD <eos>",
+                    "rec_token": "O N <space> T H E <space> C O N T R E R Y <space> T H E <space> C O N D O U L S T I O N S <space> F O R <space> I T S <space> E C S E P S I O N S <space> H A V E <space> B M E Y <space> R I T <space> L E <space> F A S S T D <space> <eos>",
+                    "rec_tokenid": "8 9 4 6 11 5 4 19 8 9 6 13 5 13 22 4 6 11 5 4 19 8 9 14 8 16 15 12 6 10 8 9 12 4 20 8 13 4 10 6 12 4 5 19 12 5 23 12 10 8 9 12 4 11 7 25 5 4 24 17 5 22 4 13 10 6 4 15 5 4 20 7 12 12 6 14 4 2",
+                    "score": 61.998497009277344,
+                    "shape": [
+                        72,
+                        30
+                    ],
+                    "text": "ON THE CONTRARY THE CONDITIONS FOR ITS ACCEPTANCE HAD BEEN RIPENING FAST",
+                    "token": "O N <space> T H E <space> C O N T R A R Y <space> T H E <space> C O N D I T I O N S <space> F O R <space> I T S <space> A C C E P T A N C E <space> H A D <space> B E E N <space> R I P E N I N G <space> F A S T",
+                    "tokenid": "17 16 2 22 10 7 2 5 17 16 22 20 3 20 27 2 22 10 7 2 5 17 16 6 11 22 11 17 16 21 2 8 17 20 2 11 22 21 2 3 5 5 7 18 22 3 16 5 7 2 10 3 6 2 4 7 7 16 2 20 11 18 7 16 11 16 9 2 8 3 21 22"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1585-131718-0007": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "YES THE VERY BOGOUER OF THE LATPTRICK ARTLID MAD HARDER OF THE EARIVEALE OF THE INCONDESAENT <eos>",
+                    "rec_token": "Y E S <space> T H E <space> V E R Y <space> B O G O U E R <space> O F <space> T H E <space> L A T P T R I C K <space> A R T L I D <space> M A D <space> H A R D E R <space> O F <space> T H E <space> E A R I V E A L E <space> O F <space> T H E <space> I N C O N D E S A E N T <space> <eos>",
+                    "rec_tokenid": "22 5 12 4 6 11 5 4 25 5 13 22 4 24 8 21 8 16 5 13 4 8 20 4 6 11 5 4 15 7 6 23 6 13 10 19 26 4 7 13 6 15 10 14 4 17 7 14 4 11 7 13 14 5 13 4 8 20 4 6 11 5 4 5 7 13 10 25 5 7 15 5 4 8 20 4 6 11 5 4 10 9 19 8 9 14 5 12 7 5 9 6 4 2",
+                    "score": 82.44342803955078,
+                    "shape": [
+                        88,
+                        30
+                    ],
+                    "text": "YET THE VERY VOGUE OF THE ELECTRIC ARC LIGHT MADE HARDER THE ARRIVAL OF THE INCANDESCENT",
+                    "token": "Y E T <space> T H E <space> V E R Y <space> V O G U E <space> O F <space> T H E <space> E L E C T R I C <space> A R C <space> L I G H T <space> M A D E <space> H A R D E R <space> T H E <space> A R R I V A L <space> O F <space> T H E <space> I N C A N D E S C E N T",
+                    "tokenid": "27 7 22 2 22 10 7 2 24 7 20 27 2 24 17 9 23 7 2 17 8 2 22 10 7 2 7 14 7 5 22 20 11 5 2 3 20 5 2 14 11 9 10 22 2 15 3 6 7 2 10 3 20 6 7 20 2 22 10 7 2 3 20 20 11 24 3 14 2 17 8 2 22 10 7 2 11 16 5 3 16 6 7 21 5 7 16 22"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1585-131718-0008": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>TAN NOMBER OF ARENTE ARCLINING COMPENAS WERE A IN EGSISTANCE AND A GRATE MENY LOCOLCONMNIS HAD BEN CALED INTO BEIN UNDERE FRENCHIVES FOR COMARSHO BESNES AND TO EGSECUT RAGULARSITIC CONTRACTS FOR THE STRETE LINENG <eos>",
+                    "rec_token": "<blank> T A N <space> N O M B E R <space> O F <space> A R E N T E <space> A R C L I N I N G <space> C O M P E N A S <space> W E R E <space> A <space> I N <space> E G S I S T A N C E <space> A N D <space> A <space> G R A T E <space> M E N Y <space> L O C O L C O N M N I S <space> H A D <space> B E N <space> C A L E D <space> I N T O <space> B E I N <space> U N D E R E <space> F R E N C H I V E S <space> F O R <space> C O M A R S H O <space> B E S N E S <space> A N D <space> T O <space> E G S E C U T <space> R A G U L A R S I T I C <space> C O N T R A C T S <space> F O R <space> T H E <space> S T R E T E <space> L I N E N G <space> <eos>",
+                    "rec_tokenid": "0 6 7 9 4 9 8 17 24 5 13 4 8 20 4 7 13 5 9 6 5 4 7 13 19 15 10 9 10 9 21 4 19 8 17 23 5 9 7 12 4 18 5 13 5 4 7 4 10 9 4 5 21 12 10 12 6 7 9 19 5 4 7 9 14 4 7 4 21 13 7 6 5 4 17 5 9 22 4 15 8 19 8 15 19 8 9 17 9 10 12 4 11 7 14 4 24 5 9 4 19 7 15 5 14 4 10 9 6 8 4 24 5 10 9 4 16 9 14 5 13 5 4 20 13 5 9 19 11 10 25 5 12 4 20 8 13 4 19 8 17 7 13 12 11 8 4 24 5 12 9 5 12 4 7 9 14 4 6 8 4 5 21 12 5 19 16 6 4 13 7 21 16 15 7 13 12 10 6 10 19 4 19 8 9 6 13 7 19 6 12 4 20 8 13 4 6 11 5 4 12 6 13 5 6 5 4 15 10 9 5 9 21 4 2",
+                    "score": 180.61285400390625,
+                    "shape": [
+                        218,
+                        30
+                    ],
+                    "text": "A NUMBER OF PARENT ARC LIGHTING COMPANIES WERE IN EXISTENCE AND A GREAT MANY LOCAL COMPANIES HAD BEEN CALLED INTO BEING UNDER FRANCHISES FOR COMMERCIAL BUSINESS AND TO EXECUTE REGULAR CITY CONTRACTS FOR STREET LIGHTING",
+                    "token": "A <space> N U M B E R <space> O F <space> P A R E N T <space> A R C <space> L I G H T I N G <space> C O M P A N I E S <space> W E R E <space> I N <space> E X I S T E N C E <space> A N D <space> A <space> G R E A T <space> M A N Y <space> L O C A L <space> C O M P A N I E S <space> H A D <space> B E E N <space> C A L L E D <space> I N T O <space> B E I N G <space> U N D E R <space> F R A N C H I S E S <space> F O R <space> C O M M E R C I A L <space> B U S I N E S S <space> A N D <space> T O <space> E X E C U T E <space> R E G U L A R <space> C I T Y <space> C O N T R A C T S <space> F O R <space> S T R E E T <space> L I G H T I N G",
+                    "tokenid": "3 2 16 23 15 4 7 20 2 17 8 2 18 3 20 7 16 22 2 3 20 5 2 14 11 9 10 22 11 16 9 2 5 17 15 18 3 16 11 7 21 2 25 7 20 7 2 11 16 2 7 26 11 21 22 7 16 5 7 2 3 16 6 2 3 2 9 20 7 3 22 2 15 3 16 27 2 14 17 5 3 14 2 5 17 15 18 3 16 11 7 21 2 10 3 6 2 4 7 7 16 2 5 3 14 14 7 6 2 11 16 22 17 2 4 7 11 16 9 2 23 16 6 7 20 2 8 20 3 16 5 10 11 21 7 21 2 8 17 20 2 5 17 15 15 7 20 5 11 3 14 2 4 23 21 11 16 7 21 21 2 3 16 6 2 22 17 2 7 26 7 5 23 22 7 2 20 7 9 23 14 3 20 2 5 11 22 27 2 5 17 16 22 20 3 5 22 21 2 8 17 20 2 21 22 20 7 7 22 2 14 11 9 10 22 11 16 9"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1585-131718-0009": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> THUS IN THE CUORIS MANERE THE MODENARD OF LACTRY LINING WARSTEIN A VEARY HTRO SENCS DIVIDED AGAENSET HIT SELF WITH INTINCS REVURYS AND GELLISSES WHICH WER NON THE LESS REL BECAS THEY WERE BUT TEMPRARY AND A CURDING FAOUD WHEIRE OLTIMAT YUNIN OF THE FORS WAS IN AFTIBLE <eos>",
+                    "rec_token": "<blank> <space> T H U S <space> I N <space> T H E <space> C U O R I S <space> M A N E R E <space> T H E <space> M O D E N A R D <space> O F <space> L A C T R Y <space> L I N I N G <space> W A R S T E I N <space> A <space> V E A R Y <space> H T R O <space> S E N C S <space> D I V I D E D <space> A G A E N S E T <space> H I T <space> S E L F <space> W I T H <space> I N T I N C S <space> R E V U R Y S <space> A N D <space> G E L L I S S E S <space> W H I C H <space> W E R <space> N O N <space> T H E <space> L E S S <space> R E L <space> B E C A S <space> T H E Y <space> W E R E <space> B U T <space> T E M P R A R Y <space> A N D <space> A <space> C U R D I N G <space> F A O U D <space> W H E I R E <space> O L T I M A T <space> Y U N I N <space> O F <space> T H E <space> F O R S <space> W A S <space> I N <space> A F T I B L E <space> <eos>",
+                    "rec_tokenid": "0 4 6 11 16 12 4 10 9 4 6 11 5 4 19 16 8 13 10 12 4 17 7 9 5 13 5 4 6 11 5 4 17 8 14 5 9 7 13 14 4 8 20 4 15 7 19 6 13 22 4 15 10 9 10 9 21 4 18 7 13 12 6 5 10 9 4 7 4 25 5 7 13 22 4 11 6 13 8 4 12 5 9 19 12 4 14 10 25 10 14 5 14 4 7 21 7 5 9 12 5 6 4 11 10 6 4 12 5 15 20 4 18 10 6 11 4 10 9 6 10 9 19 12 4 13 5 25 16 13 22 12 4 7 9 14 4 21 5 15 15 10 12 12 5 12 4 18 11 10 19 11 4 18 5 13 4 9 8 9 4 6 11 5 4 15 5 12 12 4 13 5 15 4 24 5 19 7 12 4 6 11 5 22 4 18 5 13 5 4 24 16 6 4 6 5 17 23 13 7 13 22 4 7 9 14 4 7 4 19 16 13 14 10 9 21 4 20 7 8 16 14 4 18 11 5 10 13 5 4 8 15 6 10 17 7 6 4 22 16 9 10 9 4 8 20 4 6 11 5 4 20 8 13 12 4 18 7 12 4 10 9 4 7 20 6 10 24 15 5 4 2",
+                    "score": 230.69598388671875,
+                    "shape": [
+                        278,
+                        30
+                    ],
+                    "text": "THUS IN A CURIOUS MANNER THE MODERN ART OF ELECTRIC LIGHTING WAS IN A VERY TRUE SENSE DIVIDED AGAINST ITSELF WITH INTENSE RIVALRIES AND JEALOUSIES WHICH WERE NONE THE LESS REAL BECAUSE THEY WERE BUT TEMPORARY AND OCCURRED IN A FIELD WHERE ULTIMATE UNION OF FORCES WAS INEVITABLE",
+                    "token": "T H U S <space> I N <space> A <space> C U R I O U S <space> M A N N E R <space> T H E <space> M O D E R N <space> A R T <space> O F <space> E L E C T R I C <space> L I G H T I N G <space> W A S <space> I N <space> A <space> V E R Y <space> T R U E <space> S E N S E <space> D I V I D E D <space> A G A I N S T <space> I T S E L F <space> W I T H <space> I N T E N S E <space> R I V A L R I E S <space> A N D <space> J E A L O U S I E S <space> W H I C H <space> W E R E <space> N O N E <space> T H E <space> L E S S <space> R E A L <space> B E C A U S E <space> T H E Y <space> W E R E <space> B U T <space> T E M P O R A R Y <space> A N D <space> O C C U R R E D <space> I N <space> A <space> F I E L D <space> W H E R E <space> U L T I M A T E <space> U N I O N <space> O F <space> F O R C E S <space> W A S <space> I N E V I T A B L E",
+                    "tokenid": "22 10 23 21 2 11 16 2 3 2 5 23 20 11 17 23 21 2 15 3 16 16 7 20 2 22 10 7 2 15 17 6 7 20 16 2 3 20 22 2 17 8 2 7 14 7 5 22 20 11 5 2 14 11 9 10 22 11 16 9 2 25 3 21 2 11 16 2 3 2 24 7 20 27 2 22 20 23 7 2 21 7 16 21 7 2 6 11 24 11 6 7 6 2 3 9 3 11 16 21 22 2 11 22 21 7 14 8 2 25 11 22 10 2 11 16 22 7 16 21 7 2 20 11 24 3 14 20 11 7 21 2 3 16 6 2 12 7 3 14 17 23 21 11 7 21 2 25 10 11 5 10 2 25 7 20 7 2 16 17 16 7 2 22 10 7 2 14 7 21 21 2 20 7 3 14 2 4 7 5 3 23 21 7 2 22 10 7 27 2 25 7 20 7 2 4 23 22 2 22 7 15 18 17 20 3 20 27 2 3 16 6 2 17 5 5 23 20 20 7 6 2 11 16 2 3 2 8 11 7 14 6 2 25 10 7 20 7 2 23 14 22 11 15 3 22 7 2 23 16 11 17 16 2 17 8 2 8 17 20 5 7 21 2 25 3 21 2 11 16 7 24 11 22 3 4 14 7"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1585-131718-0010": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>PHIANS TWENTY YEARS AFTERE THE FRST AVISON STATION WER ESTABLISHED THE MATTHOUREDS THAY INVLVED COULD BE FAIRLY CREDET WITH NO LESS THAN SIXTY SEVEN PERSENT <eos>",
+                    "rec_token": "<blank> P H I A N S <space> T W E N T Y <space> Y E A R S <space> A F T E R E <space> T H E <space> F R S T <space> A V I S O N <space> S T A T I O N <space> W E R <space> E S T A B L I S H E D <space> T H E <space> M A T T H O U R E D S <space> T H A Y <space> I N V L V E D <space> C O U L D <space> B E <space> F A I R L Y <space> C R E D E T <space> W I T H <space> N O <space> L E S S <space> T H A N <space> S I X T Y <space> S E V E N <space> P E R S E N T <space> <eos>",
+                    "rec_tokenid": "0 23 11 10 7 9 12 4 6 18 5 9 6 22 4 22 5 7 13 12 4 7 20 6 5 13 5 4 6 11 5 4 20 13 12 6 4 7 25 10 12 8 9 4 12 6 7 6 10 8 9 4 18 5 13 4 5 12 6 7 24 15 10 12 11 5 14 4 6 11 5 4 17 7 6 6 11 8 16 13 5 14 12 4 6 11 7 22 4 10 9 25 15 25 5 14 4 19 8 16 15 14 4 24 5 4 20 7 10 13 15 22 4 19 13 5 14 5 6 4 18 10 6 11 4 9 8 4 15 5 12 12 4 6 11 7 9 4 12 10 28 6 22 4 12 5 25 5 9 4 23 5 13 12 5 9 6 4 2",
+                    "score": 136.93893432617188,
+                    "shape": [
+                        157,
+                        30
+                    ],
+                    "text": "HENCE TWENTY YEARS AFTER THE FIRST EDISON STATIONS WERE ESTABLISHED THE METHODS THEY INVOLVED COULD BE FAIRLY CREDITED WITH NO LESS THAN SIXTY SEVEN PER CENT",
+                    "token": "H E N C E <space> T W E N T Y <space> Y E A R S <space> A F T E R <space> T H E <space> F I R S T <space> E D I S O N <space> S T A T I O N S <space> W E R E <space> E S T A B L I S H E D <space> T H E <space> M E T H O D S <space> T H E Y <space> I N V O L V E D <space> C O U L D <space> B E <space> F A I R L Y <space> C R E D I T E D <space> W I T H <space> N O <space> L E S S <space> T H A N <space> S I X T Y <space> S E V E N <space> P E R <space> C E N T",
+                    "tokenid": "10 7 16 5 7 2 22 25 7 16 22 27 2 27 7 3 20 21 2 3 8 22 7 20 2 22 10 7 2 8 11 20 21 22 2 7 6 11 21 17 16 2 21 22 3 22 11 17 16 21 2 25 7 20 7 2 7 21 22 3 4 14 11 21 10 7 6 2 22 10 7 2 15 7 22 10 17 6 21 2 22 10 7 27 2 11 16 24 17 14 24 7 6 2 5 17 23 14 6 2 4 7 2 8 3 11 20 14 27 2 5 20 7 6 11 22 7 6 2 25 11 22 10 2 16 17 2 14 7 21 21 2 22 10 3 16 2 21 11 26 22 27 2 21 7 24 7 16 2 18 7 20 2 5 7 16 22"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1585-131718-0011": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> IT WL BE RADLY UNDERSTOOD THAT ONDER THES CONDICTIONS THE MOD LINING HOMPENEY S APLISE TO ITS CUSTIMRISS BOTH INCONDUSSENT AND ARK LINING FREQUENTLY FROM THE SAME DINANMALE H EILECTRICK MISHENARY AS AS STORS OF CARENT AND THOW THE OLDE FOD ASD BETOEN THE RIBEOSISTOMS HAS DID OUT <eos>",
+                    "rec_token": "<blank> <space> I T <space> W L <space> B E <space> R A D L Y <space> U N D E R S T O O D <space> T H A T <space> O N D E R <space> T H E S <space> C O N D I C T I O N S <space> T H E <space> M O D <space> L I N I N G <space> H O M P E N E Y <space> S <space> A P L I S E <space> T O <space> I T S <space> C U S T I M R I S S <space> B O T H <space> I N C O N D U S S E N T <space> A N D <space> A R K <space> L I N I N G <space> F R E Q U E N T L Y <space> F R O M <space> T H E <space> S A M E <space> D I N A N M A L E <space> H <space> E I L E C T R I C K <space> M I S H E N A R Y <space> A S <space> A S <space> S T O R S <space> O F <space> C A R E N T <space> A N D <space> T H O W <space> T H E <space> O L D E <space> F O D <space> A S D <space> B E T O E N <space> T H E <space> R I B E O S I S T O M S <space> H A S <space> D I D <space> O U T <space> <eos>",
+                    "rec_tokenid": "0 4 10 6 4 18 15 4 24 5 4 13 7 14 15 22 4 16 9 14 5 13 12 6 8 8 14 4 6 11 7 6 4 8 9 14 5 13 4 6 11 5 12 4 19 8 9 14 10 19 6 10 8 9 12 4 6 11 5 4 17 8 14 4 15 10 9 10 9 21 4 11 8 17 23 5 9 5 22 4 12 4 7 23 15 10 12 5 4 6 8 4 10 6 12 4 19 16 12 6 10 17 13 10 12 12 4 24 8 6 11 4 10 9 19 8 9 14 16 12 12 5 9 6 4 7 9 14 4 7 13 26 4 15 10 9 10 9 21 4 20 13 5 30 16 5 9 6 15 22 4 20 13 8 17 4 6 11 5 4 12 7 17 5 4 14 10 9 7 9 17 7 15 5 4 11 4 5 10 15 5 19 6 13 10 19 26 4 17 10 12 11 5 9 7 13 22 4 7 12 4 7 12 4 12 6 8 13 12 4 8 20 4 19 7 13 5 9 6 4 7 9 14 4 6 11 8 18 4 6 11 5 4 8 15 14 5 4 20 8 14 4 7 12 14 4 24 5 6 8 5 9 4 6 11 5 4 13 10 24 5 8 12 10 12 6 8 17 12 4 11 7 12 4 14 10 14 4 8 16 6 4 2",
+                    "score": 245.04867553710938,
+                    "shape": [
+                        284,
+                        30
+                    ],
+                    "text": "IT WILL BE READILY UNDERSTOOD THAT UNDER THESE CONDITIONS THE MODERN LIGHTING COMPANY SUPPLIES TO ITS CUSTOMERS BOTH INCANDESCENT AND ARC LIGHTING FREQUENTLY FROM THE SAME DYNAMO ELECTRIC MACHINERY AS A SOURCE OF CURRENT AND THAT THE OLD FEUD AS BETWEEN THE RIVAL SYSTEMS HAS DIED OUT",
+                    "token": "I T <space> W I L L <space> B E <space> R E A D I L Y <space> U N D E R S T O O D <space> T H A T <space> U N D E R <space> T H E S E <space> C O N D I T I O N S <space> T H E <space> M O D E R N <space> L I G H T I N G <space> C O M P A N Y <space> S U P P L I E S <space> T O <space> I T S <space> C U S T O M E R S <space> B O T H <space> I N C A N D E S C E N T <space> A N D <space> A R C <space> L I G H T I N G <space> F R E Q U E N T L Y <space> F R O M <space> T H E <space> S A M E <space> D Y N A M O <space> E L E C T R I C <space> M A C H I N E R Y <space> A S <space> A <space> S O U R C E <space> O F <space> C U R R E N T <space> A N D <space> T H A T <space> T H E <space> O L D <space> F E U D <space> A S <space> B E T W E E N <space> T H E <space> R I V A L <space> S Y S T E M S <space> H A S <space> D I E D <space> O U T",
+                    "tokenid": "11 22 2 25 11 14 14 2 4 7 2 20 7 3 6 11 14 27 2 23 16 6 7 20 21 22 17 17 6 2 22 10 3 22 2 23 16 6 7 20 2 22 10 7 21 7 2 5 17 16 6 11 22 11 17 16 21 2 22 10 7 2 15 17 6 7 20 16 2 14 11 9 10 22 11 16 9 2 5 17 15 18 3 16 27 2 21 23 18 18 14 11 7 21 2 22 17 2 11 22 21 2 5 23 21 22 17 15 7 20 21 2 4 17 22 10 2 11 16 5 3 16 6 7 21 5 7 16 22 2 3 16 6 2 3 20 5 2 14 11 9 10 22 11 16 9 2 8 20 7 19 23 7 16 22 14 27 2 8 20 17 15 2 22 10 7 2 21 3 15 7 2 6 27 16 3 15 17 2 7 14 7 5 22 20 11 5 2 15 3 5 10 11 16 7 20 27 2 3 21 2 3 2 21 17 23 20 5 7 2 17 8 2 5 23 20 20 7 16 22 2 3 16 6 2 22 10 3 22 2 22 10 7 2 17 14 6 2 8 7 23 6 2 3 21 2 4 7 22 25 7 7 16 2 22 10 7 2 20 11 24 3 14 2 21 27 21 22 7 15 21 2 10 3 21 2 6 11 7 6 2 17 23 22"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1585-131718-0012": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>TIN FACT FOR SOM YEARS PASED THER RESIDENCE OF THE NACHIONOW ELECTRICK LIED ASOSIATION HAD BEN CHOSON ALMOST EXCLUSIVELY FR AM AMONG THE MANAGERS OF THE GRAT ALECSAN LININCOMPTAS ND THE LIVING SIDERS <eos>",
+                    "rec_token": "<blank> T I N <space> F A C T <space> F O R <space> S O M <space> Y E A R S <space> P A S E D <space> T H E R <space> R E S I D E N C E <space> O F <space> T H E <space> N A C H I O N O W <space> E L E C T R I C K <space> L I E D <space> A S O S I A T I O N <space> H A D <space> B E N <space> C H O S O N <space> A L M O S T <space> E X C L U S I V E L Y <space> F R <space> A M <space> A M O N G <space> T H E <space> M A N A G E R S <space> O F <space> T H E <space> G R A T <space> A L E C S A N <space> L I N I N C O M P T A S <space> N D <space> T H E <space> L I V I N G <space> S I D E R S <space> <eos>",
+                    "rec_tokenid": "0 6 10 9 4 20 7 19 6 4 20 8 13 4 12 8 17 4 22 5 7 13 12 4 23 7 12 5 14 4 6 11 5 13 4 13 5 12 10 14 5 9 19 5 4 8 20 4 6 11 5 4 9 7 19 11 10 8 9 8 18 4 5 15 5 19 6 13 10 19 26 4 15 10 5 14 4 7 12 8 12 10 7 6 10 8 9 4 11 7 14 4 24 5 9 4 19 11 8 12 8 9 4 7 15 17 8 12 6 4 5 28 19 15 16 12 10 25 5 15 22 4 20 13 4 7 17 4 7 17 8 9 21 4 6 11 5 4 17 7 9 7 21 5 13 12 4 8 20 4 6 11 5 4 21 13 7 6 4 7 15 5 19 12 7 9 4 15 10 9 10 9 19 8 17 23 6 7 12 4 9 14 4 6 11 5 4 15 10 25 10 9 21 4 12 10 14 5 13 12 4 2",
+                    "score": 173.07684326171875,
+                    "shape": [
+                        206,
+                        30
+                    ],
+                    "text": "IN FACT FOR SOME YEARS PAST THE PRESIDENTS OF THE NATIONAL ELECTRIC LIGHT ASSOCIATION HAVE BEEN CHOSEN ALMOST EXCLUSIVELY FROM AMONG THE MANAGERS OF THE GREAT EDISON LIGHTING COMPANIES IN THE LEADING CITIES",
+                    "token": "I N <space> F A C T <space> F O R <space> S O M E <space> Y E A R S <space> P A S T <space> T H E <space> P R E S I D E N T S <space> O F <space> T H E <space> N A T I O N A L <space> E L E C T R I C <space> L I G H T <space> A S S O C I A T I O N <space> H A V E <space> B E E N <space> C H O S E N <space> A L M O S T <space> E X C L U S I V E L Y <space> F R O M <space> A M O N G <space> T H E <space> M A N A G E R S <space> O F <space> T H E <space> G R E A T <space> E D I S O N <space> L I G H T I N G <space> C O M P A N I E S <space> I N <space> T H E <space> L E A D I N G <space> C I T I E S",
+                    "tokenid": "11 16 2 8 3 5 22 2 8 17 20 2 21 17 15 7 2 27 7 3 20 21 2 18 3 21 22 2 22 10 7 2 18 20 7 21 11 6 7 16 22 21 2 17 8 2 22 10 7 2 16 3 22 11 17 16 3 14 2 7 14 7 5 22 20 11 5 2 14 11 9 10 22 2 3 21 21 17 5 11 3 22 11 17 16 2 10 3 24 7 2 4 7 7 16 2 5 10 17 21 7 16 2 3 14 15 17 21 22 2 7 26 5 14 23 21 11 24 7 14 27 2 8 20 17 15 2 3 15 17 16 9 2 22 10 7 2 15 3 16 3 9 7 20 21 2 17 8 2 22 10 7 2 9 20 7 3 22 2 7 6 11 21 17 16 2 14 11 9 10 22 11 16 9 2 5 17 15 18 3 16 11 7 21 2 11 16 2 22 10 7 2 14 7 3 6 11 16 9 2 5 11 22 11 7 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1585-131718-0013": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "THE OLTHERSTRAN OPASICSHION TO THE INCONDUSSANTLITE CAME FROM THE GASS INDUSTRO <eos>",
+                    "rec_token": "T H E <space> O L T H E R S T R A N <space> O P A S I C S H I O N <space> T O <space> T H E <space> I N C O N D U S S A N T L I T E <space> C A M E <space> F R O M <space> T H E <space> G A S S <space> I N D U S T R O <space> <eos>",
+                    "rec_tokenid": "6 11 5 4 8 15 6 11 5 13 12 6 13 7 9 4 8 23 7 12 10 19 12 11 10 8 9 4 6 8 4 6 11 5 4 10 9 19 8 9 14 16 12 12 7 9 6 15 10 6 5 4 19 7 17 5 4 20 13 8 17 4 6 11 5 4 21 7 12 12 4 10 9 14 16 12 6 13 8 4 2",
+                    "score": 68.38756561279297,
+                    "shape": [
+                        80,
+                        30
+                    ],
+                    "text": "THE OTHER STRONG OPPOSITION TO THE INCANDESCENT LIGHT CAME FROM THE GAS INDUSTRY",
+                    "token": "T H E <space> O T H E R <space> S T R O N G <space> O P P O S I T I O N <space> T O <space> T H E <space> I N C A N D E S C E N T <space> L I G H T <space> C A M E <space> F R O M <space> T H E <space> G A S <space> I N D U S T R Y",
+                    "tokenid": "22 10 7 2 17 22 10 7 20 2 21 22 20 17 16 9 2 17 18 18 17 21 11 22 11 17 16 2 22 17 2 22 10 7 2 11 16 5 3 16 6 7 21 5 7 16 22 2 14 11 9 10 22 2 5 3 15 7 2 8 20 17 15 2 22 10 7 2 9 3 21 2 11 16 6 23 21 22 20 27"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1585-131718-0014": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>ETHERE ALSO THE MOST PITERE FEILING WAS SHON <eos>",
+                    "rec_token": "<blank> E T H E R E <space> A L S O <space> T H E <space> M O S T <space> P I T E R E <space> F E I L I N G <space> W A S <space> S H O N <space> <eos>",
+                    "rec_tokenid": "0 5 6 11 5 13 5 4 7 15 12 8 4 6 11 5 4 17 8 12 6 4 23 10 6 5 13 5 4 20 5 10 15 10 9 21 4 18 7 12 4 12 11 8 9 4 2",
+                    "score": 42.4454231262207,
+                    "shape": [
+                        44,
+                        30
+                    ],
+                    "text": "THERE ALSO THE MOST BITTER FEELING WAS SHOWN",
+                    "token": "T H E R E <space> A L S O <space> T H E <space> M O S T <space> B I T T E R <space> F E E L I N G <space> W A S <space> S H O W N",
+                    "tokenid": "22 10 7 20 7 2 3 14 21 17 2 22 10 7 2 15 17 21 22 2 4 11 22 22 7 20 2 8 7 7 14 11 16 9 2 25 3 21 2 21 10 17 25 16"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1585-131718-0015": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>STHE GAS MANAGERE DID NOT LIKE ARCLID BUT IT INTERFORD ONLY WITH HIS TRET SERVIS WHICH SH WRS NOT  HIS LARGE SORSIVE IN COM BY ENY MENSE <eos>",
+                    "rec_token": "<blank> S T H E <space> G A S <space> M A N A G E R E <space> D I D <space> N O T <space> L I K E <space> A R C L I D <space> B U T <space> I T <space> I N T E R F O R D <space> O N L Y <space> W I T H <space> H I S <space> T R E T <space> S E R V I S <space> W H I C H <space> S H <space> W R S <space> N O T <space> <space> H I S <space> L A R G E <space> S O R S I V E <space> I N <space> C O M <space> B Y <space> E N Y <space> M E N S E <space> <eos>",
+                    "rec_tokenid": "0 12 6 11 5 4 21 7 12 4 17 7 9 7 21 5 13 5 4 14 10 14 4 9 8 6 4 15 10 26 5 4 7 13 19 15 10 14 4 24 16 6 4 10 6 4 10 9 6 5 13 20 8 13 14 4 8 9 15 22 4 18 10 6 11 4 11 10 12 4 6 13 5 6 4 12 5 13 25 10 12 4 18 11 10 19 11 4 12 11 4 18 13 12 4 9 8 6 4 4 11 10 12 4 15 7 13 21 5 4 12 8 13 12 10 25 5 4 10 9 4 19 8 17 4 24 22 4 5 9 22 4 17 5 9 12 5 4 2",
+                    "score": 120.84573364257812,
+                    "shape": [
+                        145,
+                        30
+                    ],
+                    "text": "THE GAS MANAGER DID NOT LIKE THE ARC LIGHT BUT IT INTERFERED ONLY WITH HIS STREET SERVICE WHICH WAS NOT HIS LARGEST SOURCE OF INCOME BY ANY MEANS",
+                    "token": "T H E <space> G A S <space> M A N A G E R <space> D I D <space> N O T <space> L I K E <space> T H E <space> A R C <space> L I G H T <space> B U T <space> I T <space> I N T E R F E R E D <space> O N L Y <space> W I T H <space> H I S <space> S T R E E T <space> S E R V I C E <space> W H I C H <space> W A S <space> N O T <space> H I S <space> L A R G E S T <space> S O U R C E <space> O F <space> I N C O M E <space> B Y <space> A N Y <space> M E A N S",
+                    "tokenid": "22 10 7 2 9 3 21 2 15 3 16 3 9 7 20 2 6 11 6 2 16 17 22 2 14 11 13 7 2 22 10 7 2 3 20 5 2 14 11 9 10 22 2 4 23 22 2 11 22 2 11 16 22 7 20 8 7 20 7 6 2 17 16 14 27 2 25 11 22 10 2 10 11 21 2 21 22 20 7 7 22 2 21 7 20 24 11 5 7 2 25 10 11 5 10 2 25 3 21 2 16 17 22 2 10 11 21 2 14 3 20 9 7 21 22 2 21 17 23 20 5 7 2 17 8 2 11 16 5 17 15 7 2 4 27 2 3 16 27 2 15 7 3 16 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1585-131718-0016": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "HEAR AGAN RESEVEDIN THE MOST CONVINCING DEMINSTRACTION OF THE TROGTHAT SUCH AN ADISTION TO THE RE SORSES OF MAN CIND OL WAS CARIS WITH IT OUN SOUSPACTED BANIFIATS VEN FOR HIS ANIMISSE <eos>",
+                    "rec_token": "H E A R <space> A G A N <space> R E S E V E D I N <space> T H E <space> M O S T <space> C O N V I N C I N G <space> D E M I N S T R A C T I O N <space> O F <space> T H E <space> T R O G T H A T <space> S U C H <space> A N <space> A D I S T I O N <space> T O <space> T H E <space> R E <space> S O R S E S <space> O F <space> M A N <space> C I N D <space> O L <space> W A S <space> C A R I S <space> W I T H <space> I T <space> O U N <space> S O U S P A C T E D <space> B A N I F I A T S <space> V E N <space> F O R <space> H I S <space> A N I M I S S E <space> <eos>",
+                    "rec_tokenid": "11 5 7 13 4 7 21 7 9 4 13 5 12 5 25 5 14 10 9 4 6 11 5 4 17 8 12 6 4 19 8 9 25 10 9 19 10 9 21 4 14 5 17 10 9 12 6 13 7 19 6 10 8 9 4 8 20 4 6 11 5 4 6 13 8 21 6 11 7 6 4 12 16 19 11 4 7 9 4 7 14 10 12 6 10 8 9 4 6 8 4 6 11 5 4 13 5 4 12 8 13 12 5 12 4 8 20 4 17 7 9 4 19 10 9 14 4 8 15 4 18 7 12 4 19 7 13 10 12 4 18 10 6 11 4 10 6 4 8 16 9 4 12 8 16 12 23 7 19 6 5 14 4 24 7 9 10 20 10 7 6 12 4 25 5 9 4 20 8 13 4 11 10 12 4 7 9 10 17 10 12 12 5 4 2",
+                    "score": 161.2019500732422,
+                    "shape": [
+                        180,
+                        30
+                    ],
+                    "text": "HERE AGAIN WAS GIVEN A MOST CONVINCING DEMONSTRATION OF THE TRUTH THAT SUCH AN ADDITION TO THE RESOURCES OF MANKIND ALWAYS CARRIES WITH IT UNSUSPECTED BENEFITS EVEN FOR ITS ENEMIES",
+                    "token": "H E R E <space> A G A I N <space> W A S <space> G I V E N <space> A <space> M O S T <space> C O N V I N C I N G <space> D E M O N S T R A T I O N <space> O F <space> T H E <space> T R U T H <space> T H A T <space> S U C H <space> A N <space> A D D I T I O N <space> T O <space> T H E <space> R E S O U R C E S <space> O F <space> M A N K I N D <space> A L W A Y S <space> C A R R I E S <space> W I T H <space> I T <space> U N S U S P E C T E D <space> B E N E F I T S <space> E V E N <space> F O R <space> I T S <space> E N E M I E S",
+                    "tokenid": "10 7 20 7 2 3 9 3 11 16 2 25 3 21 2 9 11 24 7 16 2 3 2 15 17 21 22 2 5 17 16 24 11 16 5 11 16 9 2 6 7 15 17 16 21 22 20 3 22 11 17 16 2 17 8 2 22 10 7 2 22 20 23 22 10 2 22 10 3 22 2 21 23 5 10 2 3 16 2 3 6 6 11 22 11 17 16 2 22 17 2 22 10 7 2 20 7 21 17 23 20 5 7 21 2 17 8 2 15 3 16 13 11 16 6 2 3 14 25 3 27 21 2 5 3 20 20 11 7 21 2 25 11 22 10 2 11 22 2 23 16 21 23 21 18 7 5 22 7 6 2 4 7 16 7 8 11 22 21 2 7 24 7 16 2 8 17 20 2 11 22 21 2 7 16 7 15 11 7 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1585-131718-0017": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "THIS WAS NOT LON NOWIT YUNIVERSALY THE SPEIRTIS SHOWN AND TO DAY A HUNDREDS OF SUTIST THE LECKTRICK AN GAS PROBRS AR YOUNITED UNDER THAT WON MANEDGMENT WHICH DUS NOT FIND IT IMPOSSIBLE TO PONISH ING THE FRENDLY AN PROGRESIVEWAY THE YOUS OF BOTH EILOUOMINAENTSE <eos>",
+                    "rec_token": "T H I S <space> W A S <space> N O T <space> L O N <space> N O W I T <space> Y U N I V E R S A L Y <space> T H E <space> S P E I R T I S <space> S H O W N <space> A N D <space> T O <space> D A Y <space> A <space> H U N D R E D S <space> O F <space> S U T I S T <space> T H E <space> L E C K T R I C K <space> A N <space> G A S <space> P R O B R S <space> A R <space> Y O U N I T E D <space> U N D E R <space> T H A T <space> W O N <space> M A N E D G M E N T <space> W H I C H <space> D U S <space> N O T <space> F I N D <space> I T <space> I M P O S S I B L E <space> T O <space> P O N I S H <space> I N G <space> T H E <space> F R E N D L Y <space> A N <space> P R O G R E S I V E W A Y <space> T H E <space> Y O U S <space> O F <space> B O T H <space> E I L O U O M I N A E N T S E <space> <eos>",
+                    "rec_tokenid": "6 11 10 12 4 18 7 12 4 9 8 6 4 15 8 9 4 9 8 18 10 6 4 22 16 9 10 25 5 13 12 7 15 22 4 6 11 5 4 12 23 5 10 13 6 10 12 4 12 11 8 18 9 4 7 9 14 4 6 8 4 14 7 22 4 7 4 11 16 9 14 13 5 14 12 4 8 20 4 12 16 6 10 12 6 4 6 11 5 4 15 5 19 26 6 13 10 19 26 4 7 9 4 21 7 12 4 23 13 8 24 13 12 4 7 13 4 22 8 16 9 10 6 5 14 4 16 9 14 5 13 4 6 11 7 6 4 18 8 9 4 17 7 9 5 14 21 17 5 9 6 4 18 11 10 19 11 4 14 16 12 4 9 8 6 4 20 10 9 14 4 10 6 4 10 17 23 8 12 12 10 24 15 5 4 6 8 4 23 8 9 10 12 11 4 10 9 21 4 6 11 5 4 20 13 5 9 14 15 22 4 7 9 4 23 13 8 21 13 5 12 10 25 5 18 7 22 4 6 11 5 4 22 8 16 12 4 8 20 4 24 8 6 11 4 5 10 15 8 16 8 17 10 9 7 5 9 6 12 5 4 2",
+                    "score": 222.05784606933594,
+                    "shape": [
+                        255,
+                        30
+                    ],
+                    "text": "THIS WAS NOT LONG NOR UNIVERSALLY THE SPIRIT SHOWN AND TO DAY IN HUNDREDS OF CITIES THE ELECTRIC AND GAS PROPERTIES ARE UNITED UNDER THE ONE MANAGEMENT WHICH DOES NOT FIND IT IMPOSSIBLE TO PUSH IN A FRIENDLY AND PROGRESSIVE WAY THE USE OF BOTH ILLUMINANTS",
+                    "token": "T H I S <space> W A S <space> N O T <space> L O N G <space> N O R <space> U N I V E R S A L L Y <space> T H E <space> S P I R I T <space> S H O W N <space> A N D <space> T O <space> D A Y <space> I N <space> H U N D R E D S <space> O F <space> C I T I E S <space> T H E <space> E L E C T R I C <space> A N D <space> G A S <space> P R O P E R T I E S <space> A R E <space> U N I T E D <space> U N D E R <space> T H E <space> O N E <space> M A N A G E M E N T <space> W H I C H <space> D O E S <space> N O T <space> F I N D <space> I T <space> I M P O S S I B L E <space> T O <space> P U S H <space> I N <space> A <space> F R I E N D L Y <space> A N D <space> P R O G R E S S I V E <space> W A Y <space> T H E <space> U S E <space> O F <space> B O T H <space> I L L U M I N A N T S",
+                    "tokenid": "22 10 11 21 2 25 3 21 2 16 17 22 2 14 17 16 9 2 16 17 20 2 23 16 11 24 7 20 21 3 14 14 27 2 22 10 7 2 21 18 11 20 11 22 2 21 10 17 25 16 2 3 16 6 2 22 17 2 6 3 27 2 11 16 2 10 23 16 6 20 7 6 21 2 17 8 2 5 11 22 11 7 21 2 22 10 7 2 7 14 7 5 22 20 11 5 2 3 16 6 2 9 3 21 2 18 20 17 18 7 20 22 11 7 21 2 3 20 7 2 23 16 11 22 7 6 2 23 16 6 7 20 2 22 10 7 2 17 16 7 2 15 3 16 3 9 7 15 7 16 22 2 25 10 11 5 10 2 6 17 7 21 2 16 17 22 2 8 11 16 6 2 11 22 2 11 15 18 17 21 21 11 4 14 7 2 22 17 2 18 23 21 10 2 11 16 2 3 2 8 20 11 7 16 6 14 27 2 3 16 6 2 18 20 17 9 20 7 21 21 11 24 7 2 25 3 27 2 22 10 7 2 23 21 7 2 17 8 2 4 17 22 10 2 11 14 14 23 15 11 16 3 16 22 21"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1585-131718-0018": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>UTHE MOST CONSPICUWAS EXSAMPLE OF THISS IDANDY OF INTREST IS GEAVENENK NEO YORK ATSELFHF <eos>",
+                    "rec_token": "<blank> U T H E <space> M O S T <space> C O N S P I C U W A S <space> E X S A M P L E <space> O F <space> T H I S S <space> I D A N D Y <space> O F <space> I N T R E S T <space> I S <space> G E A V E N E N K <space> N E O <space> Y O R K <space> A T S E L F H F <space> <eos>",
+                    "rec_tokenid": "0 16 6 11 5 4 17 8 12 6 4 19 8 9 12 23 10 19 16 18 7 12 4 5 28 12 7 17 23 15 5 4 8 20 4 6 11 10 12 12 4 10 14 7 9 14 22 4 8 20 4 10 9 6 13 5 12 6 4 10 12 4 21 5 7 25 5 9 5 9 26 4 9 5 8 4 22 8 13 26 4 7 6 12 5 15 20 11 20 4 2",
+                    "score": 73.64476013183594,
+                    "shape": [
+                        85,
+                        30
+                    ],
+                    "text": "THE MOST CONSPICUOUS EXAMPLE OF THIS IDENTITY OF INTEREST IS GIVEN IN NEW YORK ITSELF",
+                    "token": "T H E <space> M O S T <space> C O N S P I C U O U S <space> E X A M P L E <space> O F <space> T H I S <space> I D E N T I T Y <space> O F <space> I N T E R E S T <space> I S <space> G I V E N <space> I N <space> N E W <space> Y O R K <space> I T S E L F",
+                    "tokenid": "22 10 7 2 15 17 21 22 2 5 17 16 21 18 11 5 23 17 23 21 2 7 26 3 15 18 14 7 2 17 8 2 22 10 11 21 2 11 6 7 16 22 11 22 27 2 17 8 2 11 16 22 7 20 7 21 22 2 11 21 2 9 11 24 7 16 2 11 16 2 16 7 25 2 27 17 20 13 2 11 22 21 7 14 8"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1585-131718-0019": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " SO MUCH FOR THE ERLY ARPOSICTION OFE WHICH THEIR WERPES PLENTY <eos>",
+                    "rec_token": "<space> S O <space> M U C H <space> F O R <space> T H E <space> E R L Y <space> A R P O S I C T I O N <space> O F E <space> W H I C H <space> T H E I R <space> W E R P E S <space> P L E N T Y <space> <eos>",
+                    "rec_tokenid": "4 12 8 4 17 16 19 11 4 20 8 13 4 6 11 5 4 5 13 15 22 4 7 13 23 8 12 10 19 6 10 8 9 4 8 20 5 4 18 11 10 19 11 4 6 11 5 10 13 4 18 5 13 23 5 12 4 23 15 5 9 6 22 4 2",
+                    "score": 55.112125396728516,
+                    "shape": [
+                        58,
+                        30
+                    ],
+                    "text": "SO MUCH FOR THE EARLY OPPOSITION OF WHICH THERE WAS PLENTY",
+                    "token": "S O <space> M U C H <space> F O R <space> T H E <space> E A R L Y <space> O P P O S I T I O N <space> O F <space> W H I C H <space> T H E R E <space> W A S <space> P L E N T Y",
+                    "tokenid": "21 17 2 15 23 5 10 2 8 17 20 2 22 10 7 2 7 3 20 14 27 2 17 18 18 17 21 11 22 11 17 16 2 17 8 2 25 10 11 5 10 2 22 10 7 20 7 2 25 3 21 2 18 14 7 16 22 27"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1585-131718-0020": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "BUT IT MAY BE QUESTIOND WHETHER IN ERSIARS NOT EQUALY TO BEY DRADED WITH ACT IVE OWEOL <eos>",
+                    "rec_token": "B U T <space> I T <space> M A Y <space> B E <space> Q U E S T I O N D <space> W H E T H E R <space> I N <space> E R S I A R S <space> N O T <space> E Q U A L Y <space> T O <space> B E Y <space> D R A D E D <space> W I T H <space> A C T <space> I V E <space> O W E O L <space> <eos>",
+                    "rec_tokenid": "24 16 6 4 10 6 4 17 7 22 4 24 5 4 30 16 5 12 6 10 8 9 14 4 18 11 5 6 11 5 13 4 10 9 4 5 13 12 10 7 13 12 4 9 8 6 4 5 30 16 7 15 22 4 6 8 4 24 5 22 4 14 13 7 14 5 14 4 18 10 6 11 4 7 19 6 4 10 25 5 4 8 18 5 8 15 4 2",
+                    "score": 75.18538665771484,
+                    "shape": [
+                        90,
+                        30
+                    ],
+                    "text": "BUT IT MAY BE QUESTIONED WHETHER INERTIA IS NOT EQUALLY TO BE DREADED WITH ACTIVE ILL WILL",
+                    "token": "B U T <space> I T <space> M A Y <space> B E <space> Q U E S T I O N E D <space> W H E T H E R <space> I N E R T I A <space> I S <space> N O T <space> E Q U A L L Y <space> T O <space> B E <space> D R E A D E D <space> W I T H <space> A C T I V E <space> I L L <space> W I L L",
+                    "tokenid": "4 23 22 2 11 22 2 15 3 27 2 4 7 2 19 23 7 21 22 11 17 16 7 6 2 25 10 7 22 10 7 20 2 11 16 7 20 22 11 3 2 11 21 2 16 17 22 2 7 19 23 3 14 14 27 2 22 17 2 4 7 2 6 20 7 3 6 7 6 2 25 11 22 10 2 3 5 22 11 24 7 2 11 14 14 2 25 11 14 14"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1585-131718-0021": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank>HOF CORS A GRAT MENEY CONTS WERE REATEN AND RATD BAUT WHLEL GANO WR INTRISTPRS ARROWSED THIT WAS NEESARILY EPOTTHATICK <eos>",
+                    "rec_token": "<blank> H O F <space> C O R S <space> A <space> G R A T <space> M E N E Y <space> C O N T S <space> W E R E <space> R E A T E N <space> A N D <space> R A T D <space> B A U T <space> W H L E L <space> G A N O <space> W R <space> I N T R I S T P R S <space> A R R O W S E D <space> T H I T <space> W A S <space> N E E S A R I L Y <space> E P O T T H A T I C K <space> <eos>",
+                    "rec_tokenid": "0 11 8 20 4 19 8 13 12 4 7 4 21 13 7 6 4 17 5 9 5 22 4 19 8 9 6 12 4 18 5 13 5 4 13 5 7 6 5 9 4 7 9 14 4 13 7 6 14 4 24 7 16 6 4 18 11 15 5 15 4 21 7 9 8 4 18 13 4 10 9 6 13 10 12 6 23 13 12 4 7 13 13 8 18 12 5 14 4 6 11 10 6 4 18 7 12 4 9 5 5 12 7 13 10 15 22 4 5 23 8 6 6 11 7 6 10 19 26 4 2",
+                    "score": 98.71869659423828,
+                    "shape": [
+                        121,
+                        30
+                    ],
+                    "text": "OF COURSE A GREAT MANY ACCOUNTS WERE WRITTEN AND READ BUT WHILE GENUINE INTEREST WAS AROUSED IT WAS NECESSARILY APATHETIC",
+                    "token": "O F <space> C O U R S E <space> A <space> G R E A T <space> M A N Y <space> A C C O U N T S <space> W E R E <space> W R I T T E N <space> A N D <space> R E A D <space> B U T <space> W H I L E <space> G E N U I N E <space> I N T E R E S T <space> W A S <space> A R O U S E D <space> I T <space> W A S <space> N E C E S S A R I L Y <space> A P A T H E T I C",
+                    "tokenid": "17 8 2 5 17 23 20 21 7 2 3 2 9 20 7 3 22 2 15 3 16 27 2 3 5 5 17 23 16 22 21 2 25 7 20 7 2 25 20 11 22 22 7 16 2 3 16 6 2 20 7 3 6 2 4 23 22 2 25 10 11 14 7 2 9 7 16 23 11 16 7 2 11 16 22 7 20 7 21 22 2 25 3 21 2 3 20 17 23 21 7 6 2 11 22 2 25 3 21 2 16 7 5 7 21 21 3 20 11 14 27 2 3 18 3 22 10 7 22 11 5"
+                }
+            ],
+            "utt2spk": ""
+        },
+        "1585-131718-0022": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": "<blank> WHEY GAGT IUT AS E GREY BARCON AND ONLY PADEOS MORE SOME DAME N THE BLISTERN WADEGAGEHE <eos>",
+                    "rec_token": "<blank> <space> W H E Y <space> G A G T <space> I U T <space> A S <space> E <space> G R E Y <space> B A R C O N <space> A N D <space> O N L Y <space> P A D E O S <space> M O R E <space> S O M E <space> D A M E <space> N <space> T H E <space> B L I S T E R N <space> W A D E G A G E H E <space> <eos>",
+                    "rec_tokenid": "0 4 18 11 5 22 4 21 7 21 6 4 10 16 6 4 7 12 4 5 4 21 13 5 22 4 24 7 13 19 8 9 4 7 9 14 4 8 9 15 22 4 23 7 14 5 8 12 4 17 8 13 5 4 12 8 17 5 4 14 7 17 5 4 9 4 6 11 5 4 24 15 10 12 6 5 13 9 4 18 7 14 5 21 7 21 5 11 5 4 2",
+                    "score": 73.168701171875,
+                    "shape": [
+                        87,
+                        30
+                    ],
+                    "text": "WE GOT IT AT A GREAT BARGAIN AND ONLY PAID A SMALL SUM DOWN AND THE BALANCE ON MORTGAGE",
+                    "token": "W E <space> G O T <space> I T <space> A T <space> A <space> G R E A T <space> B A R G A I N <space> A N D <space> O N L Y <space> P A I D <space> A <space> S M A L L <space> S U M <space> D O W N <space> A N D <space> T H E <space> B A L A N C E <space> O N <space> M O R T G A G E",
+                    "tokenid": "25 7 2 9 17 22 2 11 22 2 3 22 2 3 2 9 20 7 3 22 2 4 3 20 9 3 11 16 2 3 16 6 2 17 16 14 27 2 18 3 11 6 2 3 2 21 15 3 14 14 2 21 23 15 2 6 17 25 16 2 3 16 6 2 22 10 7 2 4 3 14 3 16 5 7 2 17 16 2 15 17 20 22 9 3 9 7"
+                }
+            ],
+            "utt2spk": ""
+        }
+    }
+}
